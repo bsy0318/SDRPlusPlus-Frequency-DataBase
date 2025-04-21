@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import subprocess
 import datetime
 import json
 
@@ -53,17 +52,3 @@ with open('frequency_manager_list.json', 'w', encoding='utf-8') as f:
 
 print("JSON 파일이 성공적으로 저장되었습니다.")
 print("Frequency Manager에서 Import하여 사용하세요.")
-
-# Step 5: GitHub에 파일 커밋
-# 커밋 메시지는 [Update] 현재시간 frequency_manager_list.json 형식으로 작성
-repo_path="git@github.com:bsy0317/SDRPlusPlus-Frequency-DataBase.git"
-commit_msg = f"[Update] {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} frequency_manager_list.json"
-# 만약 SDRPlusPlus-Frequency-DataBase 폴더가 있다면 삭제
-subprocess.run(["rm", "-rf", "SDRPlusPlus-Frequency-DataBase"])
-subprocess.run(["git", "clone", repo_path])
-subprocess.run(["cp", "frequency_manager_list.json", "SDRPlusPlus-Frequency-DataBase"])
-# subprocess.run(["rm", "frequency_manager_list.json"])
-subprocess.run(["git", "add", "."], cwd="SDRPlusPlus-Frequency-DataBase")
-subprocess.run(["git", "commit", "-m", commit_msg], cwd="SDRPlusPlus-Frequency-DataBase")
-subprocess.run(["git", "push"], cwd="SDRPlusPlus-Frequency-DataBase")
-print("GitHub에 파일이 성공적으로 업로드되었습니다.")
