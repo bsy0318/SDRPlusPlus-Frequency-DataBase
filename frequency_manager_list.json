@@ -1290,11 +1290,6 @@
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC": {
-            "bandwidth": 150000.0,
-            "frequency": 5850000.0,
-            "mode": 2
-        },
         "WRMI Truth2Ponder with B": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
@@ -1805,6 +1800,26 @@
             "frequency": 5935000.0,
             "mode": 2
         },
+        "Shiokaze(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
         "Radio Deegaanka Soomaalida": {
             "bandwidth": 150000.0,
             "frequency": 5940000.0,
@@ -1880,7 +1895,7 @@
             "frequency": 5950000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(1)": {
+        "WRMI The Mighty KBC": {
             "bandwidth": 150000.0,
             "frequency": 5950000.0,
             "mode": 2
@@ -1935,7 +1950,7 @@
             "frequency": 5950000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(2)": {
+        "WRMI The Mighty KBC(1)": {
             "bandwidth": 150000.0,
             "frequency": 5950000.0,
             "mode": 2
@@ -1953,31 +1968,6 @@
         "Emisoras Pio XII": {
             "bandwidth": 150000.0,
             "frequency": 5952000.0,
-            "mode": 2
-        },
-        "Shiokaze(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 5955000.0,
-            "mode": 2
-        },
-        "Shiokaze(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 5955000.0,
-            "mode": 2
-        },
-        "Shiokaze(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 5955000.0,
-            "mode": 2
-        },
-        "Shiokaze(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 5955000.0,
-            "mode": 2
-        },
-        "Shiokaze(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 5955000.0,
             "mode": 2
         },
         "China Radio International": {
@@ -2040,6 +2030,11 @@
             "frequency": 5965000.0,
             "mode": 2
         },
+        "Shiokaze(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 5965000.0,
+            "mode": 2
+        },
         "Shiokaze(6)": {
             "bandwidth": 150000.0,
             "frequency": 5965000.0,
@@ -2056,11 +2051,6 @@
             "mode": 2
         },
         "Shiokaze(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 5965000.0,
-            "mode": 2
-        },
-        "Shiokaze(10)": {
             "bandwidth": 150000.0,
             "frequency": 5965000.0,
             "mode": 2
@@ -2175,7 +2165,7 @@
             "frequency": 5980000.0,
             "mode": 2
         },
-        "Shiokaze(11)": {
+        "Shiokaze(10)": {
             "bandwidth": 150000.0,
             "frequency": 5980000.0,
             "mode": 2
@@ -2625,31 +2615,6 @@
             "frequency": 6030000.0,
             "mode": 2
         },
-        "Shiokaze(12)": {
-            "bandwidth": 150000.0,
-            "frequency": 6035000.0,
-            "mode": 2
-        },
-        "Shiokaze(13)": {
-            "bandwidth": 150000.0,
-            "frequency": 6035000.0,
-            "mode": 2
-        },
-        "Shiokaze(14)": {
-            "bandwidth": 150000.0,
-            "frequency": 6035000.0,
-            "mode": 2
-        },
-        "Shiokaze(15)": {
-            "bandwidth": 150000.0,
-            "frequency": 6035000.0,
-            "mode": 2
-        },
-        "Shiokaze(16)": {
-            "bandwidth": 150000.0,
-            "frequency": 6035000.0,
-            "mode": 2
-        },
         "Bhutan BS": {
             "bandwidth": 150000.0,
             "frequency": 6035000.0,
@@ -2688,6 +2653,31 @@
         "PBS Yunnan 'Voice of Sha(1)": {
             "bandwidth": 150000.0,
             "frequency": 6035000.0,
+            "mode": 2
+        },
+        "Shiokaze(11)": {
+            "bandwidth": 150000.0,
+            "frequency": 6040000.0,
+            "mode": 2
+        },
+        "Shiokaze(12)": {
+            "bandwidth": 150000.0,
+            "frequency": 6040000.0,
+            "mode": 2
+        },
+        "Shiokaze(13)": {
+            "bandwidth": 150000.0,
+            "frequency": 6040000.0,
+            "mode": 2
+        },
+        "Shiokaze(14)": {
+            "bandwidth": 150000.0,
+            "frequency": 6040000.0,
+            "mode": 2
+        },
+        "Shiokaze(15)": {
+            "bandwidth": 150000.0,
+            "frequency": 6040000.0,
             "mode": 2
         },
         "China Radio International(19)": {
@@ -3190,6 +3180,11 @@
             "frequency": 6070000.0,
             "mode": 2
         },
+        "Shiokaze(16)": {
+            "bandwidth": 150000.0,
+            "frequency": 6070000.0,
+            "mode": 2
+        },
         "China Radio International(24)": {
             "bandwidth": 150000.0,
             "frequency": 6075000.0,
@@ -3263,11 +3258,6 @@
         "Radio MI AMIGO International": {
             "bandwidth": 150000.0,
             "frequency": 6085000.0,
-            "mode": 2
-        },
-        "Shiokaze(17)": {
-            "bandwidth": 150000.0,
-            "frequency": 6090000.0,
             "mode": 2
         },
         "CARIBBEAN BEACON (UNIVERSITY NETW": {
@@ -3710,6 +3700,16 @@
             "frequency": 6135000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.": {
+            "bandwidth": 150000.0,
+            "frequency": 6135000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 6135000.0,
+            "mode": 2
+        },
         "China Radio International(34)": {
             "bandwidth": 150000.0,
             "frequency": 6140000.0,
@@ -3733,6 +3733,11 @@
         "Radio Onda": {
             "bandwidth": 150000.0,
             "frequency": 6140000.0,
+            "mode": 2
+        },
+        "Shiokaze(17)": {
+            "bandwidth": 150000.0,
+            "frequency": 6145000.0,
             "mode": 2
         },
         "CNR 1 Voice of China(60)": {
@@ -3763,31 +3768,6 @@
         "Radio Taiwan Int.(10)": {
             "bandwidth": 150000.0,
             "frequency": 6145000.0,
-            "mode": 2
-        },
-        "Shiokaze(18)": {
-            "bandwidth": 150000.0,
-            "frequency": 6150000.0,
-            "mode": 2
-        },
-        "Shiokaze(19)": {
-            "bandwidth": 150000.0,
-            "frequency": 6150000.0,
-            "mode": 2
-        },
-        "Shiokaze(20)": {
-            "bandwidth": 150000.0,
-            "frequency": 6150000.0,
-            "mode": 2
-        },
-        "Shiokaze(21)": {
-            "bandwidth": 150000.0,
-            "frequency": 6150000.0,
-            "mode": 2
-        },
-        "Shiokaze(22)": {
-            "bandwidth": 150000.0,
-            "frequency": 6150000.0,
             "mode": 2
         },
         "BBC(9)": {
@@ -3938,6 +3918,31 @@
         "WBCQ World of Radio": {
             "bandwidth": 150000.0,
             "frequency": 6160000.0,
+            "mode": 2
+        },
+        "Shiokaze(18)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(19)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(20)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(21)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(22)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
             "mode": 2
         },
         "China Radio International(40)": {
@@ -5270,6 +5275,11 @@
             "frequency": 7290000.0,
             "mode": 2
         },
+        "Shiokaze(23)": {
+            "bandwidth": 150000.0,
+            "frequency": 7295000.0,
+            "mode": 2
+        },
         "BBC(14)": {
             "bandwidth": 150000.0,
             "frequency": 7295000.0,
@@ -5393,11 +5403,6 @@
         "JRC Radio Tamazui": {
             "bandwidth": 150000.0,
             "frequency": 7315000.0,
-            "mode": 2
-        },
-        "Shiokaze(23)": {
-            "bandwidth": 150000.0,
-            "frequency": 7320000.0,
             "mode": 2
         },
         "China Radio International(80)": {
@@ -5970,6 +5975,21 @@
             "frequency": 7425000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 7425000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 7425000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 7425000.0,
+            "mode": 2
+        },
         "China Radio International(114)": {
             "bandwidth": 150000.0,
             "frequency": 7430000.0,
@@ -6035,12 +6055,12 @@
             "frequency": 7440000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.": {
+        "Radio New Zealand Int.(5)": {
             "bandwidth": 150000.0,
             "frequency": 7440000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(1)": {
+        "Radio New Zealand Int.(6)": {
             "bandwidth": 150000.0,
             "frequency": 7440000.0,
             "mode": 2
@@ -6303,6 +6323,11 @@
         "Numbers Station 2(1)": {
             "bandwidth": 150000.0,
             "frequency": 7553000.0,
+            "mode": 2
+        },
+        "WRMI The Mighty KBC(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 7570000.0,
             "mode": 2
         },
         "WRMI RAE ARGENTINA TO THE World": {
@@ -7760,11 +7785,6 @@
             "frequency": 9470000.0,
             "mode": 2
         },
-        "Furusato no kaze(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 9470000.0,
-            "mode": 2
-        },
         "Radio Cairo(3)": {
             "bandwidth": 150000.0,
             "frequency": 9470000.0,
@@ -7791,6 +7811,11 @@
             "mode": 2
         },
         "PBS Xinjiang(14)": {
+            "bandwidth": 150000.0,
+            "frequency": 9470000.0,
+            "mode": 2
+        },
+        "RBS  Voice of the Riviva": {
             "bandwidth": 150000.0,
             "frequency": 9470000.0,
             "mode": 2
@@ -9240,7 +9265,7 @@
             "frequency": 9685000.0,
             "mode": 2
         },
-        "Furusato no kaze(4)": {
+        "Furusato no kaze(3)": {
             "bandwidth": 150000.0,
             "frequency": 9685000.0,
             "mode": 2
@@ -9305,12 +9330,22 @@
             "frequency": 9700000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(2)": {
+        "Radio New Zealand Int.(7)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(3)": {
+        "Radio New Zealand Int.(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(10)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
@@ -9325,12 +9360,12 @@
             "frequency": 9700000.0,
             "mode": 2
         },
-        "Furusato no kaze(5)": {
+        "Furusato no kaze(4)": {
             "bandwidth": 150000.0,
             "frequency": 9705000.0,
             "mode": 2
         },
-        "Furusato no kaze(6)": {
+        "Furusato no kaze(5)": {
             "bandwidth": 150000.0,
             "frequency": 9705000.0,
             "mode": 2
@@ -9455,7 +9490,7 @@
             "frequency": 9720000.0,
             "mode": 2
         },
-        "Furusato no kaze(7)": {
+        "Furusato no kaze(6)": {
             "bandwidth": 150000.0,
             "frequency": 9720000.0,
             "mode": 2
@@ -9905,7 +9940,7 @@
             "frequency": 9780000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(4)": {
+        "Radio New Zealand Int.(11)": {
             "bandwidth": 150000.0,
             "frequency": 9780000.0,
             "mode": 2
@@ -10651,16 +10686,6 @@
             "mode": 2
         },
         "Radio Taiwan Int.(34)": {
-            "bandwidth": 150000.0,
-            "frequency": 9900000.0,
-            "mode": 2
-        },
-        "Radio Free Asia(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 9900000.0,
-            "mode": 2
-        },
-        "Radio Free Asia(2)": {
             "bandwidth": 150000.0,
             "frequency": 9900000.0,
             "mode": 2
@@ -12315,12 +12340,17 @@
             "frequency": 11685000.0,
             "mode": 2
         },
-        "China Radio International(293)": {
+        "CNR 8 Etnhic Minority Radio(21)": {
             "bandwidth": 150000.0,
-            "frequency": 11690000.0,
+            "frequency": 11685000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(5)": {
+        "CNR 8 Etnhic Minority Radio(22)": {
+            "bandwidth": 150000.0,
+            "frequency": 11685000.0,
+            "mode": 2
+        },
+        "China Radio International(293)": {
             "bandwidth": 150000.0,
             "frequency": 11690000.0,
             "mode": 2
@@ -12336,6 +12366,11 @@
             "mode": 2
         },
         "Scandinav.Weekend R.(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 11690000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(12)": {
             "bandwidth": 150000.0,
             "frequency": 11690000.0,
             "mode": 2
@@ -12510,12 +12545,7 @@
             "frequency": 11725000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 11725000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(7)": {
+        "Radio New Zealand Int.(13)": {
             "bandwidth": 150000.0,
             "frequency": 11725000.0,
             "mode": 2
@@ -12985,22 +13015,12 @@
             "frequency": 11805000.0,
             "mode": 2
         },
-        "Radio Free Asia(3)": {
+        "Radio Free Asia(1)": {
             "bandwidth": 150000.0,
             "frequency": 11805000.0,
             "mode": 2
         },
         "All India Radio(11)": {
-            "bandwidth": 150000.0,
-            "frequency": 11810000.0,
-            "mode": 2
-        },
-        "CNR 8 Etnhic Minority Radio(21)": {
-            "bandwidth": 150000.0,
-            "frequency": 11810000.0,
-            "mode": 2
-        },
-        "CNR 8 Etnhic Minority Radio(22)": {
             "bandwidth": 150000.0,
             "frequency": 11810000.0,
             "mode": 2
@@ -13016,6 +13036,16 @@
             "mode": 2
         },
         "CNR 8 Etnhic Minority Radio(25)": {
+            "bandwidth": 150000.0,
+            "frequency": 11810000.0,
+            "mode": 2
+        },
+        "CNR 8 Etnhic Minority Radio(26)": {
+            "bandwidth": 150000.0,
+            "frequency": 11810000.0,
+            "mode": 2
+        },
+        "CNR 8 Etnhic Minority Radio(27)": {
             "bandwidth": 150000.0,
             "frequency": 11810000.0,
             "mode": 2
@@ -13505,7 +13535,7 @@
             "frequency": 11885000.0,
             "mode": 2
         },
-        "Radio Free Asia(4)": {
+        "Radio Free Asia(2)": {
             "bandwidth": 150000.0,
             "frequency": 11885000.0,
             "mode": 2
@@ -15340,11 +15370,6 @@
             "frequency": 13690000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 13690000.0,
-            "mode": 2
-        },
         "Radio Romania Int.  Xhe E(2)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
@@ -15863,16 +15888,6 @@
         "Radio France Int.(17)": {
             "bandwidth": 150000.0,
             "frequency": 13835000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 13840000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 13840000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(112)": {
@@ -16755,12 +16770,12 @@
             "frequency": 15245000.0,
             "mode": 2
         },
-        "Radio Free Asia(5)": {
+        "Radio Free Asia(3)": {
             "bandwidth": 150000.0,
             "frequency": 15245000.0,
             "mode": 2
         },
-        "Radio Free Asia(6)": {
+        "Radio Free Asia(4)": {
             "bandwidth": 150000.0,
             "frequency": 15245000.0,
             "mode": 2
@@ -17705,7 +17720,7 @@
             "frequency": 15475000.0,
             "mode": 2
         },
-        "Furusato no kaze(8)": {
+        "Furusato no kaze(7)": {
             "bandwidth": 150000.0,
             "frequency": 15475000.0,
             "mode": 2
@@ -18450,12 +18465,12 @@
             "frequency": 15720000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(11)": {
+        "Radio New Zealand Int.(14)": {
             "bandwidth": 150000.0,
             "frequency": 15720000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(12)": {
+        "Radio New Zealand Int.(15)": {
             "bandwidth": 150000.0,
             "frequency": 15720000.0,
             "mode": 2
@@ -19575,6 +19590,31 @@
             "frequency": 17660000.0,
             "mode": 2
         },
+        "CNR 8 Etnhic Minority Radio(28)": {
+            "bandwidth": 150000.0,
+            "frequency": 17665000.0,
+            "mode": 2
+        },
+        "CNR 8 Etnhic Minority Radio(29)": {
+            "bandwidth": 150000.0,
+            "frequency": 17665000.0,
+            "mode": 2
+        },
+        "CNR 8 Etnhic Minority Radio(30)": {
+            "bandwidth": 150000.0,
+            "frequency": 17665000.0,
+            "mode": 2
+        },
+        "CNR 8 Etnhic Minority Radio(31)": {
+            "bandwidth": 150000.0,
+            "frequency": 17665000.0,
+            "mode": 2
+        },
+        "CNR 8 Etnhic Minority Radio(32)": {
+            "bandwidth": 150000.0,
+            "frequency": 17665000.0,
+            "mode": 2
+        },
         "China Radio International(537)": {
             "bandwidth": 150000.0,
             "frequency": 17670000.0,
@@ -19600,7 +19640,7 @@
             "frequency": 17670000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(13)": {
+        "Radio New Zealand Int.(16)": {
             "bandwidth": 150000.0,
             "frequency": 17675000.0,
             "mode": 2
@@ -20115,17 +20155,22 @@
             "frequency": 17790000.0,
             "mode": 2
         },
-        "WRMI Radio FOR PEACE International(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 17790000.0,
-            "mode": 2
-        },
-        "CNR 17 Kazakh Radio(23)": {
+        "CNR 8 Etnhic Minority Radio(33)": {
             "bandwidth": 150000.0,
             "frequency": 17800000.0,
             "mode": 2
         },
-        "PBS Xinjiang(39)": {
+        "CNR 8 Etnhic Minority Radio(34)": {
+            "bandwidth": 150000.0,
+            "frequency": 17800000.0,
+            "mode": 2
+        },
+        "CNR 8 Etnhic Minority Radio(35)": {
+            "bandwidth": 150000.0,
+            "frequency": 17800000.0,
+            "mode": 2
+        },
+        "CNR 8 Etnhic Minority Radio(36)": {
             "bandwidth": 150000.0,
             "frequency": 17800000.0,
             "mode": 2
