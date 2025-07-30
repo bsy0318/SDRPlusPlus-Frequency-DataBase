@@ -145,17 +145,7 @@
             "frequency": 3900000.0,
             "mode": 2
         },
-        "North Korean Jamming": {
-            "bandwidth": 150000.0,
-            "frequency": 3910000.0,
-            "mode": 2
-        },
         "ReflectionsEurope": {
-            "bandwidth": 150000.0,
-            "frequency": 3910000.0,
-            "mode": 2
-        },
-        "Voice of The People(1)": {
             "bandwidth": 150000.0,
             "frequency": 3910000.0,
             "mode": 2
@@ -183,16 +173,6 @@
         "Radio NIKKEI 1(3)": {
             "bandwidth": 150000.0,
             "frequency": 3925000.0,
-            "mode": 2
-        },
-        "North Korean Jamming(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 3930000.0,
-            "mode": 2
-        },
-        "Voice of The People(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 3930000.0,
             "mode": 2
         },
         "Radio Vanuatu": {
@@ -275,17 +255,7 @@
             "frequency": 3978000.0,
             "mode": 2
         },
-        "North Korean Jamming(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 3980000.0,
-            "mode": 2
-        },
         "CNR 2 Business Radio": {
-            "bandwidth": 150000.0,
-            "frequency": 3985000.0,
-            "mode": 2
-        },
-        "Echo of Hope-voh": {
             "bandwidth": 150000.0,
             "frequency": 3985000.0,
             "mode": 2
@@ -458,21 +428,6 @@
         "Slot Machine(2)": {
             "bandwidth": 150000.0,
             "frequency": 4292000.0,
-            "mode": 2
-        },
-        "North Korean Jamming(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 4450000.0,
-            "mode": 2
-        },
-        "Voice of The People(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 4450000.0,
-            "mode": 2
-        },
-        "Voice of The People(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 4560000.0,
             "mode": 2
         },
         "CNR 1 Voice of China": {
@@ -740,29 +695,9 @@
             "frequency": 4840000.0,
             "mode": 2
         },
-        "North Korean Jamming(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 4880000.0,
-            "mode": 2
-        },
-        "Echo of Hope-voh(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 4885000.0,
-            "mode": 2
-        },
-        "North Korean Jamming(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 4885000.0,
-            "mode": 2
-        },
         "Radio Clube Do Para": {
             "bandwidth": 150000.0,
             "frequency": 4885000.0,
-            "mode": 2
-        },
-        "North Korean Jamming(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 4890000.0,
             "mode": 2
         },
         "Haixia zhi Sheng (VO Stra": {
@@ -1005,27 +940,12 @@
             "frequency": 5010000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV": {
+        "WRMI Classic Redneck Rad": {
             "bandwidth": 150000.0,
             "frequency": 5010000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis": {
-            "bandwidth": 150000.0,
-            "frequency": 5010000.0,
-            "mode": 2
-        },
-        "WRMI R.Slovakia Int.(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 5010000.0,
-            "mode": 2
-        },
-        "Radio Prage(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 5010000.0,
-            "mode": 2
-        },
-        "WRMI The Overcomer Minis(1)": {
+        "WRMI Classic Redneck Rad(1)": {
             "bandwidth": 150000.0,
             "frequency": 5010000.0,
             "mode": 2
@@ -1095,7 +1015,7 @@
             "frequency": 5050000.0,
             "mode": 2
         },
-        "WRMI THE OVERCOMER MINISTRY": {
+        "WRMI Classic Redneck Rad(2)": {
             "bandwidth": 150000.0,
             "frequency": 5050000.0,
             "mode": 2
@@ -1140,12 +1060,12 @@
             "frequency": 5780000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(2)": {
+        "WRMI Classic Redneck Rad(3)": {
             "bandwidth": 150000.0,
             "frequency": 5800000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(1)": {
+        "WRMI Classic Redneck Rad(4)": {
             "bandwidth": 150000.0,
             "frequency": 5800000.0,
             "mode": 2
@@ -1160,7 +1080,7 @@
             "frequency": 5800000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.(2)": {
+        "WRMI R.Slovakia Int.(1)": {
             "bandwidth": 150000.0,
             "frequency": 5800000.0,
             "mode": 2
@@ -1205,12 +1125,17 @@
             "frequency": 5800000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.(3)": {
+        "WRMI Classic Redneck Rad(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 5800000.0,
+            "mode": 2
+        },
+        "WRMI R.Slovakia Int.(2)": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.(4)": {
+        "WRMI R.Slovakia Int.(3)": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
@@ -1300,7 +1225,7 @@
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(3)": {
+        "WRMI Classic Redneck Rad(6)": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
@@ -1375,7 +1300,7 @@
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(4)": {
+        "WRMI Classic Redneck Rad(7)": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
@@ -1420,7 +1345,12 @@
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(5)": {
+        "WRMI Bible for Chinese": {
+            "bandwidth": 150000.0,
+            "frequency": 5850000.0,
+            "mode": 2
+        },
+        "WRN R.Slovakia Int.": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
@@ -1445,12 +1375,12 @@
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(6)": {
+        "WRMI Classic Redneck Rad(8)": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.(5)": {
+        "WRMI R.Slovakia Int.(4)": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
@@ -1675,7 +1605,7 @@
             "frequency": 5920000.0,
             "mode": 2
         },
-        "North Korean Jamming(7)": {
+        "North Korean Jamming": {
             "bandwidth": 150000.0,
             "frequency": 5920000.0,
             "mode": 2
@@ -1940,32 +1870,12 @@
             "frequency": 5950000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad": {
+        "WRMI Classic Redneck Rad(9)": {
             "bandwidth": 150000.0,
             "frequency": 5950000.0,
             "mode": 2
         },
-        "WRMI Cruisin' the Decade": {
-            "bandwidth": 150000.0,
-            "frequency": 5950000.0,
-            "mode": 2
-        },
-        "WRMI Your Weekend Show": {
-            "bandwidth": 150000.0,
-            "frequency": 5950000.0,
-            "mode": 2
-        },
-        "WRMI The Mighty KBC(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 5950000.0,
-            "mode": 2
-        },
-        "WRMI Wave Scan(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 5950000.0,
-            "mode": 2
-        },
-        "WRMI VORW Radio Internat(2)": {
+        "WRMI Classic Redneck Rad(10)": {
             "bandwidth": 150000.0,
             "frequency": 5950000.0,
             "mode": 2
@@ -2295,16 +2205,6 @@
             "frequency": 5995000.0,
             "mode": 2
         },
-        "Echo of Hope-voh(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 5995000.0,
-            "mode": 2
-        },
-        "North Korean Jamming(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 5995000.0,
-            "mode": 2
-        },
         "Radio Mali": {
             "bandwidth": 150000.0,
             "frequency": 5995000.0,
@@ -2465,7 +2365,7 @@
             "frequency": 6015000.0,
             "mode": 2
         },
-        "North Korean Jamming(9)": {
+        "North Korean Jamming(1)": {
             "bandwidth": 150000.0,
             "frequency": 6015000.0,
             "mode": 2
@@ -4230,16 +4130,6 @@
             "frequency": 6230000.0,
             "mode": 2
         },
-        "Echo of Hope-voh(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 6250000.0,
-            "mode": 2
-        },
-        "North Korean Jamming(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 6250000.0,
-            "mode": 2
-        },
         "Slot Machine(3)": {
             "bandwidth": 150000.0,
             "frequency": 6251000.0,
@@ -4270,16 +4160,6 @@
             "frequency": 6340000.0,
             "mode": 2
         },
-        "Echo of Hope-voh(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 6350000.0,
-            "mode": 2
-        },
-        "North Korean Jamming(11)": {
-            "bandwidth": 150000.0,
-            "frequency": 6350000.0,
-            "mode": 2
-        },
         "SOH Xi Wang Zhi Sheng(5)": {
             "bandwidth": 150000.0,
             "frequency": 6370000.0,
@@ -4298,26 +4178,6 @@
         "Slot Machine(5)": {
             "bandwidth": 150000.0,
             "frequency": 6446000.0,
-            "mode": 2
-        },
-        "North Korean Jamming(12)": {
-            "bandwidth": 150000.0,
-            "frequency": 6520000.0,
-            "mode": 2
-        },
-        "Voice of The People(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 6520000.0,
-            "mode": 2
-        },
-        "North Korean Jamming(13)": {
-            "bandwidth": 150000.0,
-            "frequency": 6600000.0,
-            "mode": 2
-        },
-        "Voice of The People(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 6600000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(7)": {
@@ -6325,7 +6185,7 @@
             "frequency": 7553000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(2)": {
+        "WRMI The Mighty KBC(1)": {
             "bandwidth": 150000.0,
             "frequency": 7570000.0,
             "mode": 2
@@ -6345,27 +6205,17 @@
             "frequency": 7570000.0,
             "mode": 2
         },
-        "WRMI THE OVERCOMER MINISTRY(1)": {
+        "WRMI Classic Redneck Rad(11)": {
             "bandwidth": 150000.0,
             "frequency": 7570000.0,
             "mode": 2
         },
-        "WRMI THE OVERCOMER MINISTRY(2)": {
+        "WRMI Classic Redneck Rad(12)": {
             "bandwidth": 150000.0,
             "frequency": 7570000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 7570000.0,
-            "mode": 2
-        },
-        "WRMI WRN Polish Radio Ex": {
-            "bandwidth": 150000.0,
-            "frequency": 7570000.0,
-            "mode": 2
-        },
-        "WRMI Hobart Radio Intern(1)": {
+        "WRMI Supreme Master TV": {
             "bandwidth": 150000.0,
             "frequency": 7570000.0,
             "mode": 2
@@ -6415,27 +6265,12 @@
             "frequency": 7645000.0,
             "mode": 2
         },
-        "Echo of Hope-voh(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 7720000.0,
-            "mode": 2
-        },
         "SOH Xi Wang Zhi Sheng(21)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(22)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI R.Slovakia Int.(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI R.Slovakia Int.(7)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -6450,7 +6285,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(3)": {
+        "WRMI The Mighty KBC(2)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -6475,7 +6310,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.(8)": {
+        "WRMI R.Slovakia Int.(5)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -6490,17 +6325,17 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(3)": {
+        "WRMI Supreme Master TV(1)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI THE OVERCOMER MINISTRY(3)": {
+        "WRMI Classic Redneck Rad(13)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(4)": {
+        "WRMI Supreme Master TV(2)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -6510,7 +6345,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI THE OVERCOMER MINISTRY(4)": {
+        "WRMI Classic Redneck Rad(14)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -6520,7 +6355,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(5)": {
+        "WRMI Supreme Master TV(3)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -6540,7 +6375,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Your Weekend Show(1)": {
+        "WRMI Your Weekend Show": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -6560,7 +6395,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(6)": {
+        "WRMI Wave Scan(5)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -6575,7 +6410,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(6)": {
+        "WRMI Supreme Master TV(4)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -6583,11 +6418,6 @@
         "SOH Xi Wang Zhi Sheng(23)": {
             "bandwidth": 150000.0,
             "frequency": 7750000.0,
-            "mode": 2
-        },
-        "WRMI RAE ARGENTINA TO THE World(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 7780000.0,
             "mode": 2
         },
         "WRMI ALAMEDA BIBLE FELOWSHIP": {
@@ -6625,7 +6455,7 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(7)": {
+        "WRMI Wave Scan(6)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -6635,12 +6465,12 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(7)": {
+        "WRMI Classic Redneck Rad(15)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(8)": {
+        "WRMI Wave Scan(7)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -6665,52 +6495,22 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(8)": {
+        "WRMI Classic Redneck Rad(16)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI Frecuencia al Dia(3)": {
+        "WRMI Bible Fellowship": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(9)": {
+        "WRMI The Mighty KBC(3)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI Backroads Radio Sho": {
-            "bandwidth": 150000.0,
-            "frequency": 7780000.0,
-            "mode": 2
-        },
-        "WRMI La Rosa de Tokio(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 7780000.0,
-            "mode": 2
-        },
-        "WRMI Yeshua Messiah Mini": {
-            "bandwidth": 150000.0,
-            "frequency": 7780000.0,
-            "mode": 2
-        },
-        "WRMI Shortwave Radiogram(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 7780000.0,
-            "mode": 2
-        },
-        "WRMI Wave Scan(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 7780000.0,
-            "mode": 2
-        },
-        "WRMI The Overcomer Minis(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 7780000.0,
-            "mode": 2
-        },
-        "WRMI The Mighty KBC(4)": {
+        "WRMI OTH Radio(1)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -6720,7 +6520,12 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(10)": {
+        "WRMI Shortwave Radiogram(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 7780000.0,
+            "mode": 2
+        },
+        "WRMI Classic Redneck Rad(17)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -7180,7 +6985,7 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(11)": {
+        "WRMI Wave Scan(8)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -7215,7 +7020,7 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(12)": {
+        "WRMI Wave Scan(9)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -7250,32 +7055,42 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(11)": {
+        "WRMI Classic Redneck Rad(18)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI OTH Radio(1)": {
+        "WRMI OTH Radio(2)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(12)": {
+        "WRMI Classic Redneck Rad(19)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(13)": {
+        "WRMI Classic Redneck Rad(20)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(7)": {
+        "WRMI E Bible Fellowship": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(14)": {
+        "WRN R.Slovakia Int.(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9395000.0,
+            "mode": 2
+        },
+        "WRMI Supreme Master TV(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 9395000.0,
+            "mode": 2
+        },
+        "WRMI Classic Redneck Rad(21)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -7295,7 +7110,7 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI OTH Radio(2)": {
+        "WRMI OTH Radio(3)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -7650,82 +7465,57 @@
             "frequency": 9455000.0,
             "mode": 2
         },
-        "Furusato no kaze(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 9455000.0,
-            "mode": 2
-        },
         "Nippon no Kaze'il bon ue(3)": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI Legends(5)": {
+        "Furusato no kaze(2)": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(5)": {
+        "WRMI E Bible Fellowship(1)": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI Legends(6)": {
+        "WRMI Classic Redneck Rad(22)": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI Truth2Ponder": {
+        "WRMI VOSR Int.": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI Legends(7)": {
+        "WRMI Christian Amer Mini": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(8)": {
+        "WRMI WRN NHK World Radio": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI Family Radio": {
+        "WRMI Classic Redneck Rad(23)": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(15)": {
+        "WRMI Classic Redneck Rad(24)": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI Walking in Power(4)": {
+        "WRMI RAE ARGENTINA TO THE World(2)": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI WRN Israel Radio": {
-            "bandwidth": 150000.0,
-            "frequency": 9455000.0,
-            "mode": 2
-        },
-        "WRMI Wave Scan(13)": {
-            "bandwidth": 150000.0,
-            "frequency": 9455000.0,
-            "mode": 2
-        },
-        "WRMI WRN Radio Prague": {
-            "bandwidth": 150000.0,
-            "frequency": 9455000.0,
-            "mode": 2
-        },
-        "WRMI Supreme Master TV(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 9455000.0,
-            "mode": 2
-        },
-        "WRMI The Overcomer Minis(16)": {
+        "WRMI VORW Radio International": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
@@ -10885,7 +10675,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Walking in Power(5)": {
+        "WRMI Walking in Power(4)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -10940,7 +10730,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI La Rosa de Tokio(3)": {
+        "WRMI La Rosa de Tokio(2)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -10970,17 +10760,17 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Frecuencia al Dia(4)": {
+        "WRMI Frecuencia al Dia(3)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Walking in Power(6)": {
+        "WRMI Walking in Power(5)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(14)": {
+        "WRMI Wave Scan(10)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -10995,7 +10785,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.(9)": {
+        "WRMI R.Slovakia Int.(6)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11010,12 +10800,12 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(17)": {
+        "WRMI Classic Redneck Rad(25)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Frecuencia al Dia(5)": {
+        "WRMI Frecuencia al Dia(4)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11030,7 +10820,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(18)": {
+        "WRMI Classic Redneck Rad(26)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11070,7 +10860,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.(10)": {
+        "WRMI R.Slovakia Int.(7)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11095,7 +10885,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Frecuencia al Dia(6)": {
+        "WRMI Frecuencia al Dia(5)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11105,7 +10895,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(15)": {
+        "WRMI Wave Scan(11)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11140,7 +10930,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(16)": {
+        "WRMI Wave Scan(12)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11150,7 +10940,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(17)": {
+        "WRMI Wave Scan(13)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11165,7 +10955,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(19)": {
+        "WRMI Classic Redneck Rad(27)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11185,7 +10975,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI La Rosa de Tokio(4)": {
+        "WRMI La Rosa de Tokio(3)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11195,7 +10985,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI OTH Radio(3)": {
+        "WRMI OTH Radio(4)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11210,7 +11000,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(18)": {
+        "WRMI Wave Scan(14)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11220,7 +11010,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(19)": {
+        "WRMI Wave Scan(15)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11235,7 +11025,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI VORW Radio Internat(3)": {
+        "WRMI VORW Radio Internat(2)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11260,7 +11050,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(20)": {
+        "WRMI Wave Scan(16)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -15140,12 +14930,12 @@
             "frequency": 13650000.0,
             "mode": 2
         },
-        "Radio Prage(3)": {
+        "Radio Prage(2)": {
             "bandwidth": 150000.0,
             "frequency": 13650000.0,
             "mode": 2
         },
-        "Radio Prage(4)": {
+        "Radio Prage(3)": {
             "bandwidth": 150000.0,
             "frequency": 13650000.0,
             "mode": 2
@@ -18625,17 +18415,17 @@
             "frequency": 15760000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.(11)": {
+        "WRMI R.Slovakia Int.(8)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.(12)": {
+        "WRMI R.Slovakia Int.(9)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(10)": {
+        "WRMI Supreme Master TV(6)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18645,12 +18435,12 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(21)": {
+        "WRMI Wave Scan(17)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(11)": {
+        "WRMI Supreme Master TV(7)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18665,12 +18455,12 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.(13)": {
+        "WRMI R.Slovakia Int.(10)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(20)": {
+        "WRMI Classic Redneck Rad(28)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18695,12 +18485,12 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(6)": {
+        "WRMI The Mighty KBC(4)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(22)": {
+        "WRMI Wave Scan(18)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18725,7 +18515,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(7)": {
+        "WRMI The Mighty KBC(5)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18735,7 +18525,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI OTH Radio(4)": {
+        "WRMI OTH Radio(5)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18765,7 +18555,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI La Rosa de Tokio(5)": {
+        "WRMI La Rosa de Tokio(4)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18790,12 +18580,12 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(12)": {
+        "WRMI Supreme Master TV(8)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(23)": {
+        "WRMI Wave Scan(19)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18825,17 +18615,17 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(8)": {
+        "WRMI The Mighty KBC(6)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI VORW Radio Internat(4)": {
+        "WRMI VORW Radio Internat(3)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(13)": {
+        "WRMI Supreme Master TV(9)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18850,7 +18640,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(24)": {
+        "WRMI Wave Scan(20)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18880,7 +18670,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Your Weekend Show(2)": {
+        "WRMI Your Weekend Show(1)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18890,7 +18680,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI VORW Radio Internat(5)": {
+        "WRMI VORW Radio Internat(4)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18915,7 +18705,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(25)": {
+        "WRMI Wave Scan(21)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18945,7 +18735,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI La Rosa de Tokio(6)": {
+        "WRMI La Rosa de Tokio(5)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18960,7 +18750,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Overcomer Minis(21)": {
+        "WRMI Classic Redneck Rad(29)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
