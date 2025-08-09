@@ -175,16 +175,6 @@
             "frequency": 3925000.0,
             "mode": 2
         },
-        "Radio Vanuatu": {
-            "bandwidth": 150000.0,
-            "frequency": 3945000.0,
-            "mode": 2
-        },
-        "Radio Vanuatu(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 3945000.0,
-            "mode": 2
-        },
         "KBS World Radio": {
             "bandwidth": 150000.0,
             "frequency": 3955000.0,
@@ -1615,11 +1605,6 @@
             "frequency": 5920000.0,
             "mode": 2
         },
-        "Voice of Freedom": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
         "Shiokaze": {
             "bandwidth": 150000.0,
             "frequency": 5920000.0,
@@ -2608,6 +2593,11 @@
         "Voice of Turkey(1)": {
             "bandwidth": 150000.0,
             "frequency": 6040000.0,
+            "mode": 2
+        },
+        "Voice of Freedom": {
+            "bandwidth": 150000.0,
+            "frequency": 6045000.0,
             "mode": 2
         },
         "Telstar Radio": {
@@ -3946,6 +3936,11 @@
             "mode": 2
         },
         "China Radio International(42)": {
+            "bandwidth": 150000.0,
+            "frequency": 6175000.0,
+            "mode": 2
+        },
+        "TWR Africa(1)": {
             "bandwidth": 150000.0,
             "frequency": 6175000.0,
             "mode": 2
@@ -5560,11 +5555,6 @@
             "frequency": 7375000.0,
             "mode": 2
         },
-        "TWR Africa(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 7380000.0,
-            "mode": 2
-        },
         "China Radio International(99)": {
             "bandwidth": 150000.0,
             "frequency": 7385000.0,
@@ -6830,6 +6820,11 @@
             "frequency": 9320000.0,
             "mode": 2
         },
+        "KTWR(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 9320000.0,
+            "mode": 2
+        },
         "SOH Xi Wang Zhi Sheng(36)": {
             "bandwidth": 150000.0,
             "frequency": 9320000.0,
@@ -7770,6 +7765,26 @@
             "frequency": 9500000.0,
             "mode": 2
         },
+        "TWR Africa(13)": {
+            "bandwidth": 150000.0,
+            "frequency": 9500000.0,
+            "mode": 2
+        },
+        "TWR Africa(14)": {
+            "bandwidth": 150000.0,
+            "frequency": 9500000.0,
+            "mode": 2
+        },
+        "TWR Africa(15)": {
+            "bandwidth": 150000.0,
+            "frequency": 9500000.0,
+            "mode": 2
+        },
+        "TWR Africa(16)": {
+            "bandwidth": 150000.0,
+            "frequency": 9500000.0,
+            "mode": 2
+        },
         "BBC(34)": {
             "bandwidth": 150000.0,
             "frequency": 9510000.0,
@@ -8385,22 +8400,22 @@
             "frequency": 9585000.0,
             "mode": 2
         },
-        "TWR Africa(13)": {
+        "TWR Africa(17)": {
             "bandwidth": 150000.0,
             "frequency": 9585000.0,
             "mode": 2
         },
-        "TWR Africa(14)": {
+        "TWR Africa(18)": {
             "bandwidth": 150000.0,
             "frequency": 9585000.0,
             "mode": 2
         },
-        "TWR Africa(15)": {
+        "TWR Africa(19)": {
             "bandwidth": 150000.0,
             "frequency": 9585000.0,
             "mode": 2
         },
-        "TWR Africa(16)": {
+        "TWR Africa(20)": {
             "bandwidth": 150000.0,
             "frequency": 9585000.0,
             "mode": 2
@@ -8835,17 +8850,17 @@
             "frequency": 9655000.0,
             "mode": 2
         },
-        "TWR Africa(17)": {
+        "TWR Africa(21)": {
             "bandwidth": 150000.0,
             "frequency": 9655000.0,
             "mode": 2
         },
-        "TWR Africa(18)": {
+        "TWR Africa(22)": {
             "bandwidth": 150000.0,
             "frequency": 9655000.0,
             "mode": 2
         },
-        "TWR Africa(19)": {
+        "TWR Africa(23)": {
             "bandwidth": 150000.0,
             "frequency": 9655000.0,
             "mode": 2
@@ -10210,11 +10225,6 @@
             "frequency": 9870000.0,
             "mode": 2
         },
-        "KTWR(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 9870000.0,
-            "mode": 2
-        },
         "Voice of Islamic Rep.iran(8)": {
             "bandwidth": 150000.0,
             "frequency": 9870000.0,
@@ -10355,11 +10365,6 @@
             "frequency": 9880000.0,
             "mode": 2
         },
-        "China Radio International(258)": {
-            "bandwidth": 150000.0,
-            "frequency": 9880000.0,
-            "mode": 2
-        },
         "Voice of Turkey(19)": {
             "bandwidth": 150000.0,
             "frequency": 9880000.0,
@@ -10405,7 +10410,7 @@
             "frequency": 9887000.0,
             "mode": 2
         },
-        "China Radio International(259)": {
+        "China Radio International(258)": {
             "bandwidth": 150000.0,
             "frequency": 9890000.0,
             "mode": 2
@@ -10565,32 +10570,7 @@
             "frequency": 9920000.0,
             "mode": 2
         },
-        "Hope Radio Anchored w M": {
-            "bandwidth": 150000.0,
-            "frequency": 9930000.0,
-            "mode": 2
-        },
-        "Hope Radio Answer to You": {
-            "bandwidth": 150000.0,
-            "frequency": 9930000.0,
-            "mode": 2
-        },
-        "Hope Radio Come Alive": {
-            "bandwidth": 150000.0,
-            "frequency": 9930000.0,
-            "mode": 2
-        },
-        "Hope Radio God is in the": {
-            "bandwidth": 150000.0,
-            "frequency": 9930000.0,
-            "mode": 2
-        },
-        "Hope Radio Kingdom of Go": {
-            "bandwidth": 150000.0,
-            "frequency": 9930000.0,
-            "mode": 2
-        },
-        "Hope Radio Maintain the": {
+        "Hope Radio Music": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
             "mode": 2
@@ -10600,22 +10580,22 @@
             "frequency": 9930000.0,
             "mode": 2
         },
+        "Hope Radio The Gospel of": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Music(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Music(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
         "Hope Radio MFC Worldwide(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 9930000.0,
-            "mode": 2
-        },
-        "Hope Radio Music": {
-            "bandwidth": 150000.0,
-            "frequency": 9930000.0,
-            "mode": 2
-        },
-        "Hope Radio Restoration R": {
-            "bandwidth": 150000.0,
-            "frequency": 9930000.0,
-            "mode": 2
-        },
-        "Hope Radio Testimony Tim": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
             "mode": 2
@@ -10625,7 +10605,52 @@
             "frequency": 9930000.0,
             "mode": 2
         },
+        "Hope Radio Anchored w": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Come Alive": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Maintain the": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Kingdom of Go": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Restoration R": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Harmony of Ho": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Anser to Your": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio God is in the": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
         "HOPE Radio TRUTH TALKSMUSIC": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Music(3)": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
             "mode": 2
@@ -11090,6 +11115,16 @@
             "frequency": 9955000.0,
             "mode": 2
         },
+        "Radio Vanuatu": {
+            "bandwidth": 150000.0,
+            "frequency": 9960000.0,
+            "mode": 2
+        },
+        "Radio Vanuatu(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9960000.0,
+            "mode": 2
+        },
         "Radio Vanuatu(2)": {
             "bandwidth": 150000.0,
             "frequency": 9960000.0,
@@ -11105,62 +11140,7 @@
             "frequency": 9960000.0,
             "mode": 2
         },
-        "Hope Radio Camo Alive": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Christian Wor": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Eternity in M": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio God is in the(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Gospel of Jes": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Harmony of Ho": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Jonanathan Ca": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Kingdom of Go(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Kingdom's Roa": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Living in Vic": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Living the Bi": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Maintain the(1)": {
+        "Hope Radio MusicMFC Wor": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11170,12 +11150,37 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio MFC Worldwide(3)": {
+        "Hope Radio Jonanathan Ca": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio MFC Worldwide(4)": {
+        "Hope Radio Camo Alive": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Eternity in M": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "HOPE Radio TRUTH TALKSMUSIC(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Harmony of Ho(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Christian Wor": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Living in Vic": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11190,12 +11195,7 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "HOPE Radio MUSIC(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio MusicMFC Wor": {
+        "Hope Radio God is in the(1)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11205,7 +11205,12 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio The Whole Tru": {
+        "Hope Radio MFC Worldwide(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "HOPE Radio MUSIC(2)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11215,7 +11220,57 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "HOPE Radio TRUTH TALKSMUSIC(1)": {
+        "Hope Radio Gospel of Jes": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio T8WH": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio MFC Worldwide(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Maintain the(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio The Answer to": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio The Whole Tru": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Kingdom's Roa": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "HOPE Radio MUSIC(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Kingdom's Roa(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Kingdom of Go(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "HOPE Radio MUSIC(4)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11455,6 +11510,11 @@
             "frequency": 11550000.0,
             "mode": 2
         },
+        "TWR Asia": {
+            "bandwidth": 150000.0,
+            "frequency": 11550000.0,
+            "mode": 2
+        },
         "KTWR(17)": {
             "bandwidth": 150000.0,
             "frequency": 11550000.0,
@@ -11483,21 +11543,6 @@
         "SOH Xi Wang Zhi Sheng(67)": {
             "bandwidth": 150000.0,
             "frequency": 11580000.0,
-            "mode": 2
-        },
-        "FEBA Radio(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 11590000.0,
-            "mode": 2
-        },
-        "FEBA Radio(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 11590000.0,
-            "mode": 2
-        },
-        "FEBA Radio(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 11590000.0,
             "mode": 2
         },
         "IBRA MediaRadio Ibrahim(7)": {
@@ -11560,12 +11605,12 @@
             "frequency": 11605000.0,
             "mode": 2
         },
-        "China Radio International(260)": {
+        "China Radio International(259)": {
             "bandwidth": 150000.0,
             "frequency": 11610000.0,
             "mode": 2
         },
-        "China Radio International(261)": {
+        "China Radio International(260)": {
             "bandwidth": 150000.0,
             "frequency": 11610000.0,
             "mode": 2
@@ -11605,12 +11650,12 @@
             "frequency": 11615000.0,
             "mode": 2
         },
-        "China Radio International(262)": {
+        "China Radio International(261)": {
             "bandwidth": 150000.0,
             "frequency": 11620000.0,
             "mode": 2
         },
-        "China Radio International(263)": {
+        "China Radio International(262)": {
             "bandwidth": 150000.0,
             "frequency": 11620000.0,
             "mode": 2
@@ -11685,7 +11730,7 @@
             "frequency": 11630000.0,
             "mode": 2
         },
-        "China Radio International(264)": {
+        "China Radio International(263)": {
             "bandwidth": 150000.0,
             "frequency": 11635000.0,
             "mode": 2
@@ -11728,6 +11773,11 @@
         "Voice of Korea(65)": {
             "bandwidth": 150000.0,
             "frequency": 11635000.0,
+            "mode": 2
+        },
+        "China Radio International(264)": {
+            "bandwidth": 150000.0,
+            "frequency": 11640000.0,
             "mode": 2
         },
         "China Radio International(265)": {
@@ -11780,11 +11830,6 @@
             "frequency": 11640000.0,
             "mode": 2
         },
-        "China Radio International(275)": {
-            "bandwidth": 150000.0,
-            "frequency": 11640000.0,
-            "mode": 2
-        },
         "JRC Radio Dabanga(1)": {
             "bandwidth": 150000.0,
             "frequency": 11640000.0,
@@ -11825,6 +11870,11 @@
             "frequency": 11645000.0,
             "mode": 2
         },
+        "China Radio International(275)": {
+            "bandwidth": 150000.0,
+            "frequency": 11650000.0,
+            "mode": 2
+        },
         "China Radio International(276)": {
             "bandwidth": 150000.0,
             "frequency": 11650000.0,
@@ -11856,11 +11906,6 @@
             "mode": 2
         },
         "China Radio International(282)": {
-            "bandwidth": 150000.0,
-            "frequency": 11650000.0,
-            "mode": 2
-        },
-        "China Radio International(283)": {
             "bandwidth": 150000.0,
             "frequency": 11650000.0,
             "mode": 2
@@ -11925,17 +11970,17 @@
             "frequency": 11660000.0,
             "mode": 2
         },
+        "China Radio International(283)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
         "China Radio International(284)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
             "mode": 2
         },
         "China Radio International(285)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "China Radio International(286)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
             "mode": 2
@@ -12005,32 +12050,12 @@
             "frequency": 11660000.0,
             "mode": 2
         },
-        "TWR Africa(20)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "TWR Africa(21)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "TWR Africa(22)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "TWR Africa(23)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
         "Voice of Turkey(20)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
             "mode": 2
         },
-        "China Radio International(287)": {
+        "China Radio International(286)": {
             "bandwidth": 150000.0,
             "frequency": 11665000.0,
             "mode": 2
@@ -12065,17 +12090,17 @@
             "frequency": 11670000.0,
             "mode": 2
         },
+        "China Radio International(287)": {
+            "bandwidth": 150000.0,
+            "frequency": 11675000.0,
+            "mode": 2
+        },
         "China Radio International(288)": {
             "bandwidth": 150000.0,
             "frequency": 11675000.0,
             "mode": 2
         },
         "China Radio International(289)": {
-            "bandwidth": 150000.0,
-            "frequency": 11675000.0,
-            "mode": 2
-        },
-        "China Radio International(290)": {
             "bandwidth": 150000.0,
             "frequency": 11680000.0,
             "mode": 2
@@ -12085,12 +12110,12 @@
             "frequency": 11680000.0,
             "mode": 2
         },
-        "China Radio International(291)": {
+        "China Radio International(290)": {
             "bandwidth": 150000.0,
             "frequency": 11685000.0,
             "mode": 2
         },
-        "China Radio International(292)": {
+        "China Radio International(291)": {
             "bandwidth": 150000.0,
             "frequency": 11685000.0,
             "mode": 2
@@ -12145,7 +12170,7 @@
             "frequency": 11685000.0,
             "mode": 2
         },
-        "China Radio International(293)": {
+        "China Radio International(292)": {
             "bandwidth": 150000.0,
             "frequency": 11690000.0,
             "mode": 2
@@ -12170,7 +12195,7 @@
             "frequency": 11690000.0,
             "mode": 2
         },
-        "China Radio International(294)": {
+        "China Radio International(293)": {
             "bandwidth": 150000.0,
             "frequency": 11695000.0,
             "mode": 2
@@ -12235,12 +12260,12 @@
             "frequency": 11710000.0,
             "mode": 2
         },
-        "China Radio International(295)": {
+        "China Radio International(294)": {
             "bandwidth": 150000.0,
             "frequency": 11710000.0,
             "mode": 2
         },
-        "China Radio International(296)": {
+        "China Radio International(295)": {
             "bandwidth": 150000.0,
             "frequency": 11710000.0,
             "mode": 2
@@ -12290,7 +12315,7 @@
             "frequency": 11715000.0,
             "mode": 2
         },
-        "China Radio International(297)": {
+        "China Radio International(296)": {
             "bandwidth": 150000.0,
             "frequency": 11720000.0,
             "mode": 2
@@ -12335,7 +12360,7 @@
             "frequency": 11720000.0,
             "mode": 2
         },
-        "China Radio International(298)": {
+        "China Radio International(297)": {
             "bandwidth": 150000.0,
             "frequency": 11725000.0,
             "mode": 2
@@ -12345,7 +12370,7 @@
             "frequency": 11725000.0,
             "mode": 2
         },
-        "China Radio International(299)": {
+        "China Radio International(298)": {
             "bandwidth": 150000.0,
             "frequency": 11730000.0,
             "mode": 2
@@ -12430,7 +12455,7 @@
             "frequency": 11735000.0,
             "mode": 2
         },
-        "China Radio International(300)": {
+        "China Radio International(299)": {
             "bandwidth": 150000.0,
             "frequency": 11740000.0,
             "mode": 2
@@ -12460,12 +12485,12 @@
             "frequency": 11745000.0,
             "mode": 2
         },
-        "China Radio International(301)": {
+        "China Radio International(300)": {
             "bandwidth": 150000.0,
             "frequency": 11750000.0,
             "mode": 2
         },
-        "China Radio International(302)": {
+        "China Radio International(301)": {
             "bandwidth": 150000.0,
             "frequency": 11750000.0,
             "mode": 2
@@ -12510,12 +12535,12 @@
             "frequency": 11750000.0,
             "mode": 2
         },
-        "China Radio International(303)": {
+        "China Radio International(302)": {
             "bandwidth": 150000.0,
             "frequency": 11760000.0,
             "mode": 2
         },
-        "China Radio International(304)": {
+        "China Radio International(303)": {
             "bandwidth": 150000.0,
             "frequency": 11760000.0,
             "mode": 2
@@ -12570,7 +12595,7 @@
             "frequency": 11765000.0,
             "mode": 2
         },
-        "China Radio International(305)": {
+        "China Radio International(304)": {
             "bandwidth": 150000.0,
             "frequency": 11765000.0,
             "mode": 2
@@ -12585,6 +12610,11 @@
             "frequency": 11765000.0,
             "mode": 2
         },
+        "China Radio International(305)": {
+            "bandwidth": 150000.0,
+            "frequency": 11770000.0,
+            "mode": 2
+        },
         "China Radio International(306)": {
             "bandwidth": 150000.0,
             "frequency": 11770000.0,
@@ -12596,11 +12626,6 @@
             "mode": 2
         },
         "China Radio International(308)": {
-            "bandwidth": 150000.0,
-            "frequency": 11770000.0,
-            "mode": 2
-        },
-        "China Radio International(309)": {
             "bandwidth": 150000.0,
             "frequency": 11770000.0,
             "mode": 2
@@ -12650,7 +12675,7 @@
             "frequency": 11775000.0,
             "mode": 2
         },
-        "China Radio International(310)": {
+        "China Radio International(309)": {
             "bandwidth": 150000.0,
             "frequency": 11775000.0,
             "mode": 2
@@ -12675,17 +12700,17 @@
             "frequency": 11780000.0,
             "mode": 2
         },
+        "China Radio International(310)": {
+            "bandwidth": 150000.0,
+            "frequency": 11780000.0,
+            "mode": 2
+        },
         "China Radio International(311)": {
             "bandwidth": 150000.0,
             "frequency": 11780000.0,
             "mode": 2
         },
         "China Radio International(312)": {
-            "bandwidth": 150000.0,
-            "frequency": 11780000.0,
-            "mode": 2
-        },
-        "China Radio International(313)": {
             "bandwidth": 150000.0,
             "frequency": 11780000.0,
             "mode": 2
@@ -12720,6 +12745,11 @@
             "frequency": 11785000.0,
             "mode": 2
         },
+        "China Radio International(313)": {
+            "bandwidth": 150000.0,
+            "frequency": 11790000.0,
+            "mode": 2
+        },
         "China Radio International(314)": {
             "bandwidth": 150000.0,
             "frequency": 11790000.0,
@@ -12740,11 +12770,6 @@
             "frequency": 11790000.0,
             "mode": 2
         },
-        "China Radio International(318)": {
-            "bandwidth": 150000.0,
-            "frequency": 11790000.0,
-            "mode": 2
-        },
         "Radio France Int.(7)": {
             "bandwidth": 150000.0,
             "frequency": 11790000.0,
@@ -12755,7 +12780,7 @@
             "frequency": 11790000.0,
             "mode": 2
         },
-        "China Radio International(319)": {
+        "China Radio International(318)": {
             "bandwidth": 150000.0,
             "frequency": 11795000.0,
             "mode": 2
@@ -12870,7 +12895,7 @@
             "frequency": 11810000.0,
             "mode": 2
         },
-        "China Radio International(320)": {
+        "China Radio International(319)": {
             "bandwidth": 150000.0,
             "frequency": 11815000.0,
             "mode": 2
@@ -12955,17 +12980,17 @@
             "frequency": 11815000.0,
             "mode": 2
         },
-        "China Radio International(321)": {
+        "China Radio International(320)": {
             "bandwidth": 150000.0,
             "frequency": 11820000.0,
             "mode": 2
         },
-        "China Radio International(322)": {
+        "China Radio International(321)": {
             "bandwidth": 150000.0,
             "frequency": 11825000.0,
             "mode": 2
         },
-        "China Radio International(323)": {
+        "China Radio International(322)": {
             "bandwidth": 150000.0,
             "frequency": 11825000.0,
             "mode": 2
@@ -12980,12 +13005,12 @@
             "frequency": 11825000.0,
             "mode": 2
         },
-        "China Radio International(324)": {
+        "China Radio International(323)": {
             "bandwidth": 150000.0,
             "frequency": 11830000.0,
             "mode": 2
         },
-        "China Radio International(325)": {
+        "China Radio International(324)": {
             "bandwidth": 150000.0,
             "frequency": 11830000.0,
             "mode": 2
@@ -13020,7 +13045,7 @@
             "frequency": 11855000.0,
             "mode": 2
         },
-        "China Radio International(326)": {
+        "China Radio International(325)": {
             "bandwidth": 150000.0,
             "frequency": 11855000.0,
             "mode": 2
@@ -13030,7 +13055,7 @@
             "frequency": 11855000.0,
             "mode": 2
         },
-        "China Radio International(327)": {
+        "China Radio International(326)": {
             "bandwidth": 150000.0,
             "frequency": 11860000.0,
             "mode": 2
@@ -13070,7 +13095,7 @@
             "frequency": 11865000.0,
             "mode": 2
         },
-        "China Radio International(328)": {
+        "China Radio International(327)": {
             "bandwidth": 150000.0,
             "frequency": 11865000.0,
             "mode": 2
@@ -13120,12 +13145,12 @@
             "frequency": 11865000.0,
             "mode": 2
         },
-        "China Radio International(329)": {
+        "China Radio International(328)": {
             "bandwidth": 150000.0,
             "frequency": 11870000.0,
             "mode": 2
         },
-        "China Radio International(330)": {
+        "China Radio International(329)": {
             "bandwidth": 150000.0,
             "frequency": 11870000.0,
             "mode": 2
@@ -13185,6 +13210,11 @@
             "frequency": 11875000.0,
             "mode": 2
         },
+        "China Radio International(330)": {
+            "bandwidth": 150000.0,
+            "frequency": 11875000.0,
+            "mode": 2
+        },
         "China Radio International(331)": {
             "bandwidth": 150000.0,
             "frequency": 11875000.0,
@@ -13205,11 +13235,6 @@
             "frequency": 11875000.0,
             "mode": 2
         },
-        "China Radio International(335)": {
-            "bandwidth": 150000.0,
-            "frequency": 11875000.0,
-            "mode": 2
-        },
         "KNLS World Christian Broadcasting(22)": {
             "bandwidth": 150000.0,
             "frequency": 11875000.0,
@@ -13225,12 +13250,12 @@
             "frequency": 11875000.0,
             "mode": 2
         },
-        "China Radio International(336)": {
+        "China Radio International(335)": {
             "bandwidth": 150000.0,
             "frequency": 11880000.0,
             "mode": 2
         },
-        "China Radio International(337)": {
+        "China Radio International(336)": {
             "bandwidth": 150000.0,
             "frequency": 11880000.0,
             "mode": 2
@@ -13370,6 +13395,11 @@
             "frequency": 11885000.0,
             "mode": 2
         },
+        "China Radio International(337)": {
+            "bandwidth": 150000.0,
+            "frequency": 11895000.0,
+            "mode": 2
+        },
         "China Radio International(338)": {
             "bandwidth": 150000.0,
             "frequency": 11895000.0,
@@ -13395,11 +13425,6 @@
             "frequency": 11895000.0,
             "mode": 2
         },
-        "China Radio International(343)": {
-            "bandwidth": 150000.0,
-            "frequency": 11895000.0,
-            "mode": 2
-        },
         "Radio Legiao Da Boa Vontade": {
             "bandwidth": 150000.0,
             "frequency": 11895000.0,
@@ -13415,17 +13440,17 @@
             "frequency": 11895000.0,
             "mode": 2
         },
+        "China Radio International(343)": {
+            "bandwidth": 150000.0,
+            "frequency": 11900000.0,
+            "mode": 2
+        },
         "China Radio International(344)": {
             "bandwidth": 150000.0,
             "frequency": 11900000.0,
             "mode": 2
         },
         "China Radio International(345)": {
-            "bandwidth": 150000.0,
-            "frequency": 11900000.0,
-            "mode": 2
-        },
-        "China Radio International(346)": {
             "bandwidth": 150000.0,
             "frequency": 11900000.0,
             "mode": 2
@@ -13520,7 +13545,7 @@
             "frequency": 11900000.0,
             "mode": 2
         },
-        "China Radio International(347)": {
+        "China Radio International(346)": {
             "bandwidth": 150000.0,
             "frequency": 11905000.0,
             "mode": 2
@@ -13540,17 +13565,17 @@
             "frequency": 11905000.0,
             "mode": 2
         },
+        "China Radio International(347)": {
+            "bandwidth": 150000.0,
+            "frequency": 11910000.0,
+            "mode": 2
+        },
         "China Radio International(348)": {
             "bandwidth": 150000.0,
             "frequency": 11910000.0,
             "mode": 2
         },
         "China Radio International(349)": {
-            "bandwidth": 150000.0,
-            "frequency": 11910000.0,
-            "mode": 2
-        },
-        "China Radio International(350)": {
             "bandwidth": 150000.0,
             "frequency": 11910000.0,
             "mode": 2
@@ -13600,7 +13625,7 @@
             "frequency": 11915000.0,
             "mode": 2
         },
-        "China Radio International(351)": {
+        "China Radio International(350)": {
             "bandwidth": 150000.0,
             "frequency": 11925000.0,
             "mode": 2
@@ -13635,7 +13660,7 @@
             "frequency": 11930000.0,
             "mode": 2
         },
-        "China Radio International(352)": {
+        "China Radio International(351)": {
             "bandwidth": 150000.0,
             "frequency": 11935000.0,
             "mode": 2
@@ -13660,12 +13685,12 @@
             "frequency": 11935000.0,
             "mode": 2
         },
-        "China Radio International(353)": {
+        "China Radio International(352)": {
             "bandwidth": 150000.0,
             "frequency": 11940000.0,
             "mode": 2
         },
-        "China Radio International(354)": {
+        "China Radio International(353)": {
             "bandwidth": 150000.0,
             "frequency": 11940000.0,
             "mode": 2
@@ -13675,12 +13700,12 @@
             "frequency": 11940000.0,
             "mode": 2
         },
-        "China Radio International(355)": {
+        "China Radio International(354)": {
             "bandwidth": 150000.0,
             "frequency": 11945000.0,
             "mode": 2
         },
-        "China Radio International(356)": {
+        "China Radio International(355)": {
             "bandwidth": 150000.0,
             "frequency": 11945000.0,
             "mode": 2
@@ -13725,6 +13750,11 @@
             "frequency": 11955000.0,
             "mode": 2
         },
+        "China Radio International(356)": {
+            "bandwidth": 150000.0,
+            "frequency": 11955000.0,
+            "mode": 2
+        },
         "China Radio International(357)": {
             "bandwidth": 150000.0,
             "frequency": 11955000.0,
@@ -13745,17 +13775,12 @@
             "frequency": 11955000.0,
             "mode": 2
         },
-        "China Radio International(361)": {
-            "bandwidth": 150000.0,
-            "frequency": 11955000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(44)": {
             "bandwidth": 150000.0,
             "frequency": 11960000.0,
             "mode": 2
         },
-        "China Radio International(362)": {
+        "China Radio International(361)": {
             "bandwidth": 150000.0,
             "frequency": 11965000.0,
             "mode": 2
@@ -13830,12 +13855,12 @@
             "frequency": 11975000.0,
             "mode": 2
         },
-        "China Radio International(363)": {
+        "China Radio International(362)": {
             "bandwidth": 150000.0,
             "frequency": 11975000.0,
             "mode": 2
         },
-        "China Radio International(364)": {
+        "China Radio International(363)": {
             "bandwidth": 150000.0,
             "frequency": 11975000.0,
             "mode": 2
@@ -13865,6 +13890,11 @@
             "frequency": 11975000.0,
             "mode": 2
         },
+        "China Radio International(364)": {
+            "bandwidth": 150000.0,
+            "frequency": 11980000.0,
+            "mode": 2
+        },
         "China Radio International(365)": {
             "bandwidth": 150000.0,
             "frequency": 11980000.0,
@@ -13877,11 +13907,6 @@
         },
         "China Radio International(367)": {
             "bandwidth": 150000.0,
-            "frequency": 11980000.0,
-            "mode": 2
-        },
-        "China Radio International(368)": {
-            "bandwidth": 150000.0,
             "frequency": 11985000.0,
             "mode": 2
         },
@@ -13890,7 +13915,7 @@
             "frequency": 11990000.0,
             "mode": 2
         },
-        "China Radio International(369)": {
+        "China Radio International(368)": {
             "bandwidth": 150000.0,
             "frequency": 11990000.0,
             "mode": 2
@@ -13925,7 +13950,7 @@
             "frequency": 11995000.0,
             "mode": 2
         },
-        "China Radio International(370)": {
+        "China Radio International(369)": {
             "bandwidth": 150000.0,
             "frequency": 12000000.0,
             "mode": 2
@@ -13935,12 +13960,12 @@
             "frequency": 12005000.0,
             "mode": 2
         },
-        "China Radio International(371)": {
+        "China Radio International(370)": {
             "bandwidth": 150000.0,
             "frequency": 12005000.0,
             "mode": 2
         },
-        "China Radio International(372)": {
+        "China Radio International(371)": {
             "bandwidth": 150000.0,
             "frequency": 12005000.0,
             "mode": 2
@@ -13960,7 +13985,7 @@
             "frequency": 12005000.0,
             "mode": 2
         },
-        "China Radio International(373)": {
+        "China Radio International(372)": {
             "bandwidth": 150000.0,
             "frequency": 12010000.0,
             "mode": 2
@@ -13990,7 +14015,7 @@
             "frequency": 12010000.0,
             "mode": 2
         },
-        "China Radio International(374)": {
+        "China Radio International(373)": {
             "bandwidth": 150000.0,
             "frequency": 12015000.0,
             "mode": 2
@@ -14110,12 +14135,12 @@
             "frequency": 12020000.0,
             "mode": 2
         },
-        "China Radio International(375)": {
+        "China Radio International(374)": {
             "bandwidth": 150000.0,
             "frequency": 12025000.0,
             "mode": 2
         },
-        "China Radio International(376)": {
+        "China Radio International(375)": {
             "bandwidth": 150000.0,
             "frequency": 12025000.0,
             "mode": 2
@@ -14270,7 +14295,7 @@
             "frequency": 12065000.0,
             "mode": 2
         },
-        "China Radio International(377)": {
+        "China Radio International(376)": {
             "bandwidth": 150000.0,
             "frequency": 12070000.0,
             "mode": 2
@@ -14305,7 +14330,7 @@
             "frequency": 12080000.0,
             "mode": 2
         },
-        "China Radio International(378)": {
+        "China Radio International(377)": {
             "bandwidth": 150000.0,
             "frequency": 12085000.0,
             "mode": 2
@@ -14488,6 +14513,16 @@
         "FEBC Radio Liangyou(4)": {
             "bandwidth": 150000.0,
             "frequency": 12120000.0,
+            "mode": 2
+        },
+        "TWR Asia(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 12140000.0,
+            "mode": 2
+        },
+        "TWR Asia(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 12140000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(76)": {
@@ -14690,17 +14725,17 @@
             "frequency": 13550000.0,
             "mode": 2
         },
-        "China Radio International(379)": {
+        "China Radio International(378)": {
             "bandwidth": 150000.0,
             "frequency": 13575000.0,
             "mode": 2
         },
-        "China Radio International(380)": {
+        "China Radio International(379)": {
             "bandwidth": 150000.0,
             "frequency": 13580000.0,
             "mode": 2
         },
-        "China Radio International(381)": {
+        "China Radio International(380)": {
             "bandwidth": 150000.0,
             "frequency": 13580000.0,
             "mode": 2
@@ -14725,6 +14760,11 @@
             "frequency": 13590000.0,
             "mode": 2
         },
+        "China Radio International(381)": {
+            "bandwidth": 150000.0,
+            "frequency": 13590000.0,
+            "mode": 2
+        },
         "China Radio International(382)": {
             "bandwidth": 150000.0,
             "frequency": 13590000.0,
@@ -14732,7 +14772,7 @@
         },
         "China Radio International(383)": {
             "bandwidth": 150000.0,
-            "frequency": 13590000.0,
+            "frequency": 13600000.0,
             "mode": 2
         },
         "China Radio International(384)": {
@@ -14751,11 +14791,6 @@
             "mode": 2
         },
         "China Radio International(387)": {
-            "bandwidth": 150000.0,
-            "frequency": 13600000.0,
-            "mode": 2
-        },
-        "China Radio International(388)": {
             "bandwidth": 150000.0,
             "frequency": 13600000.0,
             "mode": 2
@@ -14795,7 +14830,7 @@
             "frequency": 13600000.0,
             "mode": 2
         },
-        "China Radio International(389)": {
+        "China Radio International(388)": {
             "bandwidth": 150000.0,
             "frequency": 13610000.0,
             "mode": 2
@@ -14830,6 +14865,11 @@
             "frequency": 13630000.0,
             "mode": 2
         },
+        "China Radio International(389)": {
+            "bandwidth": 150000.0,
+            "frequency": 13630000.0,
+            "mode": 2
+        },
         "China Radio International(390)": {
             "bandwidth": 150000.0,
             "frequency": 13630000.0,
@@ -14841,11 +14881,6 @@
             "mode": 2
         },
         "China Radio International(392)": {
-            "bandwidth": 150000.0,
-            "frequency": 13630000.0,
-            "mode": 2
-        },
-        "China Radio International(393)": {
             "bandwidth": 150000.0,
             "frequency": 13630000.0,
             "mode": 2
@@ -14870,6 +14905,11 @@
             "frequency": 13635000.0,
             "mode": 2
         },
+        "China Radio International(393)": {
+            "bandwidth": 150000.0,
+            "frequency": 13640000.0,
+            "mode": 2
+        },
         "China Radio International(394)": {
             "bandwidth": 150000.0,
             "frequency": 13640000.0,
@@ -14890,14 +14930,14 @@
             "frequency": 13640000.0,
             "mode": 2
         },
-        "China Radio International(398)": {
+        "SOH Xi Wang Zhi Sheng(105)": {
             "bandwidth": 150000.0,
             "frequency": 13640000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(105)": {
+        "China Radio International(398)": {
             "bandwidth": 150000.0,
-            "frequency": 13640000.0,
+            "frequency": 13645000.0,
             "mode": 2
         },
         "China Radio International(399)": {
@@ -14912,15 +14952,10 @@
         },
         "China Radio International(401)": {
             "bandwidth": 150000.0,
-            "frequency": 13645000.0,
-            "mode": 2
-        },
-        "China Radio International(402)": {
-            "bandwidth": 150000.0,
             "frequency": 13650000.0,
             "mode": 2
         },
-        "China Radio International(403)": {
+        "China Radio International(402)": {
             "bandwidth": 150000.0,
             "frequency": 13650000.0,
             "mode": 2
@@ -15015,12 +15050,12 @@
             "frequency": 13650000.0,
             "mode": 2
         },
-        "China Radio International(404)": {
+        "China Radio International(403)": {
             "bandwidth": 150000.0,
             "frequency": 13655000.0,
             "mode": 2
         },
-        "China Radio International(405)": {
+        "China Radio International(404)": {
             "bandwidth": 150000.0,
             "frequency": 13655000.0,
             "mode": 2
@@ -15028,6 +15063,11 @@
         "Voice of Turkey(27)": {
             "bandwidth": 150000.0,
             "frequency": 13655000.0,
+            "mode": 2
+        },
+        "China Radio International(405)": {
+            "bandwidth": 150000.0,
+            "frequency": 13660000.0,
             "mode": 2
         },
         "China Radio International(406)": {
@@ -15040,12 +15080,7 @@
             "frequency": 13660000.0,
             "mode": 2
         },
-        "China Radio International(408)": {
-            "bandwidth": 150000.0,
-            "frequency": 13660000.0,
-            "mode": 2
-        },
-        "FEBA Radio(10)": {
+        "FEBA Radio(7)": {
             "bandwidth": 150000.0,
             "frequency": 13660000.0,
             "mode": 2
@@ -15060,6 +15095,11 @@
             "frequency": 13660000.0,
             "mode": 2
         },
+        "China Radio International(408)": {
+            "bandwidth": 150000.0,
+            "frequency": 13670000.0,
+            "mode": 2
+        },
         "China Radio International(409)": {
             "bandwidth": 150000.0,
             "frequency": 13670000.0,
@@ -15071,11 +15111,6 @@
             "mode": 2
         },
         "China Radio International(411)": {
-            "bandwidth": 150000.0,
-            "frequency": 13670000.0,
-            "mode": 2
-        },
-        "China Radio International(412)": {
             "bandwidth": 150000.0,
             "frequency": 13670000.0,
             "mode": 2
@@ -15150,6 +15185,11 @@
             "frequency": 13680000.0,
             "mode": 2
         },
+        "China Radio International(412)": {
+            "bandwidth": 150000.0,
+            "frequency": 13685000.0,
+            "mode": 2
+        },
         "China Radio International(413)": {
             "bandwidth": 150000.0,
             "frequency": 13685000.0,
@@ -15160,22 +15200,17 @@
             "frequency": 13685000.0,
             "mode": 2
         },
-        "China Radio International(415)": {
-            "bandwidth": 150000.0,
-            "frequency": 13685000.0,
-            "mode": 2
-        },
         "Voice of Turkey(28)": {
             "bandwidth": 150000.0,
             "frequency": 13685000.0,
             "mode": 2
         },
-        "China Radio International(416)": {
+        "China Radio International(415)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
         },
-        "China Radio International(417)": {
+        "China Radio International(416)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
@@ -15195,7 +15230,7 @@
             "frequency": 13695000.0,
             "mode": 2
         },
-        "China Radio International(418)": {
+        "China Radio International(417)": {
             "bandwidth": 150000.0,
             "frequency": 13700000.0,
             "mode": 2
@@ -15230,6 +15265,11 @@
             "frequency": 13710000.0,
             "mode": 2
         },
+        "China Radio International(418)": {
+            "bandwidth": 150000.0,
+            "frequency": 13710000.0,
+            "mode": 2
+        },
         "China Radio International(419)": {
             "bandwidth": 150000.0,
             "frequency": 13710000.0,
@@ -15255,11 +15295,6 @@
             "frequency": 13710000.0,
             "mode": 2
         },
-        "China Radio International(424)": {
-            "bandwidth": 150000.0,
-            "frequency": 13710000.0,
-            "mode": 2
-        },
         "Radio Saudi": {
             "bandwidth": 150000.0,
             "frequency": 13710000.0,
@@ -15275,12 +15310,12 @@
             "frequency": 13710000.0,
             "mode": 2
         },
-        "China Radio International(425)": {
+        "China Radio International(424)": {
             "bandwidth": 150000.0,
             "frequency": 13720000.0,
             "mode": 2
         },
-        "China Radio International(426)": {
+        "China Radio International(425)": {
             "bandwidth": 150000.0,
             "frequency": 13720000.0,
             "mode": 2
@@ -15305,12 +15340,12 @@
             "frequency": 13730000.0,
             "mode": 2
         },
-        "China Radio International(427)": {
+        "China Radio International(426)": {
             "bandwidth": 150000.0,
             "frequency": 13730000.0,
             "mode": 2
         },
-        "China Radio International(428)": {
+        "China Radio International(427)": {
             "bandwidth": 150000.0,
             "frequency": 13730000.0,
             "mode": 2
@@ -15335,12 +15370,12 @@
             "frequency": 13740000.0,
             "mode": 2
         },
-        "China Radio International(429)": {
+        "China Radio International(428)": {
             "bandwidth": 150000.0,
             "frequency": 13740000.0,
             "mode": 2
         },
-        "China Radio International(430)": {
+        "China Radio International(429)": {
             "bandwidth": 150000.0,
             "frequency": 13740000.0,
             "mode": 2
@@ -15375,12 +15410,12 @@
             "frequency": 13745000.0,
             "mode": 2
         },
-        "China Radio International(431)": {
+        "China Radio International(430)": {
             "bandwidth": 150000.0,
             "frequency": 13750000.0,
             "mode": 2
         },
-        "China Radio International(432)": {
+        "China Radio International(431)": {
             "bandwidth": 150000.0,
             "frequency": 13750000.0,
             "mode": 2
@@ -15388,6 +15423,11 @@
         "Radio Romania Int.  Xhe E(3)": {
             "bandwidth": 150000.0,
             "frequency": 13750000.0,
+            "mode": 2
+        },
+        "China Radio International(432)": {
+            "bandwidth": 150000.0,
+            "frequency": 13755000.0,
             "mode": 2
         },
         "China Radio International(433)": {
@@ -15401,11 +15441,6 @@
             "mode": 2
         },
         "China Radio International(435)": {
-            "bandwidth": 150000.0,
-            "frequency": 13755000.0,
-            "mode": 2
-        },
-        "China Radio International(436)": {
             "bandwidth": 150000.0,
             "frequency": 13760000.0,
             "mode": 2
@@ -15505,12 +15540,12 @@
             "frequency": 13760000.0,
             "mode": 2
         },
-        "China Radio International(437)": {
+        "China Radio International(436)": {
             "bandwidth": 150000.0,
             "frequency": 13770000.0,
             "mode": 2
         },
-        "China Radio International(438)": {
+        "China Radio International(437)": {
             "bandwidth": 150000.0,
             "frequency": 13770000.0,
             "mode": 2
@@ -15540,7 +15575,7 @@
             "frequency": 13775000.0,
             "mode": 2
         },
-        "China Radio International(439)": {
+        "China Radio International(438)": {
             "bandwidth": 150000.0,
             "frequency": 13780000.0,
             "mode": 2
@@ -15565,7 +15600,7 @@
             "frequency": 13790000.0,
             "mode": 2
         },
-        "China Radio International(440)": {
+        "China Radio International(439)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
@@ -15585,12 +15620,12 @@
             "frequency": 13790000.0,
             "mode": 2
         },
-        "China Radio International(441)": {
+        "China Radio International(440)": {
             "bandwidth": 150000.0,
             "frequency": 13795000.0,
             "mode": 2
         },
-        "China Radio International(442)": {
+        "China Radio International(441)": {
             "bandwidth": 150000.0,
             "frequency": 13800000.0,
             "mode": 2
@@ -15615,12 +15650,12 @@
             "frequency": 13810000.0,
             "mode": 2
         },
-        "China Radio International(443)": {
+        "China Radio International(442)": {
             "bandwidth": 150000.0,
             "frequency": 13810000.0,
             "mode": 2
         },
-        "China Radio International(444)": {
+        "China Radio International(443)": {
             "bandwidth": 150000.0,
             "frequency": 13810000.0,
             "mode": 2
@@ -15755,17 +15790,17 @@
             "frequency": 13850000.0,
             "mode": 2
         },
-        "China Radio International(445)": {
+        "China Radio International(444)": {
             "bandwidth": 150000.0,
             "frequency": 13850000.0,
             "mode": 2
         },
-        "China Radio International(446)": {
+        "China Radio International(445)": {
             "bandwidth": 150000.0,
             "frequency": 13860000.0,
             "mode": 2
         },
-        "China Radio International(447)": {
+        "China Radio International(446)": {
             "bandwidth": 150000.0,
             "frequency": 13860000.0,
             "mode": 2
@@ -15785,7 +15820,7 @@
             "frequency": 13870000.0,
             "mode": 2
         },
-        "China Radio International(448)": {
+        "China Radio International(447)": {
             "bandwidth": 150000.0,
             "frequency": 13870000.0,
             "mode": 2
@@ -15975,7 +16010,7 @@
             "frequency": 15000000.0,
             "mode": 2
         },
-        "China Radio International(449)": {
+        "China Radio International(448)": {
             "bandwidth": 150000.0,
             "frequency": 15100000.0,
             "mode": 2
@@ -16035,6 +16070,11 @@
             "frequency": 15105000.0,
             "mode": 2
         },
+        "China Radio International(449)": {
+            "bandwidth": 150000.0,
+            "frequency": 15110000.0,
+            "mode": 2
+        },
         "China Radio International(450)": {
             "bandwidth": 150000.0,
             "frequency": 15110000.0,
@@ -16046,11 +16086,6 @@
             "mode": 2
         },
         "China Radio International(452)": {
-            "bandwidth": 150000.0,
-            "frequency": 15110000.0,
-            "mode": 2
-        },
-        "China Radio International(453)": {
             "bandwidth": 150000.0,
             "frequency": 15110000.0,
             "mode": 2
@@ -16095,17 +16130,17 @@
             "frequency": 15120000.0,
             "mode": 2
         },
+        "China Radio International(453)": {
+            "bandwidth": 150000.0,
+            "frequency": 15125000.0,
+            "mode": 2
+        },
         "China Radio International(454)": {
             "bandwidth": 150000.0,
             "frequency": 15125000.0,
             "mode": 2
         },
         "China Radio International(455)": {
-            "bandwidth": 150000.0,
-            "frequency": 15125000.0,
-            "mode": 2
-        },
-        "China Radio International(456)": {
             "bandwidth": 150000.0,
             "frequency": 15125000.0,
             "mode": 2
@@ -16140,17 +16175,17 @@
             "frequency": 15130000.0,
             "mode": 2
         },
+        "China Radio International(456)": {
+            "bandwidth": 150000.0,
+            "frequency": 15135000.0,
+            "mode": 2
+        },
         "China Radio International(457)": {
             "bandwidth": 150000.0,
             "frequency": 15135000.0,
             "mode": 2
         },
         "China Radio International(458)": {
-            "bandwidth": 150000.0,
-            "frequency": 15135000.0,
-            "mode": 2
-        },
-        "China Radio International(459)": {
             "bandwidth": 150000.0,
             "frequency": 15135000.0,
             "mode": 2
@@ -16200,12 +16235,12 @@
             "frequency": 15140000.0,
             "mode": 2
         },
-        "China Radio International(460)": {
+        "China Radio International(459)": {
             "bandwidth": 150000.0,
             "frequency": 15145000.0,
             "mode": 2
         },
-        "China Radio International(461)": {
+        "China Radio International(460)": {
             "bandwidth": 150000.0,
             "frequency": 15145000.0,
             "mode": 2
@@ -16230,6 +16265,11 @@
             "frequency": 15150000.0,
             "mode": 2
         },
+        "China Radio International(461)": {
+            "bandwidth": 150000.0,
+            "frequency": 15160000.0,
+            "mode": 2
+        },
         "China Radio International(462)": {
             "bandwidth": 150000.0,
             "frequency": 15160000.0,
@@ -16241,11 +16281,6 @@
             "mode": 2
         },
         "China Radio International(464)": {
-            "bandwidth": 150000.0,
-            "frequency": 15160000.0,
-            "mode": 2
-        },
-        "China Radio International(465)": {
             "bandwidth": 150000.0,
             "frequency": 15160000.0,
             "mode": 2
@@ -16300,12 +16335,12 @@
             "frequency": 15170000.0,
             "mode": 2
         },
-        "China Radio International(466)": {
+        "China Radio International(465)": {
             "bandwidth": 150000.0,
             "frequency": 15180000.0,
             "mode": 2
         },
-        "China Radio International(467)": {
+        "China Radio International(466)": {
             "bandwidth": 150000.0,
             "frequency": 15180000.0,
             "mode": 2
@@ -16425,14 +16460,24 @@
             "frequency": 15215000.0,
             "mode": 2
         },
+        "China Radio International(467)": {
+            "bandwidth": 150000.0,
+            "frequency": 15220000.0,
+            "mode": 2
+        },
         "China Radio International(468)": {
             "bandwidth": 150000.0,
             "frequency": 15220000.0,
             "mode": 2
         },
-        "China Radio International(469)": {
+        "TWR Africa(36)": {
             "bandwidth": 150000.0,
-            "frequency": 15220000.0,
+            "frequency": 15230000.0,
+            "mode": 2
+        },
+        "TWR Africa(37)": {
+            "bandwidth": 150000.0,
+            "frequency": 15230000.0,
             "mode": 2
         },
         "KTWR(39)": {
@@ -16446,6 +16491,11 @@
             "mode": 2
         },
         "KTWR(41)": {
+            "bandwidth": 150000.0,
+            "frequency": 15230000.0,
+            "mode": 2
+        },
+        "China Radio International(469)": {
             "bandwidth": 150000.0,
             "frequency": 15230000.0,
             "mode": 2
@@ -16466,11 +16516,6 @@
             "mode": 2
         },
         "China Radio International(473)": {
-            "bandwidth": 150000.0,
-            "frequency": 15230000.0,
-            "mode": 2
-        },
-        "China Radio International(474)": {
             "bandwidth": 150000.0,
             "frequency": 15230000.0,
             "mode": 2
@@ -16515,7 +16560,7 @@
             "frequency": 15240000.0,
             "mode": 2
         },
-        "China Radio International(475)": {
+        "China Radio International(474)": {
             "bandwidth": 150000.0,
             "frequency": 15245000.0,
             "mode": 2
@@ -16595,12 +16640,12 @@
             "frequency": 15245000.0,
             "mode": 2
         },
-        "China Radio International(476)": {
+        "China Radio International(475)": {
             "bandwidth": 150000.0,
             "frequency": 15250000.0,
             "mode": 2
         },
-        "China Radio International(477)": {
+        "China Radio International(476)": {
             "bandwidth": 150000.0,
             "frequency": 15250000.0,
             "mode": 2
@@ -16615,12 +16660,12 @@
             "frequency": 15260000.0,
             "mode": 2
         },
-        "China Radio International(478)": {
+        "China Radio International(477)": {
             "bandwidth": 150000.0,
             "frequency": 15260000.0,
             "mode": 2
         },
-        "China Radio International(479)": {
+        "China Radio International(478)": {
             "bandwidth": 150000.0,
             "frequency": 15260000.0,
             "mode": 2
@@ -16930,12 +16975,12 @@
             "frequency": 15330000.0,
             "mode": 2
         },
-        "China Radio International(480)": {
+        "China Radio International(479)": {
             "bandwidth": 150000.0,
             "frequency": 15335000.0,
             "mode": 2
         },
-        "China Radio International(481)": {
+        "China Radio International(480)": {
             "bandwidth": 150000.0,
             "frequency": 15335000.0,
             "mode": 2
@@ -16950,17 +16995,17 @@
             "frequency": 15340000.0,
             "mode": 2
         },
+        "China Radio International(481)": {
+            "bandwidth": 150000.0,
+            "frequency": 15350000.0,
+            "mode": 2
+        },
         "China Radio International(482)": {
             "bandwidth": 150000.0,
             "frequency": 15350000.0,
             "mode": 2
         },
         "China Radio International(483)": {
-            "bandwidth": 150000.0,
-            "frequency": 15350000.0,
-            "mode": 2
-        },
-        "China Radio International(484)": {
             "bandwidth": 150000.0,
             "frequency": 15350000.0,
             "mode": 2
@@ -17260,7 +17305,7 @@
             "frequency": 15410000.0,
             "mode": 2
         },
-        "China Radio International(485)": {
+        "China Radio International(484)": {
             "bandwidth": 150000.0,
             "frequency": 15410000.0,
             "mode": 2
@@ -17280,7 +17325,7 @@
             "frequency": 15420000.0,
             "mode": 2
         },
-        "China Radio International(486)": {
+        "China Radio International(485)": {
             "bandwidth": 150000.0,
             "frequency": 15425000.0,
             "mode": 2
@@ -17310,12 +17355,12 @@
             "frequency": 15430000.0,
             "mode": 2
         },
-        "China Radio International(487)": {
+        "China Radio International(486)": {
             "bandwidth": 150000.0,
             "frequency": 15435000.0,
             "mode": 2
         },
-        "China Radio International(488)": {
+        "China Radio International(487)": {
             "bandwidth": 150000.0,
             "frequency": 15435000.0,
             "mode": 2
@@ -17375,12 +17420,12 @@
             "frequency": 15440000.0,
             "mode": 2
         },
-        "TWR Asia": {
+        "TWR Asia(3)": {
             "bandwidth": 150000.0,
             "frequency": 15440000.0,
             "mode": 2
         },
-        "China Radio International(489)": {
+        "China Radio International(488)": {
             "bandwidth": 150000.0,
             "frequency": 15445000.0,
             "mode": 2
@@ -17475,17 +17520,17 @@
             "frequency": 15460000.0,
             "mode": 2
         },
+        "REACH BEYOND AUSTRALIA(35)": {
+            "bandwidth": 150000.0,
+            "frequency": 15460000.0,
+            "mode": 2
+        },
         "Reach Beyond Australia  ((3)": {
             "bandwidth": 150000.0,
             "frequency": 15460000.0,
             "mode": 2
         },
         "Reach Beyond Australia  ((4)": {
-            "bandwidth": 150000.0,
-            "frequency": 15460000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(35)": {
             "bandwidth": 150000.0,
             "frequency": 15460000.0,
             "mode": 2
@@ -17520,7 +17565,12 @@
             "frequency": 15460000.0,
             "mode": 2
         },
-        "China Radio International(490)": {
+        "REACH BEYOND AUSTRALIA(42)": {
+            "bandwidth": 150000.0,
+            "frequency": 15460000.0,
+            "mode": 2
+        },
+        "China Radio International(489)": {
             "bandwidth": 150000.0,
             "frequency": 15465000.0,
             "mode": 2
@@ -17715,7 +17765,7 @@
             "frequency": 15520000.0,
             "mode": 2
         },
-        "China Radio International(491)": {
+        "China Radio International(490)": {
             "bandwidth": 150000.0,
             "frequency": 15525000.0,
             "mode": 2
@@ -17825,7 +17875,7 @@
             "frequency": 15550000.0,
             "mode": 2
         },
-        "China Radio International(492)": {
+        "China Radio International(491)": {
             "bandwidth": 150000.0,
             "frequency": 15555000.0,
             "mode": 2
@@ -17835,7 +17885,7 @@
             "frequency": 15555000.0,
             "mode": 2
         },
-        "China Radio International(493)": {
+        "China Radio International(492)": {
             "bandwidth": 150000.0,
             "frequency": 15560000.0,
             "mode": 2
@@ -17980,7 +18030,7 @@
             "frequency": 15590000.0,
             "mode": 2
         },
-        "China Radio International(494)": {
+        "China Radio International(493)": {
             "bandwidth": 150000.0,
             "frequency": 15590000.0,
             "mode": 2
@@ -18115,17 +18165,17 @@
             "frequency": 15640000.0,
             "mode": 2
         },
-        "China Radio International(495)": {
+        "China Radio International(494)": {
             "bandwidth": 150000.0,
             "frequency": 15660000.0,
             "mode": 2
         },
-        "China Radio International(496)": {
+        "China Radio International(495)": {
             "bandwidth": 150000.0,
             "frequency": 15665000.0,
             "mode": 2
         },
-        "China Radio International(497)": {
+        "China Radio International(496)": {
             "bandwidth": 150000.0,
             "frequency": 15665000.0,
             "mode": 2
@@ -18190,7 +18240,7 @@
             "frequency": 15680000.0,
             "mode": 2
         },
-        "Hope Radio Music(1)": {
+        "Hope Radio Music(4)": {
             "bandwidth": 150000.0,
             "frequency": 15680000.0,
             "mode": 2
@@ -18765,12 +18815,12 @@
             "frequency": 15785000.0,
             "mode": 2
         },
-        "China Radio International(498)": {
+        "China Radio International(497)": {
             "bandwidth": 150000.0,
             "frequency": 15785000.0,
             "mode": 2
         },
-        "China Radio International(499)": {
+        "China Radio International(498)": {
             "bandwidth": 150000.0,
             "frequency": 15785000.0,
             "mode": 2
@@ -18925,9 +18975,14 @@
             "frequency": 17480000.0,
             "mode": 2
         },
-        "China Radio International(500)": {
+        "China Radio International(499)": {
             "bandwidth": 150000.0,
             "frequency": 17485000.0,
+            "mode": 2
+        },
+        "China Radio International(500)": {
+            "bandwidth": 150000.0,
+            "frequency": 17490000.0,
             "mode": 2
         },
         "China Radio International(501)": {
@@ -18941,11 +18996,6 @@
             "mode": 2
         },
         "China Radio International(503)": {
-            "bandwidth": 150000.0,
-            "frequency": 17490000.0,
-            "mode": 2
-        },
-        "China Radio International(504)": {
             "bandwidth": 150000.0,
             "frequency": 17490000.0,
             "mode": 2
@@ -18965,17 +19015,17 @@
             "frequency": 17500000.0,
             "mode": 2
         },
+        "China Radio International(504)": {
+            "bandwidth": 150000.0,
+            "frequency": 17510000.0,
+            "mode": 2
+        },
         "China Radio International(505)": {
             "bandwidth": 150000.0,
             "frequency": 17510000.0,
             "mode": 2
         },
         "China Radio International(506)": {
-            "bandwidth": 150000.0,
-            "frequency": 17510000.0,
-            "mode": 2
-        },
-        "China Radio International(507)": {
             "bandwidth": 150000.0,
             "frequency": 17510000.0,
             "mode": 2
@@ -18990,17 +19040,17 @@
             "frequency": 17515000.0,
             "mode": 2
         },
-        "China Radio International(508)": {
+        "China Radio International(507)": {
             "bandwidth": 150000.0,
             "frequency": 17520000.0,
             "mode": 2
         },
-        "China Radio International(509)": {
+        "China Radio International(508)": {
             "bandwidth": 150000.0,
             "frequency": 17530000.0,
             "mode": 2
         },
-        "China Radio International(510)": {
+        "China Radio International(509)": {
             "bandwidth": 150000.0,
             "frequency": 17530000.0,
             "mode": 2
@@ -19018,6 +19068,11 @@
         "BBC(106)": {
             "bandwidth": 150000.0,
             "frequency": 17535000.0,
+            "mode": 2
+        },
+        "China Radio International(510)": {
+            "bandwidth": 150000.0,
+            "frequency": 17540000.0,
             "mode": 2
         },
         "China Radio International(511)": {
@@ -19041,11 +19096,6 @@
             "mode": 2
         },
         "China Radio International(515)": {
-            "bandwidth": 150000.0,
-            "frequency": 17540000.0,
-            "mode": 2
-        },
-        "China Radio International(516)": {
             "bandwidth": 150000.0,
             "frequency": 17540000.0,
             "mode": 2
@@ -19085,17 +19135,17 @@
             "frequency": 17555000.0,
             "mode": 2
         },
+        "China Radio International(516)": {
+            "bandwidth": 150000.0,
+            "frequency": 17560000.0,
+            "mode": 2
+        },
         "China Radio International(517)": {
             "bandwidth": 150000.0,
             "frequency": 17560000.0,
             "mode": 2
         },
         "China Radio International(518)": {
-            "bandwidth": 150000.0,
-            "frequency": 17560000.0,
-            "mode": 2
-        },
-        "China Radio International(519)": {
             "bandwidth": 150000.0,
             "frequency": 17560000.0,
             "mode": 2
@@ -19115,17 +19165,17 @@
             "frequency": 17565000.0,
             "mode": 2
         },
+        "China Radio International(519)": {
+            "bandwidth": 150000.0,
+            "frequency": 17570000.0,
+            "mode": 2
+        },
         "China Radio International(520)": {
             "bandwidth": 150000.0,
             "frequency": 17570000.0,
             "mode": 2
         },
         "China Radio International(521)": {
-            "bandwidth": 150000.0,
-            "frequency": 17570000.0,
-            "mode": 2
-        },
-        "China Radio International(522)": {
             "bandwidth": 150000.0,
             "frequency": 17570000.0,
             "mode": 2
@@ -19195,17 +19245,17 @@
             "frequency": 17600000.0,
             "mode": 2
         },
-        "China Radio International(523)": {
+        "China Radio International(522)": {
             "bandwidth": 150000.0,
             "frequency": 17605000.0,
             "mode": 2
         },
-        "China Radio International(524)": {
+        "China Radio International(523)": {
             "bandwidth": 150000.0,
             "frequency": 17615000.0,
             "mode": 2
         },
-        "China Radio International(525)": {
+        "China Radio International(524)": {
             "bandwidth": 150000.0,
             "frequency": 17615000.0,
             "mode": 2
@@ -19215,7 +19265,7 @@
             "frequency": 17615000.0,
             "mode": 2
         },
-        "China Radio International(526)": {
+        "China Radio International(525)": {
             "bandwidth": 150000.0,
             "frequency": 17620000.0,
             "mode": 2
@@ -19260,7 +19310,7 @@
             "frequency": 17625000.0,
             "mode": 2
         },
-        "China Radio International(527)": {
+        "China Radio International(526)": {
             "bandwidth": 150000.0,
             "frequency": 17630000.0,
             "mode": 2
@@ -19305,17 +19355,17 @@
             "frequency": 17640000.0,
             "mode": 2
         },
+        "China Radio International(527)": {
+            "bandwidth": 150000.0,
+            "frequency": 17640000.0,
+            "mode": 2
+        },
         "China Radio International(528)": {
             "bandwidth": 150000.0,
             "frequency": 17640000.0,
             "mode": 2
         },
         "China Radio International(529)": {
-            "bandwidth": 150000.0,
-            "frequency": 17640000.0,
-            "mode": 2
-        },
-        "China Radio International(530)": {
             "bandwidth": 150000.0,
             "frequency": 17640000.0,
             "mode": 2
@@ -19335,6 +19385,11 @@
             "frequency": 17650000.0,
             "mode": 2
         },
+        "China Radio International(530)": {
+            "bandwidth": 150000.0,
+            "frequency": 17650000.0,
+            "mode": 2
+        },
         "China Radio International(531)": {
             "bandwidth": 150000.0,
             "frequency": 17650000.0,
@@ -19350,17 +19405,7 @@
             "frequency": 17650000.0,
             "mode": 2
         },
-        "China Radio International(534)": {
-            "bandwidth": 150000.0,
-            "frequency": 17650000.0,
-            "mode": 2
-        },
         "KSDA Adventist World Radio(48)": {
-            "bandwidth": 150000.0,
-            "frequency": 17650000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(42)": {
             "bandwidth": 150000.0,
             "frequency": 17650000.0,
             "mode": 2
@@ -19370,12 +19415,17 @@
             "frequency": 17650000.0,
             "mode": 2
         },
-        "China Radio International(535)": {
+        "REACH BEYOND AUSTRALIA(44)": {
+            "bandwidth": 150000.0,
+            "frequency": 17650000.0,
+            "mode": 2
+        },
+        "China Radio International(534)": {
             "bandwidth": 150000.0,
             "frequency": 17655000.0,
             "mode": 2
         },
-        "China Radio International(536)": {
+        "China Radio International(535)": {
             "bandwidth": 150000.0,
             "frequency": 17655000.0,
             "mode": 2
@@ -19430,7 +19480,7 @@
             "frequency": 17665000.0,
             "mode": 2
         },
-        "China Radio International(537)": {
+        "China Radio International(536)": {
             "bandwidth": 150000.0,
             "frequency": 17670000.0,
             "mode": 2
@@ -19460,17 +19510,17 @@
             "frequency": 17675000.0,
             "mode": 2
         },
+        "China Radio International(537)": {
+            "bandwidth": 150000.0,
+            "frequency": 17680000.0,
+            "mode": 2
+        },
         "China Radio International(538)": {
             "bandwidth": 150000.0,
             "frequency": 17680000.0,
             "mode": 2
         },
         "China Radio International(539)": {
-            "bandwidth": 150000.0,
-            "frequency": 17680000.0,
-            "mode": 2
-        },
-        "China Radio International(540)": {
             "bandwidth": 150000.0,
             "frequency": 17680000.0,
             "mode": 2
@@ -19485,7 +19535,7 @@
             "frequency": 17685000.0,
             "mode": 2
         },
-        "China Radio International(541)": {
+        "China Radio International(540)": {
             "bandwidth": 150000.0,
             "frequency": 17690000.0,
             "mode": 2
@@ -19540,21 +19590,6 @@
             "frequency": 17700000.0,
             "mode": 2
         },
-        "TWR Asia(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
-        "TWR Asia(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
-        "TWR Asia(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
         "TWR Asia(4)": {
             "bandwidth": 150000.0,
             "frequency": 17700000.0,
@@ -19580,12 +19615,27 @@
             "frequency": 17700000.0,
             "mode": 2
         },
-        "China Radio International(542)": {
+        "TWR Asia(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "TWR Asia(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "TWR Asia(11)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "China Radio International(541)": {
             "bandwidth": 150000.0,
             "frequency": 17710000.0,
             "mode": 2
         },
-        "China Radio International(543)": {
+        "China Radio International(542)": {
             "bandwidth": 150000.0,
             "frequency": 17710000.0,
             "mode": 2
@@ -19660,7 +19710,7 @@
             "frequency": 17715000.0,
             "mode": 2
         },
-        "China Radio International(544)": {
+        "China Radio International(543)": {
             "bandwidth": 150000.0,
             "frequency": 17720000.0,
             "mode": 2
@@ -19675,7 +19725,7 @@
             "frequency": 17720000.0,
             "mode": 2
         },
-        "China Radio International(545)": {
+        "China Radio International(544)": {
             "bandwidth": 150000.0,
             "frequency": 17730000.0,
             "mode": 2
@@ -19695,6 +19745,11 @@
             "frequency": 17730000.0,
             "mode": 2
         },
+        "China Radio International(545)": {
+            "bandwidth": 150000.0,
+            "frequency": 17735000.0,
+            "mode": 2
+        },
         "China Radio International(546)": {
             "bandwidth": 150000.0,
             "frequency": 17735000.0,
@@ -19705,14 +19760,14 @@
             "frequency": 17735000.0,
             "mode": 2
         },
-        "China Radio International(548)": {
+        "Yoruba Nation Radio": {
             "bandwidth": 150000.0,
             "frequency": 17735000.0,
             "mode": 2
         },
-        "Yoruba Nation Radio": {
+        "China Radio International(548)": {
             "bandwidth": 150000.0,
-            "frequency": 17735000.0,
+            "frequency": 17740000.0,
             "mode": 2
         },
         "China Radio International(549)": {
@@ -19721,11 +19776,6 @@
             "mode": 2
         },
         "China Radio International(550)": {
-            "bandwidth": 150000.0,
-            "frequency": 17740000.0,
-            "mode": 2
-        },
-        "China Radio International(551)": {
             "bandwidth": 150000.0,
             "frequency": 17740000.0,
             "mode": 2
@@ -19770,12 +19820,12 @@
             "frequency": 17750000.0,
             "mode": 2
         },
-        "China Radio International(552)": {
+        "China Radio International(551)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
         },
-        "China Radio International(553)": {
+        "China Radio International(552)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
@@ -19820,7 +19870,7 @@
             "frequency": 17760000.0,
             "mode": 2
         },
-        "China Radio International(554)": {
+        "China Radio International(553)": {
             "bandwidth": 150000.0,
             "frequency": 17765000.0,
             "mode": 2
@@ -20075,6 +20125,11 @@
             "frequency": 17830000.0,
             "mode": 2
         },
+        "China Radio International(554)": {
+            "bandwidth": 150000.0,
+            "frequency": 17840000.0,
+            "mode": 2
+        },
         "China Radio International(555)": {
             "bandwidth": 150000.0,
             "frequency": 17840000.0,
@@ -20086,11 +20141,6 @@
             "mode": 2
         },
         "China Radio International(557)": {
-            "bandwidth": 150000.0,
-            "frequency": 17840000.0,
-            "mode": 2
-        },
-        "China Radio International(558)": {
             "bandwidth": 150000.0,
             "frequency": 17840000.0,
             "mode": 2
@@ -20130,7 +20180,7 @@
             "frequency": 17850000.0,
             "mode": 2
         },
-        "China Radio International(559)": {
+        "China Radio International(558)": {
             "bandwidth": 150000.0,
             "frequency": 17855000.0,
             "mode": 2
@@ -20140,7 +20190,7 @@
             "frequency": 17860000.0,
             "mode": 2
         },
-        "China Radio International(560)": {
+        "China Radio International(559)": {
             "bandwidth": 150000.0,
             "frequency": 17865000.0,
             "mode": 2
@@ -20148,6 +20198,11 @@
         "IBRA MediaR.SADAYE ZINDAGI(2)": {
             "bandwidth": 150000.0,
             "frequency": 17865000.0,
+            "mode": 2
+        },
+        "China Radio International(560)": {
+            "bandwidth": 150000.0,
+            "frequency": 17880000.0,
             "mode": 2
         },
         "China Radio International(561)": {
@@ -20161,11 +20216,6 @@
             "mode": 2
         },
         "China Radio International(563)": {
-            "bandwidth": 150000.0,
-            "frequency": 17880000.0,
-            "mode": 2
-        },
-        "China Radio International(564)": {
             "bandwidth": 150000.0,
             "frequency": 17880000.0,
             "mode": 2
