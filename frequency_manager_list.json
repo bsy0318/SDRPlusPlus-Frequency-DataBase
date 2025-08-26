@@ -1595,11 +1595,6 @@
             "frequency": 5920000.0,
             "mode": 2
         },
-        "North Korean Jamming": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
         "WTWW": {
             "bandwidth": 150000.0,
             "frequency": 5920000.0,
@@ -2350,7 +2345,7 @@
             "frequency": 6015000.0,
             "mode": 2
         },
-        "North Korean Jamming(1)": {
+        "North Korean Jamming": {
             "bandwidth": 150000.0,
             "frequency": 6015000.0,
             "mode": 2
@@ -2593,6 +2588,11 @@
         "Voice of Turkey(1)": {
             "bandwidth": 150000.0,
             "frequency": 6040000.0,
+            "mode": 2
+        },
+        "North Korean Jamming(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 6045000.0,
             "mode": 2
         },
         "Voice of Freedom": {
@@ -5190,21 +5190,6 @@
             "frequency": 7310000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(90)": {
-            "bandwidth": 150000.0,
-            "frequency": 7310000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(91)": {
-            "bandwidth": 150000.0,
-            "frequency": 7310000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(92)": {
-            "bandwidth": 150000.0,
-            "frequency": 7310000.0,
-            "mode": 2
-        },
         "China Radio International(79)": {
             "bandwidth": 150000.0,
             "frequency": 7315000.0,
@@ -5500,7 +5485,7 @@
             "frequency": 7360000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(93)": {
+        "CNR 1 Voice of China(90)": {
             "bandwidth": 150000.0,
             "frequency": 7365000.0,
             "mode": 2
@@ -5765,6 +5750,21 @@
             "frequency": 7420000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(91)": {
+            "bandwidth": 150000.0,
+            "frequency": 7420000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(92)": {
+            "bandwidth": 150000.0,
+            "frequency": 7420000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(93)": {
+            "bandwidth": 150000.0,
+            "frequency": 7420000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(94)": {
             "bandwidth": 150000.0,
             "frequency": 7420000.0,
@@ -5796,21 +5796,6 @@
             "mode": 2
         },
         "CNR 1 Voice of China(100)": {
-            "bandwidth": 150000.0,
-            "frequency": 7420000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(101)": {
-            "bandwidth": 150000.0,
-            "frequency": 7420000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(102)": {
-            "bandwidth": 150000.0,
-            "frequency": 7420000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(103)": {
             "bandwidth": 150000.0,
             "frequency": 7420000.0,
             "mode": 2
@@ -5860,7 +5845,7 @@
             "frequency": 7430000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(104)": {
+        "CNR 1 Voice of China(101)": {
             "bandwidth": 150000.0,
             "frequency": 7430000.0,
             "mode": 2
@@ -5945,6 +5930,21 @@
             "frequency": 7445000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(102)": {
+            "bandwidth": 150000.0,
+            "frequency": 7450000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(103)": {
+            "bandwidth": 150000.0,
+            "frequency": 7450000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(104)": {
+            "bandwidth": 150000.0,
+            "frequency": 7450000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(105)": {
             "bandwidth": 150000.0,
             "frequency": 7450000.0,
@@ -5966,21 +5966,6 @@
             "mode": 2
         },
         "CNR 1 Voice of China(109)": {
-            "bandwidth": 150000.0,
-            "frequency": 7450000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(110)": {
-            "bandwidth": 150000.0,
-            "frequency": 7450000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(111)": {
-            "bandwidth": 150000.0,
-            "frequency": 7450000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(112)": {
             "bandwidth": 150000.0,
             "frequency": 7450000.0,
             "mode": 2
@@ -6565,11 +6550,6 @@
             "frequency": 8169000.0,
             "mode": 2
         },
-        "XINGXING GUANGBO DIANTAI 3(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 8169000.0,
-            "mode": 2
-        },
         "Carriers only(2)": {
             "bandwidth": 150000.0,
             "frequency": 8300000.0,
@@ -6581,21 +6561,6 @@
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 1": {
-            "bandwidth": 150000.0,
-            "frequency": 8300000.0,
-            "mode": 2
-        },
-        "XINGXING GUANGBO DIANTAI 1(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 8300000.0,
-            "mode": 2
-        },
-        "XINGXING GUANGBO DIANTAI 1(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 8300000.0,
-            "mode": 2
-        },
-        "XINGXING GUANGBO DIANTAI 1(3)": {
             "bandwidth": 150000.0,
             "frequency": 8300000.0,
             "mode": 2
@@ -6786,11 +6751,6 @@
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 2": {
-            "bandwidth": 150000.0,
-            "frequency": 9276000.0,
-            "mode": 2
-        },
-        "XINGXING GUANGBO DIANTAI 2(1)": {
             "bandwidth": 150000.0,
             "frequency": 9276000.0,
             "mode": 2
@@ -7730,17 +7690,17 @@
             "frequency": 9500000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(113)": {
+        "CNR 1 Voice of China(110)": {
             "bandwidth": 150000.0,
             "frequency": 9500000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(114)": {
+        "CNR 1 Voice of China(111)": {
             "bandwidth": 150000.0,
             "frequency": 9500000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(115)": {
+        "CNR 1 Voice of China(112)": {
             "bandwidth": 150000.0,
             "frequency": 9500000.0,
             "mode": 2
@@ -7865,27 +7825,27 @@
             "frequency": 9515000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(113)": {
+            "bandwidth": 150000.0,
+            "frequency": 9520000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(114)": {
+            "bandwidth": 150000.0,
+            "frequency": 9520000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(115)": {
+            "bandwidth": 150000.0,
+            "frequency": 9520000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(116)": {
             "bandwidth": 150000.0,
             "frequency": 9520000.0,
             "mode": 2
         },
         "CNR 1 Voice of China(117)": {
-            "bandwidth": 150000.0,
-            "frequency": 9520000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(118)": {
-            "bandwidth": 150000.0,
-            "frequency": 9520000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(119)": {
-            "bandwidth": 150000.0,
-            "frequency": 9520000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(120)": {
             "bandwidth": 150000.0,
             "frequency": 9520000.0,
             "mode": 2
@@ -8040,7 +8000,7 @@
             "frequency": 9540000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(121)": {
+        "CNR 1 Voice of China(118)": {
             "bandwidth": 150000.0,
             "frequency": 9540000.0,
             "mode": 2
@@ -8155,7 +8115,7 @@
             "frequency": 9550000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(122)": {
+        "CNR 1 Voice of China(119)": {
             "bandwidth": 150000.0,
             "frequency": 9555000.0,
             "mode": 2
@@ -8490,6 +8450,11 @@
             "frequency": 9600000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(120)": {
+            "bandwidth": 150000.0,
+            "frequency": 9600000.0,
+            "mode": 2
+        },
         "PBS Xinjiang(23)": {
             "bandwidth": 150000.0,
             "frequency": 9600000.0,
@@ -8500,12 +8465,22 @@
             "frequency": 9600000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(123)": {
+        "PBS Xinjiang(25)": {
             "bandwidth": 150000.0,
             "frequency": 9600000.0,
             "mode": 2
         },
-        "PBS Xinjiang(25)": {
+        "PBS Xinjiang(26)": {
+            "bandwidth": 150000.0,
+            "frequency": 9600000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(121)": {
+            "bandwidth": 150000.0,
+            "frequency": 9600000.0,
+            "mode": 2
+        },
+        "PBS Xinjiang(27)": {
             "bandwidth": 150000.0,
             "frequency": 9600000.0,
             "mode": 2
@@ -8635,17 +8610,17 @@
             "frequency": 9620000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(122)": {
+            "bandwidth": 150000.0,
+            "frequency": 9630000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(123)": {
+            "bandwidth": 150000.0,
+            "frequency": 9630000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(124)": {
-            "bandwidth": 150000.0,
-            "frequency": 9630000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(125)": {
-            "bandwidth": 150000.0,
-            "frequency": 9630000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(126)": {
             "bandwidth": 150000.0,
             "frequency": 9630000.0,
             "mode": 2
@@ -8735,17 +8710,17 @@
             "frequency": 9645000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(125)": {
+            "bandwidth": 150000.0,
+            "frequency": 9645000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(126)": {
+            "bandwidth": 150000.0,
+            "frequency": 9645000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(127)": {
-            "bandwidth": 150000.0,
-            "frequency": 9645000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(128)": {
-            "bandwidth": 150000.0,
-            "frequency": 9645000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(129)": {
             "bandwidth": 150000.0,
             "frequency": 9645000.0,
             "mode": 2
@@ -8835,12 +8810,12 @@
             "frequency": 9655000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(130)": {
+        "CNR 1 Voice of China(128)": {
             "bandwidth": 150000.0,
             "frequency": 9655000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(131)": {
+        "CNR 1 Voice of China(129)": {
             "bandwidth": 150000.0,
             "frequency": 9655000.0,
             "mode": 2
@@ -8870,12 +8845,12 @@
             "frequency": 9655000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(132)": {
+        "CNR 1 Voice of China(130)": {
             "bandwidth": 150000.0,
             "frequency": 9660000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(133)": {
+        "CNR 1 Voice of China(131)": {
             "bandwidth": 150000.0,
             "frequency": 9660000.0,
             "mode": 2
@@ -9000,17 +8975,17 @@
             "frequency": 9675000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(132)": {
+            "bandwidth": 150000.0,
+            "frequency": 9675000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(133)": {
+            "bandwidth": 150000.0,
+            "frequency": 9675000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(134)": {
-            "bandwidth": 150000.0,
-            "frequency": 9675000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(135)": {
-            "bandwidth": 150000.0,
-            "frequency": 9675000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(136)": {
             "bandwidth": 150000.0,
             "frequency": 9675000.0,
             "mode": 2
@@ -9020,7 +8995,7 @@
             "frequency": 9675000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(137)": {
+        "CNR 1 Voice of China(135)": {
             "bandwidth": 150000.0,
             "frequency": 9680000.0,
             "mode": 2
@@ -9190,12 +9165,12 @@
             "frequency": 9705000.0,
             "mode": 2
         },
-        "PBS Xinjiang(26)": {
+        "PBS Xinjiang(28)": {
             "bandwidth": 150000.0,
             "frequency": 9705000.0,
             "mode": 2
         },
-        "PBS Xinjiang(27)": {
+        "PBS Xinjiang(29)": {
             "bandwidth": 150000.0,
             "frequency": 9705000.0,
             "mode": 2
@@ -9205,12 +9180,12 @@
             "frequency": 9710000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(138)": {
+        "CNR 1 Voice of China(136)": {
             "bandwidth": 150000.0,
             "frequency": 9710000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(139)": {
+        "CNR 1 Voice of China(137)": {
             "bandwidth": 150000.0,
             "frequency": 9710000.0,
             "mode": 2
@@ -9465,7 +9440,7 @@
             "frequency": 9730000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(140)": {
+        "CNR 1 Voice of China(138)": {
             "bandwidth": 150000.0,
             "frequency": 9735000.0,
             "mode": 2
@@ -9495,22 +9470,17 @@
             "frequency": 9740000.0,
             "mode": 2
         },
-        "Radio Romania Int.(20)": {
-            "bandwidth": 150000.0,
-            "frequency": 9740000.0,
-            "mode": 2
-        },
         "Radio Romania Int. 1001": {
             "bandwidth": 150000.0,
             "frequency": 9740000.0,
             "mode": 2
         },
-        "Radio Romania Int.(21)": {
+        "Radio Romania Int.(20)": {
             "bandwidth": 150000.0,
             "frequency": 9740000.0,
             "mode": 2
         },
-        "Radio Romania Int.(22)": {
+        "Radio Romania Int.(21)": {
             "bandwidth": 150000.0,
             "frequency": 9740000.0,
             "mode": 2
@@ -9575,7 +9545,7 @@
             "frequency": 9750000.0,
             "mode": 2
         },
-        "Radio Romania Int.(23)": {
+        "Radio Romania Int.(22)": {
             "bandwidth": 150000.0,
             "frequency": 9750000.0,
             "mode": 2
@@ -9688,6 +9658,11 @@
         "Voice of Turkey(14)": {
             "bandwidth": 150000.0,
             "frequency": 9770000.0,
+            "mode": 2
+        },
+        "Fu Hsing BS(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9774000.0,
             "mode": 2
         },
         "CNR 2 Business Radio(39)": {
@@ -9890,12 +9865,12 @@
             "frequency": 9810000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(141)": {
+        "CNR 1 Voice of China(139)": {
             "bandwidth": 150000.0,
             "frequency": 9810000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(142)": {
+        "CNR 1 Voice of China(140)": {
             "bandwidth": 150000.0,
             "frequency": 9810000.0,
             "mode": 2
@@ -9990,17 +9965,17 @@
             "frequency": 9825000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(141)": {
+            "bandwidth": 150000.0,
+            "frequency": 9830000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(142)": {
+            "bandwidth": 150000.0,
+            "frequency": 9830000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(143)": {
-            "bandwidth": 150000.0,
-            "frequency": 9830000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(144)": {
-            "bandwidth": 150000.0,
-            "frequency": 9830000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(145)": {
             "bandwidth": 150000.0,
             "frequency": 9830000.0,
             "mode": 2
@@ -10025,17 +10000,17 @@
             "frequency": 9835000.0,
             "mode": 2
         },
-        "PBS Xinjiang(28)": {
-            "bandwidth": 150000.0,
-            "frequency": 9835000.0,
-            "mode": 2
-        },
-        "PBS Xinjiang(29)": {
-            "bandwidth": 150000.0,
-            "frequency": 9835000.0,
-            "mode": 2
-        },
         "PBS Xinjiang(30)": {
+            "bandwidth": 150000.0,
+            "frequency": 9835000.0,
+            "mode": 2
+        },
+        "PBS Xinjiang(31)": {
+            "bandwidth": 150000.0,
+            "frequency": 9835000.0,
+            "mode": 2
+        },
+        "PBS Xinjiang(32)": {
             "bandwidth": 150000.0,
             "frequency": 9835000.0,
             "mode": 2
@@ -10115,12 +10090,12 @@
             "frequency": 9840000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(146)": {
+        "CNR 1 Voice of China(144)": {
             "bandwidth": 150000.0,
             "frequency": 9845000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(147)": {
+        "CNR 1 Voice of China(145)": {
             "bandwidth": 150000.0,
             "frequency": 9845000.0,
             "mode": 2
@@ -10180,12 +10155,12 @@
             "frequency": 9860000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(148)": {
+        "CNR 1 Voice of China(146)": {
             "bandwidth": 150000.0,
             "frequency": 9860000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(149)": {
+        "CNR 1 Voice of China(147)": {
             "bandwidth": 150000.0,
             "frequency": 9860000.0,
             "mode": 2
@@ -10375,7 +10350,7 @@
             "frequency": 9883000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(150)": {
+        "CNR 1 Voice of China(148)": {
             "bandwidth": 150000.0,
             "frequency": 9885000.0,
             "mode": 2
@@ -10460,7 +10435,7 @@
             "frequency": 9895000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(151)": {
+        "CNR 1 Voice of China(149)": {
             "bandwidth": 150000.0,
             "frequency": 9900000.0,
             "mode": 2
@@ -10516,11 +10491,6 @@
             "mode": 2
         },
         "KTWR(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 9910000.0,
-            "mode": 2
-        },
-        "KTWR(10)": {
             "bandwidth": 150000.0,
             "frequency": 9910000.0,
             "mode": 2
@@ -10615,12 +10585,12 @@
             "frequency": 9930000.0,
             "mode": 2
         },
-        "Hope Radio Maintain the": {
+        "Hope Radio Kingdom of Go": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
             "mode": 2
         },
-        "Hope Radio Kingdom of Go": {
+        "Hope Radio Maintain the": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
             "mode": 2
@@ -10635,7 +10605,7 @@
             "frequency": 9930000.0,
             "mode": 2
         },
-        "Hope Radio Anser to Your": {
+        "Hope Radio Answer to You": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
             "mode": 2
@@ -10646,6 +10616,51 @@
             "mode": 2
         },
         "HOPE Radio TRUTH TALKSMUSIC": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Kingdom of Go(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Gospel of Jes": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Kingdom's Roa": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio The Whole Tru": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Answer to You(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Come Alive(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Timely Messeg": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio MFC Worldwide(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio God is in the(1)": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
             "mode": 2
@@ -11145,7 +11160,7 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio MFC Worldwide(2)": {
+        "Hope Radio MFC Worldwide(3)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11195,7 +11210,7 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio God is in the(1)": {
+        "Hope Radio God is in the(2)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11205,7 +11220,7 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio MFC Worldwide(3)": {
+        "Hope Radio MFC Worldwide(4)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11220,7 +11235,7 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio Gospel of Jes": {
+        "Hope Radio Gospel of Jes(1)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11230,7 +11245,7 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio MFC Worldwide(4)": {
+        "Hope Radio MFC Worldwide(5)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11245,17 +11260,7 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio The Whole Tru": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "Hope Radio Kingdom's Roa": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "HOPE Radio MUSIC(3)": {
+        "Hope Radio The Whole Tru(1)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11265,7 +11270,17 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio Kingdom of Go(1)": {
+        "HOPE Radio MUSIC(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Kingdom's Roa(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Kingdom of Go(2)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11278,6 +11293,11 @@
         "SOH Xi Wang Zhi Sheng(45)": {
             "bandwidth": 150000.0,
             "frequency": 9970000.0,
+            "mode": 2
+        },
+        "KTWR(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 9975000.0,
             "mode": 2
         },
         "KTWR(11)": {
@@ -11306,6 +11326,21 @@
             "mode": 2
         },
         "KTWR(16)": {
+            "bandwidth": 150000.0,
+            "frequency": 9975000.0,
+            "mode": 2
+        },
+        "KTWR(17)": {
+            "bandwidth": 150000.0,
+            "frequency": 9975000.0,
+            "mode": 2
+        },
+        "KTWR(18)": {
+            "bandwidth": 150000.0,
+            "frequency": 9975000.0,
+            "mode": 2
+        },
+        "KTWR(19)": {
             "bandwidth": 150000.0,
             "frequency": 9975000.0,
             "mode": 2
@@ -11430,12 +11465,12 @@
             "frequency": 11410000.0,
             "mode": 2
         },
-        "Carriers only(6)": {
+        "XINGXING GUANGBO DIANTAI 1(1)": {
             "bandwidth": 150000.0,
             "frequency": 11430000.0,
             "mode": 2
         },
-        "XINGXING GUANGBO DIANTAI 1(4)": {
+        "XINGXING GUANGBO DIANTAI 1(2)": {
             "bandwidth": 150000.0,
             "frequency": 11430000.0,
             "mode": 2
@@ -11515,7 +11550,7 @@
             "frequency": 11550000.0,
             "mode": 2
         },
-        "KTWR(17)": {
+        "KTWR(20)": {
             "bandwidth": 150000.0,
             "frequency": 11550000.0,
             "mode": 2
@@ -11555,12 +11590,12 @@
             "frequency": 11590000.0,
             "mode": 2
         },
-        "KTWR(18)": {
+        "KTWR(21)": {
             "bandwidth": 150000.0,
             "frequency": 11590000.0,
             "mode": 2
         },
-        "KTWR(19)": {
+        "KTWR(22)": {
             "bandwidth": 150000.0,
             "frequency": 11590000.0,
             "mode": 2
@@ -11600,7 +11635,7 @@
             "frequency": 11605000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(152)": {
+        "CNR 1 Voice of China(150)": {
             "bandwidth": 150000.0,
             "frequency": 11605000.0,
             "mode": 2
@@ -11675,17 +11710,17 @@
             "frequency": 11620000.0,
             "mode": 2
         },
+        "Radio Romania Int.(23)": {
+            "bandwidth": 150000.0,
+            "frequency": 11620000.0,
+            "mode": 2
+        },
         "Radio Romania Int.(24)": {
             "bandwidth": 150000.0,
             "frequency": 11620000.0,
             "mode": 2
         },
         "Radio Romania Int.(25)": {
-            "bandwidth": 150000.0,
-            "frequency": 11620000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(26)": {
             "bandwidth": 150000.0,
             "frequency": 11620000.0,
             "mode": 2
@@ -11930,7 +11965,7 @@
             "frequency": 11650000.0,
             "mode": 2
         },
-        "Radio Romania Int.(27)": {
+        "Radio Romania Int.(26)": {
             "bandwidth": 150000.0,
             "frequency": 11650000.0,
             "mode": 2
@@ -12215,7 +12250,7 @@
             "frequency": 11695000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(153)": {
+        "CNR 1 Voice of China(151)": {
             "bandwidth": 150000.0,
             "frequency": 11695000.0,
             "mode": 2
@@ -12250,7 +12285,7 @@
             "frequency": 11700000.0,
             "mode": 2
         },
-        "Radio Romania Int.(28)": {
+        "Radio Romania Int.(27)": {
             "bandwidth": 150000.0,
             "frequency": 11700000.0,
             "mode": 2
@@ -12320,17 +12355,17 @@
             "frequency": 11720000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(152)": {
+            "bandwidth": 150000.0,
+            "frequency": 11720000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(153)": {
+            "bandwidth": 150000.0,
+            "frequency": 11720000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(154)": {
-            "bandwidth": 150000.0,
-            "frequency": 11720000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(155)": {
-            "bandwidth": 150000.0,
-            "frequency": 11720000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(156)": {
             "bandwidth": 150000.0,
             "frequency": 11720000.0,
             "mode": 2
@@ -12380,7 +12415,7 @@
             "frequency": 11730000.0,
             "mode": 2
         },
-        "Radio Romania Int.(29)": {
+        "Radio Romania Int.(28)": {
             "bandwidth": 150000.0,
             "frequency": 11730000.0,
             "mode": 2
@@ -12470,12 +12505,12 @@
             "frequency": 11740000.0,
             "mode": 2
         },
-        "Radio Romania Int.(30)": {
+        "Radio Romania Int.(29)": {
             "bandwidth": 150000.0,
             "frequency": 11740000.0,
             "mode": 2
         },
-        "Radio Romania Int.(31)": {
+        "Radio Romania Int.(30)": {
             "bandwidth": 150000.0,
             "frequency": 11740000.0,
             "mode": 2
@@ -12495,12 +12530,12 @@
             "frequency": 11750000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(157)": {
+        "CNR 1 Voice of China(155)": {
             "bandwidth": 150000.0,
             "frequency": 11750000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(158)": {
+        "CNR 1 Voice of China(156)": {
             "bandwidth": 150000.0,
             "frequency": 11750000.0,
             "mode": 2
@@ -12520,7 +12555,7 @@
             "frequency": 11750000.0,
             "mode": 2
         },
-        "Radio Romania Int.(32)": {
+        "Radio Romania Int.(31)": {
             "bandwidth": 150000.0,
             "frequency": 11750000.0,
             "mode": 2
@@ -12545,17 +12580,17 @@
             "frequency": 11760000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(157)": {
+            "bandwidth": 150000.0,
+            "frequency": 11760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(158)": {
+            "bandwidth": 150000.0,
+            "frequency": 11760000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(159)": {
-            "bandwidth": 150000.0,
-            "frequency": 11760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(160)": {
-            "bandwidth": 150000.0,
-            "frequency": 11760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(161)": {
             "bandwidth": 150000.0,
             "frequency": 11760000.0,
             "mode": 2
@@ -12630,6 +12665,16 @@
             "frequency": 11770000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(160)": {
+            "bandwidth": 150000.0,
+            "frequency": 11770000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(161)": {
+            "bandwidth": 150000.0,
+            "frequency": 11770000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(162)": {
             "bandwidth": 150000.0,
             "frequency": 11770000.0,
@@ -12651,16 +12696,6 @@
             "mode": 2
         },
         "CNR 1 Voice of China(166)": {
-            "bandwidth": 150000.0,
-            "frequency": 11770000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(167)": {
-            "bandwidth": 150000.0,
-            "frequency": 11770000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(168)": {
             "bandwidth": 150000.0,
             "frequency": 11770000.0,
             "mode": 2
@@ -12711,11 +12746,6 @@
             "mode": 2
         },
         "China Radio International(312)": {
-            "bandwidth": 150000.0,
-            "frequency": 11780000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(33)": {
             "bandwidth": 150000.0,
             "frequency": 11780000.0,
             "mode": 2
@@ -12775,7 +12805,7 @@
             "frequency": 11790000.0,
             "mode": 2
         },
-        "Radio Romania Int.(34)": {
+        "Radio Romania Int.(32)": {
             "bandwidth": 150000.0,
             "frequency": 11790000.0,
             "mode": 2
@@ -12815,7 +12845,7 @@
             "frequency": 11800000.0,
             "mode": 2
         },
-        "Radio Romania Int.(35)": {
+        "Radio Romania Int.(33)": {
             "bandwidth": 150000.0,
             "frequency": 11800000.0,
             "mode": 2
@@ -12890,7 +12920,7 @@
             "frequency": 11810000.0,
             "mode": 2
         },
-        "Radio Romania Int.(36)": {
+        "Radio Romania Int.(34)": {
             "bandwidth": 150000.0,
             "frequency": 11810000.0,
             "mode": 2
@@ -12900,12 +12930,12 @@
             "frequency": 11815000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(169)": {
+        "CNR 1 Voice of China(167)": {
             "bandwidth": 150000.0,
             "frequency": 11815000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(170)": {
+        "CNR 1 Voice of China(168)": {
             "bandwidth": 150000.0,
             "frequency": 11815000.0,
             "mode": 2
@@ -12980,6 +13010,11 @@
             "frequency": 11815000.0,
             "mode": 2
         },
+        "Radio Romania Int.(35)": {
+            "bandwidth": 150000.0,
+            "frequency": 11820000.0,
+            "mode": 2
+        },
         "China Radio International(320)": {
             "bandwidth": 150000.0,
             "frequency": 11820000.0,
@@ -13020,6 +13055,11 @@
             "frequency": 11830000.0,
             "mode": 2
         },
+        "Radio Romania Int.(36)": {
+            "bandwidth": 150000.0,
+            "frequency": 11830000.0,
+            "mode": 2
+        },
         "Radio Romania Int.(37)": {
             "bandwidth": 150000.0,
             "frequency": 11830000.0,
@@ -13030,12 +13070,17 @@
             "frequency": 11830000.0,
             "mode": 2
         },
-        "Radio Romania Int.(39)": {
+        "BBC(51)": {
             "bandwidth": 150000.0,
             "frequency": 11830000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(171)": {
+        "CNR 1 Voice of China(169)": {
+            "bandwidth": 150000.0,
+            "frequency": 11850000.0,
+            "mode": 2
+        },
+        "KSDA Adventist World Radio(10)": {
             "bandwidth": 150000.0,
             "frequency": 11850000.0,
             "mode": 2
@@ -13050,7 +13095,7 @@
             "frequency": 11855000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(10)": {
+        "KSDA Adventist World Radio(11)": {
             "bandwidth": 150000.0,
             "frequency": 11855000.0,
             "mode": 2
@@ -13070,17 +13115,17 @@
             "frequency": 11860000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(172)": {
+        "CNR 1 Voice of China(170)": {
+            "bandwidth": 150000.0,
+            "frequency": 11860000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(39)": {
             "bandwidth": 150000.0,
             "frequency": 11860000.0,
             "mode": 2
         },
         "Radio Romania Int.(40)": {
-            "bandwidth": 150000.0,
-            "frequency": 11860000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(41)": {
             "bandwidth": 150000.0,
             "frequency": 11860000.0,
             "mode": 2
@@ -13205,7 +13250,7 @@
             "frequency": 11870000.0,
             "mode": 2
         },
-        "BBC(51)": {
+        "BBC(52)": {
             "bandwidth": 150000.0,
             "frequency": 11875000.0,
             "mode": 2
@@ -13265,7 +13310,7 @@
             "frequency": 11880000.0,
             "mode": 2
         },
-        "Radio Romania Int.(42)": {
+        "Radio Romania Int.(41)": {
             "bandwidth": 150000.0,
             "frequency": 11880000.0,
             "mode": 2
@@ -13280,7 +13325,7 @@
             "frequency": 11880000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(173)": {
+        "CNR 1 Voice of China(171)": {
             "bandwidth": 150000.0,
             "frequency": 11885000.0,
             "mode": 2
@@ -13375,7 +13420,7 @@
             "frequency": 11885000.0,
             "mode": 2
         },
-        "PBS Xinjiang(31)": {
+        "PBS Xinjiang(33)": {
             "bandwidth": 150000.0,
             "frequency": 11885000.0,
             "mode": 2
@@ -13630,12 +13675,12 @@
             "frequency": 11925000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(174)": {
+        "CNR 1 Voice of China(172)": {
             "bandwidth": 150000.0,
             "frequency": 11925000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(175)": {
+        "CNR 1 Voice of China(173)": {
             "bandwidth": 150000.0,
             "frequency": 11925000.0,
             "mode": 2
@@ -13710,7 +13755,7 @@
             "frequency": 11945000.0,
             "mode": 2
         },
-        "Radio Romania Int.(43)": {
+        "Radio Romania Int.(42)": {
             "bandwidth": 150000.0,
             "frequency": 11945000.0,
             "mode": 2
@@ -13735,7 +13780,7 @@
             "frequency": 11950000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(176)": {
+        "CNR 1 Voice of China(174)": {
             "bandwidth": 150000.0,
             "frequency": 11950000.0,
             "mode": 2
@@ -13745,7 +13790,7 @@
             "frequency": 11950000.0,
             "mode": 2
         },
-        "BBC(52)": {
+        "BBC(53)": {
             "bandwidth": 150000.0,
             "frequency": 11955000.0,
             "mode": 2
@@ -13775,27 +13820,12 @@
             "frequency": 11955000.0,
             "mode": 2
         },
-        "Radio Romania Int.(44)": {
+        "Radio Romania Int.(43)": {
             "bandwidth": 150000.0,
             "frequency": 11960000.0,
             "mode": 2
         },
         "China Radio International(361)": {
-            "bandwidth": 150000.0,
-            "frequency": 11965000.0,
-            "mode": 2
-        },
-        "KTWR(20)": {
-            "bandwidth": 150000.0,
-            "frequency": 11965000.0,
-            "mode": 2
-        },
-        "KTWR(21)": {
-            "bandwidth": 150000.0,
-            "frequency": 11965000.0,
-            "mode": 2
-        },
-        "KTWR(22)": {
             "bandwidth": 150000.0,
             "frequency": 11965000.0,
             "mode": 2
@@ -13826,6 +13856,21 @@
             "mode": 2
         },
         "KTWR(28)": {
+            "bandwidth": 150000.0,
+            "frequency": 11965000.0,
+            "mode": 2
+        },
+        "KTWR(29)": {
+            "bandwidth": 150000.0,
+            "frequency": 11965000.0,
+            "mode": 2
+        },
+        "KTWR(30)": {
+            "bandwidth": 150000.0,
+            "frequency": 11965000.0,
+            "mode": 2
+        },
+        "KTWR(31)": {
             "bandwidth": 150000.0,
             "frequency": 11965000.0,
             "mode": 2
@@ -13865,6 +13910,11 @@
             "frequency": 11975000.0,
             "mode": 2
         },
+        "Radio Romania Int.(44)": {
+            "bandwidth": 150000.0,
+            "frequency": 11975000.0,
+            "mode": 2
+        },
         "Radio Romania Int.(45)": {
             "bandwidth": 150000.0,
             "frequency": 11975000.0,
@@ -13875,17 +13925,12 @@
             "frequency": 11975000.0,
             "mode": 2
         },
-        "Radio Romania Int.(47)": {
+        "PBS Xinjiang(34)": {
             "bandwidth": 150000.0,
             "frequency": 11975000.0,
             "mode": 2
         },
-        "PBS Xinjiang(32)": {
-            "bandwidth": 150000.0,
-            "frequency": 11975000.0,
-            "mode": 2
-        },
-        "PBS Xinjiang(33)": {
+        "PBS Xinjiang(35)": {
             "bandwidth": 150000.0,
             "frequency": 11975000.0,
             "mode": 2
@@ -13920,12 +13965,12 @@
             "frequency": 11990000.0,
             "mode": 2
         },
-        "BBC(53)": {
+        "BBC(54)": {
             "bandwidth": 150000.0,
             "frequency": 11995000.0,
             "mode": 2
         },
-        "BBC(54)": {
+        "BBC(55)": {
             "bandwidth": 150000.0,
             "frequency": 11995000.0,
             "mode": 2
@@ -13955,7 +14000,7 @@
             "frequency": 12000000.0,
             "mode": 2
         },
-        "BBC(55)": {
+        "BBC(56)": {
             "bandwidth": 150000.0,
             "frequency": 12005000.0,
             "mode": 2
@@ -13970,17 +14015,17 @@
             "frequency": 12005000.0,
             "mode": 2
         },
-        "BBC(56)": {
-            "bandwidth": 150000.0,
-            "frequency": 12005000.0,
-            "mode": 2
-        },
         "BBC(57)": {
             "bandwidth": 150000.0,
             "frequency": 12005000.0,
             "mode": 2
         },
         "BBC(58)": {
+            "bandwidth": 150000.0,
+            "frequency": 12005000.0,
+            "mode": 2
+        },
+        "BBC(59)": {
             "bandwidth": 150000.0,
             "frequency": 12005000.0,
             "mode": 2
@@ -14165,32 +14210,32 @@
             "frequency": 12035000.0,
             "mode": 2
         },
-        "KTWR(29)": {
+        "KTWR(32)": {
             "bandwidth": 150000.0,
             "frequency": 12040000.0,
             "mode": 2
         },
-        "KTWR(30)": {
+        "KTWR(33)": {
             "bandwidth": 150000.0,
             "frequency": 12040000.0,
             "mode": 2
         },
-        "KTWR(31)": {
+        "KTWR(34)": {
             "bandwidth": 150000.0,
             "frequency": 12040000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(175)": {
+            "bandwidth": 150000.0,
+            "frequency": 12045000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(176)": {
+            "bandwidth": 150000.0,
+            "frequency": 12045000.0,
             "mode": 2
         },
         "CNR 1 Voice of China(177)": {
-            "bandwidth": 150000.0,
-            "frequency": 12045000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(178)": {
-            "bandwidth": 150000.0,
-            "frequency": 12045000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(179)": {
             "bandwidth": 150000.0,
             "frequency": 12045000.0,
             "mode": 2
@@ -14270,12 +14315,12 @@
             "frequency": 12060000.0,
             "mode": 2
         },
-        "BBC(59)": {
+        "BBC(60)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(180)": {
+        "CNR 1 Voice of China(178)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
@@ -14360,11 +14405,6 @@
             "frequency": 12085000.0,
             "mode": 2
         },
-        "BBC(60)": {
-            "bandwidth": 150000.0,
-            "frequency": 12095000.0,
-            "mode": 2
-        },
         "BBC(61)": {
             "bandwidth": 150000.0,
             "frequency": 12095000.0,
@@ -14426,6 +14466,11 @@
             "mode": 2
         },
         "BBC(73)": {
+            "bandwidth": 150000.0,
+            "frequency": 12095000.0,
+            "mode": 2
+        },
+        "BBC(74)": {
             "bandwidth": 150000.0,
             "frequency": 12095000.0,
             "mode": 2
@@ -14535,27 +14580,27 @@
             "frequency": 12160000.0,
             "mode": 2
         },
-        "KTWR(32)": {
-            "bandwidth": 150000.0,
-            "frequency": 12160000.0,
-            "mode": 2
-        },
-        "KTWR(33)": {
-            "bandwidth": 150000.0,
-            "frequency": 12160000.0,
-            "mode": 2
-        },
-        "KTWR(34)": {
-            "bandwidth": 150000.0,
-            "frequency": 12160000.0,
-            "mode": 2
-        },
         "KTWR(35)": {
             "bandwidth": 150000.0,
             "frequency": 12160000.0,
             "mode": 2
         },
         "KTWR(36)": {
+            "bandwidth": 150000.0,
+            "frequency": 12160000.0,
+            "mode": 2
+        },
+        "KTWR(37)": {
+            "bandwidth": 150000.0,
+            "frequency": 12160000.0,
+            "mode": 2
+        },
+        "KTWR(38)": {
+            "bandwidth": 150000.0,
+            "frequency": 12160000.0,
+            "mode": 2
+        },
+        "KTWR(39)": {
             "bandwidth": 150000.0,
             "frequency": 12160000.0,
             "mode": 2
@@ -14740,7 +14785,7 @@
             "frequency": 13580000.0,
             "mode": 2
         },
-        "Radio Romania Int.(48)": {
+        "Radio Romania Int.(47)": {
             "bandwidth": 150000.0,
             "frequency": 13580000.0,
             "mode": 2
@@ -14835,17 +14880,17 @@
             "frequency": 13610000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(179)": {
+            "bandwidth": 150000.0,
+            "frequency": 13610000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(180)": {
+            "bandwidth": 150000.0,
+            "frequency": 13610000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(181)": {
-            "bandwidth": 150000.0,
-            "frequency": 13610000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(182)": {
-            "bandwidth": 150000.0,
-            "frequency": 13610000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(183)": {
             "bandwidth": 150000.0,
             "frequency": 13610000.0,
             "mode": 2
@@ -14855,7 +14900,7 @@
             "frequency": 13610000.0,
             "mode": 2
         },
-        "Radio Romania Int.(49)": {
+        "Radio Romania Int.(48)": {
             "bandwidth": 150000.0,
             "frequency": 13610000.0,
             "mode": 2
@@ -15145,22 +15190,12 @@
             "frequency": 13670000.0,
             "mode": 2
         },
-        "PBS Xinjiang(34)": {
+        "PBS Xinjiang(36)": {
             "bandwidth": 150000.0,
             "frequency": 13670000.0,
             "mode": 2
         },
         "CNR 13 Uighur Radio(27)": {
-            "bandwidth": 150000.0,
-            "frequency": 13670000.0,
-            "mode": 2
-        },
-        "PBS Xinjiang(35)": {
-            "bandwidth": 150000.0,
-            "frequency": 13670000.0,
-            "mode": 2
-        },
-        "PBS Xinjiang(36)": {
             "bandwidth": 150000.0,
             "frequency": 13670000.0,
             "mode": 2
@@ -15171,6 +15206,16 @@
             "mode": 2
         },
         "PBS Xinjiang(38)": {
+            "bandwidth": 150000.0,
+            "frequency": 13670000.0,
+            "mode": 2
+        },
+        "PBS Xinjiang(39)": {
+            "bandwidth": 150000.0,
+            "frequency": 13670000.0,
+            "mode": 2
+        },
+        "PBS Xinjiang(40)": {
             "bandwidth": 150000.0,
             "frequency": 13670000.0,
             "mode": 2
@@ -15360,12 +15405,12 @@
             "frequency": 13730000.0,
             "mode": 2
         },
-        "BBC(74)": {
+        "BBC(75)": {
             "bandwidth": 150000.0,
             "frequency": 13740000.0,
             "mode": 2
         },
-        "BBC(75)": {
+        "BBC(76)": {
             "bandwidth": 150000.0,
             "frequency": 13740000.0,
             "mode": 2
@@ -15390,7 +15435,7 @@
             "frequency": 13740000.0,
             "mode": 2
         },
-        "Radio Romania Int.(50)": {
+        "Radio Romania Int.(49)": {
             "bandwidth": 150000.0,
             "frequency": 13740000.0,
             "mode": 2
@@ -15405,7 +15450,7 @@
             "frequency": 13740000.0,
             "mode": 2
         },
-        "BBC(76)": {
+        "BBC(77)": {
             "bandwidth": 150000.0,
             "frequency": 13745000.0,
             "mode": 2
@@ -15590,12 +15635,12 @@
             "frequency": 13790000.0,
             "mode": 2
         },
-        "BBC(77)": {
+        "BBC(78)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
         },
-        "BBC(78)": {
+        "BBC(79)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
@@ -15615,7 +15660,7 @@
             "frequency": 13790000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(184)": {
+        "CNR 1 Voice of China(182)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
@@ -15640,12 +15685,27 @@
             "frequency": 13800000.0,
             "mode": 2
         },
+        "TWR Africa(29)": {
+            "bandwidth": 150000.0,
+            "frequency": 13800000.0,
+            "mode": 2
+        },
+        "TWR Africa(30)": {
+            "bandwidth": 150000.0,
+            "frequency": 13800000.0,
+            "mode": 2
+        },
+        "TWR Africa(31)": {
+            "bandwidth": 150000.0,
+            "frequency": 13800000.0,
+            "mode": 2
+        },
         "SOH Xi Wang Zhi Sheng(111)": {
             "bandwidth": 150000.0,
             "frequency": 13805000.0,
             "mode": 2
         },
-        "BBC(79)": {
+        "BBC(80)": {
             "bandwidth": 150000.0,
             "frequency": 13810000.0,
             "mode": 2
@@ -15660,7 +15720,7 @@
             "frequency": 13810000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(185)": {
+        "CNR 1 Voice of China(183)": {
             "bandwidth": 150000.0,
             "frequency": 13810000.0,
             "mode": 2
@@ -15670,12 +15730,12 @@
             "frequency": 13820000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(186)": {
+        "CNR 1 Voice of China(184)": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(187)": {
+        "CNR 1 Voice of China(185)": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
@@ -15785,7 +15845,7 @@
             "frequency": 13845000.0,
             "mode": 2
         },
-        "BBC(80)": {
+        "BBC(81)": {
             "bandwidth": 150000.0,
             "frequency": 13850000.0,
             "mode": 2
@@ -15810,7 +15870,7 @@
             "frequency": 13860000.0,
             "mode": 2
         },
-        "Radio Romania Int.(51)": {
+        "Radio Romania Int.(50)": {
             "bandwidth": 150000.0,
             "frequency": 13860000.0,
             "mode": 2
@@ -15860,7 +15920,12 @@
             "frequency": 13960000.0,
             "mode": 2
         },
-        "Carriers only(7)": {
+        "Carriers only(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 13974000.0,
+            "mode": 2
+        },
+        "XINGXING GUANGBO DIANTAI 2(1)": {
             "bandwidth": 150000.0,
             "frequency": 13974000.0,
             "mode": 2
@@ -15876,11 +15941,6 @@
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 2(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 13974000.0,
-            "mode": 2
-        },
-        "XINGXING GUANGBO DIANTAI 2(5)": {
             "bandwidth": 150000.0,
             "frequency": 13974000.0,
             "mode": 2
@@ -15985,12 +16045,22 @@
             "frequency": 14940000.0,
             "mode": 2
         },
+        "XINGXING GUANGBO DIANTAI 3(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 14944000.0,
+            "mode": 2
+        },
         "XINGXING GUANGBO DIANTAI 3(2)": {
             "bandwidth": 150000.0,
             "frequency": 14944000.0,
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 3(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 14944000.0,
+            "mode": 2
+        },
+        "XINGXING GUANGBO DIANTAI 3(4)": {
             "bandwidth": 150000.0,
             "frequency": 14944000.0,
             "mode": 2
@@ -16013,21 +16083,6 @@
         "China Radio International(448)": {
             "bandwidth": 150000.0,
             "frequency": 15100000.0,
-            "mode": 2
-        },
-        "TWR Africa(29)": {
-            "bandwidth": 150000.0,
-            "frequency": 15105000.0,
-            "mode": 2
-        },
-        "TWR Africa(30)": {
-            "bandwidth": 150000.0,
-            "frequency": 15105000.0,
-            "mode": 2
-        },
-        "TWR Africa(31)": {
-            "bandwidth": 150000.0,
-            "frequency": 15105000.0,
             "mode": 2
         },
         "TWR Africa(32)": {
@@ -16100,7 +16155,7 @@
             "frequency": 15115000.0,
             "mode": 2
         },
-        "Radio Romania Int.(52)": {
+        "Radio Romania Int.(51)": {
             "bandwidth": 150000.0,
             "frequency": 15120000.0,
             "mode": 2
@@ -16120,12 +16175,12 @@
             "frequency": 15120000.0,
             "mode": 2
         },
-        "KTWR(37)": {
+        "KTWR(40)": {
             "bandwidth": 150000.0,
             "frequency": 15120000.0,
             "mode": 2
         },
-        "KTWR(38)": {
+        "KTWR(41)": {
             "bandwidth": 150000.0,
             "frequency": 15120000.0,
             "mode": 2
@@ -16143,6 +16198,11 @@
         "China Radio International(455)": {
             "bandwidth": 150000.0,
             "frequency": 15125000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(52)": {
+            "bandwidth": 150000.0,
+            "frequency": 15130000.0,
             "mode": 2
         },
         "Radio Romania Int.(53)": {
@@ -16166,11 +16226,6 @@
             "mode": 2
         },
         "Radio Romania Int.(57)": {
-            "bandwidth": 150000.0,
-            "frequency": 15130000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(58)": {
             "bandwidth": 150000.0,
             "frequency": 15130000.0,
             "mode": 2
@@ -16250,12 +16305,12 @@
             "frequency": 15150000.0,
             "mode": 2
         },
-        "Radio Romania Int.(59)": {
+        "Radio Romania Int.(58)": {
             "bandwidth": 150000.0,
             "frequency": 15150000.0,
             "mode": 2
         },
-        "Radio Romania Int.(60)": {
+        "Radio Romania Int.(59)": {
             "bandwidth": 150000.0,
             "frequency": 15150000.0,
             "mode": 2
@@ -16300,6 +16355,11 @@
             "frequency": 15160000.0,
             "mode": 2
         },
+        "Radio Romania Int.(60)": {
+            "bandwidth": 150000.0,
+            "frequency": 15160000.0,
+            "mode": 2
+        },
         "Radio Romania Int.(61)": {
             "bandwidth": 150000.0,
             "frequency": 15160000.0,
@@ -16317,15 +16377,10 @@
         },
         "Radio Romania Int.(64)": {
             "bandwidth": 150000.0,
-            "frequency": 15160000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(65)": {
-            "bandwidth": 150000.0,
             "frequency": 15170000.0,
             "mode": 2
         },
-        "Radio Romania Int.(66)": {
+        "Radio Romania Int.(65)": {
             "bandwidth": 150000.0,
             "frequency": 15170000.0,
             "mode": 2
@@ -16345,12 +16400,12 @@
             "frequency": 15180000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(188)": {
+        "CNR 1 Voice of China(186)": {
             "bandwidth": 150000.0,
             "frequency": 15180000.0,
             "mode": 2
         },
-        "Radio Romania Int.(67)": {
+        "Radio Romania Int.(66)": {
             "bandwidth": 150000.0,
             "frequency": 15180000.0,
             "mode": 2
@@ -16420,17 +16475,17 @@
             "frequency": 15195000.0,
             "mode": 2
         },
+        "Radio Romania Int.(67)": {
+            "bandwidth": 150000.0,
+            "frequency": 15200000.0,
+            "mode": 2
+        },
         "Radio Romania Int.(68)": {
             "bandwidth": 150000.0,
             "frequency": 15200000.0,
             "mode": 2
         },
         "Radio Romania Int.(69)": {
-            "bandwidth": 150000.0,
-            "frequency": 15200000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(70)": {
             "bandwidth": 150000.0,
             "frequency": 15200000.0,
             "mode": 2
@@ -16445,12 +16500,12 @@
             "frequency": 15215000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(11)": {
+        "KSDA Adventist World Radio(12)": {
             "bandwidth": 150000.0,
             "frequency": 15215000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(12)": {
+        "KSDA Adventist World Radio(13)": {
             "bandwidth": 150000.0,
             "frequency": 15215000.0,
             "mode": 2
@@ -16480,17 +16535,17 @@
             "frequency": 15230000.0,
             "mode": 2
         },
-        "KTWR(39)": {
+        "KTWR(42)": {
             "bandwidth": 150000.0,
             "frequency": 15230000.0,
             "mode": 2
         },
-        "KTWR(40)": {
+        "KTWR(43)": {
             "bandwidth": 150000.0,
             "frequency": 15230000.0,
             "mode": 2
         },
-        "KTWR(41)": {
+        "KTWR(44)": {
             "bandwidth": 150000.0,
             "frequency": 15230000.0,
             "mode": 2
@@ -16650,12 +16705,17 @@
             "frequency": 15250000.0,
             "mode": 2
         },
+        "XINGXING GUANGBO DIANTAI 2(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 15250000.0,
+            "mode": 2
+        },
         "All India Radio(15)": {
             "bandwidth": 150000.0,
             "frequency": 15260000.0,
             "mode": 2
         },
-        "BBC(81)": {
+        "BBC(82)": {
             "bandwidth": 150000.0,
             "frequency": 15260000.0,
             "mode": 2
@@ -16680,7 +16740,7 @@
             "frequency": 15265000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(13)": {
+        "KSDA Adventist World Radio(14)": {
             "bandwidth": 150000.0,
             "frequency": 15265000.0,
             "mode": 2
@@ -16750,12 +16810,12 @@
             "frequency": 15285000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(14)": {
+        "KSDA Adventist World Radio(15)": {
             "bandwidth": 150000.0,
             "frequency": 15290000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(15)": {
+        "KSDA Adventist World Radio(16)": {
             "bandwidth": 150000.0,
             "frequency": 15290000.0,
             "mode": 2
@@ -16770,7 +16830,7 @@
             "frequency": 15295000.0,
             "mode": 2
         },
-        "BBC(82)": {
+        "BBC(83)": {
             "bandwidth": 150000.0,
             "frequency": 15295000.0,
             "mode": 2
@@ -16820,7 +16880,7 @@
             "frequency": 15300000.0,
             "mode": 2
         },
-        "Radio Romania Int.(71)": {
+        "Radio Romania Int.(70)": {
             "bandwidth": 150000.0,
             "frequency": 15300000.0,
             "mode": 2
@@ -16828,11 +16888,6 @@
         "Bible Voice(15)": {
             "bandwidth": 150000.0,
             "frequency": 15300000.0,
-            "mode": 2
-        },
-        "BBC(83)": {
-            "bandwidth": 150000.0,
-            "frequency": 15310000.0,
             "mode": 2
         },
         "BBC(84)": {
@@ -16871,6 +16926,11 @@
             "mode": 2
         },
         "BBC(91)": {
+            "bandwidth": 150000.0,
+            "frequency": 15310000.0,
+            "mode": 2
+        },
+        "BBC(92)": {
             "bandwidth": 150000.0,
             "frequency": 15310000.0,
             "mode": 2
@@ -16915,12 +16975,12 @@
             "frequency": 15310000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(189)": {
+        "CNR 1 Voice of China(187)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
         },
-        "Radio Romania Int.(72)": {
+        "Radio Romania Int.(71)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
@@ -16945,7 +17005,7 @@
             "frequency": 15320000.0,
             "mode": 2
         },
-        "BBC(92)": {
+        "BBC(93)": {
             "bandwidth": 150000.0,
             "frequency": 15325000.0,
             "mode": 2
@@ -16985,7 +17045,7 @@
             "frequency": 15335000.0,
             "mode": 2
         },
-        "Radio Romania Int.(73)": {
+        "Radio Romania Int.(72)": {
             "bandwidth": 150000.0,
             "frequency": 15340000.0,
             "mode": 2
@@ -17020,14 +17080,24 @@
             "frequency": 15360000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(16)": {
+        "KSDA Adventist World Radio(17)": {
             "bandwidth": 150000.0,
             "frequency": 15360000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(17)": {
+        "KSDA Adventist World Radio(18)": {
             "bandwidth": 150000.0,
             "frequency": 15360000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(188)": {
+            "bandwidth": 150000.0,
+            "frequency": 15370000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(189)": {
+            "bandwidth": 150000.0,
+            "frequency": 15370000.0,
             "mode": 2
         },
         "CNR 1 Voice of China(190)": {
@@ -17035,32 +17105,22 @@
             "frequency": 15370000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(191)": {
-            "bandwidth": 150000.0,
-            "frequency": 15370000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(192)": {
-            "bandwidth": 150000.0,
-            "frequency": 15370000.0,
-            "mode": 2
-        },
-        "Fu Hsing BS(1)": {
+        "Fu Hsing BS(2)": {
             "bandwidth": 150000.0,
             "frequency": 15375000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(191)": {
+            "bandwidth": 150000.0,
+            "frequency": 15380000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(192)": {
+            "bandwidth": 150000.0,
+            "frequency": 15380000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(193)": {
-            "bandwidth": 150000.0,
-            "frequency": 15380000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(194)": {
-            "bandwidth": 150000.0,
-            "frequency": 15380000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(195)": {
             "bandwidth": 150000.0,
             "frequency": 15380000.0,
             "mode": 2
@@ -17073,26 +17133,6 @@
         "Voice of Islamic Rep.iran(23)": {
             "bandwidth": 150000.0,
             "frequency": 15380000.0,
-            "mode": 2
-        },
-        "Carriers only(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 15388000.0,
-            "mode": 2
-        },
-        "Carriers only(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 15388000.0,
-            "mode": 2
-        },
-        "XingXing guangbo diantai": {
-            "bandwidth": 150000.0,
-            "frequency": 15388000.0,
-            "mode": 2
-        },
-        "XingXing guangbo diantai(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 15388000.0,
             "mode": 2
         },
         "CNR 13 Uighur Radio(33)": {
@@ -17115,12 +17155,12 @@
             "frequency": 15390000.0,
             "mode": 2
         },
-        "KTWR(42)": {
+        "KTWR(45)": {
             "bandwidth": 150000.0,
             "frequency": 15390000.0,
             "mode": 2
         },
-        "KTWR(43)": {
+        "KTWR(46)": {
             "bandwidth": 150000.0,
             "frequency": 15390000.0,
             "mode": 2
@@ -17190,12 +17230,7 @@
             "frequency": 15390000.0,
             "mode": 2
         },
-        "KTWR(44)": {
-            "bandwidth": 150000.0,
-            "frequency": 15400000.0,
-            "mode": 2
-        },
-        "BBC(93)": {
+        "KTWR(47)": {
             "bandwidth": 150000.0,
             "frequency": 15400000.0,
             "mode": 2
@@ -17220,17 +17255,7 @@
             "frequency": 15400000.0,
             "mode": 2
         },
-        "KTWR(45)": {
-            "bandwidth": 150000.0,
-            "frequency": 15400000.0,
-            "mode": 2
-        },
-        "KTWR(46)": {
-            "bandwidth": 150000.0,
-            "frequency": 15400000.0,
-            "mode": 2
-        },
-        "KTWR(47)": {
+        "BBC(98)": {
             "bandwidth": 150000.0,
             "frequency": 15400000.0,
             "mode": 2
@@ -17251,6 +17276,21 @@
             "mode": 2
         },
         "KTWR(51)": {
+            "bandwidth": 150000.0,
+            "frequency": 15400000.0,
+            "mode": 2
+        },
+        "KTWR(52)": {
+            "bandwidth": 150000.0,
+            "frequency": 15400000.0,
+            "mode": 2
+        },
+        "KTWR(53)": {
+            "bandwidth": 150000.0,
+            "frequency": 15400000.0,
+            "mode": 2
+        },
+        "KTWR(54)": {
             "bandwidth": 150000.0,
             "frequency": 15400000.0,
             "mode": 2
@@ -17315,7 +17355,7 @@
             "frequency": 15410000.0,
             "mode": 2
         },
-        "BBC(98)": {
+        "BBC(99)": {
             "bandwidth": 150000.0,
             "frequency": 15420000.0,
             "mode": 2
@@ -17335,7 +17375,7 @@
             "frequency": 15425000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(18)": {
+        "KSDA Adventist World Radio(19)": {
             "bandwidth": 150000.0,
             "frequency": 15430000.0,
             "mode": 2
@@ -17415,7 +17455,7 @@
             "frequency": 15440000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(19)": {
+        "KSDA Adventist World Radio(20)": {
             "bandwidth": 150000.0,
             "frequency": 15440000.0,
             "mode": 2
@@ -17470,7 +17510,7 @@
             "frequency": 15450000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(20)": {
+        "KSDA Adventist World Radio(21)": {
             "bandwidth": 150000.0,
             "frequency": 15450000.0,
             "mode": 2
@@ -17590,17 +17630,17 @@
             "frequency": 15476000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(194)": {
+            "bandwidth": 150000.0,
+            "frequency": 15480000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(195)": {
+            "bandwidth": 150000.0,
+            "frequency": 15480000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(196)": {
-            "bandwidth": 150000.0,
-            "frequency": 15480000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(197)": {
-            "bandwidth": 150000.0,
-            "frequency": 15480000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(198)": {
             "bandwidth": 150000.0,
             "frequency": 15480000.0,
             "mode": 2
@@ -17615,17 +17655,17 @@
             "frequency": 15485000.0,
             "mode": 2
         },
-        "BBC(99)": {
-            "bandwidth": 150000.0,
-            "frequency": 15490000.0,
-            "mode": 2
-        },
         "BBC(100)": {
             "bandwidth": 150000.0,
             "frequency": 15490000.0,
             "mode": 2
         },
         "BBC(101)": {
+            "bandwidth": 150000.0,
+            "frequency": 15490000.0,
+            "mode": 2
+        },
+        "BBC(102)": {
             "bandwidth": 150000.0,
             "frequency": 15490000.0,
             "mode": 2
@@ -17645,11 +17685,6 @@
             "frequency": 15490000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(21)": {
-            "bandwidth": 150000.0,
-            "frequency": 15500000.0,
-            "mode": 2
-        },
         "KSDA Adventist World Radio(22)": {
             "bandwidth": 150000.0,
             "frequency": 15500000.0,
@@ -17662,7 +17697,7 @@
         },
         "KSDA Adventist World Radio(24)": {
             "bandwidth": 150000.0,
-            "frequency": 15505000.0,
+            "frequency": 15500000.0,
             "mode": 2
         },
         "KSDA Adventist World Radio(25)": {
@@ -17671,6 +17706,11 @@
             "mode": 2
         },
         "KSDA Adventist World Radio(26)": {
+            "bandwidth": 150000.0,
+            "frequency": 15505000.0,
+            "mode": 2
+        },
+        "KSDA Adventist World Radio(27)": {
             "bandwidth": 150000.0,
             "frequency": 15505000.0,
             "mode": 2
@@ -17770,11 +17810,6 @@
             "frequency": 15525000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(27)": {
-            "bandwidth": 150000.0,
-            "frequency": 15530000.0,
-            "mode": 2
-        },
         "KSDA Adventist World Radio(28)": {
             "bandwidth": 150000.0,
             "frequency": 15530000.0,
@@ -17811,6 +17846,11 @@
             "mode": 2
         },
         "KSDA Adventist World Radio(35)": {
+            "bandwidth": 150000.0,
+            "frequency": 15530000.0,
+            "mode": 2
+        },
+        "KSDA Adventist World Radio(36)": {
             "bandwidth": 150000.0,
             "frequency": 15530000.0,
             "mode": 2
@@ -17870,7 +17910,7 @@
             "frequency": 15550000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(36)": {
+        "KSDA Adventist World Radio(37)": {
             "bandwidth": 150000.0,
             "frequency": 15550000.0,
             "mode": 2
@@ -18100,12 +18140,12 @@
             "frequency": 15595000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(37)": {
+        "KSDA Adventist World Radio(38)": {
             "bandwidth": 150000.0,
             "frequency": 15600000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(38)": {
+        "KSDA Adventist World Radio(39)": {
             "bandwidth": 150000.0,
             "frequency": 15600000.0,
             "mode": 2
@@ -18135,12 +18175,12 @@
             "frequency": 15620000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(39)": {
+        "KSDA Adventist World Radio(40)": {
             "bandwidth": 150000.0,
             "frequency": 15625000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(40)": {
+        "KSDA Adventist World Radio(41)": {
             "bandwidth": 150000.0,
             "frequency": 15625000.0,
             "mode": 2
@@ -18150,12 +18190,12 @@
             "frequency": 15630000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(41)": {
+        "KSDA Adventist World Radio(42)": {
             "bandwidth": 150000.0,
             "frequency": 15630000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(42)": {
+        "KSDA Adventist World Radio(43)": {
             "bandwidth": 150000.0,
             "frequency": 15630000.0,
             "mode": 2
@@ -18205,12 +18245,12 @@
             "frequency": 15680000.0,
             "mode": 2
         },
-        "Hope Radio Gospel of Jes(1)": {
+        "Hope Radio Gospel of Jes(2)": {
             "bandwidth": 150000.0,
             "frequency": 15680000.0,
             "mode": 2
         },
-        "Hope Radio Gospel of Jes(2)": {
+        "Hope Radio Gospel of Jes(3)": {
             "bandwidth": 150000.0,
             "frequency": 15680000.0,
             "mode": 2
@@ -18225,17 +18265,17 @@
             "frequency": 15680000.0,
             "mode": 2
         },
-        "Hope Radio MFC Worldwide(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 15680000.0,
-            "mode": 2
-        },
         "Hope Radio MFC Worldwide(6)": {
             "bandwidth": 150000.0,
             "frequency": 15680000.0,
             "mode": 2
         },
         "Hope Radio MFC Worldwide(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 15680000.0,
+            "mode": 2
+        },
+        "Hope Radio MFC Worldwide(8)": {
             "bandwidth": 150000.0,
             "frequency": 15680000.0,
             "mode": 2
@@ -18260,24 +18300,19 @@
             "frequency": 15680000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(43)": {
-            "bandwidth": 150000.0,
-            "frequency": 15680000.0,
-            "mode": 2
-        },
         "KSDA Adventist World Radio(44)": {
             "bandwidth": 150000.0,
             "frequency": 15680000.0,
             "mode": 2
         },
-        "Radio Romania Int.(74)": {
+        "KSDA Adventist World Radio(45)": {
             "bandwidth": 150000.0,
             "frequency": 15680000.0,
             "mode": 2
         },
-        "BBC(102)": {
+        "Radio Romania Int.(73)": {
             "bandwidth": 150000.0,
-            "frequency": 15685000.0,
+            "frequency": 15680000.0,
             "mode": 2
         },
         "BBC(103)": {
@@ -18286,6 +18321,11 @@
             "mode": 2
         },
         "BBC(104)": {
+            "bandwidth": 150000.0,
+            "frequency": 15685000.0,
+            "mode": 2
+        },
+        "BBC(105)": {
             "bandwidth": 150000.0,
             "frequency": 15685000.0,
             "mode": 2
@@ -18310,7 +18350,7 @@
             "frequency": 15710000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(45)": {
+        "KSDA Adventist World Radio(46)": {
             "bandwidth": 150000.0,
             "frequency": 15710000.0,
             "mode": 2
@@ -18376,6 +18416,16 @@
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(144)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(197)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(198)": {
             "bandwidth": 150000.0,
             "frequency": 15760000.0,
             "mode": 2
@@ -18451,16 +18501,6 @@
             "mode": 2
         },
         "CNR 1 Voice of China(213)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(214)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(215)": {
             "bandwidth": 150000.0,
             "frequency": 15760000.0,
             "mode": 2
@@ -18880,12 +18920,12 @@
             "frequency": 15890000.0,
             "mode": 2
         },
-        "Carriers only(10)": {
+        "XINGXING GUANGBO DIANTAI 2(6)": {
             "bandwidth": 150000.0,
             "frequency": 15890000.0,
             "mode": 2
         },
-        "XINGXING GUANGBO DIANTAI 2(6)": {
+        "Carriers only(7)": {
             "bandwidth": 150000.0,
             "frequency": 15890000.0,
             "mode": 2
@@ -18903,6 +18943,11 @@
         "SOH Xi Wang Zhi Sheng(153)": {
             "bandwidth": 150000.0,
             "frequency": 15970000.0,
+            "mode": 2
+        },
+        "XINGXING GUANGBO DIANTAI 1(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 16050000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(154)": {
@@ -18948,6 +18993,11 @@
         "SOH Xi Wang Zhi Sheng(161)": {
             "bandwidth": 150000.0,
             "frequency": 16980000.0,
+            "mode": 2
+        },
+        "XINGXING GUANGBO DIANTAI 3(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 17000000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(162)": {
@@ -19010,7 +19060,7 @@
             "frequency": 17500000.0,
             "mode": 2
         },
-        "Democratic Voice of Burm(1)": {
+        "Democratic Voice of Bu": {
             "bandwidth": 150000.0,
             "frequency": 17500000.0,
             "mode": 2
@@ -19030,7 +19080,7 @@
             "frequency": 17510000.0,
             "mode": 2
         },
-        "BBC(105)": {
+        "BBC(106)": {
             "bandwidth": 150000.0,
             "frequency": 17515000.0,
             "mode": 2
@@ -19055,7 +19105,7 @@
             "frequency": 17530000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(46)": {
+        "KSDA Adventist World Radio(47)": {
             "bandwidth": 150000.0,
             "frequency": 17530000.0,
             "mode": 2
@@ -19065,7 +19115,7 @@
             "frequency": 17530000.0,
             "mode": 2
         },
-        "BBC(106)": {
+        "BBC(107)": {
             "bandwidth": 150000.0,
             "frequency": 17535000.0,
             "mode": 2
@@ -19110,17 +19160,17 @@
             "frequency": 17540000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(214)": {
+            "bandwidth": 150000.0,
+            "frequency": 17550000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(215)": {
+            "bandwidth": 150000.0,
+            "frequency": 17550000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(216)": {
-            "bandwidth": 150000.0,
-            "frequency": 17550000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(217)": {
-            "bandwidth": 150000.0,
-            "frequency": 17550000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(218)": {
             "bandwidth": 150000.0,
             "frequency": 17550000.0,
             "mode": 2
@@ -19155,12 +19205,12 @@
             "frequency": 17560000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(219)": {
+        "CNR 1 Voice of China(217)": {
             "bandwidth": 150000.0,
             "frequency": 17565000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(220)": {
+        "CNR 1 Voice of China(218)": {
             "bandwidth": 150000.0,
             "frequency": 17565000.0,
             "mode": 2
@@ -19195,22 +19245,22 @@
             "frequency": 17575000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(219)": {
+            "bandwidth": 150000.0,
+            "frequency": 17580000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(220)": {
+            "bandwidth": 150000.0,
+            "frequency": 17580000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(221)": {
             "bandwidth": 150000.0,
             "frequency": 17580000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(222)": {
-            "bandwidth": 150000.0,
-            "frequency": 17580000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(223)": {
-            "bandwidth": 150000.0,
-            "frequency": 17580000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(75)": {
+        "Radio Romania Int.(74)": {
             "bandwidth": 150000.0,
             "frequency": 17580000.0,
             "mode": 2
@@ -19220,17 +19270,17 @@
             "frequency": 17580000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(222)": {
+            "bandwidth": 150000.0,
+            "frequency": 17595000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(223)": {
+            "bandwidth": 150000.0,
+            "frequency": 17595000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(224)": {
-            "bandwidth": 150000.0,
-            "frequency": 17595000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(225)": {
-            "bandwidth": 150000.0,
-            "frequency": 17595000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(226)": {
             "bandwidth": 150000.0,
             "frequency": 17595000.0,
             "mode": 2
@@ -19270,7 +19320,7 @@
             "frequency": 17620000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(47)": {
+        "KSDA Adventist World Radio(48)": {
             "bandwidth": 150000.0,
             "frequency": 17620000.0,
             "mode": 2
@@ -19315,6 +19365,11 @@
             "frequency": 17630000.0,
             "mode": 2
         },
+        "Radio Romania Int.(75)": {
+            "bandwidth": 150000.0,
+            "frequency": 17630000.0,
+            "mode": 2
+        },
         "Radio Romania Int.(76)": {
             "bandwidth": 150000.0,
             "frequency": 17630000.0,
@@ -19335,22 +19390,17 @@
             "frequency": 17630000.0,
             "mode": 2
         },
-        "Radio Romania Int.(80)": {
-            "bandwidth": 150000.0,
-            "frequency": 17630000.0,
-            "mode": 2
-        },
-        "BBC(107)": {
-            "bandwidth": 150000.0,
-            "frequency": 17640000.0,
-            "mode": 2
-        },
         "BBC(108)": {
             "bandwidth": 150000.0,
             "frequency": 17640000.0,
             "mode": 2
         },
         "BBC(109)": {
+            "bandwidth": 150000.0,
+            "frequency": 17640000.0,
+            "mode": 2
+        },
+        "BBC(110)": {
             "bandwidth": 150000.0,
             "frequency": 17640000.0,
             "mode": 2
@@ -19405,7 +19455,7 @@
             "frequency": 17650000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(48)": {
+        "KSDA Adventist World Radio(49)": {
             "bandwidth": 150000.0,
             "frequency": 17650000.0,
             "mode": 2
@@ -19545,7 +19595,7 @@
             "frequency": 17690000.0,
             "mode": 2
         },
-        "Radio Romania Int.(81)": {
+        "Radio Romania Int.(80)": {
             "bandwidth": 150000.0,
             "frequency": 17690000.0,
             "mode": 2
@@ -19560,21 +19610,6 @@
             "frequency": 17690000.0,
             "mode": 2
         },
-        "KTWR(52)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
-        "KTWR(53)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
-        "KTWR(54)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
         "KTWR(55)": {
             "bandwidth": 150000.0,
             "frequency": 17700000.0,
@@ -19585,7 +19620,22 @@
             "frequency": 17700000.0,
             "mode": 2
         },
-        "BBC(110)": {
+        "KTWR(57)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "KTWR(58)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "KTWR(59)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "BBC(111)": {
             "bandwidth": 150000.0,
             "frequency": 17700000.0,
             "mode": 2
@@ -19785,11 +19835,6 @@
             "frequency": 17740000.0,
             "mode": 2
         },
-        "BBC(111)": {
-            "bandwidth": 150000.0,
-            "frequency": 17745000.0,
-            "mode": 2
-        },
         "BBC(112)": {
             "bandwidth": 150000.0,
             "frequency": 17745000.0,
@@ -19812,10 +19857,15 @@
         },
         "BBC(116)": {
             "bandwidth": 150000.0,
-            "frequency": 17750000.0,
+            "frequency": 17745000.0,
             "mode": 2
         },
         "BBC(117)": {
+            "bandwidth": 150000.0,
+            "frequency": 17750000.0,
+            "mode": 2
+        },
+        "BBC(118)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
@@ -19828,6 +19878,11 @@
         "China Radio International(552)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(81)": {
+            "bandwidth": 150000.0,
+            "frequency": 17760000.0,
             "mode": 2
         },
         "Radio Romania Int.(82)": {
@@ -19850,16 +19905,6 @@
             "frequency": 17760000.0,
             "mode": 2
         },
-        "Radio Romania Int.(86)": {
-            "bandwidth": 150000.0,
-            "frequency": 17760000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(87)": {
-            "bandwidth": 150000.0,
-            "frequency": 17760000.0,
-            "mode": 2
-        },
         "Radio Romania Int.  E1001": {
             "bandwidth": 150000.0,
             "frequency": 17760000.0,
@@ -19875,7 +19920,7 @@
             "frequency": 17765000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(227)": {
+        "CNR 1 Voice of China(225)": {
             "bandwidth": 150000.0,
             "frequency": 17770000.0,
             "mode": 2
@@ -19900,22 +19945,22 @@
             "frequency": 17775000.0,
             "mode": 2
         },
-        "BBC(118)": {
+        "BBC(119)": {
+            "bandwidth": 150000.0,
+            "frequency": 17780000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(86)": {
+            "bandwidth": 150000.0,
+            "frequency": 17780000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(87)": {
             "bandwidth": 150000.0,
             "frequency": 17780000.0,
             "mode": 2
         },
         "Radio Romania Int.(88)": {
-            "bandwidth": 150000.0,
-            "frequency": 17780000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(89)": {
-            "bandwidth": 150000.0,
-            "frequency": 17780000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(90)": {
             "bandwidth": 150000.0,
             "frequency": 17780000.0,
             "mode": 2
@@ -19930,22 +19975,17 @@
             "frequency": 17785000.0,
             "mode": 2
         },
-        "BBC(119)": {
+        "Radio Romania Int.(89)": {
+            "bandwidth": 150000.0,
+            "frequency": 17790000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(90)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
         },
         "Radio Romania Int.(91)": {
-            "bandwidth": 150000.0,
-            "frequency": 17790000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(92)": {
-            "bandwidth": 150000.0,
-            "frequency": 17790000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(93)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
@@ -20185,7 +20225,7 @@
             "frequency": 17855000.0,
             "mode": 2
         },
-        "Radio Romania Int.(94)": {
+        "Radio Romania Int.(92)": {
             "bandwidth": 150000.0,
             "frequency": 17860000.0,
             "mode": 2
@@ -20225,17 +20265,17 @@
             "frequency": 17880000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(226)": {
+            "bandwidth": 150000.0,
+            "frequency": 17890000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(227)": {
+            "bandwidth": 150000.0,
+            "frequency": 17890000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(228)": {
-            "bandwidth": 150000.0,
-            "frequency": 17890000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(229)": {
-            "bandwidth": 150000.0,
-            "frequency": 17890000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(230)": {
             "bandwidth": 150000.0,
             "frequency": 17890000.0,
             "mode": 2
@@ -20245,12 +20285,17 @@
             "frequency": 17895000.0,
             "mode": 2
         },
-        "Carriers only(11)": {
+        "XINGXING GUANGBO DIANTAI 1(4)": {
             "bandwidth": 150000.0,
             "frequency": 18040000.0,
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 1(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 18040000.0,
+            "mode": 2
+        },
+        "Carriers only(8)": {
             "bandwidth": 150000.0,
             "frequency": 18040000.0,
             "mode": 2
@@ -20280,57 +20325,37 @@
             "frequency": 18970000.0,
             "mode": 2
         },
+        "XINGXING GUANGBO DIANTAI 3(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 19052000.0,
+            "mode": 2
+        },
         "WWV(4)": {
             "bandwidth": 150000.0,
             "frequency": 20000000.0,
             "mode": 2
         },
-        "XINGXING GUANGBO DIANTAI 3(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 20025000.0,
-            "mode": 2
-        },
-        "XINGXING GUANGBO DIANTAI 3(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 20025000.0,
-            "mode": 2
-        },
-        "XINGXING GUANGBO DIANTAI 3(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 20025000.0,
-            "mode": 2
-        },
-        "Carriers only(12)": {
-            "bandwidth": 150000.0,
-            "frequency": 20025000.0,
-            "mode": 2
-        },
         "XINGXING GUANGBO DIANTAI 3(7)": {
             "bandwidth": 150000.0,
-            "frequency": 20095000.0,
+            "frequency": 20025000.0,
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 3(8)": {
             "bandwidth": 150000.0,
-            "frequency": 20095000.0,
+            "frequency": 20025000.0,
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 3(9)": {
             "bandwidth": 150000.0,
-            "frequency": 20095000.0,
+            "frequency": 20025000.0,
+            "mode": 2
+        },
+        "Carriers only(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 20025000.0,
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 3(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 20095000.0,
-            "mode": 2
-        },
-        "Carriers only(13)": {
-            "bandwidth": 150000.0,
-            "frequency": 21000000.0,
-            "mode": 2
-        },
-        "Carriers only(14)": {
             "bandwidth": 150000.0,
             "frequency": 21000000.0,
             "mode": 2
@@ -20350,7 +20375,12 @@
             "frequency": 21000000.0,
             "mode": 2
         },
-        "XINGXING GUANGBO DIANTAI 3(14)": {
+        "Carriers only(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 21000000.0,
+            "mode": 2
+        },
+        "Carriers only(11)": {
             "bandwidth": 150000.0,
             "frequency": 21000000.0,
             "mode": 2
@@ -20370,12 +20400,12 @@
             "frequency": 21470000.0,
             "mode": 2
         },
-        "Radio Romania Int.(95)": {
+        "Radio Romania Int.(93)": {
             "bandwidth": 150000.0,
             "frequency": 21470000.0,
             "mode": 2
         },
-        "Radio Romania Int.(96)": {
+        "Radio Romania Int.(94)": {
             "bandwidth": 150000.0,
             "frequency": 21480000.0,
             "mode": 2
@@ -20385,9 +20415,14 @@
             "frequency": 21490000.0,
             "mode": 2
         },
-        "Radio Romania Int.(97)": {
+        "Radio Romania Int.(95)": {
             "bandwidth": 150000.0,
             "frequency": 21510000.0,
+            "mode": 2
+        },
+        "SOH Xi Wang Zhi Sheng(174)": {
+            "bandwidth": 150000.0,
+            "frequency": 21530000.0,
             "mode": 2
         },
         "BBC(133)": {
@@ -20395,7 +20430,7 @@
             "frequency": 21540000.0,
             "mode": 2
         },
-        "Radio Romania Int.(98)": {
+        "Radio Romania Int.(96)": {
             "bandwidth": 150000.0,
             "frequency": 21550000.0,
             "mode": 2
@@ -20405,12 +20440,7 @@
             "frequency": 21550000.0,
             "mode": 2
         },
-        "Radio Romania Int.(99)": {
-            "bandwidth": 150000.0,
-            "frequency": 21550000.0,
-            "mode": 2
-        },
-        "SOH Xi Wang Zhi Sheng(174)": {
+        "Radio Romania Int.(97)": {
             "bandwidth": 150000.0,
             "frequency": 21550000.0,
             "mode": 2
@@ -20445,7 +20475,7 @@
             "frequency": 21580000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(231)": {
+        "CNR 1 Voice of China(229)": {
             "bandwidth": 150000.0,
             "frequency": 21590000.0,
             "mode": 2
