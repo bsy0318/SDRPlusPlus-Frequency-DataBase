@@ -1615,31 +1615,6 @@
             "frequency": 5930000.0,
             "mode": 2
         },
-        "Shiokaze(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 5935000.0,
-            "mode": 2
-        },
-        "Shiokaze(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 5935000.0,
-            "mode": 2
-        },
-        "Shiokaze(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 5935000.0,
-            "mode": 2
-        },
-        "Shiokaze(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 5935000.0,
-            "mode": 2
-        },
-        "Shiokaze(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 5935000.0,
-            "mode": 2
-        },
         "CNR 1 Voice of China(16)": {
             "bandwidth": 150000.0,
             "frequency": 5935000.0,
@@ -1850,6 +1825,11 @@
             "frequency": 5955000.0,
             "mode": 2
         },
+        "Shiokaze(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 5955000.0,
+            "mode": 2
+        },
         "Mighty KBC Radio": {
             "bandwidth": 150000.0,
             "frequency": 5960000.0,
@@ -1985,11 +1965,6 @@
             "frequency": 5975000.0,
             "mode": 2
         },
-        "Shiokaze(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 5980000.0,
-            "mode": 2
-        },
         "Radio France Int.  1000": {
             "bandwidth": 150000.0,
             "frequency": 5980000.0,
@@ -2016,6 +1991,11 @@
             "mode": 2
         },
         "Scandinav.Weekend R.": {
+            "bandwidth": 150000.0,
+            "frequency": 5980000.0,
+            "mode": 2
+        },
+        "Shiokaze(6)": {
             "bandwidth": 150000.0,
             "frequency": 5980000.0,
             "mode": 2
@@ -2495,27 +2475,27 @@
             "frequency": 6035000.0,
             "mode": 2
         },
+        "Shiokaze(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 6035000.0,
+            "mode": 2
+        },
+        "Shiokaze(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 6035000.0,
+            "mode": 2
+        },
+        "Shiokaze(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 6035000.0,
+            "mode": 2
+        },
+        "Shiokaze(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 6035000.0,
+            "mode": 2
+        },
         "Shiokaze(11)": {
-            "bandwidth": 150000.0,
-            "frequency": 6035000.0,
-            "mode": 2
-        },
-        "Shiokaze(12)": {
-            "bandwidth": 150000.0,
-            "frequency": 6035000.0,
-            "mode": 2
-        },
-        "Shiokaze(13)": {
-            "bandwidth": 150000.0,
-            "frequency": 6035000.0,
-            "mode": 2
-        },
-        "Shiokaze(14)": {
-            "bandwidth": 150000.0,
-            "frequency": 6035000.0,
-            "mode": 2
-        },
-        "Shiokaze(15)": {
             "bandwidth": 150000.0,
             "frequency": 6035000.0,
             "mode": 2
@@ -2563,11 +2543,6 @@
         "Voice of Turkey(1)": {
             "bandwidth": 150000.0,
             "frequency": 6040000.0,
-            "mode": 2
-        },
-        "North Korean Jamming(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 6045000.0,
             "mode": 2
         },
         "Voice of Freedom": {
@@ -3030,6 +3005,11 @@
             "frequency": 6070000.0,
             "mode": 2
         },
+        "Shiokaze(12)": {
+            "bandwidth": 150000.0,
+            "frequency": 6070000.0,
+            "mode": 2
+        },
         "China Radio International(24)": {
             "bandwidth": 150000.0,
             "frequency": 6075000.0,
@@ -3051,6 +3031,16 @@
             "mode": 2
         },
         "Radio Taiwan Int.(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 6075000.0,
+            "mode": 2
+        },
+        "Radio Taiwan Int.(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 6075000.0,
+            "mode": 2
+        },
+        "Radio Taiwan Int.(7)": {
             "bandwidth": 150000.0,
             "frequency": 6075000.0,
             "mode": 2
@@ -3150,7 +3140,7 @@
             "frequency": 6090000.0,
             "mode": 2
         },
-        "Shiokaze(16)": {
+        "Shiokaze(13)": {
             "bandwidth": 150000.0,
             "frequency": 6090000.0,
             "mode": 2
@@ -3250,16 +3240,6 @@
             "frequency": 6105000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 6105000.0,
-            "mode": 2
-        },
-        "Radio Taiwan Int.(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 6105000.0,
-            "mode": 2
-        },
         "Radio Taiwan Int.(8)": {
             "bandwidth": 150000.0,
             "frequency": 6105000.0,
@@ -3270,17 +3250,27 @@
             "frequency": 6105000.0,
             "mode": 2
         },
+        "Radio Taiwan Int.(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 6105000.0,
+            "mode": 2
+        },
+        "Radio Taiwan Int.(11)": {
+            "bandwidth": 150000.0,
+            "frequency": 6105000.0,
+            "mode": 2
+        },
+        "Radio Taiwan Int.(12)": {
+            "bandwidth": 150000.0,
+            "frequency": 6105000.0,
+            "mode": 2
+        },
+        "Radio Taiwan Int.(13)": {
+            "bandwidth": 150000.0,
+            "frequency": 6105000.0,
+            "mode": 2
+        },
         "China Radio International(33)": {
-            "bandwidth": 150000.0,
-            "frequency": 6110000.0,
-            "mode": 2
-        },
-        "Furusato no kaze": {
-            "bandwidth": 150000.0,
-            "frequency": 6110000.0,
-            "mode": 2
-        },
-        "Furusato no kaze(1)": {
             "bandwidth": 150000.0,
             "frequency": 6110000.0,
             "mode": 2
@@ -3295,7 +3285,17 @@
             "frequency": 6110000.0,
             "mode": 2
         },
+        "Furusato no kaze": {
+            "bandwidth": 150000.0,
+            "frequency": 6110000.0,
+            "mode": 2
+        },
         "Nippon no Kaze'il bon ue(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 6110000.0,
+            "mode": 2
+        },
+        "Furusato no kaze(1)": {
             "bandwidth": 150000.0,
             "frequency": 6110000.0,
             "mode": 2
@@ -3515,16 +3515,6 @@
             "frequency": 6135000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.": {
-            "bandwidth": 150000.0,
-            "frequency": 6135000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 6135000.0,
-            "mode": 2
-        },
         "China Radio International(34)": {
             "bandwidth": 150000.0,
             "frequency": 6140000.0,
@@ -3548,11 +3538,6 @@
         "Radio Onda": {
             "bandwidth": 150000.0,
             "frequency": 6140000.0,
-            "mode": 2
-        },
-        "Shiokaze(17)": {
-            "bandwidth": 150000.0,
-            "frequency": 6145000.0,
             "mode": 2
         },
         "CNR 1 Voice of China(60)": {
@@ -3580,7 +3565,12 @@
             "frequency": 6145000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(10)": {
+        "Radio Taiwan Int.(14)": {
+            "bandwidth": 150000.0,
+            "frequency": 6145000.0,
+            "mode": 2
+        },
+        "Radio Taiwan Int.(15)": {
             "bandwidth": 150000.0,
             "frequency": 6145000.0,
             "mode": 2
@@ -3605,12 +3595,12 @@
             "frequency": 6150000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(11)": {
+        "Radio Taiwan Int.(16)": {
             "bandwidth": 150000.0,
             "frequency": 6150000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(12)": {
+        "Radio Taiwan Int.(17)": {
             "bandwidth": 150000.0,
             "frequency": 6150000.0,
             "mode": 2
@@ -3735,27 +3725,27 @@
             "frequency": 6160000.0,
             "mode": 2
         },
+        "Shiokaze(14)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(15)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(16)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(17)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
         "Shiokaze(18)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(19)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(20)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(21)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(22)": {
             "bandwidth": 150000.0,
             "frequency": 6165000.0,
             "mode": 2
@@ -3885,6 +3875,31 @@
             "frequency": 6174000.0,
             "mode": 2
         },
+        "Shiokaze(19)": {
+            "bandwidth": 150000.0,
+            "frequency": 6175000.0,
+            "mode": 2
+        },
+        "Shiokaze(20)": {
+            "bandwidth": 150000.0,
+            "frequency": 6175000.0,
+            "mode": 2
+        },
+        "Shiokaze(21)": {
+            "bandwidth": 150000.0,
+            "frequency": 6175000.0,
+            "mode": 2
+        },
+        "Shiokaze(22)": {
+            "bandwidth": 150000.0,
+            "frequency": 6175000.0,
+            "mode": 2
+        },
+        "Shiokaze(23)": {
+            "bandwidth": 150000.0,
+            "frequency": 6175000.0,
+            "mode": 2
+        },
         "China Radio International(42)": {
             "bandwidth": 150000.0,
             "frequency": 6175000.0,
@@ -3930,7 +3945,7 @@
             "frequency": 6180000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(13)": {
+        "Radio Taiwan Int.(18)": {
             "bandwidth": 150000.0,
             "frequency": 6180000.0,
             "mode": 2
@@ -4158,6 +4173,11 @@
         "Laser Hot Hits(3)": {
             "bandwidth": 150000.0,
             "frequency": 6980000.0,
+            "mode": 2
+        },
+        "RRI Pro.3": {
+            "bandwidth": 150000.0,
+            "frequency": 7205000.0,
             "mode": 2
         },
         "China Radio International(45)": {
@@ -5055,11 +5075,6 @@
             "frequency": 7290000.0,
             "mode": 2
         },
-        "Shiokaze(23)": {
-            "bandwidth": 150000.0,
-            "frequency": 7295000.0,
-            "mode": 2
-        },
         "BBC(13)": {
             "bandwidth": 150000.0,
             "frequency": 7295000.0,
@@ -5090,7 +5105,7 @@
             "frequency": 7300000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(14)": {
+        "Radio Taiwan Int.(19)": {
             "bandwidth": 150000.0,
             "frequency": 7300000.0,
             "mode": 2
@@ -5725,17 +5740,12 @@
             "frequency": 7425000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(2)": {
+        "Radio New Zealand Int.": {
             "bandwidth": 150000.0,
             "frequency": 7425000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 7425000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(4)": {
+        "Radio New Zealand Int.(1)": {
             "bandwidth": 150000.0,
             "frequency": 7425000.0,
             "mode": 2
@@ -5765,7 +5775,7 @@
             "frequency": 7430000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(15)": {
+        "Radio Taiwan Int.(20)": {
             "bandwidth": 150000.0,
             "frequency": 7430000.0,
             "mode": 2
@@ -5805,12 +5815,12 @@
             "frequency": 7440000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(5)": {
+        "Radio New Zealand Int.(2)": {
             "bandwidth": 150000.0,
             "frequency": 7440000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(6)": {
+        "Radio New Zealand Int.(3)": {
             "bandwidth": 150000.0,
             "frequency": 7440000.0,
             "mode": 2
@@ -6025,6 +6035,11 @@
             "frequency": 7490000.0,
             "mode": 2
         },
+        "TVOM Voice of Martyrs": {
+            "bandwidth": 150000.0,
+            "frequency": 7490000.0,
+            "mode": 2
+        },
         "WRNO": {
             "bandwidth": 150000.0,
             "frequency": 7505000.0,
@@ -6041,6 +6056,11 @@
             "mode": 2
         },
         "Voice of Martyrs(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 7530000.0,
+            "mode": 2
+        },
+        "TVOM Voice of Martyrs(1)": {
             "bandwidth": 150000.0,
             "frequency": 7530000.0,
             "mode": 2
@@ -6120,12 +6140,7 @@
             "frequency": 7615000.0,
             "mode": 2
         },
-        "TVOM Voice of Martyrs": {
-            "bandwidth": 150000.0,
-            "frequency": 7625000.0,
-            "mode": 2
-        },
-        "TVOM Voice of Martyrs(1)": {
+        "TVOM Voice of Martyrs(2)": {
             "bandwidth": 150000.0,
             "frequency": 7625000.0,
             "mode": 2
@@ -6705,6 +6720,11 @@
             "frequency": 9340000.0,
             "mode": 2
         },
+        "TVOM Voice of Martyrs(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 9340000.0,
+            "mode": 2
+        },
         "BVBN Christ Gospel Broad": {
             "bandwidth": 150000.0,
             "frequency": 9345000.0,
@@ -6980,7 +7000,7 @@
             "frequency": 9400000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(16)": {
+        "Radio Taiwan Int.(21)": {
             "bandwidth": 150000.0,
             "frequency": 9400000.0,
             "mode": 2
@@ -7000,7 +7020,7 @@
             "frequency": 9405000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(17)": {
+        "Radio Taiwan Int.(22)": {
             "bandwidth": 150000.0,
             "frequency": 9405000.0,
             "mode": 2
@@ -7540,12 +7560,12 @@
             "frequency": 9490000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(18)": {
+        "Radio Taiwan Int.(23)": {
             "bandwidth": 150000.0,
             "frequency": 9490000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(19)": {
+        "Radio Taiwan Int.(24)": {
             "bandwidth": 150000.0,
             "frequency": 9490000.0,
             "mode": 2
@@ -7755,7 +7775,7 @@
             "frequency": 9525000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(20)": {
+        "Radio Taiwan Int.(25)": {
             "bandwidth": 150000.0,
             "frequency": 9525000.0,
             "mode": 2
@@ -7880,12 +7900,12 @@
             "frequency": 9540000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(21)": {
+        "Radio Taiwan Int.(26)": {
             "bandwidth": 150000.0,
             "frequency": 9540000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(22)": {
+        "Radio Taiwan Int.(27)": {
             "bandwidth": 150000.0,
             "frequency": 9540000.0,
             "mode": 2
@@ -7990,7 +8010,7 @@
             "frequency": 9555000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(23)": {
+        "Radio Taiwan Int.(28)": {
             "bandwidth": 150000.0,
             "frequency": 9555000.0,
             "mode": 2
@@ -8285,7 +8305,7 @@
             "frequency": 9590000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(24)": {
+        "Radio Taiwan Int.(29)": {
             "bandwidth": 150000.0,
             "frequency": 9595000.0,
             "mode": 2
@@ -8720,7 +8740,7 @@
             "frequency": 9660000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(25)": {
+        "Radio Taiwan Int.(30)": {
             "bandwidth": 150000.0,
             "frequency": 9660000.0,
             "mode": 2
@@ -8865,12 +8885,12 @@
             "frequency": 9680000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(26)": {
+        "Radio Taiwan Int.(31)": {
             "bandwidth": 150000.0,
             "frequency": 9680000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(27)": {
+        "Radio Taiwan Int.(32)": {
             "bandwidth": 150000.0,
             "frequency": 9680000.0,
             "mode": 2
@@ -8935,6 +8955,91 @@
             "frequency": 9685000.0,
             "mode": 2
         },
+        "Voice of Indonesia(24)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(25)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(26)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(27)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(28)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(29)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(30)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(31)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(32)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(33)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(34)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(35)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(36)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(37)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(38)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(39)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
+        "Voice of Indonesia(40)": {
+            "bandwidth": 150000.0,
+            "frequency": 9690000.0,
+            "mode": 2
+        },
         "China Radio International(209)": {
             "bandwidth": 150000.0,
             "frequency": 9690000.0,
@@ -8950,7 +9055,7 @@
             "frequency": 9695000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(28)": {
+        "Radio Taiwan Int.(33)": {
             "bandwidth": 150000.0,
             "frequency": 9695000.0,
             "mode": 2
@@ -8965,6 +9070,16 @@
             "frequency": 9695000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
         "China Radio International(212)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
@@ -8975,22 +9090,12 @@
             "frequency": 9700000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
         "Radio New Zealand Int.(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 9700000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 9700000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 9700000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(10)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
@@ -9100,7 +9205,7 @@
             "frequency": 9710000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(29)": {
+        "Radio Taiwan Int.(34)": {
             "bandwidth": 150000.0,
             "frequency": 9715000.0,
             "mode": 2
@@ -9305,12 +9410,12 @@
             "frequency": 9735000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(30)": {
+        "Radio Taiwan Int.(35)": {
             "bandwidth": 150000.0,
             "frequency": 9735000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(31)": {
+        "Radio Taiwan Int.(36)": {
             "bandwidth": 150000.0,
             "frequency": 9735000.0,
             "mode": 2
@@ -9345,7 +9450,7 @@
             "frequency": 9740000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(32)": {
+        "Radio Taiwan Int.(37)": {
             "bandwidth": 150000.0,
             "frequency": 9740000.0,
             "mode": 2
@@ -9535,6 +9640,11 @@
             "frequency": 9775000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 9780000.0,
+            "mode": 2
+        },
         "BBC(36)": {
             "bandwidth": 150000.0,
             "frequency": 9780000.0,
@@ -9581,11 +9691,6 @@
             "mode": 2
         },
         "PBS Qinghai(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 9780000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(11)": {
             "bandwidth": 150000.0,
             "frequency": 9780000.0,
             "mode": 2
@@ -10215,7 +10320,7 @@
             "frequency": 9885000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(33)": {
+        "Radio Taiwan Int.(38)": {
             "bandwidth": 150000.0,
             "frequency": 9885000.0,
             "mode": 2
@@ -10315,7 +10420,7 @@
             "frequency": 9900000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(34)": {
+        "Radio Taiwan Int.(39)": {
             "bandwidth": 150000.0,
             "frequency": 9900000.0,
             "mode": 2
@@ -10420,6 +10525,26 @@
             "frequency": 9930000.0,
             "mode": 2
         },
+        "Hope Radio Anchored w": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Faith Adventu": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "HOPE Radio MUSIC": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
+        "Hope Radio Kingdom's Roa": {
+            "bandwidth": 150000.0,
+            "frequency": 9930000.0,
+            "mode": 2
+        },
         "Hope Radio MFC Worldwide(1)": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
@@ -10435,7 +10560,7 @@
             "frequency": 9930000.0,
             "mode": 2
         },
-        "Hope Radio Anchored w": {
+        "Hope Radio Anchored w(1)": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
             "mode": 2
@@ -10490,7 +10615,7 @@
             "frequency": 9930000.0,
             "mode": 2
         },
-        "Hope Radio Kingdom's Roa": {
+        "Hope Radio Kingdom's Roa(1)": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
             "mode": 2
@@ -11060,12 +11185,12 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "HOPE Radio MUSIC": {
+        "HOPE Radio MUSIC(1)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
         },
-        "HOPE Radio MUSIC(1)": {
+        "HOPE Radio MUSIC(2)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11085,7 +11210,7 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "HOPE Radio MUSIC(2)": {
+        "HOPE Radio MUSIC(3)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11125,17 +11250,17 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "Hope Radio Kingdom's Roa(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
-        "HOPE Radio MUSIC(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 9965000.0,
-            "mode": 2
-        },
         "Hope Radio Kingdom's Roa(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "HOPE Radio MUSIC(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 9965000.0,
+            "mode": 2
+        },
+        "Hope Radio Kingdom's Roa(3)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11145,7 +11270,7 @@
             "frequency": 9965000.0,
             "mode": 2
         },
-        "HOPE Radio MUSIC(4)": {
+        "HOPE Radio MUSIC(5)": {
             "bandwidth": 150000.0,
             "frequency": 9965000.0,
             "mode": 2
@@ -11475,7 +11600,7 @@
             "frequency": 11600000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(35)": {
+        "Radio Taiwan Int.(40)": {
             "bandwidth": 150000.0,
             "frequency": 11605000.0,
             "mode": 2
@@ -12045,6 +12170,11 @@
             "frequency": 11685000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 11690000.0,
+            "mode": 2
+        },
         "China Radio International(292)": {
             "bandwidth": 150000.0,
             "frequency": 11690000.0,
@@ -12235,7 +12365,22 @@
             "frequency": 11725000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(11)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
         "Radio New Zealand Int.(12)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(13)": {
             "bandwidth": 150000.0,
             "frequency": 11725000.0,
             "mode": 2
@@ -12805,7 +12950,7 @@
             "frequency": 11815000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(36)": {
+        "Radio Taiwan Int.(41)": {
             "bandwidth": 150000.0,
             "frequency": 11815000.0,
             "mode": 2
@@ -13175,7 +13320,7 @@
             "frequency": 11885000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(37)": {
+        "Radio Taiwan Int.(42)": {
             "bandwidth": 150000.0,
             "frequency": 11885000.0,
             "mode": 2
@@ -13505,7 +13650,7 @@
             "frequency": 11915000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(38)": {
+        "Radio Taiwan Int.(43)": {
             "bandwidth": 150000.0,
             "frequency": 11915000.0,
             "mode": 2
@@ -14150,17 +14295,17 @@
             "frequency": 12065000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(39)": {
+        "Radio Taiwan Int.(44)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(40)": {
+        "Radio Taiwan Int.(45)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(41)": {
+        "Radio Taiwan Int.(46)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
@@ -15530,12 +15675,12 @@
             "frequency": 13825000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(42)": {
+        "Radio Taiwan Int.(47)": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(43)": {
+        "Radio Taiwan Int.(48)": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
@@ -15595,7 +15740,7 @@
             "frequency": 13835000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(13)": {
+        "Radio New Zealand Int.(14)": {
             "bandwidth": 150000.0,
             "frequency": 13840000.0,
             "mode": 2
@@ -16750,12 +16895,12 @@
             "frequency": 15320000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(44)": {
+        "Radio Taiwan Int.(49)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(45)": {
+        "Radio Taiwan Int.(50)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
@@ -17675,6 +17820,11 @@
             "frequency": 15540000.0,
             "mode": 2
         },
+        "Radio Mellat Iran": {
+            "bandwidth": 150000.0,
+            "frequency": 15540000.0,
+            "mode": 2
+        },
         "CNR 7 Greater Bay Radio(6)": {
             "bandwidth": 150000.0,
             "frequency": 15550000.0,
@@ -17823,6 +17973,11 @@
         "KBS World Radio(36)": {
             "bandwidth": 150000.0,
             "frequency": 15575000.0,
+            "mode": 2
+        },
+        "TVOM Voice of Martyrs(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 15580000.0,
             "mode": 2
         },
         "Voice of Martyrs(4)": {
@@ -18165,12 +18320,17 @@
             "frequency": 15720000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(14)": {
+        "Radio New Zealand Int.(15)": {
             "bandwidth": 150000.0,
             "frequency": 15720000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(15)": {
+        "Radio New Zealand Int.(16)": {
+            "bandwidth": 150000.0,
+            "frequency": 15720000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(17)": {
             "bandwidth": 150000.0,
             "frequency": 15720000.0,
             "mode": 2
@@ -18625,7 +18785,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(46)": {
+        "Radio Taiwan Int.(51)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -19330,7 +19490,7 @@
             "frequency": 17670000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(16)": {
+        "Radio New Zealand Int.(18)": {
             "bandwidth": 150000.0,
             "frequency": 17675000.0,
             "mode": 2
