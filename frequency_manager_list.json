@@ -950,17 +950,12 @@
             "frequency": 5010000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.": {
-            "bandwidth": 150000.0,
-            "frequency": 5010000.0,
-            "mode": 2
-        },
         "Radio Prage": {
             "bandwidth": 150000.0,
             "frequency": 5010000.0,
             "mode": 2
         },
-        "Radio Prage(1)": {
+        "WRMI R.Slovakia Int.": {
             "bandwidth": 150000.0,
             "frequency": 5010000.0,
             "mode": 2
@@ -975,22 +970,7 @@
             "frequency": 5010000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad": {
-            "bandwidth": 150000.0,
-            "frequency": 5010000.0,
-            "mode": 2
-        },
-        "WRMI Classic Redneck Rad(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 5010000.0,
-            "mode": 2
-        },
         "WRMI Frecuencia al Dia": {
-            "bandwidth": 150000.0,
-            "frequency": 5010000.0,
-            "mode": 2
-        },
-        "WRMI La Nueva Vida Ahora": {
             "bandwidth": 150000.0,
             "frequency": 5010000.0,
             "mode": 2
@@ -1005,17 +985,12 @@
             "frequency": 5010000.0,
             "mode": 2
         },
-        "WRMI R.Slovakia Int.": {
+        "WRMI La Nueva Vida Ahora": {
             "bandwidth": 150000.0,
             "frequency": 5010000.0,
             "mode": 2
         },
         "WRMI The Word of Truth": {
-            "bandwidth": 150000.0,
-            "frequency": 5010000.0,
-            "mode": 2
-        },
-        "WRMI Verdad para el Mund": {
             "bandwidth": 150000.0,
             "frequency": 5010000.0,
             "mode": 2
@@ -1026,6 +1001,41 @@
             "mode": 2
         },
         "WRMI World of Radio": {
+            "bandwidth": 150000.0,
+            "frequency": 5010000.0,
+            "mode": 2
+        },
+        "WRMI Verdad para el Mund": {
+            "bandwidth": 150000.0,
+            "frequency": 5010000.0,
+            "mode": 2
+        },
+        "Radio Taiwan Int.": {
+            "bandwidth": 150000.0,
+            "frequency": 5010000.0,
+            "mode": 2
+        },
+        "Radio Prage(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5010000.0,
+            "mode": 2
+        },
+        "WRMI Cruisin' the Decade": {
+            "bandwidth": 150000.0,
+            "frequency": 5010000.0,
+            "mode": 2
+        },
+        "WRMI R. Catface Intl.": {
+            "bandwidth": 150000.0,
+            "frequency": 5010000.0,
+            "mode": 2
+        },
+        "WRMI WRN": {
+            "bandwidth": 150000.0,
+            "frequency": 5010000.0,
+            "mode": 2
+        },
+        "WRMI E.Bible Fellowship": {
             "bandwidth": 150000.0,
             "frequency": 5010000.0,
             "mode": 2
@@ -1095,12 +1105,12 @@
             "frequency": 5050000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(2)": {
+        "WRMI E.Bible Fellowship(1)": {
             "bandwidth": 150000.0,
             "frequency": 5050000.0,
             "mode": 2
         },
-        "WRMI Overconer Ministry": {
+        "Radio Prage(2)": {
             "bandwidth": 150000.0,
             "frequency": 5050000.0,
             "mode": 2
@@ -1180,11 +1190,6 @@
             "frequency": 5780000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV": {
-            "bandwidth": 150000.0,
-            "frequency": 5800000.0,
-            "mode": 2
-        },
         "Radio Taiwan Int.(1)": {
             "bandwidth": 150000.0,
             "frequency": 5800000.0,
@@ -1236,16 +1241,6 @@
             "mode": 2
         },
         "WRMI Freedam Synergy Rad": {
-            "bandwidth": 150000.0,
-            "frequency": 5800000.0,
-            "mode": 2
-        },
-        "WRMI Classic Redneck Rad(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 5800000.0,
-            "mode": 2
-        },
-        "WRMI Overconer Ministry(1)": {
             "bandwidth": 150000.0,
             "frequency": 5800000.0,
             "mode": 2
@@ -1375,7 +1370,22 @@
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI Overconer Ministry(2)": {
+        "WRMI Cruisin' the Decade(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5850000.0,
+            "mode": 2
+        },
+        "WRMI R. Catface Intl.(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5850000.0,
+            "mode": 2
+        },
+        "WRMI WRN(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5850000.0,
+            "mode": 2
+        },
+        "WRMI WRN(2)": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
@@ -1450,7 +1460,7 @@
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI Overconer Ministry(3)": {
+        "WRMI WRN(3)": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
@@ -1495,7 +1505,7 @@
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI Overconer Ministry(4)": {
+        "WRMI Overconer Ministry": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
@@ -1520,7 +1530,7 @@
             "frequency": 5850000.0,
             "mode": 2
         },
-        "WRMI Overconer Ministry(5)": {
+        "WRMI Overconer Ministry(1)": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
             "mode": 2
@@ -1875,42 +1885,17 @@
             "frequency": 5950000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(4)": {
+        "WRMI Cruisin' the Decade(2)": {
             "bandwidth": 150000.0,
             "frequency": 5950000.0,
             "mode": 2
         },
-        "WRMI Overconer Ministry(6)": {
+        "WRMI R. Catface Intl.(2)": {
             "bandwidth": 150000.0,
             "frequency": 5950000.0,
             "mode": 2
         },
-        "WRMI Circuit Rider": {
-            "bandwidth": 150000.0,
-            "frequency": 5950000.0,
-            "mode": 2
-        },
-        "WRMI Radio Mystery Theat": {
-            "bandwidth": 150000.0,
-            "frequency": 5950000.0,
-            "mode": 2
-        },
-        "WRMI Pursuing God Radio(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 5950000.0,
-            "mode": 2
-        },
-        "WRMI The Mighty KBC": {
-            "bandwidth": 150000.0,
-            "frequency": 5950000.0,
-            "mode": 2
-        },
-        "WRMI VORW Radio Internat(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 5950000.0,
-            "mode": 2
-        },
-        "World Radio Network": {
+        "WRMI WRN(4)": {
             "bandwidth": 150000.0,
             "frequency": 5950000.0,
             "mode": 2
@@ -7375,12 +7360,12 @@
             "frequency": 7570000.0,
             "mode": 2
         },
-        "WRMI WRN": {
+        "WRMI WRN(5)": {
             "bandwidth": 150000.0,
             "frequency": 7570000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(1)": {
+        "WRMI The Mighty KBC": {
             "bandwidth": 150000.0,
             "frequency": 7570000.0,
             "mode": 2
@@ -7400,12 +7385,12 @@
             "frequency": 7570000.0,
             "mode": 2
         },
-        "WRMI WRN(1)": {
+        "WRMI WRN(6)": {
             "bandwidth": 150000.0,
             "frequency": 7570000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(1)": {
+        "WRMI Supreme Master TV": {
             "bandwidth": 150000.0,
             "frequency": 7570000.0,
             "mode": 2
@@ -7520,7 +7505,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(2)": {
+        "WRMI The Mighty KBC(1)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7560,12 +7545,22 @@
             "frequency": 7730000.0,
             "mode": 2
         },
+        "WRMI Supreme Master TV(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI WRN(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
         "WRMI Supreme Master TV(2)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI WRN(2)": {
+        "WRMI WRN(8)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7575,7 +7570,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI WRN(3)": {
+        "WRMI WRN(9)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7585,22 +7580,12 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI WRN(4)": {
+        "WRMI WRN(10)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
         },
         "WRMI Supreme Master TV(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI WRN(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Supreme Master TV(6)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7615,7 +7600,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "World Radio Network(1)": {
+        "World Radio Network": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7655,7 +7640,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(7)": {
+        "WRMI Supreme Master TV(6)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7740,7 +7725,7 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI WRN(6)": {
+        "WRMI WRN(11)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -7760,7 +7745,7 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(3)": {
+        "WRMI The Mighty KBC(2)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -7770,7 +7755,7 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI WRN(7)": {
+        "WRMI WRN(12)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -8230,12 +8215,12 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(5)": {
+        "WRMI Classic Redneck Rad": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(6)": {
+        "WRMI Classic Redneck Rad(1)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -8245,17 +8230,17 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI WRN(8)": {
+        "WRMI WRN(13)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(8)": {
+        "WRMI Supreme Master TV(7)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI WRN(9)": {
+        "WRMI WRN(14)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -8270,7 +8255,7 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI WRN(10)": {
+        "WRMI WRN(15)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -8795,16 +8780,6 @@
             "frequency": 9465000.0,
             "mode": 2
         },
-        "BBC(37)": {
-            "bandwidth": 150000.0,
-            "frequency": 9465000.0,
-            "mode": 2
-        },
-        "BBC(38)": {
-            "bandwidth": 150000.0,
-            "frequency": 9465000.0,
-            "mode": 2
-        },
         "China Radio International(271)": {
             "bandwidth": 150000.0,
             "frequency": 9470000.0,
@@ -9115,6 +9090,16 @@
             "frequency": 9520000.0,
             "mode": 2
         },
+        "BBC(37)": {
+            "bandwidth": 150000.0,
+            "frequency": 9525000.0,
+            "mode": 2
+        },
+        "BBC(38)": {
+            "bandwidth": 150000.0,
+            "frequency": 9525000.0,
+            "mode": 2
+        },
         "BBC(39)": {
             "bandwidth": 150000.0,
             "frequency": 9525000.0,
@@ -9126,16 +9111,6 @@
             "mode": 2
         },
         "BBC(41)": {
-            "bandwidth": 150000.0,
-            "frequency": 9525000.0,
-            "mode": 2
-        },
-        "BBC(42)": {
-            "bandwidth": 150000.0,
-            "frequency": 9525000.0,
-            "mode": 2
-        },
-        "BBC(43)": {
             "bandwidth": 150000.0,
             "frequency": 9525000.0,
             "mode": 2
@@ -9260,12 +9235,12 @@
             "frequency": 9540000.0,
             "mode": 2
         },
-        "BBC(44)": {
+        "BBC(42)": {
             "bandwidth": 150000.0,
             "frequency": 9545000.0,
             "mode": 2
         },
-        "BBC(45)": {
+        "BBC(43)": {
             "bandwidth": 150000.0,
             "frequency": 9545000.0,
             "mode": 2
@@ -9345,7 +9320,7 @@
             "frequency": 9555000.0,
             "mode": 2
         },
-        "BBC(46)": {
+        "BBC(44)": {
             "bandwidth": 150000.0,
             "frequency": 9560000.0,
             "mode": 2
@@ -11225,7 +11200,7 @@
             "frequency": 9810000.0,
             "mode": 2
         },
-        "BBC(47)": {
+        "BBC(45)": {
             "bandwidth": 150000.0,
             "frequency": 9820000.0,
             "mode": 2
@@ -11525,7 +11500,7 @@
             "frequency": 9870000.0,
             "mode": 2
         },
-        "BBC(48)": {
+        "BBC(46)": {
             "bandwidth": 150000.0,
             "frequency": 9870000.0,
             "mode": 2
@@ -12070,7 +12045,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Circuit Rider(1)": {
+        "WRMI Circuit Rider": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12170,7 +12145,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(7)": {
+        "WRMI Classic Redneck Rad(2)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12185,7 +12160,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(8)": {
+        "WRMI Classic Redneck Rad(3)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12205,7 +12180,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Pursuing God Radio(2)": {
+        "WRMI Pursuing God Radio(1)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12325,7 +12300,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(9)": {
+        "WRMI Classic Redneck Rad(4)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12395,7 +12370,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI VORW Radio Internat(2)": {
+        "WRMI VORW Radio Internat(1)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -13150,7 +13125,7 @@
             "frequency": 11640000.0,
             "mode": 2
         },
-        "BBC(49)": {
+        "BBC(47)": {
             "bandwidth": 150000.0,
             "frequency": 11645000.0,
             "mode": 2
@@ -13230,12 +13205,12 @@
             "frequency": 11660000.0,
             "mode": 2
         },
-        "BBC(50)": {
+        "BBC(48)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
             "mode": 2
         },
-        "BBC(51)": {
+        "BBC(49)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
             "mode": 2
@@ -13900,7 +13875,7 @@
             "frequency": 11810000.0,
             "mode": 2
         },
-        "BBC(52)": {
+        "BBC(50)": {
             "bandwidth": 150000.0,
             "frequency": 11810000.0,
             "mode": 2
@@ -14090,7 +14065,7 @@
             "frequency": 11825000.0,
             "mode": 2
         },
-        "BBC(53)": {
+        "BBC(51)": {
             "bandwidth": 150000.0,
             "frequency": 11830000.0,
             "mode": 2
@@ -14530,7 +14505,7 @@
             "frequency": 11915000.0,
             "mode": 2
         },
-        "BBC(54)": {
+        "BBC(52)": {
             "bandwidth": 150000.0,
             "frequency": 11925000.0,
             "mode": 2
@@ -14645,7 +14620,7 @@
             "frequency": 11960000.0,
             "mode": 2
         },
-        "BBC(55)": {
+        "BBC(53)": {
             "bandwidth": 150000.0,
             "frequency": 11965000.0,
             "mode": 2
@@ -14805,6 +14780,16 @@
             "frequency": 11990000.0,
             "mode": 2
         },
+        "BBC(54)": {
+            "bandwidth": 150000.0,
+            "frequency": 11995000.0,
+            "mode": 2
+        },
+        "BBC(55)": {
+            "bandwidth": 150000.0,
+            "frequency": 11995000.0,
+            "mode": 2
+        },
         "BBC(56)": {
             "bandwidth": 150000.0,
             "frequency": 11995000.0,
@@ -14816,16 +14801,6 @@
             "mode": 2
         },
         "BBC(58)": {
-            "bandwidth": 150000.0,
-            "frequency": 11995000.0,
-            "mode": 2
-        },
-        "BBC(59)": {
-            "bandwidth": 150000.0,
-            "frequency": 11995000.0,
-            "mode": 2
-        },
-        "BBC(60)": {
             "bandwidth": 150000.0,
             "frequency": 11995000.0,
             "mode": 2
@@ -14856,11 +14831,6 @@
             "mode": 2
         },
         "CNR 6 Shenzhou Easy Radio(14)": {
-            "bandwidth": 150000.0,
-            "frequency": 12010000.0,
-            "mode": 2
-        },
-        "Radio Farda(1)": {
             "bandwidth": 150000.0,
             "frequency": 12010000.0,
             "mode": 2
@@ -15160,17 +15130,17 @@
             "frequency": 12060000.0,
             "mode": 2
         },
+        "BBC(59)": {
+            "bandwidth": 150000.0,
+            "frequency": 12065000.0,
+            "mode": 2
+        },
+        "BBC(60)": {
+            "bandwidth": 150000.0,
+            "frequency": 12065000.0,
+            "mode": 2
+        },
         "BBC(61)": {
-            "bandwidth": 150000.0,
-            "frequency": 12065000.0,
-            "mode": 2
-        },
-        "BBC(62)": {
-            "bandwidth": 150000.0,
-            "frequency": 12065000.0,
-            "mode": 2
-        },
-        "BBC(63)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
@@ -15215,7 +15185,7 @@
             "frequency": 12075000.0,
             "mode": 2
         },
-        "BBC(64)": {
+        "BBC(62)": {
             "bandwidth": 150000.0,
             "frequency": 12080000.0,
             "mode": 2
@@ -15258,6 +15228,16 @@
         "Voice of Mongolia(7)": {
             "bandwidth": 150000.0,
             "frequency": 12085000.0,
+            "mode": 2
+        },
+        "BBC(63)": {
+            "bandwidth": 150000.0,
+            "frequency": 12095000.0,
+            "mode": 2
+        },
+        "BBC(64)": {
+            "bandwidth": 150000.0,
+            "frequency": 12095000.0,
             "mode": 2
         },
         "BBC(65)": {
@@ -15321,16 +15301,6 @@
             "mode": 2
         },
         "BBC(77)": {
-            "bandwidth": 150000.0,
-            "frequency": 12095000.0,
-            "mode": 2
-        },
-        "BBC(78)": {
-            "bandwidth": 150000.0,
-            "frequency": 12095000.0,
-            "mode": 2
-        },
-        "BBC(79)": {
             "bandwidth": 150000.0,
             "frequency": 12095000.0,
             "mode": 2
@@ -15770,12 +15740,12 @@
             "frequency": 13650000.0,
             "mode": 2
         },
-        "Radio Prage(2)": {
+        "Radio Prage(3)": {
             "bandwidth": 150000.0,
             "frequency": 13650000.0,
             "mode": 2
         },
-        "Radio Prage(3)": {
+        "Radio Prage(4)": {
             "bandwidth": 150000.0,
             "frequency": 13650000.0,
             "mode": 2
@@ -15930,12 +15900,12 @@
             "frequency": 13685000.0,
             "mode": 2
         },
-        "BBC(80)": {
+        "BBC(78)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
         },
-        "BBC(81)": {
+        "BBC(79)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
@@ -16080,11 +16050,6 @@
             "frequency": 13750000.0,
             "mode": 2
         },
-        "Radio Farda(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 13755000.0,
-            "mode": 2
-        },
         "Radio New Zealand Int.(4)": {
             "bandwidth": 150000.0,
             "frequency": 13755000.0,
@@ -16170,12 +16135,12 @@
             "frequency": 13790000.0,
             "mode": 2
         },
-        "BBC(82)": {
+        "BBC(80)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
         },
-        "BBC(83)": {
+        "BBC(81)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
@@ -16275,7 +16240,7 @@
             "frequency": 13820000.0,
             "mode": 2
         },
-        "BBC(84)": {
+        "BBC(82)": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
@@ -16615,7 +16580,7 @@
             "frequency": 15105000.0,
             "mode": 2
         },
-        "BBC(85)": {
+        "BBC(83)": {
             "bandwidth": 150000.0,
             "frequency": 15110000.0,
             "mode": 2
@@ -16628,11 +16593,6 @@
         "Ifrikya FM(4)": {
             "bandwidth": 150000.0,
             "frequency": 15110000.0,
-            "mode": 2
-        },
-        "Radio Farda(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 15120000.0,
             "mode": 2
         },
         "China Radio International(499)": {
@@ -17115,7 +17075,7 @@
             "frequency": 15295000.0,
             "mode": 2
         },
-        "BBC(86)": {
+        "BBC(84)": {
             "bandwidth": 150000.0,
             "frequency": 15295000.0,
             "mode": 2
@@ -17155,7 +17115,12 @@
             "frequency": 15300000.0,
             "mode": 2
         },
-        "Radio Farda(4)": {
+        "BBC(85)": {
+            "bandwidth": 150000.0,
+            "frequency": 15310000.0,
+            "mode": 2
+        },
+        "BBC(86)": {
             "bandwidth": 150000.0,
             "frequency": 15310000.0,
             "mode": 2
@@ -17176,16 +17141,6 @@
             "mode": 2
         },
         "BBC(90)": {
-            "bandwidth": 150000.0,
-            "frequency": 15310000.0,
-            "mode": 2
-        },
-        "BBC(91)": {
-            "bandwidth": 150000.0,
-            "frequency": 15310000.0,
-            "mode": 2
-        },
-        "BBC(92)": {
             "bandwidth": 150000.0,
             "frequency": 15310000.0,
             "mode": 2
@@ -17430,7 +17385,7 @@
             "frequency": 15400000.0,
             "mode": 2
         },
-        "BBC(93)": {
+        "BBC(91)": {
             "bandwidth": 150000.0,
             "frequency": 15400000.0,
             "mode": 2
@@ -17500,7 +17455,12 @@
             "frequency": 15410000.0,
             "mode": 2
         },
-        "Radio Farda(5)": {
+        "BBC(92)": {
+            "bandwidth": 150000.0,
+            "frequency": 15420000.0,
+            "mode": 2
+        },
+        "BBC(93)": {
             "bandwidth": 150000.0,
             "frequency": 15420000.0,
             "mode": 2
@@ -17511,16 +17471,6 @@
             "mode": 2
         },
         "BBC(95)": {
-            "bandwidth": 150000.0,
-            "frequency": 15420000.0,
-            "mode": 2
-        },
-        "BBC(96)": {
-            "bandwidth": 150000.0,
-            "frequency": 15420000.0,
-            "mode": 2
-        },
-        "BBC(97)": {
             "bandwidth": 150000.0,
             "frequency": 15420000.0,
             "mode": 2
@@ -17575,7 +17525,7 @@
             "frequency": 15435000.0,
             "mode": 2
         },
-        "BBC(98)": {
+        "BBC(96)": {
             "bandwidth": 150000.0,
             "frequency": 15440000.0,
             "mode": 2
@@ -17725,17 +17675,17 @@
             "frequency": 15480000.0,
             "mode": 2
         },
+        "BBC(97)": {
+            "bandwidth": 150000.0,
+            "frequency": 15490000.0,
+            "mode": 2
+        },
+        "BBC(98)": {
+            "bandwidth": 150000.0,
+            "frequency": 15490000.0,
+            "mode": 2
+        },
         "BBC(99)": {
-            "bandwidth": 150000.0,
-            "frequency": 15490000.0,
-            "mode": 2
-        },
-        "BBC(100)": {
-            "bandwidth": 150000.0,
-            "frequency": 15490000.0,
-            "mode": 2
-        },
-        "BBC(101)": {
             "bandwidth": 150000.0,
             "frequency": 15490000.0,
             "mode": 2
@@ -18335,6 +18285,16 @@
             "frequency": 15680000.0,
             "mode": 2
         },
+        "BBC(100)": {
+            "bandwidth": 150000.0,
+            "frequency": 15685000.0,
+            "mode": 2
+        },
+        "BBC(101)": {
+            "bandwidth": 150000.0,
+            "frequency": 15685000.0,
+            "mode": 2
+        },
         "BBC(102)": {
             "bandwidth": 150000.0,
             "frequency": 15685000.0,
@@ -18356,16 +18316,6 @@
             "mode": 2
         },
         "BBC(106)": {
-            "bandwidth": 150000.0,
-            "frequency": 15685000.0,
-            "mode": 2
-        },
-        "BBC(107)": {
-            "bandwidth": 150000.0,
-            "frequency": 15685000.0,
-            "mode": 2
-        },
-        "BBC(108)": {
             "bandwidth": 150000.0,
             "frequency": 15685000.0,
             "mode": 2
@@ -18555,7 +18505,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(9)": {
+        "WRMI Supreme Master TV(8)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18570,7 +18520,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(10)": {
+        "WRMI Supreme Master TV(9)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18590,7 +18540,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI WRN(11)": {
+        "WRMI WRN(16)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18600,7 +18550,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI WRN(12)": {
+        "WRMI WRN(17)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18625,7 +18575,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(4)": {
+        "WRMI The Mighty KBC(3)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18660,7 +18610,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(5)": {
+        "WRMI The Mighty KBC(4)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18730,7 +18680,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(11)": {
+        "WRMI Supreme Master TV(10)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18765,17 +18715,17 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(6)": {
+        "WRMI The Mighty KBC(5)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI VORW Radio Internat(3)": {
+        "WRMI VORW Radio Internat(2)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Supreme Master TV(12)": {
+        "WRMI Supreme Master TV(11)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18820,7 +18770,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "World Radio Network(2)": {
+        "World Radio Network(1)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18830,7 +18780,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI VORW Radio Internat(4)": {
+        "WRMI VORW Radio Internat(3)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18900,7 +18850,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(10)": {
+        "WRMI Classic Redneck Rad(5)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -19110,7 +19060,7 @@
             "frequency": 17530000.0,
             "mode": 2
         },
-        "BBC(109)": {
+        "BBC(107)": {
             "bandwidth": 150000.0,
             "frequency": 17535000.0,
             "mode": 2
@@ -19215,7 +19165,7 @@
             "frequency": 17570000.0,
             "mode": 2
         },
-        "BBC(110)": {
+        "BBC(108)": {
             "bandwidth": 150000.0,
             "frequency": 17575000.0,
             "mode": 2
@@ -19310,7 +19260,7 @@
             "frequency": 17640000.0,
             "mode": 2
         },
-        "BBC(111)": {
+        "BBC(109)": {
             "bandwidth": 150000.0,
             "frequency": 17640000.0,
             "mode": 2
@@ -19395,7 +19345,7 @@
             "frequency": 17660000.0,
             "mode": 2
         },
-        "BBC(112)": {
+        "BBC(110)": {
             "bandwidth": 150000.0,
             "frequency": 17670000.0,
             "mode": 2
@@ -19450,7 +19400,7 @@
             "frequency": 17680000.0,
             "mode": 2
         },
-        "BBC(113)": {
+        "BBC(111)": {
             "bandwidth": 150000.0,
             "frequency": 17690000.0,
             "mode": 2
@@ -19470,12 +19420,12 @@
             "frequency": 17690000.0,
             "mode": 2
         },
-        "BBC(114)": {
+        "BBC(112)": {
             "bandwidth": 150000.0,
             "frequency": 17700000.0,
             "mode": 2
         },
-        "BBC(115)": {
+        "BBC(113)": {
             "bandwidth": 150000.0,
             "frequency": 17700000.0,
             "mode": 2
@@ -19695,12 +19645,12 @@
             "frequency": 17740000.0,
             "mode": 2
         },
-        "BBC(116)": {
+        "BBC(114)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
         },
-        "BBC(117)": {
+        "BBC(115)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
@@ -19815,17 +19765,17 @@
             "frequency": 17775000.0,
             "mode": 2
         },
+        "BBC(116)": {
+            "bandwidth": 150000.0,
+            "frequency": 17780000.0,
+            "mode": 2
+        },
+        "BBC(117)": {
+            "bandwidth": 150000.0,
+            "frequency": 17780000.0,
+            "mode": 2
+        },
         "BBC(118)": {
-            "bandwidth": 150000.0,
-            "frequency": 17780000.0,
-            "mode": 2
-        },
-        "BBC(119)": {
-            "bandwidth": 150000.0,
-            "frequency": 17780000.0,
-            "mode": 2
-        },
-        "BBC(120)": {
             "bandwidth": 150000.0,
             "frequency": 17780000.0,
             "mode": 2
@@ -20015,6 +19965,16 @@
             "frequency": 17800000.0,
             "mode": 2
         },
+        "BBC(119)": {
+            "bandwidth": 150000.0,
+            "frequency": 17810000.0,
+            "mode": 2
+        },
+        "BBC(120)": {
+            "bandwidth": 150000.0,
+            "frequency": 17810000.0,
+            "mode": 2
+        },
         "BBC(121)": {
             "bandwidth": 150000.0,
             "frequency": 17810000.0,
@@ -20040,16 +20000,6 @@
             "frequency": 17810000.0,
             "mode": 2
         },
-        "BBC(126)": {
-            "bandwidth": 150000.0,
-            "frequency": 17810000.0,
-            "mode": 2
-        },
-        "BBC(127)": {
-            "bandwidth": 150000.0,
-            "frequency": 17810000.0,
-            "mode": 2
-        },
         "NHK World Radio Japan(62)": {
             "bandwidth": 150000.0,
             "frequency": 17810000.0,
@@ -20070,12 +20020,12 @@
             "frequency": 17810000.0,
             "mode": 2
         },
-        "BBC(128)": {
+        "BBC(126)": {
             "bandwidth": 150000.0,
             "frequency": 17815000.0,
             "mode": 2
         },
-        "BBC(129)": {
+        "BBC(127)": {
             "bandwidth": 150000.0,
             "frequency": 17825000.0,
             "mode": 2
@@ -20305,7 +20255,7 @@
             "frequency": 21470000.0,
             "mode": 2
         },
-        "BBC(130)": {
+        "BBC(128)": {
             "bandwidth": 150000.0,
             "frequency": 21470000.0,
             "mode": 2
@@ -20320,7 +20270,7 @@
             "frequency": 21495000.0,
             "mode": 2
         },
-        "BBC(131)": {
+        "BBC(129)": {
             "bandwidth": 150000.0,
             "frequency": 21500000.0,
             "mode": 2
@@ -20335,7 +20285,7 @@
             "frequency": 21550000.0,
             "mode": 2
         },
-        "BBC(132)": {
+        "BBC(130)": {
             "bandwidth": 150000.0,
             "frequency": 21565000.0,
             "mode": 2
@@ -20385,6 +20335,16 @@
             "frequency": 21615000.0,
             "mode": 2
         },
+        "BBC(131)": {
+            "bandwidth": 150000.0,
+            "frequency": 21630000.0,
+            "mode": 2
+        },
+        "BBC(132)": {
+            "bandwidth": 150000.0,
+            "frequency": 21630000.0,
+            "mode": 2
+        },
         "BBC(133)": {
             "bandwidth": 150000.0,
             "frequency": 21630000.0,
@@ -20400,16 +20360,6 @@
             "frequency": 21630000.0,
             "mode": 2
         },
-        "BBC(136)": {
-            "bandwidth": 150000.0,
-            "frequency": 21630000.0,
-            "mode": 2
-        },
-        "BBC(137)": {
-            "bandwidth": 150000.0,
-            "frequency": 21630000.0,
-            "mode": 2
-        },
         "SOH Xi Wang Zhi Sheng(173)": {
             "bandwidth": 150000.0,
             "frequency": 21645000.0,
@@ -20420,7 +20370,7 @@
             "frequency": 21650000.0,
             "mode": 2
         },
-        "BBC(138)": {
+        "BBC(136)": {
             "bandwidth": 150000.0,
             "frequency": 21660000.0,
             "mode": 2
@@ -20468,11 +20418,6 @@
         "Vatican Radio(77)": {
             "bandwidth": 150000.0,
             "frequency": 21730000.0,
-            "mode": 2
-        },
-        "Alarabiya FM": {
-            "bandwidth": 150000.0,
-            "frequency": 21745000.0,
             "mode": 2
         },
         "Vatican Radio(78)": {
