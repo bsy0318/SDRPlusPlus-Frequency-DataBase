@@ -150,6 +150,11 @@
             "frequency": 3925000.0,
             "mode": 2
         },
+        "Music Wave Radio": {
+            "bandwidth": 150000.0,
+            "frequency": 3940000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China": {
             "bandwidth": 150000.0,
             "frequency": 3950000.0,
@@ -1970,6 +1975,31 @@
             "frequency": 5955000.0,
             "mode": 2
         },
+        "Shiokaze": {
+            "bandwidth": 150000.0,
+            "frequency": 5955000.0,
+            "mode": 2
+        },
+        "Shiokaze(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5955000.0,
+            "mode": 2
+        },
+        "Shiokaze(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 5955000.0,
+            "mode": 2
+        },
+        "Shiokaze(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 5955000.0,
+            "mode": 2
+        },
+        "Shiokaze(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 5955000.0,
+            "mode": 2
+        },
         "Mighty KBC Radio": {
             "bandwidth": 150000.0,
             "frequency": 5960000.0,
@@ -2240,27 +2270,7 @@
             "frequency": 5985000.0,
             "mode": 2
         },
-        "Shiokaze": {
-            "bandwidth": 150000.0,
-            "frequency": 5985000.0,
-            "mode": 2
-        },
-        "Shiokaze(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 5985000.0,
-            "mode": 2
-        },
-        "Shiokaze(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 5985000.0,
-            "mode": 2
-        },
-        "Shiokaze(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 5985000.0,
-            "mode": 2
-        },
-        "Shiokaze(4)": {
+        "Shiokaze(5)": {
             "bandwidth": 150000.0,
             "frequency": 5985000.0,
             "mode": 2
@@ -2366,6 +2376,11 @@
             "mode": 2
         },
         "Radio Mali(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5995000.0,
+            "mode": 2
+        },
+        "North Korean Jamming": {
             "bandwidth": 150000.0,
             "frequency": 5995000.0,
             "mode": 2
@@ -2540,7 +2555,7 @@
             "frequency": 6015000.0,
             "mode": 2
         },
-        "North Korean Jamming": {
+        "North Korean Jamming(1)": {
             "bandwidth": 150000.0,
             "frequency": 6015000.0,
             "mode": 2
@@ -2813,11 +2828,6 @@
         "KBS World Radio(2)": {
             "bandwidth": 150000.0,
             "frequency": 6040000.0,
-            "mode": 2
-        },
-        "Shiokaze(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 6045000.0,
             "mode": 2
         },
         "Furusato no kaze(1)": {
@@ -3170,11 +3180,6 @@
             "frequency": 6065000.0,
             "mode": 2
         },
-        "Shiokaze(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 6065000.0,
-            "mode": 2
-        },
         "Alt Universe Top 40": {
             "bandwidth": 150000.0,
             "frequency": 6070000.0,
@@ -3323,6 +3328,31 @@
         "Radio Marumby": {
             "bandwidth": 150000.0,
             "frequency": 6080000.0,
+            "mode": 2
+        },
+        "Shiokaze(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 6085000.0,
+            "mode": 2
+        },
+        "Shiokaze(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 6085000.0,
+            "mode": 2
+        },
+        "Shiokaze(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 6085000.0,
+            "mode": 2
+        },
+        "Shiokaze(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 6085000.0,
+            "mode": 2
+        },
+        "Shiokaze(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 6085000.0,
             "mode": 2
         },
         "Radio MI AMIGO International": {
@@ -3820,11 +3850,6 @@
             "frequency": 6135000.0,
             "mode": 2
         },
-        "Shiokaze(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 6135000.0,
-            "mode": 2
-        },
         "China Radio International(63)": {
             "bandwidth": 150000.0,
             "frequency": 6135000.0,
@@ -3841,6 +3866,31 @@
             "mode": 2
         },
         "Radio Santa Cruz": {
+            "bandwidth": 150000.0,
+            "frequency": 6135000.0,
+            "mode": 2
+        },
+        "Shiokaze(11)": {
+            "bandwidth": 150000.0,
+            "frequency": 6135000.0,
+            "mode": 2
+        },
+        "Shiokaze(12)": {
+            "bandwidth": 150000.0,
+            "frequency": 6135000.0,
+            "mode": 2
+        },
+        "Shiokaze(13)": {
+            "bandwidth": 150000.0,
+            "frequency": 6135000.0,
+            "mode": 2
+        },
+        "Shiokaze(14)": {
+            "bandwidth": 150000.0,
+            "frequency": 6135000.0,
+            "mode": 2
+        },
+        "Shiokaze(15)": {
             "bandwidth": 150000.0,
             "frequency": 6135000.0,
             "mode": 2
@@ -4095,31 +4145,6 @@
             "frequency": 6160000.0,
             "mode": 2
         },
-        "Shiokaze(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(11)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(12)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
         "China Radio International(72)": {
             "bandwidth": 150000.0,
             "frequency": 6165000.0,
@@ -4218,6 +4243,11 @@
         "Voice of Vietnam 4(4)": {
             "bandwidth": 150000.0,
             "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(16)": {
+            "bandwidth": 150000.0,
+            "frequency": 6170000.0,
             "mode": 2
         },
         "GTA": {
@@ -4456,6 +4486,11 @@
             "mode": 2
         },
         "XEPPM R.Educacion": {
+            "bandwidth": 150000.0,
+            "frequency": 6185000.0,
+            "mode": 2
+        },
+        "Shiokaze(17)": {
             "bandwidth": 150000.0,
             "frequency": 6185000.0,
             "mode": 2
@@ -5955,6 +5990,31 @@
             "frequency": 7305000.0,
             "mode": 2
         },
+        "Shiokaze(18)": {
+            "bandwidth": 150000.0,
+            "frequency": 7305000.0,
+            "mode": 2
+        },
+        "Shiokaze(19)": {
+            "bandwidth": 150000.0,
+            "frequency": 7305000.0,
+            "mode": 2
+        },
+        "Shiokaze(20)": {
+            "bandwidth": 150000.0,
+            "frequency": 7305000.0,
+            "mode": 2
+        },
+        "Shiokaze(21)": {
+            "bandwidth": 150000.0,
+            "frequency": 7305000.0,
+            "mode": 2
+        },
+        "Shiokaze(22)": {
+            "bandwidth": 150000.0,
+            "frequency": 7305000.0,
+            "mode": 2
+        },
         "SOH Xi Wang Zhi Sheng(17)": {
             "bandwidth": 150000.0,
             "frequency": 7310000.0,
@@ -6058,6 +6118,11 @@
         "FEBA Radio(4)": {
             "bandwidth": 150000.0,
             "frequency": 7320000.0,
+            "mode": 2
+        },
+        "Shiokaze(23)": {
+            "bandwidth": 150000.0,
+            "frequency": 7325000.0,
             "mode": 2
         },
         "China Radio International(163)": {
@@ -6178,31 +6243,6 @@
         "Radio Romania Int.(29)": {
             "bandwidth": 150000.0,
             "frequency": 7330000.0,
-            "mode": 2
-        },
-        "Shiokaze(13)": {
-            "bandwidth": 150000.0,
-            "frequency": 7335000.0,
-            "mode": 2
-        },
-        "Shiokaze(14)": {
-            "bandwidth": 150000.0,
-            "frequency": 7335000.0,
-            "mode": 2
-        },
-        "Shiokaze(15)": {
-            "bandwidth": 150000.0,
-            "frequency": 7335000.0,
-            "mode": 2
-        },
-        "Shiokaze(16)": {
-            "bandwidth": 150000.0,
-            "frequency": 7335000.0,
-            "mode": 2
-        },
-        "Shiokaze(17)": {
-            "bandwidth": 150000.0,
-            "frequency": 7335000.0,
             "mode": 2
         },
         "China Radio International(180)": {
@@ -6493,31 +6533,6 @@
         "KNLS World Christian Broadcasting(3)": {
             "bandwidth": 150000.0,
             "frequency": 7370000.0,
-            "mode": 2
-        },
-        "Shiokaze(18)": {
-            "bandwidth": 150000.0,
-            "frequency": 7375000.0,
-            "mode": 2
-        },
-        "Shiokaze(19)": {
-            "bandwidth": 150000.0,
-            "frequency": 7375000.0,
-            "mode": 2
-        },
-        "Shiokaze(20)": {
-            "bandwidth": 150000.0,
-            "frequency": 7375000.0,
-            "mode": 2
-        },
-        "Shiokaze(21)": {
-            "bandwidth": 150000.0,
-            "frequency": 7375000.0,
-            "mode": 2
-        },
-        "Shiokaze(22)": {
-            "bandwidth": 150000.0,
-            "frequency": 7375000.0,
             "mode": 2
         },
         "China Radio International(201)": {
@@ -6843,11 +6858,6 @@
         "CNR 1 Voice of China(113)": {
             "bandwidth": 150000.0,
             "frequency": 7420000.0,
-            "mode": 2
-        },
-        "Shiokaze(23)": {
-            "bandwidth": 150000.0,
-            "frequency": 7425000.0,
             "mode": 2
         },
         "BBC(27)": {
@@ -8098,6 +8108,11 @@
         "WWCR Nashville(5)": {
             "bandwidth": 150000.0,
             "frequency": 9350000.0,
+            "mode": 2
+        },
+        "Radio Pilipinas": {
+            "bandwidth": 150000.0,
+            "frequency": 9370000.0,
             "mode": 2
         },
         "Trans World Radio(12)": {
@@ -11800,6 +11815,11 @@
             "frequency": 9920000.0,
             "mode": 2
         },
+        "Radio Pilipinas(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9925000.0,
+            "mode": 2
+        },
         "Hope Radio Music": {
             "bandwidth": 150000.0,
             "frequency": 9930000.0,
@@ -14915,6 +14935,11 @@
             "frequency": 12015000.0,
             "mode": 2
         },
+        "Radio Pilipinas(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 12020000.0,
+            "mode": 2
+        },
         "Voice of Vietnam(52)": {
             "bandwidth": 150000.0,
             "frequency": 12020000.0,
@@ -15400,12 +15425,17 @@
             "frequency": 12120000.0,
             "mode": 2
         },
+        "FEBC Radio Liangyou(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 12120000.0,
+            "mode": 2
+        },
         "FEBC Radio(32)": {
             "bandwidth": 150000.0,
             "frequency": 12120000.0,
             "mode": 2
         },
-        "FEBC Radio Liangyou(4)": {
+        "Radio Pilipinas(3)": {
             "bandwidth": 150000.0,
             "frequency": 12120000.0,
             "mode": 2
@@ -16715,6 +16745,16 @@
             "frequency": 15140000.0,
             "mode": 2
         },
+        "Ifrikya FM(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 15140000.0,
+            "mode": 2
+        },
+        "Ifrikya FM(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 15140000.0,
+            "mode": 2
+        },
         "China Radio International(509)": {
             "bandwidth": 150000.0,
             "frequency": 15145000.0,
@@ -16746,16 +16786,6 @@
             "mode": 2
         },
         "China Radio International(514)": {
-            "bandwidth": 150000.0,
-            "frequency": 15160000.0,
-            "mode": 2
-        },
-        "Ifrikya FM(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 15160000.0,
-            "mode": 2
-        },
-        "Ifrikya FM(6)": {
             "bandwidth": 150000.0,
             "frequency": 15160000.0,
             "mode": 2
@@ -18200,6 +18230,11 @@
             "frequency": 15620000.0,
             "mode": 2
         },
+        "Radio Pilipinas(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 15640000.0,
+            "mode": 2
+        },
         "China R.Int.  3F2 x(3)": {
             "bandwidth": 150000.0,
             "frequency": 15640000.0,
@@ -18915,6 +18950,11 @@
             "frequency": 15970000.0,
             "mode": 2
         },
+        "Carriers only(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 16050000.0,
+            "mode": 2
+        },
         "XINGXING GUANGBO DIANTAI 1(3)": {
             "bandwidth": 150000.0,
             "frequency": 16050000.0,
@@ -18958,6 +18998,11 @@
         "SOH Xi Wang Zhi Sheng(157)": {
             "bandwidth": 150000.0,
             "frequency": 16790000.0,
+            "mode": 2
+        },
+        "Carriers only(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 17000000.0,
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 3(5)": {
@@ -19343,6 +19388,11 @@
         "Radio France Int.(40)": {
             "bandwidth": 150000.0,
             "frequency": 17660000.0,
+            "mode": 2
+        },
+        "Radio Pilipinas(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 17665000.0,
             "mode": 2
         },
         "BBC(110)": {
@@ -20140,7 +20190,7 @@
             "frequency": 17895000.0,
             "mode": 2
         },
-        "Carriers only(8)": {
+        "Carriers only(10)": {
             "bandwidth": 150000.0,
             "frequency": 18040000.0,
             "mode": 2
@@ -20190,7 +20240,7 @@
             "frequency": 20000000.0,
             "mode": 2
         },
-        "Carriers only(9)": {
+        "Carriers only(11)": {
             "bandwidth": 150000.0,
             "frequency": 20025000.0,
             "mode": 2
@@ -20210,12 +20260,12 @@
             "frequency": 20025000.0,
             "mode": 2
         },
-        "Carriers only(10)": {
+        "Carriers only(12)": {
             "bandwidth": 150000.0,
             "frequency": 21000000.0,
             "mode": 2
         },
-        "Carriers only(11)": {
+        "Carriers only(13)": {
             "bandwidth": 150000.0,
             "frequency": 21000000.0,
             "mode": 2
