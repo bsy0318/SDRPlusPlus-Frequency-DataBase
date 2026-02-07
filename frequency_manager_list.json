@@ -1572,7 +1572,7 @@
         },
         "HLL SEOUL METEOROLOGICAL Radio": {
             "bandwidth": 150000.0,
-            "frequency": 5856000.0,
+            "frequency": 5855000.0,
             "mode": 2
         },
         "WWCR Nashville(1)": {
@@ -1890,7 +1890,47 @@
             "frequency": 5945000.0,
             "mode": 2
         },
-        "WRMI SOTERIAH International MINISTRY": {
+        "WRMI Radio Mystery Theat": {
+            "bandwidth": 150000.0,
+            "frequency": 5950000.0,
+            "mode": 2
+        },
+        "WRMI Wave Scan(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 5950000.0,
+            "mode": 2
+        },
+        "WRMI VORW Radio Internat(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5950000.0,
+            "mode": 2
+        },
+        "WRMI Pursuing God Radio(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5950000.0,
+            "mode": 2
+        },
+        "WRMI The Mighty KBC": {
+            "bandwidth": 150000.0,
+            "frequency": 5950000.0,
+            "mode": 2
+        },
+        "WRMI Air Jaron": {
+            "bandwidth": 150000.0,
+            "frequency": 5950000.0,
+            "mode": 2
+        },
+        "WRMI R.Prague(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 5950000.0,
+            "mode": 2
+        },
+        "WRMI The Mighty KBC(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5950000.0,
+            "mode": 2
+        },
+        "WRMI VORW Radio Internat(2)": {
             "bandwidth": 150000.0,
             "frequency": 5950000.0,
             "mode": 2
@@ -2820,6 +2860,11 @@
             "frequency": 6040000.0,
             "mode": 2
         },
+        "CNR 8 Etnhic Minority Radio(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 6040000.0,
+            "mode": 2
+        },
         "PBS Nei Menggu(1)": {
             "bandwidth": 150000.0,
             "frequency": 6040000.0,
@@ -2840,11 +2885,6 @@
             "frequency": 6040000.0,
             "mode": 2
         },
-        "CNR 8 Etnhic Minority Radio(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 6040000.0,
-            "mode": 2
-        },
         "Voice of Islamic Rep.iran(3)": {
             "bandwidth": 150000.0,
             "frequency": 6040000.0,
@@ -2856,6 +2896,11 @@
             "mode": 2
         },
         "Radio DELTA International": {
+            "bandwidth": 150000.0,
+            "frequency": 6040000.0,
+            "mode": 2
+        },
+        "Ifrikya FM": {
             "bandwidth": 150000.0,
             "frequency": 6040000.0,
             "mode": 2
@@ -5095,6 +5140,11 @@
             "frequency": 7220000.0,
             "mode": 2
         },
+        "Radio Romania Int.(22)": {
+            "bandwidth": 150000.0,
+            "frequency": 7220000.0,
+            "mode": 2
+        },
         "Voice of Islamic Rep.iran(7)": {
             "bandwidth": 150000.0,
             "frequency": 7220000.0,
@@ -5390,12 +5440,12 @@
             "frequency": 7250000.0,
             "mode": 2
         },
-        "Radio Romania Int.(22)": {
+        "Radio Romania Int.(23)": {
             "bandwidth": 150000.0,
             "frequency": 7250000.0,
             "mode": 2
         },
-        "Radio Romania Int.(23)": {
+        "Radio Romania Int.(24)": {
             "bandwidth": 150000.0,
             "frequency": 7250000.0,
             "mode": 2
@@ -5610,6 +5660,11 @@
             "frequency": 7270000.0,
             "mode": 2
         },
+        "CNR 8 Etnhic Minority Radio(11)": {
+            "bandwidth": 150000.0,
+            "frequency": 7270000.0,
+            "mode": 2
+        },
         "PBS Nei Menggu(6)": {
             "bandwidth": 150000.0,
             "frequency": 7270000.0,
@@ -5626,11 +5681,6 @@
             "mode": 2
         },
         "PBS Nei Menggu(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 7270000.0,
-            "mode": 2
-        },
-        "CNR 8 Etnhic Minority Radio(11)": {
             "bandwidth": 150000.0,
             "frequency": 7270000.0,
             "mode": 2
@@ -6015,7 +6065,7 @@
             "frequency": 7310000.0,
             "mode": 2
         },
-        "Radio Romania Int.(24)": {
+        "Radio Romania Int.(25)": {
             "bandwidth": 150000.0,
             "frequency": 7310000.0,
             "mode": 2
@@ -6190,11 +6240,6 @@
             "frequency": 7325000.0,
             "mode": 2
         },
-        "Radio Romania Int.(25)": {
-            "bandwidth": 150000.0,
-            "frequency": 7325000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(26)": {
             "bandwidth": 150000.0,
             "frequency": 7325000.0,
@@ -6205,12 +6250,17 @@
             "frequency": 7325000.0,
             "mode": 2
         },
+        "Radio Romania Int.(28)": {
+            "bandwidth": 150000.0,
+            "frequency": 7325000.0,
+            "mode": 2
+        },
         "Radio France Int.  1000(4)": {
             "bandwidth": 150000.0,
             "frequency": 7325000.0,
             "mode": 2
         },
-        "Radio Romania Int.(28)": {
+        "Radio Romania Int.(29)": {
             "bandwidth": 150000.0,
             "frequency": 7325000.0,
             "mode": 2
@@ -6230,7 +6280,7 @@
             "frequency": 7330000.0,
             "mode": 2
         },
-        "Radio Romania Int.(29)": {
+        "Radio Romania Int.(30)": {
             "bandwidth": 150000.0,
             "frequency": 7330000.0,
             "mode": 2
@@ -6545,17 +6595,17 @@
             "frequency": 7375000.0,
             "mode": 2
         },
-        "Radio Romania Int.(30)": {
-            "bandwidth": 150000.0,
-            "frequency": 7375000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(31)": {
             "bandwidth": 150000.0,
             "frequency": 7375000.0,
             "mode": 2
         },
         "Radio Romania Int.(32)": {
+            "bandwidth": 150000.0,
+            "frequency": 7375000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(33)": {
             "bandwidth": 150000.0,
             "frequency": 7375000.0,
             "mode": 2
@@ -6751,11 +6801,6 @@
             "mode": 2
         },
         "Vatican Radio(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 7410000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(33)": {
             "bandwidth": 150000.0,
             "frequency": 7410000.0,
             "mode": 2
@@ -7220,6 +7265,11 @@
             "frequency": 7490000.0,
             "mode": 2
         },
+        "Voice of America": {
+            "bandwidth": 150000.0,
+            "frequency": 7500000.0,
+            "mode": 2
+        },
         "WRNO": {
             "bandwidth": 150000.0,
             "frequency": 7505000.0,
@@ -7288,6 +7338,11 @@
         "Numbers Station 2(1)": {
             "bandwidth": 150000.0,
             "frequency": 7553000.0,
+            "mode": 2
+        },
+        "Voice of America(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 7560000.0,
             "mode": 2
         },
         "Voice of Korea(31)": {
@@ -7370,12 +7425,12 @@
             "frequency": 7570000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC": {
+        "WRMI The Mighty KBC(2)": {
             "bandwidth": 150000.0,
             "frequency": 7570000.0,
             "mode": 2
         },
-        "WRMI R.Prague(2)": {
+        "WRMI R.Prague(3)": {
             "bandwidth": 150000.0,
             "frequency": 7570000.0,
             "mode": 2
@@ -7510,7 +7565,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(1)": {
+        "WRMI The Mighty KBC(3)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7540,7 +7595,22 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Soteriah Internatio(1)": {
+        "WRMI Wave Scan(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Alameda Bible Felow(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Frecuencia al Dia(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Walking in Power(1)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7630,7 +7700,7 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(5)": {
+        "WRMI Wave Scan(7)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7665,7 +7735,7 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI Frecuencia al Dia(1)": {
+        "WRMI Frecuencia al Dia(2)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -7690,7 +7760,7 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(6)": {
+        "WRMI Wave Scan(8)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -7700,12 +7770,12 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI R.Prague(3)": {
+        "WRMI R.Prague(4)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(7)": {
+        "WRMI Wave Scan(9)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -7715,17 +7785,17 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI Frecuencia al Dia(2)": {
+        "WRMI Frecuencia al Dia(3)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI Walking in Power(1)": {
+        "WRMI Walking in Power(2)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI World of Radio(3)": {
+        "WRMI Your Story Hour(1)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -7750,7 +7820,7 @@
             "frequency": 7780000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(2)": {
+        "WRMI The Mighty KBC(4)": {
             "bandwidth": 150000.0,
             "frequency": 7780000.0,
             "mode": 2
@@ -8025,7 +8095,7 @@
             "frequency": 9300000.0,
             "mode": 2
         },
-        "Voice of America": {
+        "Voice of America(2)": {
             "bandwidth": 150000.0,
             "frequency": 9310000.0,
             "mode": 2
@@ -8140,7 +8210,7 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI Walking in Power(2)": {
+        "WRMI Walking in Power(3)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -8165,7 +8235,7 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(8)": {
+        "WRMI Wave Scan(10)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -8200,12 +8270,12 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(9)": {
+        "WRMI Wave Scan(11)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI World of Radio(4)": {
+        "WRMI World of Radio(3)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -8285,7 +8355,7 @@
             "frequency": 9395000.0,
             "mode": 2
         },
-        "WRMI Walking in Power(3)": {
+        "WRMI Walking in Power(4)": {
             "bandwidth": 150000.0,
             "frequency": 9395000.0,
             "mode": 2
@@ -8400,7 +8470,7 @@
             "frequency": 9410000.0,
             "mode": 2
         },
-        "Radio Cairo": {
+        "CNR 5 Cross-Strait Radio(4)": {
             "bandwidth": 150000.0,
             "frequency": 9410000.0,
             "mode": 2
@@ -8410,12 +8480,12 @@
             "frequency": 9410000.0,
             "mode": 2
         },
-        "Radio Cairo(1)": {
+        "Radio Cairo": {
             "bandwidth": 150000.0,
             "frequency": 9410000.0,
             "mode": 2
         },
-        "CNR 5 Cross-Strait Radio(4)": {
+        "Radio Cairo(1)": {
             "bandwidth": 150000.0,
             "frequency": 9410000.0,
             "mode": 2
@@ -8705,7 +8775,7 @@
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI R.Prague(4)": {
+        "WRMI R.Prague(5)": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
@@ -8740,7 +8810,7 @@
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(10)": {
+        "WRMI Wave Scan(12)": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
@@ -8755,7 +8825,7 @@
             "frequency": 9455000.0,
             "mode": 2
         },
-        "WRMI World of Radio(5)": {
+        "WRMI World of Radio(4)": {
             "bandwidth": 150000.0,
             "frequency": 9455000.0,
             "mode": 2
@@ -8810,7 +8880,7 @@
             "frequency": 9470000.0,
             "mode": 2
         },
-        "RBS  Voice of the Riviva": {
+        "RBS  Voice of the Rivi": {
             "bandwidth": 150000.0,
             "frequency": 9470000.0,
             "mode": 2
@@ -8975,7 +9045,7 @@
             "frequency": 9500000.0,
             "mode": 2
         },
-        "Ifrikya FM": {
+        "Ifrikya FM(1)": {
             "bandwidth": 150000.0,
             "frequency": 9500000.0,
             "mode": 2
@@ -9610,6 +9680,11 @@
             "frequency": 9590000.0,
             "mode": 2
         },
+        "KNLS World Christian Broadcasting(13)": {
+            "bandwidth": 150000.0,
+            "frequency": 9590000.0,
+            "mode": 2
+        },
         "Radio Taiwan Int.(29)": {
             "bandwidth": 150000.0,
             "frequency": 9595000.0,
@@ -9665,7 +9740,7 @@
             "frequency": 9600000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(13)": {
+        "KNLS World Christian Broadcasting(14)": {
             "bandwidth": 150000.0,
             "frequency": 9605000.0,
             "mode": 2
@@ -9790,7 +9865,7 @@
             "frequency": 9620000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(14)": {
+        "KNLS World Christian Broadcasting(15)": {
             "bandwidth": 150000.0,
             "frequency": 9625000.0,
             "mode": 2
@@ -10195,7 +10270,7 @@
             "frequency": 9675000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(15)": {
+        "KNLS World Christian Broadcasting(16)": {
             "bandwidth": 150000.0,
             "frequency": 9680000.0,
             "mode": 2
@@ -10455,17 +10530,7 @@
             "frequency": 9695000.0,
             "mode": 2
         },
-        "Ifrikya FM(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 9700000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 9700000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(2)": {
+        "Ifrikya FM(2)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
@@ -10600,12 +10665,12 @@
             "frequency": 9710000.0,
             "mode": 2
         },
-        "Bible Voice(13)": {
+        "Radio Taiwan Int.(34)": {
             "bandwidth": 150000.0,
             "frequency": 9715000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(34)": {
+        "Bible Voice(13)": {
             "bandwidth": 150000.0,
             "frequency": 9715000.0,
             "mode": 2
@@ -10670,9 +10735,14 @@
             "frequency": 9720000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(16)": {
+        "KNLS World Christian Broadcasting(17)": {
             "bandwidth": 150000.0,
             "frequency": 9720000.0,
+            "mode": 2
+        },
+        "KNLS World Christian Broadcasting(18)": {
+            "bandwidth": 150000.0,
+            "frequency": 9730000.0,
             "mode": 2
         },
         "CNR 6 Shenzhou Easy Radio(6)": {
@@ -10681,11 +10751,6 @@
             "mode": 2
         },
         "CNR 6 Shenzhou Easy Radio(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 9730000.0,
-            "mode": 2
-        },
-        "KNLS World Christian Broadcasting(17)": {
             "bandwidth": 150000.0,
             "frequency": 9730000.0,
             "mode": 2
@@ -10910,6 +10975,11 @@
             "frequency": 9750000.0,
             "mode": 2
         },
+        "CNR 8 Etnhic Minority Radio(20)": {
+            "bandwidth": 150000.0,
+            "frequency": 9750000.0,
+            "mode": 2
+        },
         "PBS Nei Menggu(11)": {
             "bandwidth": 150000.0,
             "frequency": 9750000.0,
@@ -10926,11 +10996,6 @@
             "mode": 2
         },
         "PBS Nei Menggu(14)": {
-            "bandwidth": 150000.0,
-            "frequency": 9750000.0,
-            "mode": 2
-        },
-        "CNR 8 Etnhic Minority Radio(20)": {
             "bandwidth": 150000.0,
             "frequency": 9750000.0,
             "mode": 2
@@ -10953,11 +11018,6 @@
         "World CHRISTIAN BROADC.LAVOZALEGE(1)": {
             "bandwidth": 150000.0,
             "frequency": 9755000.0,
-            "mode": 2
-        },
-        "KNLS World Christian Broadcasting(18)": {
-            "bandwidth": 150000.0,
-            "frequency": 9760000.0,
             "mode": 2
         },
         "China Radio International(356)": {
@@ -11065,7 +11125,7 @@
             "frequency": 9780000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(3)": {
+        "Radio New Zealand Int.(1)": {
             "bandwidth": 150000.0,
             "frequency": 9780000.0,
             "mode": 2
@@ -11223,6 +11283,11 @@
         "Music 4 Joy(1)": {
             "bandwidth": 150000.0,
             "frequency": 9810000.0,
+            "mode": 2
+        },
+        "Radio Marti(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 9820000.0,
             "mode": 2
         },
         "BBC(45)": {
@@ -11725,6 +11790,11 @@
             "frequency": 9890000.0,
             "mode": 2
         },
+        "Radio FREE ASIA": {
+            "bandwidth": 150000.0,
+            "frequency": 9900000.0,
+            "mode": 2
+        },
         "Radio Cairo(8)": {
             "bandwidth": 150000.0,
             "frequency": 9900000.0,
@@ -12050,12 +12120,12 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Walking in Power(4)": {
+        "WRMI Walking in Power(5)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI World of Radio(6)": {
+        "WRMI World of Radio(5)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12135,17 +12205,17 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Frecuencia al Dia(3)": {
+        "WRMI Frecuencia al Dia(4)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Walking in Power(5)": {
+        "WRMI Walking in Power(6)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(11)": {
+        "WRMI Wave Scan(13)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12155,7 +12225,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI R.Prague(5)": {
+        "WRMI R.Prague(6)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12165,12 +12235,12 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI R.Prague(6)": {
+        "WRMI R.Prague(7)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI R.Prague(7)": {
+        "WRMI R.Prague(8)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12180,7 +12250,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Frecuencia al Dia(4)": {
+        "WRMI Frecuencia al Dia(5)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12210,7 +12280,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Pursuing God Radio(1)": {
+        "WRMI Pursuing God Radio(2)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12225,7 +12295,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI R.Prague(8)": {
+        "WRMI R.Prague(9)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12260,7 +12330,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Frecuencia al Dia(5)": {
+        "WRMI Frecuencia al Dia(6)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12270,7 +12340,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(12)": {
+        "WRMI Wave Scan(14)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12280,7 +12350,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI World of Radio(7)": {
+        "WRMI World of Radio(6)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12305,7 +12375,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(13)": {
+        "WRMI Wave Scan(15)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12315,7 +12385,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(14)": {
+        "WRMI Wave Scan(16)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12325,7 +12395,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI World of Radio(8)": {
+        "WRMI World of Radio(7)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12375,7 +12445,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(15)": {
+        "WRMI Wave Scan(17)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12385,12 +12455,12 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(16)": {
+        "WRMI Wave Scan(18)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI World of Radio(9)": {
+        "WRMI World of Radio(8)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12400,7 +12470,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI VORW Radio Internat(1)": {
+        "WRMI VORW Radio Internat(3)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -12425,7 +12495,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(17)": {
+        "WRMI Wave Scan(19)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -13555,6 +13625,21 @@
             "frequency": 11720000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
         "China Radio International(412)": {
             "bandwidth": 150000.0,
             "frequency": 11730000.0,
@@ -14015,11 +14100,6 @@
             "frequency": 11815000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(43)": {
-            "bandwidth": 150000.0,
-            "frequency": 11815000.0,
-            "mode": 2
-        },
         "Vatican Radio(28)": {
             "bandwidth": 150000.0,
             "frequency": 11815000.0,
@@ -14150,7 +14230,7 @@
             "frequency": 11850000.0,
             "mode": 2
         },
-        "Radio Marti(7)": {
+        "Radio Marti(8)": {
             "bandwidth": 150000.0,
             "frequency": 11860000.0,
             "mode": 2
@@ -14325,7 +14405,7 @@
             "frequency": 11885000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(44)": {
+        "Radio Taiwan Int.(43)": {
             "bandwidth": 150000.0,
             "frequency": 11885000.0,
             "mode": 2
@@ -14530,7 +14610,7 @@
             "frequency": 11915000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(45)": {
+        "Radio Taiwan Int.(44)": {
             "bandwidth": 150000.0,
             "frequency": 11915000.0,
             "mode": 2
@@ -14545,12 +14625,12 @@
             "frequency": 11925000.0,
             "mode": 2
         },
-        "Radio Marti(8)": {
+        "Radio Marti(9)": {
             "bandwidth": 150000.0,
             "frequency": 11930000.0,
             "mode": 2
         },
-        "Radio Marti(9)": {
+        "Radio Marti(10)": {
             "bandwidth": 150000.0,
             "frequency": 11930000.0,
             "mode": 2
@@ -15180,17 +15260,17 @@
             "frequency": 12065000.0,
             "mode": 2
         },
+        "Radio Taiwan Int.(45)": {
+            "bandwidth": 150000.0,
+            "frequency": 12065000.0,
+            "mode": 2
+        },
         "Radio Taiwan Int.(46)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
         },
         "Radio Taiwan Int.(47)": {
-            "bandwidth": 150000.0,
-            "frequency": 12065000.0,
-            "mode": 2
-        },
-        "Radio Taiwan Int.(48)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
@@ -15740,6 +15820,16 @@
             "frequency": 13640000.0,
             "mode": 2
         },
+        "Ifrikya FM(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 13640000.0,
+            "mode": 2
+        },
+        "Ifrikya FM(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 13640000.0,
+            "mode": 2
+        },
         "SOH Xi Wang Zhi Sheng(104)": {
             "bandwidth": 150000.0,
             "frequency": 13640000.0,
@@ -16085,11 +16175,6 @@
             "frequency": 13750000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 13755000.0,
-            "mode": 2
-        },
         "Radio New Zealand Int.(5)": {
             "bandwidth": 150000.0,
             "frequency": 13755000.0,
@@ -16190,16 +16275,6 @@
             "frequency": 13790000.0,
             "mode": 2
         },
-        "Ifrikya FM(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 13790000.0,
-            "mode": 2
-        },
-        "Ifrikya FM(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 13790000.0,
-            "mode": 2
-        },
         "China Radio International(493)": {
             "bandwidth": 150000.0,
             "frequency": 13800000.0,
@@ -16260,7 +16335,7 @@
             "frequency": 13810000.0,
             "mode": 2
         },
-        "Radio Marti(10)": {
+        "Radio Marti(11)": {
             "bandwidth": 150000.0,
             "frequency": 13820000.0,
             "mode": 2
@@ -16290,12 +16365,12 @@
             "frequency": 13825000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(49)": {
+        "Radio Taiwan Int.(48)": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(50)": {
+        "Radio Taiwan Int.(49)": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
@@ -16368,6 +16443,16 @@
         "China Radio International(496)": {
             "bandwidth": 150000.0,
             "frequency": 13850000.0,
+            "mode": 2
+        },
+        "Ifrikya FM(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 13855000.0,
+            "mode": 2
+        },
+        "Ifrikya FM(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 13855000.0,
             "mode": 2
         },
         "China Radio International(497)": {
@@ -16625,11 +16710,6 @@
             "frequency": 15110000.0,
             "mode": 2
         },
-        "Ifrikya FM(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 15110000.0,
-            "mode": 2
-        },
         "China Radio International(499)": {
             "bandwidth": 150000.0,
             "frequency": 15120000.0,
@@ -16750,12 +16830,7 @@
             "frequency": 15140000.0,
             "mode": 2
         },
-        "Ifrikya FM(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 15140000.0,
-            "mode": 2
-        },
-        "Ifrikya FM(6)": {
+        "Ifrikya FM(7)": {
             "bandwidth": 150000.0,
             "frequency": 15140000.0,
             "mode": 2
@@ -17235,12 +17310,12 @@
             "frequency": 15320000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(51)": {
+        "Radio Taiwan Int.(50)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(52)": {
+        "Radio Taiwan Int.(51)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
@@ -17365,7 +17440,7 @@
             "frequency": 15375000.0,
             "mode": 2
         },
-        "Radio Marti(11)": {
+        "Radio Marti(12)": {
             "bandwidth": 150000.0,
             "frequency": 15380000.0,
             "mode": 2
@@ -18415,6 +18490,21 @@
             "frequency": 15710000.0,
             "mode": 2
         },
+        "China R.Int.  3F2 x(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 15720000.0,
+            "mode": 2
+        },
+        "China R.Int.  3F2 x(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 15720000.0,
+            "mode": 2
+        },
+        "China R.Int.  3F2 x(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 15720000.0,
+            "mode": 2
+        },
         "Radio New Zealand Int.(7)": {
             "bandwidth": 150000.0,
             "frequency": 15720000.0,
@@ -18430,12 +18520,12 @@
             "frequency": 15720000.0,
             "mode": 2
         },
-        "China R.Int.  3F2 x(5)": {
+        "China R.Int.  3F2 x(8)": {
             "bandwidth": 150000.0,
             "frequency": 15730000.0,
             "mode": 2
         },
-        "China R.Int.  3F2 x(6)": {
+        "China R.Int.  3F2 x(9)": {
             "bandwidth": 150000.0,
             "frequency": 15730000.0,
             "mode": 2
@@ -18580,7 +18670,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(18)": {
+        "WRMI Wave Scan(20)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18595,7 +18685,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI R.Prague(9)": {
+        "WRMI R.Prague(10)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18640,7 +18730,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(3)": {
+        "WRMI The Mighty KBC(5)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18675,7 +18765,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(4)": {
+        "WRMI The Mighty KBC(6)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18685,12 +18775,12 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(19)": {
+        "WRMI Wave Scan(21)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI World of Radio(10)": {
+        "WRMI World of Radio(9)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18750,7 +18840,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(20)": {
+        "WRMI Wave Scan(22)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18780,12 +18870,12 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI The Mighty KBC(5)": {
+        "WRMI The Mighty KBC(7)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI VORW Radio Internat(2)": {
+        "WRMI VORW Radio Internat(4)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18805,7 +18895,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(21)": {
+        "WRMI Wave Scan(23)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18845,7 +18935,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI VORW Radio Internat(3)": {
+        "WRMI VORW Radio Internat(5)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18870,7 +18960,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(22)": {
+        "WRMI Wave Scan(24)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18905,12 +18995,12 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(53)": {
+        "Radio Taiwan Int.(52)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI R.Prague(10)": {
+        "WRMI R.Prague(11)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -19273,11 +19363,6 @@
         "CNR 1 Voice of China(228)": {
             "bandwidth": 150000.0,
             "frequency": 17580000.0,
-            "mode": 2
-        },
-        "Ifrikya FM(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 17600000.0,
             "mode": 2
         },
         "Ifrikya FM(8)": {
@@ -19935,7 +20020,7 @@
             "frequency": 17790000.0,
             "mode": 2
         },
-        "WRMI R.Prague(11)": {
+        "WRMI R.Prague(12)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
@@ -19945,7 +20030,7 @@
             "frequency": 17790000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(54)": {
+        "Radio Taiwan Int.(53)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
@@ -19975,12 +20060,7 @@
             "frequency": 17790000.0,
             "mode": 2
         },
-        "Radio Taiwan Int.(55)": {
-            "bandwidth": 150000.0,
-            "frequency": 17790000.0,
-            "mode": 2
-        },
-        "WRMI R.Prague(12)": {
+        "Radio Taiwan Int.(54)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
@@ -19991,6 +20071,11 @@
             "mode": 2
         },
         "WRMI R.Prague(14)": {
+            "bandwidth": 150000.0,
+            "frequency": 17790000.0,
+            "mode": 2
+        },
+        "WRMI R.Prague(15)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
