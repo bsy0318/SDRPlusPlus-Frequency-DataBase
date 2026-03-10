@@ -1550,6 +1550,11 @@
             "frequency": 5850000.0,
             "mode": 2
         },
+        "WRMI R.Slovakia Int.(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 5850000.0,
+            "mode": 2
+        },
         "WRMI RAE Argentina to th": {
             "bandwidth": 150000.0,
             "frequency": 5850000.0,
@@ -1575,14 +1580,19 @@
             "frequency": 5857000.0,
             "mode": 2
         },
-        "Radio Farda": {
+        "Radio FARDA": {
             "bandwidth": 150000.0,
             "frequency": 5860000.0,
             "mode": 2
         },
-        "Radio Farda(1)": {
+        "Radio FARDA(1)": {
             "bandwidth": 150000.0,
             "frequency": 5875000.0,
+            "mode": 2
+        },
+        "Iran International TV": {
+            "bandwidth": 150000.0,
+            "frequency": 5885000.0,
             "mode": 2
         },
         "WWCR Nashville(1)": {
@@ -1826,6 +1836,11 @@
             "mode": 2
         },
         "Bible Voice(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "BBC(5)": {
             "bandwidth": 150000.0,
             "frequency": 5935000.0,
             "mode": 2
@@ -2185,6 +2200,11 @@
             "frequency": 5970000.0,
             "mode": 2
         },
+        "Radio DELTA International": {
+            "bandwidth": 150000.0,
+            "frequency": 5970000.0,
+            "mode": 2
+        },
         "CNR 8 Etnhic Minority Radio(1)": {
             "bandwidth": 150000.0,
             "frequency": 5975000.0,
@@ -2210,14 +2230,24 @@
             "frequency": 5975000.0,
             "mode": 2
         },
-        "BBC(5)": {
+        "BBC(6)": {
             "bandwidth": 150000.0,
             "frequency": 5975000.0,
             "mode": 2
         },
-        "BBC(6)": {
+        "BBC(7)": {
             "bandwidth": 150000.0,
             "frequency": 5975000.0,
+            "mode": 2
+        },
+        "Radio France Int.  1000(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 5980000.0,
+            "mode": 2
+        },
+        "Radio France Int.  1000(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 5980000.0,
             "mode": 2
         },
         "Voice of Turkey(2)": {
@@ -2245,12 +2275,17 @@
             "frequency": 5980000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(2)": {
+        "Radio France Int.  1000(4)": {
             "bandwidth": 150000.0,
             "frequency": 5980000.0,
             "mode": 2
         },
         "China Radio International(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 5980000.0,
+            "mode": 2
+        },
+        "Radio Marti": {
             "bandwidth": 150000.0,
             "frequency": 5980000.0,
             "mode": 2
@@ -2331,11 +2366,6 @@
             "mode": 2
         },
         "WRN Vsemirnaya Radioset(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 5990000.0,
-            "mode": 2
-        },
-        "WRN R.Slovakia Internati": {
             "bandwidth": 150000.0,
             "frequency": 5990000.0,
             "mode": 2
@@ -2485,61 +2515,6 @@
             "frequency": 6005000.0,
             "mode": 2
         },
-        "Radio Slovakia International(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
-        "Radio Slovakia International(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
-        "Radio Slovakia International(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
-        "Radio Slovakia International(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
-        "Radio Slovakia International(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
-        "Radio Slovakia International(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
-        "Radio Slovakia International(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
-        "Radio Slovakia International(11)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
-        "Radio Slovakia International(12)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
-        "Radio Slovakia International(13)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
-        "Radio Slovakia International(14)": {
-            "bandwidth": 150000.0,
-            "frequency": 6005000.0,
-            "mode": 2
-        },
         "XEOI Nucleo Radio Mil": {
             "bandwidth": 150000.0,
             "frequency": 6010000.0,
@@ -2600,7 +2575,7 @@
             "frequency": 6010000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(3)": {
+        "Radio France Int.  1000(5)": {
             "bandwidth": 150000.0,
             "frequency": 6015000.0,
             "mode": 2
@@ -2750,7 +2725,7 @@
             "frequency": 6030000.0,
             "mode": 2
         },
-        "Radio Marti": {
+        "Radio Marti(1)": {
             "bandwidth": 150000.0,
             "frequency": 6030000.0,
             "mode": 2
@@ -2815,7 +2790,7 @@
             "frequency": 6035000.0,
             "mode": 2
         },
-        "BBC(7)": {
+        "BBC(8)": {
             "bandwidth": 150000.0,
             "frequency": 6035000.0,
             "mode": 2
@@ -2825,7 +2800,7 @@
             "frequency": 6040000.0,
             "mode": 2
         },
-        "Radio DELTA International": {
+        "Radio DELTA International(1)": {
             "bandwidth": 150000.0,
             "frequency": 6040000.0,
             "mode": 2
@@ -2916,11 +2891,6 @@
             "mode": 2
         },
         "Voice of Turkey(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 6050000.0,
-            "mode": 2
-        },
-        "RTM Asyik FM": {
             "bandwidth": 150000.0,
             "frequency": 6050000.0,
             "mode": 2
@@ -3165,12 +3135,12 @@
             "frequency": 6060000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(4)": {
+        "Radio France Int.  1000(6)": {
             "bandwidth": 150000.0,
             "frequency": 6060000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(5)": {
+        "Radio France Int.  1000(7)": {
             "bandwidth": 150000.0,
             "frequency": 6060000.0,
             "mode": 2
@@ -3495,12 +3465,12 @@
             "frequency": 6090000.0,
             "mode": 2
         },
-        "BBC(8)": {
+        "BBC(9)": {
             "bandwidth": 150000.0,
             "frequency": 6090000.0,
             "mode": 2
         },
-        "BBC(9)": {
+        "BBC(10)": {
             "bandwidth": 150000.0,
             "frequency": 6090000.0,
             "mode": 2
@@ -3795,17 +3765,17 @@
             "frequency": 6115000.0,
             "mode": 2
         },
-        "BBC(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 6115000.0,
-            "mode": 2
-        },
         "BBC(11)": {
             "bandwidth": 150000.0,
             "frequency": 6115000.0,
             "mode": 2
         },
         "BBC(12)": {
+            "bandwidth": 150000.0,
+            "frequency": 6115000.0,
+            "mode": 2
+        },
+        "BBC(13)": {
             "bandwidth": 150000.0,
             "frequency": 6115000.0,
             "mode": 2
@@ -3863,6 +3833,11 @@
         "CNR 1 Voice of China(72)": {
             "bandwidth": 150000.0,
             "frequency": 6125000.0,
+            "mode": 2
+        },
+        "BBC(14)": {
+            "bandwidth": 150000.0,
+            "frequency": 6130000.0,
             "mode": 2
         },
         "Radio Europe Netherlands": {
@@ -3935,9 +3910,19 @@
             "frequency": 6135000.0,
             "mode": 2
         },
-        "BBC(13)": {
+        "BBC(15)": {
             "bandwidth": 150000.0,
             "frequency": 6135000.0,
+            "mode": 2
+        },
+        "Radio Onda": {
+            "bandwidth": 150000.0,
+            "frequency": 6140000.0,
+            "mode": 2
+        },
+        "Radio Augusta Internatio": {
+            "bandwidth": 150000.0,
+            "frequency": 6140000.0,
             "mode": 2
         },
         "Radio Gloria": {
@@ -4065,17 +4050,17 @@
             "frequency": 6155000.0,
             "mode": 2
         },
-        "BBC(14)": {
-            "bandwidth": 150000.0,
-            "frequency": 6155000.0,
-            "mode": 2
-        },
-        "BBC(15)": {
-            "bandwidth": 150000.0,
-            "frequency": 6155000.0,
-            "mode": 2
-        },
         "BBC(16)": {
+            "bandwidth": 150000.0,
+            "frequency": 6155000.0,
+            "mode": 2
+        },
+        "BBC(17)": {
+            "bandwidth": 150000.0,
+            "frequency": 6155000.0,
+            "mode": 2
+        },
+        "BBC(18)": {
             "bandwidth": 150000.0,
             "frequency": 6155000.0,
             "mode": 2
@@ -4360,7 +4345,7 @@
             "frequency": 6170000.0,
             "mode": 2
         },
-        "GTA": {
+        "Global Talk America": {
             "bandwidth": 150000.0,
             "frequency": 6170000.0,
             "mode": 2
@@ -4396,16 +4381,6 @@
             "mode": 2
         },
         "Radio Romania Int.(17)": {
-            "bandwidth": 150000.0,
-            "frequency": 6180000.0,
-            "mode": 2
-        },
-        "KSDA Adventist World Radio": {
-            "bandwidth": 150000.0,
-            "frequency": 6180000.0,
-            "mode": 2
-        },
-        "KSDA Adventist World Radio(1)": {
             "bandwidth": 150000.0,
             "frequency": 6180000.0,
             "mode": 2
@@ -4605,16 +4580,6 @@
             "frequency": 6195000.0,
             "mode": 2
         },
-        "BBC(17)": {
-            "bandwidth": 150000.0,
-            "frequency": 6195000.0,
-            "mode": 2
-        },
-        "BBC(18)": {
-            "bandwidth": 150000.0,
-            "frequency": 6195000.0,
-            "mode": 2
-        },
         "BBC(19)": {
             "bandwidth": 150000.0,
             "frequency": 6195000.0,
@@ -4626,6 +4591,16 @@
             "mode": 2
         },
         "BBC(21)": {
+            "bandwidth": 150000.0,
+            "frequency": 6195000.0,
+            "mode": 2
+        },
+        "BBC(22)": {
+            "bandwidth": 150000.0,
+            "frequency": 6195000.0,
+            "mode": 2
+        },
+        "BBC(23)": {
             "bandwidth": 150000.0,
             "frequency": 6195000.0,
             "mode": 2
@@ -4792,7 +4767,7 @@
         },
         "RRI Pro.3": {
             "bandwidth": 150000.0,
-            "frequency": 7205000.0,
+            "frequency": 7203000.0,
             "mode": 2
         },
         "Radio Romania Int.(18)": {
@@ -4985,6 +4960,11 @@
             "frequency": 7215000.0,
             "mode": 2
         },
+        "Radio Romania Int.(19)": {
+            "bandwidth": 150000.0,
+            "frequency": 7220000.0,
+            "mode": 2
+        },
         "Voice of Vietnam": {
             "bandwidth": 150000.0,
             "frequency": 7220000.0,
@@ -5070,11 +5050,6 @@
             "frequency": 7220000.0,
             "mode": 2
         },
-        "Radio Romania Int.(19)": {
-            "bandwidth": 150000.0,
-            "frequency": 7220000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(20)": {
             "bandwidth": 150000.0,
             "frequency": 7220000.0,
@@ -5086,6 +5061,11 @@
             "mode": 2
         },
         "Radio Romania Int.(22)": {
+            "bandwidth": 150000.0,
+            "frequency": 7220000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(23)": {
             "bandwidth": 150000.0,
             "frequency": 7220000.0,
             "mode": 2
@@ -5390,17 +5370,22 @@
             "frequency": 7245000.0,
             "mode": 2
         },
+        "Radio Kuwait": {
+            "bandwidth": 150000.0,
+            "frequency": 7250000.0,
+            "mode": 2
+        },
         "Vatican Radio": {
             "bandwidth": 150000.0,
             "frequency": 7250000.0,
             "mode": 2
         },
-        "Radio Romania Int.(23)": {
+        "Radio Romania Int.(24)": {
             "bandwidth": 150000.0,
             "frequency": 7250000.0,
             "mode": 2
         },
-        "Radio Romania Int.(24)": {
+        "Radio Romania Int.(25)": {
             "bandwidth": 150000.0,
             "frequency": 7250000.0,
             "mode": 2
@@ -5800,12 +5785,12 @@
             "frequency": 7285000.0,
             "mode": 2
         },
-        "BBC(22)": {
+        "BBC(24)": {
             "bandwidth": 150000.0,
             "frequency": 7285000.0,
             "mode": 2
         },
-        "BBC(23)": {
+        "BBC(25)": {
             "bandwidth": 150000.0,
             "frequency": 7285000.0,
             "mode": 2
@@ -6045,12 +6030,12 @@
             "frequency": 7305000.0,
             "mode": 2
         },
-        "BBC(24)": {
+        "BBC(26)": {
             "bandwidth": 150000.0,
             "frequency": 7305000.0,
             "mode": 2
         },
-        "BBC(25)": {
+        "BBC(27)": {
             "bandwidth": 150000.0,
             "frequency": 7305000.0,
             "mode": 2
@@ -6060,7 +6045,7 @@
             "frequency": 7310000.0,
             "mode": 2
         },
-        "Radio Romania Int.(25)": {
+        "Radio Romania Int.(26)": {
             "bandwidth": 150000.0,
             "frequency": 7310000.0,
             "mode": 2
@@ -6101,11 +6086,6 @@
             "mode": 2
         },
         "JRC Radio Dabanga": {
-            "bandwidth": 150000.0,
-            "frequency": 7315000.0,
-            "mode": 2
-        },
-        "Follow The Bible Ministr": {
             "bandwidth": 150000.0,
             "frequency": 7315000.0,
             "mode": 2
@@ -6165,11 +6145,6 @@
             "frequency": 7325000.0,
             "mode": 2
         },
-        "Radio Romania Int.(26)": {
-            "bandwidth": 150000.0,
-            "frequency": 7325000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(27)": {
             "bandwidth": 150000.0,
             "frequency": 7325000.0,
@@ -6185,7 +6160,12 @@
             "frequency": 7325000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(6)": {
+        "Radio Romania Int.(30)": {
+            "bandwidth": 150000.0,
+            "frequency": 7325000.0,
+            "mode": 2
+        },
+        "Radio France Int.  1000(8)": {
             "bandwidth": 150000.0,
             "frequency": 7325000.0,
             "mode": 2
@@ -6270,7 +6250,7 @@
             "frequency": 7330000.0,
             "mode": 2
         },
-        "Radio Romania Int.(30)": {
+        "Radio Romania Int.(31)": {
             "bandwidth": 150000.0,
             "frequency": 7330000.0,
             "mode": 2
@@ -6435,11 +6415,6 @@
             "frequency": 7355000.0,
             "mode": 2
         },
-        "Radio Marti(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 7355000.0,
-            "mode": 2
-        },
         "Radio Marti(2)": {
             "bandwidth": 150000.0,
             "frequency": 7355000.0,
@@ -6600,17 +6575,17 @@
             "frequency": 7375000.0,
             "mode": 2
         },
-        "Radio Romania Int.(31)": {
-            "bandwidth": 150000.0,
-            "frequency": 7375000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(32)": {
             "bandwidth": 150000.0,
             "frequency": 7375000.0,
             "mode": 2
         },
         "Radio Romania Int.(33)": {
+            "bandwidth": 150000.0,
+            "frequency": 7375000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(34)": {
             "bandwidth": 150000.0,
             "frequency": 7375000.0,
             "mode": 2
@@ -6640,7 +6615,7 @@
             "frequency": 7380000.0,
             "mode": 2
         },
-        "Follow The Bible Ministr(1)": {
+        "Follow The Bible Ministr": {
             "bandwidth": 150000.0,
             "frequency": 7380000.0,
             "mode": 2
@@ -6825,7 +6800,7 @@
             "frequency": 7410000.0,
             "mode": 2
         },
-        "BBC(26)": {
+        "BBC(28)": {
             "bandwidth": 150000.0,
             "frequency": 7410000.0,
             "mode": 2
@@ -6930,7 +6905,7 @@
             "frequency": 7425000.0,
             "mode": 2
         },
-        "BBC(27)": {
+        "BBC(29)": {
             "bandwidth": 150000.0,
             "frequency": 7425000.0,
             "mode": 2
@@ -6981,6 +6956,11 @@
             "mode": 2
         },
         "Radio Marti(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 7435000.0,
+            "mode": 2
+        },
+        "Radio Marti(6)": {
             "bandwidth": 150000.0,
             "frequency": 7435000.0,
             "mode": 2
@@ -7070,16 +7050,6 @@
             "frequency": 7445000.0,
             "mode": 2
         },
-        "BBC(28)": {
-            "bandwidth": 150000.0,
-            "frequency": 7445000.0,
-            "mode": 2
-        },
-        "BBC(29)": {
-            "bandwidth": 150000.0,
-            "frequency": 7445000.0,
-            "mode": 2
-        },
         "BBC(30)": {
             "bandwidth": 150000.0,
             "frequency": 7445000.0,
@@ -7091,6 +7061,16 @@
             "mode": 2
         },
         "BBC(32)": {
+            "bandwidth": 150000.0,
+            "frequency": 7445000.0,
+            "mode": 2
+        },
+        "BBC(33)": {
+            "bandwidth": 150000.0,
+            "frequency": 7445000.0,
+            "mode": 2
+        },
+        "BBC(34)": {
             "bandwidth": 150000.0,
             "frequency": 7445000.0,
             "mode": 2
@@ -7145,12 +7125,12 @@
             "frequency": 7455000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(2)": {
+        "KSDA Adventist World Radio": {
             "bandwidth": 150000.0,
             "frequency": 7455000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(3)": {
+        "KSDA Adventist World Radio(1)": {
             "bandwidth": 150000.0,
             "frequency": 7455000.0,
             "mode": 2
@@ -7160,7 +7140,17 @@
             "frequency": 7460000.0,
             "mode": 2
         },
+        "Radio FARDA(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 7470000.0,
+            "mode": 2
+        },
         "Trans World Radio Do You": {
+            "bandwidth": 150000.0,
+            "frequency": 7480000.0,
+            "mode": 2
+        },
+        "Radio FARDA(3)": {
             "bandwidth": 150000.0,
             "frequency": 7480000.0,
             "mode": 2
@@ -7290,7 +7280,17 @@
             "frequency": 7490000.0,
             "mode": 2
         },
+        "Radio FARDA(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 7490000.0,
+            "mode": 2
+        },
         "Voice of America": {
+            "bandwidth": 150000.0,
+            "frequency": 7500000.0,
+            "mode": 2
+        },
+        "Voice of America(1)": {
             "bandwidth": 150000.0,
             "frequency": 7500000.0,
             "mode": 2
@@ -7298,6 +7298,11 @@
         "WRNO": {
             "bandwidth": 150000.0,
             "frequency": 7505000.0,
+            "mode": 2
+        },
+        "Radio FARDA(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 7510000.0,
             "mode": 2
         },
         "Voice of Spring": {
@@ -7316,6 +7321,11 @@
             "mode": 2
         },
         "Bible Voice(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 7520000.0,
+            "mode": 2
+        },
+        "Bible Voice(7)": {
             "bandwidth": 150000.0,
             "frequency": 7520000.0,
             "mode": 2
@@ -7355,7 +7365,12 @@
             "frequency": 7553000.0,
             "mode": 2
         },
-        "Voice of America(1)": {
+        "Voice of America(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 7560000.0,
+            "mode": 2
+        },
+        "Voice of America(3)": {
             "bandwidth": 150000.0,
             "frequency": 7560000.0,
             "mode": 2
@@ -7520,11 +7535,6 @@
             "frequency": 7580000.0,
             "mode": 2
         },
-        "Voice of America(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 7590000.0,
-            "mode": 2
-        },
         "North Korea Reform Radio": {
             "bandwidth": 150000.0,
             "frequency": 7590000.0,
@@ -7552,7 +7562,7 @@
         },
         "Radio Free North Korea": {
             "bandwidth": 150000.0,
-            "frequency": 7610000.0,
+            "frequency": 7620000.0,
             "mode": 2
         },
         "Radio FREE ASIA(1)": {
@@ -7575,71 +7585,6 @@
             "frequency": 7650000.0,
             "mode": 2
         },
-        "WRNI Alt Universe Top 40": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Your Weekend Show": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Your Story Hour": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI WRN(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI WRN(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI WRN(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI WRN(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Wave Scan(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Wave Scan(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Walking in Power(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Viva Miami(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Viva Miami(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Truth2Ponder with B(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
         "WRMI The Mighty KBC(3)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
@@ -7650,67 +7595,22 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI The Hal Turner Show(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Supreme Master TV(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Supreme Master TV(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Supreme Master TV(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Supreme Master TV(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Supreme Master TV(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Supreme Master TV(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI R.Slovakia Int.(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
         "WRMI Pop Shop Radio(1)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Lighthouse Radio Bi": {
+        "WRNI Alt Universe Top 40": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI I Love Italy(1)": {
+        "WRMI Truth2Ponder with B(3)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI I Love Italy(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 7730000.0,
-            "mode": 2
-        },
-        "WRMI Frecuencia al Dia(1)": {
+        "WRMI The Hal Turner Show(3)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7720,12 +7620,22 @@
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI Encore(2)": {
+        "WRMI Wave Scan(6)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
         },
-        "WRMI CQ Calling(3)": {
+        "WRMI Your Story Hour": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Walking in Power(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Frecuencia al Dia(1)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -7735,7 +7645,102 @@
             "frequency": 7730000.0,
             "mode": 2
         },
+        "WRMI Supreme Master TV(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI WRN(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Supreme Master TV(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI WRN(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Supreme Master TV(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI WRN(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Supreme Master TV(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI WRN(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Supreme Master TV(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Lighthouse Radio Bi": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Encore(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Your Weekend Show": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
         "World Radio Network": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI CQ Calling(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Viva Miami(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI I Love Italy(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Wave Scan(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Viva Miami(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI I Love Italy(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 7730000.0,
+            "mode": 2
+        },
+        "WRMI Supreme Master TV(6)": {
             "bandwidth": 150000.0,
             "frequency": 7730000.0,
             "mode": 2
@@ -8130,7 +8135,12 @@
             "frequency": 9300000.0,
             "mode": 2
         },
-        "Voice of America(3)": {
+        "Voice of America(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 9310000.0,
+            "mode": 2
+        },
+        "Voice of America(5)": {
             "bandwidth": 150000.0,
             "frequency": 9310000.0,
             "mode": 2
@@ -8225,6 +8235,11 @@
             "frequency": 9355000.0,
             "mode": 2
         },
+        "Radio FARDA(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 9365000.0,
+            "mode": 2
+        },
         "Radio Pilipinas": {
             "bandwidth": 150000.0,
             "frequency": 9370000.0,
@@ -8243,6 +8258,11 @@
         "Voice of Martyrs(5)": {
             "bandwidth": 150000.0,
             "frequency": 9385000.0,
+            "mode": 2
+        },
+        "Radio FARDA(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 9390000.0,
             "mode": 2
         },
         "WRMI Walking in Power(3)": {
@@ -8465,12 +8485,12 @@
             "frequency": 9400000.0,
             "mode": 2
         },
-        "Bible Voice(7)": {
+        "Bible Voice(8)": {
             "bandwidth": 150000.0,
             "frequency": 9400000.0,
             "mode": 2
         },
-        "Bible Voice(8)": {
+        "Bible Voice(9)": {
             "bandwidth": 150000.0,
             "frequency": 9400000.0,
             "mode": 2
@@ -8485,17 +8505,22 @@
             "frequency": 9405000.0,
             "mode": 2
         },
-        "Voice of Turkey(13)": {
+        "FOLLOW THE BIBLE MINISTRIES": {
             "bandwidth": 150000.0,
             "frequency": 9410000.0,
             "mode": 2
         },
-        "Radio Cairo": {
+        "BBC(35)": {
             "bandwidth": 150000.0,
             "frequency": 9410000.0,
             "mode": 2
         },
-        "Radio Cairo(1)": {
+        "BBC(36)": {
+            "bandwidth": 150000.0,
+            "frequency": 9410000.0,
+            "mode": 2
+        },
+        "BBC(37)": {
             "bandwidth": 150000.0,
             "frequency": 9410000.0,
             "mode": 2
@@ -8510,22 +8535,27 @@
             "frequency": 9410000.0,
             "mode": 2
         },
+        "Radio Marti(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 9410000.0,
+            "mode": 2
+        },
+        "Voice of Turkey(13)": {
+            "bandwidth": 150000.0,
+            "frequency": 9410000.0,
+            "mode": 2
+        },
         "China Radio International(248)": {
             "bandwidth": 150000.0,
             "frequency": 9410000.0,
             "mode": 2
         },
+        "Radio Cairo": {
+            "bandwidth": 150000.0,
+            "frequency": 9410000.0,
+            "mode": 2
+        },
         "China Radio International(249)": {
-            "bandwidth": 150000.0,
-            "frequency": 9410000.0,
-            "mode": 2
-        },
-        "BBC(33)": {
-            "bandwidth": 150000.0,
-            "frequency": 9410000.0,
-            "mode": 2
-        },
-        "BBC(34)": {
             "bandwidth": 150000.0,
             "frequency": 9410000.0,
             "mode": 2
@@ -8645,12 +8675,7 @@
             "frequency": 9435000.0,
             "mode": 2
         },
-        "Radio Romania Int.(34)": {
-            "bandwidth": 150000.0,
-            "frequency": 9440000.0,
-            "mode": 2
-        },
-        "Radio Cairo(2)": {
+        "Radio Romania Int.(35)": {
             "bandwidth": 150000.0,
             "frequency": 9440000.0,
             "mode": 2
@@ -8661,6 +8686,11 @@
             "mode": 2
         },
         "NHK World Radio Japan(17)": {
+            "bandwidth": 150000.0,
+            "frequency": 9440000.0,
+            "mode": 2
+        },
+        "NHK World Radio Japan(18)": {
             "bandwidth": 150000.0,
             "frequency": 9440000.0,
             "mode": 2
@@ -8715,12 +8745,12 @@
             "frequency": 9440000.0,
             "mode": 2
         },
-        "Bible Voice(9)": {
+        "Bible Voice(10)": {
             "bandwidth": 150000.0,
             "frequency": 9440000.0,
             "mode": 2
         },
-        "BBC(35)": {
+        "BBC(38)": {
             "bandwidth": 150000.0,
             "frequency": 9440000.0,
             "mode": 2
@@ -8770,7 +8800,7 @@
             "frequency": 9445000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(18)": {
+        "NHK World Radio Japan(19)": {
             "bandwidth": 150000.0,
             "frequency": 9450000.0,
             "mode": 2
@@ -8800,7 +8830,7 @@
             "frequency": 9450000.0,
             "mode": 2
         },
-        "Bible Voice(10)": {
+        "Bible Voice(11)": {
             "bandwidth": 150000.0,
             "frequency": 9450000.0,
             "mode": 2
@@ -8910,7 +8940,7 @@
             "frequency": 9460000.0,
             "mode": 2
         },
-        "BBC(36)": {
+        "BBC(39)": {
             "bandwidth": 150000.0,
             "frequency": 9465000.0,
             "mode": 2
@@ -8995,7 +9025,12 @@
             "frequency": 9480000.0,
             "mode": 2
         },
-        "Radio Cairo(3)": {
+        "Radio Cairo(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9485000.0,
+            "mode": 2
+        },
+        "Radio Cairo(2)": {
             "bandwidth": 150000.0,
             "frequency": 9485000.0,
             "mode": 2
@@ -9016,11 +9051,6 @@
             "mode": 2
         },
         "Radio Taiwan Int.(24)": {
-            "bandwidth": 150000.0,
-            "frequency": 9490000.0,
-            "mode": 2
-        },
-        "Radio Cairo(4)": {
             "bandwidth": 150000.0,
             "frequency": 9490000.0,
             "mode": 2
@@ -9060,12 +9090,12 @@
             "frequency": 9490000.0,
             "mode": 2
         },
-        "Bible Voice(11)": {
+        "Bible Voice(12)": {
             "bandwidth": 150000.0,
             "frequency": 9490000.0,
             "mode": 2
         },
-        "Bible Voice(12)": {
+        "Bible Voice(13)": {
             "bandwidth": 150000.0,
             "frequency": 9490000.0,
             "mode": 2
@@ -9080,7 +9110,7 @@
             "frequency": 9500000.0,
             "mode": 2
         },
-        "Radio Romania Int.(35)": {
+        "Radio Romania Int.(36)": {
             "bandwidth": 150000.0,
             "frequency": 9500000.0,
             "mode": 2
@@ -9115,17 +9145,17 @@
             "frequency": 9500000.0,
             "mode": 2
         },
-        "Radio Romania Int.(36)": {
-            "bandwidth": 150000.0,
-            "frequency": 9510000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(37)": {
             "bandwidth": 150000.0,
             "frequency": 9510000.0,
             "mode": 2
         },
         "Radio Romania Int.(38)": {
+            "bandwidth": 150000.0,
+            "frequency": 9510000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(39)": {
             "bandwidth": 150000.0,
             "frequency": 9510000.0,
             "mode": 2
@@ -9165,7 +9195,7 @@
             "frequency": 9510000.0,
             "mode": 2
         },
-        "Radio Farda(2)": {
+        "Radio FARDA(8)": {
             "bandwidth": 150000.0,
             "frequency": 9515000.0,
             "mode": 2
@@ -9240,21 +9270,6 @@
             "frequency": 9525000.0,
             "mode": 2
         },
-        "BBC(37)": {
-            "bandwidth": 150000.0,
-            "frequency": 9525000.0,
-            "mode": 2
-        },
-        "BBC(38)": {
-            "bandwidth": 150000.0,
-            "frequency": 9525000.0,
-            "mode": 2
-        },
-        "BBC(39)": {
-            "bandwidth": 150000.0,
-            "frequency": 9525000.0,
-            "mode": 2
-        },
         "BBC(40)": {
             "bandwidth": 150000.0,
             "frequency": 9525000.0,
@@ -9265,12 +9280,22 @@
             "frequency": 9525000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(4)": {
+        "BBC(42)": {
             "bandwidth": 150000.0,
-            "frequency": 9530000.0,
+            "frequency": 9525000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(5)": {
+        "BBC(43)": {
+            "bandwidth": 150000.0,
+            "frequency": 9525000.0,
+            "mode": 2
+        },
+        "BBC(44)": {
+            "bandwidth": 150000.0,
+            "frequency": 9525000.0,
+            "mode": 2
+        },
+        "KNLS World Christian Broadcasting(4)": {
             "bandwidth": 150000.0,
             "frequency": 9530000.0,
             "mode": 2
@@ -9320,7 +9345,7 @@
             "frequency": 9540000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(6)": {
+        "KNLS World Christian Broadcasting(5)": {
             "bandwidth": 150000.0,
             "frequency": 9540000.0,
             "mode": 2
@@ -9380,19 +9405,24 @@
             "frequency": 9545000.0,
             "mode": 2
         },
-        "Radio Romania Int.(39)": {
+        "Radio Romania Int.(40)": {
             "bandwidth": 150000.0,
             "frequency": 9545000.0,
             "mode": 2
         },
-        "BBC(42)": {
+        "BBC(45)": {
             "bandwidth": 150000.0,
             "frequency": 9545000.0,
             "mode": 2
         },
-        "BBC(43)": {
+        "BBC(46)": {
             "bandwidth": 150000.0,
             "frequency": 9545000.0,
+            "mode": 2
+        },
+        "KNLS World Christian Broadcasting(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 9550000.0,
             "mode": 2
         },
         "KNLS World Christian Broadcasting(7)": {
@@ -9401,11 +9431,6 @@
             "mode": 2
         },
         "KNLS World Christian Broadcasting(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 9550000.0,
-            "mode": 2
-        },
-        "KNLS World Christian Broadcasting(9)": {
             "bandwidth": 150000.0,
             "frequency": 9550000.0,
             "mode": 2
@@ -9490,7 +9515,7 @@
             "frequency": 9560000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(19)": {
+        "NHK World Radio Japan(20)": {
             "bandwidth": 150000.0,
             "frequency": 9560000.0,
             "mode": 2
@@ -9515,22 +9540,22 @@
             "frequency": 9560000.0,
             "mode": 2
         },
-        "BBC(44)": {
+        "BBC(47)": {
             "bandwidth": 150000.0,
             "frequency": 9560000.0,
             "mode": 2
         },
-        "Radio Marti(6)": {
+        "Radio Marti(8)": {
             "bandwidth": 150000.0,
             "frequency": 9565000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(7)": {
+        "Radio France Int.  1000(9)": {
             "bandwidth": 150000.0,
             "frequency": 9565000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(10)": {
+        "KNLS World Christian Broadcasting(9)": {
             "bandwidth": 150000.0,
             "frequency": 9570000.0,
             "mode": 2
@@ -9540,7 +9565,7 @@
             "frequency": 9570000.0,
             "mode": 2
         },
-        "Radio Romania Int.(40)": {
+        "Radio Romania Int.(41)": {
             "bandwidth": 150000.0,
             "frequency": 9570000.0,
             "mode": 2
@@ -9595,7 +9620,7 @@
             "frequency": 9570000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(11)": {
+        "KNLS World Christian Broadcasting(10)": {
             "bandwidth": 150000.0,
             "frequency": 9580000.0,
             "mode": 2
@@ -9630,7 +9655,7 @@
             "frequency": 9580000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(12)": {
+        "KNLS World Christian Broadcasting(11)": {
             "bandwidth": 150000.0,
             "frequency": 9585000.0,
             "mode": 2
@@ -9655,12 +9680,7 @@
             "frequency": 9585000.0,
             "mode": 2
         },
-        "FOLLOW THE BIBLE MINISTRIES": {
-            "bandwidth": 150000.0,
-            "frequency": 9585000.0,
-            "mode": 2
-        },
-        "FOLLOW THE BIBLE MINISTRIES(1)": {
+        "Follow The Bible Ministr(1)": {
             "bandwidth": 150000.0,
             "frequency": 9585000.0,
             "mode": 2
@@ -9675,7 +9695,7 @@
             "frequency": 9585000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(13)": {
+        "KNLS World Christian Broadcasting(12)": {
             "bandwidth": 150000.0,
             "frequency": 9590000.0,
             "mode": 2
@@ -9790,12 +9810,22 @@
             "frequency": 9600000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(14)": {
+        "KNLS World Christian Broadcasting(13)": {
             "bandwidth": 150000.0,
             "frequency": 9605000.0,
             "mode": 2
         },
         "Voice of Turkey(19)": {
+            "bandwidth": 150000.0,
+            "frequency": 9610000.0,
+            "mode": 2
+        },
+        "KSDA Adventist World Radio(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 9610000.0,
+            "mode": 2
+        },
+        "KSDA Adventist World Radio(3)": {
             "bandwidth": 150000.0,
             "frequency": 9610000.0,
             "mode": 2
@@ -9806,16 +9836,6 @@
             "mode": 2
         },
         "KSDA Adventist World Radio(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 9610000.0,
-            "mode": 2
-        },
-        "KSDA Adventist World Radio(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 9610000.0,
-            "mode": 2
-        },
-        "KSDA Adventist World Radio(7)": {
             "bandwidth": 150000.0,
             "frequency": 9610000.0,
             "mode": 2
@@ -9880,7 +9900,7 @@
             "frequency": 9620000.0,
             "mode": 2
         },
-        "Radio Romania Int.(41)": {
+        "Radio Romania Int.(42)": {
             "bandwidth": 150000.0,
             "frequency": 9620000.0,
             "mode": 2
@@ -9913,11 +9933,6 @@
         "China Radio International(312)": {
             "bandwidth": 150000.0,
             "frequency": 9620000.0,
-            "mode": 2
-        },
-        "KNLS World Christian Broadcasting(15)": {
-            "bandwidth": 150000.0,
-            "frequency": 9625000.0,
             "mode": 2
         },
         "Voice of Turkey(20)": {
@@ -10190,7 +10205,7 @@
             "frequency": 9660000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(20)": {
+        "NHK World Radio Japan(21)": {
             "bandwidth": 150000.0,
             "frequency": 9665000.0,
             "mode": 2
@@ -10325,7 +10340,7 @@
             "frequency": 9675000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(16)": {
+        "KNLS World Christian Broadcasting(14)": {
             "bandwidth": 150000.0,
             "frequency": 9680000.0,
             "mode": 2
@@ -10585,17 +10600,22 @@
             "frequency": 9695000.0,
             "mode": 2
         },
-        "Radio Romania Int.(42)": {
+        "Radio Romania Int.(43)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(21)": {
+        "NHK World Radio Japan(22)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
         },
         "Ifrikya FM(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(1)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
@@ -10730,11 +10750,6 @@
             "frequency": 9715000.0,
             "mode": 2
         },
-        "Bible Voice(13)": {
-            "bandwidth": 150000.0,
-            "frequency": 9715000.0,
-            "mode": 2
-        },
         "Bible Voice(14)": {
             "bandwidth": 150000.0,
             "frequency": 9715000.0,
@@ -10750,7 +10765,17 @@
             "frequency": 9715000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(17)": {
+        "Bible Voice(17)": {
+            "bandwidth": 150000.0,
+            "frequency": 9715000.0,
+            "mode": 2
+        },
+        "KNLS World Christian Broadcasting(15)": {
+            "bandwidth": 150000.0,
+            "frequency": 9720000.0,
+            "mode": 2
+        },
+        "KNLS World Christian Broadcasting(16)": {
             "bandwidth": 150000.0,
             "frequency": 9720000.0,
             "mode": 2
@@ -10760,7 +10785,7 @@
             "frequency": 9720000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(8)": {
+        "KSDA Adventist World Radio(6)": {
             "bandwidth": 150000.0,
             "frequency": 9720000.0,
             "mode": 2
@@ -10800,7 +10825,12 @@
             "frequency": 9720000.0,
             "mode": 2
         },
-        "KNLS World Christian Broadcasting(18)": {
+        "Radio Romania Int.(44)": {
+            "bandwidth": 150000.0,
+            "frequency": 9720000.0,
+            "mode": 2
+        },
+        "KNLS World Christian Broadcasting(17)": {
             "bandwidth": 150000.0,
             "frequency": 9730000.0,
             "mode": 2
@@ -10975,17 +11005,12 @@
             "frequency": 9740000.0,
             "mode": 2
         },
-        "Radio Romania Int.(43)": {
-            "bandwidth": 150000.0,
-            "frequency": 9740000.0,
-            "mode": 2
-        },
         "Radio France Int.(4)": {
             "bandwidth": 150000.0,
             "frequency": 9740000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(22)": {
+        "NHK World Radio Japan(23)": {
             "bandwidth": 150000.0,
             "frequency": 9740000.0,
             "mode": 2
@@ -11040,11 +11065,6 @@
             "frequency": 9750000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(23)": {
-            "bandwidth": 150000.0,
-            "frequency": 9750000.0,
-            "mode": 2
-        },
         "NHK World Radio Japan(24)": {
             "bandwidth": 150000.0,
             "frequency": 9750000.0,
@@ -11056,6 +11076,11 @@
             "mode": 2
         },
         "NHK World Radio Japan(26)": {
+            "bandwidth": 150000.0,
+            "frequency": 9750000.0,
+            "mode": 2
+        },
+        "NHK World Radio Japan(27)": {
             "bandwidth": 150000.0,
             "frequency": 9750000.0,
             "mode": 2
@@ -11085,22 +11110,27 @@
             "frequency": 9755000.0,
             "mode": 2
         },
+        "KSDA Adventist World Radio(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 9760000.0,
+            "mode": 2
+        },
         "China Radio International(356)": {
             "bandwidth": 150000.0,
             "frequency": 9760000.0,
             "mode": 2
         },
+        "KSDA Adventist World Radio(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 9760000.0,
+            "mode": 2
+        },
+        "KNLS World Christian Broadcasting(18)": {
+            "bandwidth": 150000.0,
+            "frequency": 9765000.0,
+            "mode": 2
+        },
         "KNLS World Christian Broadcasting(19)": {
-            "bandwidth": 150000.0,
-            "frequency": 9765000.0,
-            "mode": 2
-        },
-        "KNLS World Christian Broadcasting(20)": {
-            "bandwidth": 150000.0,
-            "frequency": 9765000.0,
-            "mode": 2
-        },
-        "NHK World Radio Japan(27)": {
             "bandwidth": 150000.0,
             "frequency": 9765000.0,
             "mode": 2
@@ -11110,7 +11140,12 @@
             "frequency": 9765000.0,
             "mode": 2
         },
-        "GTA(1)": {
+        "NHK World Radio Japan(29)": {
+            "bandwidth": 150000.0,
+            "frequency": 9765000.0,
+            "mode": 2
+        },
+        "Global Talk America(1)": {
             "bandwidth": 150000.0,
             "frequency": 9765000.0,
             "mode": 2
@@ -11155,6 +11190,11 @@
             "frequency": 9770000.0,
             "mode": 2
         },
+        "BBC(48)": {
+            "bandwidth": 150000.0,
+            "frequency": 9770000.0,
+            "mode": 2
+        },
         "Fu Hsing BS(1)": {
             "bandwidth": 150000.0,
             "frequency": 9774000.0,
@@ -11170,7 +11210,7 @@
             "frequency": 9775000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(1)": {
+        "Radio New Zealand Int.(2)": {
             "bandwidth": 150000.0,
             "frequency": 9780000.0,
             "mode": 2
@@ -11290,6 +11330,11 @@
             "frequency": 9795000.0,
             "mode": 2
         },
+        "KNLS World Christian Broadcasting(20)": {
+            "bandwidth": 150000.0,
+            "frequency": 9800000.0,
+            "mode": 2
+        },
         "China Radio International(368)": {
             "bandwidth": 150000.0,
             "frequency": 9800000.0,
@@ -11305,7 +11350,7 @@
             "frequency": 9805000.0,
             "mode": 2
         },
-        "Radio Romania Int.(44)": {
+        "Radio Cairo(3)": {
             "bandwidth": 150000.0,
             "frequency": 9810000.0,
             "mode": 2
@@ -11315,7 +11360,12 @@
             "frequency": 9810000.0,
             "mode": 2
         },
-        "Radio Cairo(5)": {
+        "Radio Romania Int.(46)": {
+            "bandwidth": 150000.0,
+            "frequency": 9810000.0,
+            "mode": 2
+        },
+        "Radio Cairo(4)": {
             "bandwidth": 150000.0,
             "frequency": 9810000.0,
             "mode": 2
@@ -11348,6 +11398,11 @@
         "CNR 1 Voice of China(153)": {
             "bandwidth": 150000.0,
             "frequency": 9810000.0,
+            "mode": 2
+        },
+        "WRN R.Slovakia Internati": {
+            "bandwidth": 150000.0,
+            "frequency": 9820000.0,
             "mode": 2
         },
         "Voice of Beibu Bay Radio(9)": {
@@ -11400,7 +11455,7 @@
             "frequency": 9820000.0,
             "mode": 2
         },
-        "Radio Marti(7)": {
+        "Radio Marti(9)": {
             "bandwidth": 150000.0,
             "frequency": 9820000.0,
             "mode": 2
@@ -11415,7 +11470,7 @@
             "frequency": 9820000.0,
             "mode": 2
         },
-        "BBC(45)": {
+        "BBC(49)": {
             "bandwidth": 150000.0,
             "frequency": 9820000.0,
             "mode": 2
@@ -11590,7 +11645,12 @@
             "frequency": 9850000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(29)": {
+        "Voice of Tibet": {
+            "bandwidth": 150000.0,
+            "frequency": 9854000.0,
+            "mode": 2
+        },
+        "NHK World Radio Japan(30)": {
             "bandwidth": 150000.0,
             "frequency": 9855000.0,
             "mode": 2
@@ -11630,12 +11690,17 @@
             "frequency": 9860000.0,
             "mode": 2
         },
-        "Voice of Tibet": {
+        "Voice of Tibet(1)": {
             "bandwidth": 150000.0,
             "frequency": 9864000.0,
             "mode": 2
         },
-        "Voice of Tibet(1)": {
+        "Voice of Tibet(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 9864000.0,
+            "mode": 2
+        },
+        "Voice of Tibet(3)": {
             "bandwidth": 150000.0,
             "frequency": 9864000.0,
             "mode": 2
@@ -11650,11 +11715,6 @@
             "frequency": 9865000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 9870000.0,
-            "mode": 2
-        },
         "KBS World Radio(26)": {
             "bandwidth": 150000.0,
             "frequency": 9870000.0,
@@ -11665,7 +11725,7 @@
             "frequency": 9870000.0,
             "mode": 2
         },
-        "BBC(46)": {
+        "BBC(50)": {
             "bandwidth": 150000.0,
             "frequency": 9870000.0,
             "mode": 2
@@ -11680,12 +11740,17 @@
             "frequency": 9870000.0,
             "mode": 2
         },
-        "Voice of Tibet(2)": {
+        "Voice of Tibet(4)": {
             "bandwidth": 150000.0,
             "frequency": 9873000.0,
             "mode": 2
         },
-        "Voice of Tibet(3)": {
+        "Voice of Tibet(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 9874000.0,
+            "mode": 2
+        },
+        "Voice of Tibet(6)": {
             "bandwidth": 150000.0,
             "frequency": 9874000.0,
             "mode": 2
@@ -11745,7 +11810,12 @@
             "frequency": 9875000.0,
             "mode": 2
         },
-        "Voice of Tibet(4)": {
+        "Voice of Tibet(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 9877000.0,
+            "mode": 2
+        },
+        "Voice of Tibet(8)": {
             "bandwidth": 150000.0,
             "frequency": 9877000.0,
             "mode": 2
@@ -11785,6 +11855,16 @@
             "frequency": 9880000.0,
             "mode": 2
         },
+        "KSDA Adventist World Radio(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 9885000.0,
+            "mode": 2
+        },
+        "Radio Cairo(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 9885000.0,
+            "mode": 2
+        },
         "KNLS World Christian Broadcasting(23)": {
             "bandwidth": 150000.0,
             "frequency": 9885000.0,
@@ -11805,12 +11885,12 @@
             "frequency": 9885000.0,
             "mode": 2
         },
-        "Voice of Tibet(5)": {
+        "Voice of Tibet(9)": {
             "bandwidth": 150000.0,
             "frequency": 9887000.0,
             "mode": 2
         },
-        "Voice of Tibet(6)": {
+        "Voice of Tibet(10)": {
             "bandwidth": 150000.0,
             "frequency": 9887000.0,
             "mode": 2
@@ -11918,11 +11998,6 @@
         "Trans World Radio(22)": {
             "bandwidth": 150000.0,
             "frequency": 9910000.0,
-            "mode": 2
-        },
-        "Voice of America(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 9915000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(43)": {
@@ -13015,7 +13090,12 @@
             "frequency": 11570000.0,
             "mode": 2
         },
-        "Voice of America(5)": {
+        "Voice of America(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 11575000.0,
+            "mode": 2
+        },
+        "Radio FARDA(9)": {
             "bandwidth": 150000.0,
             "frequency": 11575000.0,
             "mode": 2
@@ -13060,7 +13140,7 @@
             "frequency": 11600000.0,
             "mode": 2
         },
-        "Bible Voice(17)": {
+        "Bible Voice(18)": {
             "bandwidth": 150000.0,
             "frequency": 11600000.0,
             "mode": 2
@@ -13090,12 +13170,12 @@
             "frequency": 11610000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(30)": {
+        "NHK World Radio Japan(31)": {
             "bandwidth": 150000.0,
             "frequency": 11610000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(31)": {
+        "NHK World Radio Japan(32)": {
             "bandwidth": 150000.0,
             "frequency": 11610000.0,
             "mode": 2
@@ -13150,12 +13230,12 @@
             "frequency": 11620000.0,
             "mode": 2
         },
-        "Radio Romania Int.(46)": {
+        "Radio Romania Int.(47)": {
             "bandwidth": 150000.0,
             "frequency": 11630000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(32)": {
+        "NHK World Radio Japan(33)": {
             "bandwidth": 150000.0,
             "frequency": 11630000.0,
             "mode": 2
@@ -13315,7 +13395,7 @@
             "frequency": 11645000.0,
             "mode": 2
         },
-        "BBC(47)": {
+        "BBC(51)": {
             "bandwidth": 150000.0,
             "frequency": 11645000.0,
             "mode": 2
@@ -13355,7 +13435,47 @@
             "frequency": 11655000.0,
             "mode": 2
         },
-        "Voice of Turkey(25)": {
+        "FOLLOW THE BIBLE MINISTRIES(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "BBC(52)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "BBC(53)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "CNR 2 Business Radio(51)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "CNR 2 Business Radio(52)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "NHK World Radio Japan(34)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.  Xhe E(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(48)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(49)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
             "mode": 2
@@ -13380,52 +13500,7 @@
             "frequency": 11660000.0,
             "mode": 2
         },
-        "Radio Romania Int.  Xhe E(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(47)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(48)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "NHK World Radio Japan(33)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "FOLLOW THE BIBLE MINISTRIES(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "CNR 2 Business Radio(51)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "CNR 2 Business Radio(52)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "BBC(48)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "BBC(49)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "FOLLOW THE BIBLE MINISTRIES(3)": {
+        "Voice of Turkey(25)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
             "mode": 2
@@ -13445,7 +13520,7 @@
             "frequency": 11670000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(34)": {
+        "NHK World Radio Japan(35)": {
             "bandwidth": 150000.0,
             "frequency": 11670000.0,
             "mode": 2
@@ -13465,7 +13540,7 @@
             "frequency": 11670000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(35)": {
+        "NHK World Radio Japan(36)": {
             "bandwidth": 150000.0,
             "frequency": 11675000.0,
             "mode": 2
@@ -13485,7 +13560,7 @@
             "frequency": 11680000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(36)": {
+        "NHK World Radio Japan(37)": {
             "bandwidth": 150000.0,
             "frequency": 11685000.0,
             "mode": 2
@@ -13556,6 +13631,11 @@
             "mode": 2
         },
         "China Radio International(405)": {
+            "bandwidth": 150000.0,
+            "frequency": 11690000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(3)": {
             "bandwidth": 150000.0,
             "frequency": 11690000.0,
             "mode": 2
@@ -13715,27 +13795,37 @@
             "frequency": 11720000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 11725000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 11725000.0,
-            "mode": 2
-        },
         "Radio New Zealand Int.(4)": {
             "bandwidth": 150000.0,
             "frequency": 11725000.0,
             "mode": 2
         },
-        "Radio Romania Int.(49)": {
+        "Radio New Zealand Int.(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(50)": {
             "bandwidth": 150000.0,
             "frequency": 11730000.0,
             "mode": 2
         },
-        "Radio Romania Int.(50)": {
+        "Radio Romania Int.(51)": {
             "bandwidth": 150000.0,
             "frequency": 11730000.0,
             "mode": 2
@@ -13775,12 +13865,12 @@
             "frequency": 11735000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(37)": {
+        "NHK World Radio Japan(38)": {
             "bandwidth": 150000.0,
             "frequency": 11735000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(38)": {
+        "NHK World Radio Japan(39)": {
             "bandwidth": 150000.0,
             "frequency": 11735000.0,
             "mode": 2
@@ -14010,7 +14100,7 @@
             "frequency": 11785000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(8)": {
+        "Radio France Int.  1000(10)": {
             "bandwidth": 150000.0,
             "frequency": 11790000.0,
             "mode": 2
@@ -14035,7 +14125,7 @@
             "frequency": 11795000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(39)": {
+        "NHK World Radio Japan(40)": {
             "bandwidth": 150000.0,
             "frequency": 11800000.0,
             "mode": 2
@@ -14120,7 +14210,7 @@
             "frequency": 11810000.0,
             "mode": 2
         },
-        "BBC(50)": {
+        "BBC(54)": {
             "bandwidth": 150000.0,
             "frequency": 11810000.0,
             "mode": 2
@@ -14150,17 +14240,12 @@
             "frequency": 11815000.0,
             "mode": 2
         },
-        "Radio Romania Int.(51)": {
+        "Radio Romania Int.(52)": {
             "bandwidth": 150000.0,
             "frequency": 11815000.0,
             "mode": 2
         },
         "Radio Brasil Central(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 11815000.0,
-            "mode": 2
-        },
-        "NHK World Radio Japan(40)": {
             "bandwidth": 150000.0,
             "frequency": 11815000.0,
             "mode": 2
@@ -14191,6 +14276,11 @@
             "mode": 2
         },
         "NHK World Radio Japan(46)": {
+            "bandwidth": 150000.0,
+            "frequency": 11815000.0,
+            "mode": 2
+        },
+        "NHK World Radio Japan(47)": {
             "bandwidth": 150000.0,
             "frequency": 11815000.0,
             "mode": 2
@@ -14250,12 +14340,7 @@
             "frequency": 11825000.0,
             "mode": 2
         },
-        "Radio Romania Int.(52)": {
-            "bandwidth": 150000.0,
-            "frequency": 11825000.0,
-            "mode": 2
-        },
-        "NHK World Radio Japan(47)": {
+        "Radio Romania Int.(53)": {
             "bandwidth": 150000.0,
             "frequency": 11825000.0,
             "mode": 2
@@ -14267,7 +14352,7 @@
         },
         "NHK World Radio Japan(49)": {
             "bandwidth": 150000.0,
-            "frequency": 11830000.0,
+            "frequency": 11825000.0,
             "mode": 2
         },
         "NHK World Radio Japan(50)": {
@@ -14276,6 +14361,11 @@
             "mode": 2
         },
         "NHK World Radio Japan(51)": {
+            "bandwidth": 150000.0,
+            "frequency": 11830000.0,
+            "mode": 2
+        },
+        "NHK World Radio Japan(52)": {
             "bandwidth": 150000.0,
             "frequency": 11830000.0,
             "mode": 2
@@ -14290,7 +14380,7 @@
             "frequency": 11830000.0,
             "mode": 2
         },
-        "BBC(51)": {
+        "BBC(55)": {
             "bandwidth": 150000.0,
             "frequency": 11830000.0,
             "mode": 2
@@ -14320,7 +14410,12 @@
             "frequency": 11850000.0,
             "mode": 2
         },
-        "Radio Marti(8)": {
+        "Radio Marti(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 11860000.0,
+            "mode": 2
+        },
+        "Radio Marti(11)": {
             "bandwidth": 150000.0,
             "frequency": 11860000.0,
             "mode": 2
@@ -14470,6 +14565,11 @@
             "frequency": 11875000.0,
             "mode": 2
         },
+        "Radio Ergo": {
+            "bandwidth": 150000.0,
+            "frequency": 11875000.0,
+            "mode": 2
+        },
         "Voice of Islamic Rep.iran(25)": {
             "bandwidth": 150000.0,
             "frequency": 11880000.0,
@@ -14488,6 +14588,11 @@
         "China Radio International(432)": {
             "bandwidth": 150000.0,
             "frequency": 11880000.0,
+            "mode": 2
+        },
+        "RTM Sabah FM": {
+            "bandwidth": 150000.0,
+            "frequency": 11885000.0,
             "mode": 2
         },
         "Voice of Vietnam(40)": {
@@ -14690,7 +14795,7 @@
             "frequency": 11915000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(52)": {
+        "NHK World Radio Japan(53)": {
             "bandwidth": 150000.0,
             "frequency": 11915000.0,
             "mode": 2
@@ -14715,17 +14820,22 @@
             "frequency": 11925000.0,
             "mode": 2
         },
-        "BBC(52)": {
+        "BBC(56)": {
             "bandwidth": 150000.0,
             "frequency": 11925000.0,
             "mode": 2
         },
-        "Radio Marti(9)": {
+        "Radio Marti(12)": {
             "bandwidth": 150000.0,
             "frequency": 11930000.0,
             "mode": 2
         },
-        "Radio Marti(10)": {
+        "Radio Marti(13)": {
+            "bandwidth": 150000.0,
+            "frequency": 11930000.0,
+            "mode": 2
+        },
+        "Radio Marti(14)": {
             "bandwidth": 150000.0,
             "frequency": 11930000.0,
             "mode": 2
@@ -14750,12 +14860,12 @@
             "frequency": 11940000.0,
             "mode": 2
         },
-        "Radio Romania Int.(53)": {
+        "Radio Romania Int.(54)": {
             "bandwidth": 150000.0,
             "frequency": 11945000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(53)": {
+        "NHK World Radio Japan(54)": {
             "bandwidth": 150000.0,
             "frequency": 11945000.0,
             "mode": 2
@@ -14795,7 +14905,7 @@
             "frequency": 11955000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(54)": {
+        "NHK World Radio Japan(55)": {
             "bandwidth": 150000.0,
             "frequency": 11955000.0,
             "mode": 2
@@ -14820,7 +14930,7 @@
             "frequency": 11955000.0,
             "mode": 2
         },
-        "Radio Romania Int.(54)": {
+        "Radio Romania Int.(55)": {
             "bandwidth": 150000.0,
             "frequency": 11960000.0,
             "mode": 2
@@ -14895,7 +15005,7 @@
             "frequency": 11965000.0,
             "mode": 2
         },
-        "BBC(53)": {
+        "BBC(57)": {
             "bandwidth": 150000.0,
             "frequency": 11965000.0,
             "mode": 2
@@ -14930,7 +15040,7 @@
             "frequency": 11975000.0,
             "mode": 2
         },
-        "Radio Romania Int.(55)": {
+        "Radio Romania Int.(56)": {
             "bandwidth": 150000.0,
             "frequency": 11975000.0,
             "mode": 2
@@ -15005,39 +15115,39 @@
             "frequency": 11995000.0,
             "mode": 2
         },
-        "BBC(54)": {
-            "bandwidth": 150000.0,
-            "frequency": 11995000.0,
-            "mode": 2
-        },
-        "BBC(55)": {
-            "bandwidth": 150000.0,
-            "frequency": 11995000.0,
-            "mode": 2
-        },
-        "BBC(56)": {
-            "bandwidth": 150000.0,
-            "frequency": 11995000.0,
-            "mode": 2
-        },
-        "BBC(57)": {
-            "bandwidth": 150000.0,
-            "frequency": 11995000.0,
-            "mode": 2
-        },
         "BBC(58)": {
             "bandwidth": 150000.0,
             "frequency": 11995000.0,
             "mode": 2
         },
-        "Radio DELTA International(1)": {
+        "BBC(59)": {
+            "bandwidth": 150000.0,
+            "frequency": 11995000.0,
+            "mode": 2
+        },
+        "BBC(60)": {
+            "bandwidth": 150000.0,
+            "frequency": 11995000.0,
+            "mode": 2
+        },
+        "BBC(61)": {
+            "bandwidth": 150000.0,
+            "frequency": 11995000.0,
+            "mode": 2
+        },
+        "BBC(62)": {
+            "bandwidth": 150000.0,
+            "frequency": 11995000.0,
+            "mode": 2
+        },
+        "Radio FARDA(10)": {
             "bandwidth": 150000.0,
             "frequency": 12005000.0,
             "mode": 2
         },
-        "Radio Farda(3)": {
+        "Follow the Bible Ministr": {
             "bandwidth": 150000.0,
-            "frequency": 12005000.0,
+            "frequency": 12010000.0,
             "mode": 2
         },
         "CNR 6 Shenzhou Easy Radio(13)": {
@@ -15195,6 +15305,11 @@
             "frequency": 12020000.0,
             "mode": 2
         },
+        "Radio DELTA International(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 12030000.0,
+            "mode": 2
+        },
         "Radio Exterior De Espana(10)": {
             "bandwidth": 150000.0,
             "frequency": 12030000.0,
@@ -15240,7 +15355,7 @@
             "frequency": 12030000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(55)": {
+        "NHK World Radio Japan(56)": {
             "bandwidth": 150000.0,
             "frequency": 12040000.0,
             "mode": 2
@@ -15360,17 +15475,17 @@
             "frequency": 12065000.0,
             "mode": 2
         },
-        "BBC(59)": {
+        "BBC(63)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
         },
-        "BBC(60)": {
+        "BBC(64)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
         },
-        "BBC(61)": {
+        "BBC(65)": {
             "bandwidth": 150000.0,
             "frequency": 12065000.0,
             "mode": 2
@@ -15410,7 +15525,7 @@
             "frequency": 12080000.0,
             "mode": 2
         },
-        "BBC(62)": {
+        "BBC(66)": {
             "bandwidth": 150000.0,
             "frequency": 12080000.0,
             "mode": 2
@@ -15490,26 +15605,6 @@
             "frequency": 12095000.0,
             "mode": 2
         },
-        "BBC(63)": {
-            "bandwidth": 150000.0,
-            "frequency": 12095000.0,
-            "mode": 2
-        },
-        "BBC(64)": {
-            "bandwidth": 150000.0,
-            "frequency": 12095000.0,
-            "mode": 2
-        },
-        "BBC(65)": {
-            "bandwidth": 150000.0,
-            "frequency": 12095000.0,
-            "mode": 2
-        },
-        "BBC(66)": {
-            "bandwidth": 150000.0,
-            "frequency": 12095000.0,
-            "mode": 2
-        },
         "BBC(67)": {
             "bandwidth": 150000.0,
             "frequency": 12095000.0,
@@ -15561,6 +15656,26 @@
             "mode": 2
         },
         "BBC(77)": {
+            "bandwidth": 150000.0,
+            "frequency": 12095000.0,
+            "mode": 2
+        },
+        "BBC(78)": {
+            "bandwidth": 150000.0,
+            "frequency": 12095000.0,
+            "mode": 2
+        },
+        "BBC(79)": {
+            "bandwidth": 150000.0,
+            "frequency": 12095000.0,
+            "mode": 2
+        },
+        "BBC(80)": {
+            "bandwidth": 150000.0,
+            "frequency": 12095000.0,
+            "mode": 2
+        },
+        "BBC(81)": {
             "bandwidth": 150000.0,
             "frequency": 12095000.0,
             "mode": 2
@@ -15801,6 +15916,11 @@
             "mode": 2
         },
         "China Radio International(459)": {
+            "bandwidth": 150000.0,
+            "frequency": 13570000.0,
+            "mode": 2
+        },
+        "Radio Marti(15)": {
             "bandwidth": 150000.0,
             "frequency": 13570000.0,
             "mode": 2
@@ -16120,24 +16240,24 @@
             "frequency": 13685000.0,
             "mode": 2
         },
+        "Radio France Int.  1000(11)": {
+            "bandwidth": 150000.0,
+            "frequency": 13690000.0,
+            "mode": 2
+        },
         "Radio Romania Int. 1001(5)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
         },
-        "BBC(78)": {
+        "BBC(82)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
         },
-        "BBC(79)": {
+        "BBC(83)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
-            "mode": 2
-        },
-        "NHK World Radio Japan(56)": {
-            "bandwidth": 150000.0,
-            "frequency": 13705000.0,
             "mode": 2
         },
         "NHK World Radio Japan(57)": {
@@ -16161,6 +16281,11 @@
             "mode": 2
         },
         "NHK World Radio Japan(61)": {
+            "bandwidth": 150000.0,
+            "frequency": 13705000.0,
+            "mode": 2
+        },
+        "NHK World Radio Japan(62)": {
             "bandwidth": 150000.0,
             "frequency": 13705000.0,
             "mode": 2
@@ -16200,7 +16325,7 @@
             "frequency": 13720000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(62)": {
+        "NHK World Radio Japan(63)": {
             "bandwidth": 150000.0,
             "frequency": 13725000.0,
             "mode": 2
@@ -16265,7 +16390,7 @@
             "frequency": 13740000.0,
             "mode": 2
         },
-        "Radio Romania Int.(56)": {
+        "Radio Romania Int.(57)": {
             "bandwidth": 150000.0,
             "frequency": 13750000.0,
             "mode": 2
@@ -16275,12 +16400,12 @@
             "frequency": 13750000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(5)": {
+        "Radio New Zealand Int.(9)": {
             "bandwidth": 150000.0,
             "frequency": 13755000.0,
             "mode": 2
         },
-        "Radio Farda(4)": {
+        "Radio FARDA(11)": {
             "bandwidth": 150000.0,
             "frequency": 13755000.0,
             "mode": 2
@@ -16370,12 +16495,12 @@
             "frequency": 13790000.0,
             "mode": 2
         },
-        "BBC(80)": {
+        "BBC(84)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
         },
-        "BBC(81)": {
+        "BBC(85)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
@@ -16450,7 +16575,7 @@
             "frequency": 13820000.0,
             "mode": 2
         },
-        "Radio Marti(11)": {
+        "Radio Marti(16)": {
             "bandwidth": 150000.0,
             "frequency": 13820000.0,
             "mode": 2
@@ -16475,7 +16600,7 @@
             "frequency": 13825000.0,
             "mode": 2
         },
-        "BBC(82)": {
+        "BBC(86)": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
@@ -16530,7 +16655,7 @@
             "frequency": 13840000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(6)": {
+        "Radio New Zealand Int.(10)": {
             "bandwidth": 150000.0,
             "frequency": 13840000.0,
             "mode": 2
@@ -16810,12 +16935,12 @@
             "frequency": 15110000.0,
             "mode": 2
         },
-        "BBC(83)": {
+        "BBC(87)": {
             "bandwidth": 150000.0,
             "frequency": 15110000.0,
             "mode": 2
         },
-        "Radio Romania Int.(57)": {
+        "Radio Romania Int.(58)": {
             "bandwidth": 150000.0,
             "frequency": 15120000.0,
             "mode": 2
@@ -16840,7 +16965,7 @@
             "frequency": 15125000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(63)": {
+        "NHK World Radio Japan(64)": {
             "bandwidth": 150000.0,
             "frequency": 15130000.0,
             "mode": 2
@@ -16955,7 +17080,7 @@
             "frequency": 15150000.0,
             "mode": 2
         },
-        "Radio Romania Int.(58)": {
+        "Radio Romania Int.(59)": {
             "bandwidth": 150000.0,
             "frequency": 15160000.0,
             "mode": 2
@@ -16985,12 +17110,12 @@
             "frequency": 15160000.0,
             "mode": 2
         },
-        "Radio Romania Int.(59)": {
+        "Radio Romania Int.(60)": {
             "bandwidth": 150000.0,
             "frequency": 15170000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(64)": {
+        "NHK World Radio Japan(65)": {
             "bandwidth": 150000.0,
             "frequency": 15170000.0,
             "mode": 2
@@ -17040,14 +17165,9 @@
             "frequency": 15190000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(65)": {
+        "NHK World Radio Japan(66)": {
             "bandwidth": 150000.0,
             "frequency": 15195000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(60)": {
-            "bandwidth": 150000.0,
-            "frequency": 15200000.0,
             "mode": 2
         },
         "Radio Romania Int.(61)": {
@@ -17070,6 +17190,11 @@
             "frequency": 15200000.0,
             "mode": 2
         },
+        "Radio Romania Int.(65)": {
+            "bandwidth": 150000.0,
+            "frequency": 15200000.0,
+            "mode": 2
+        },
         "Radio 60!(1)": {
             "bandwidth": 150000.0,
             "frequency": 15205000.0,
@@ -17080,12 +17205,12 @@
             "frequency": 15210000.0,
             "mode": 2
         },
-        "Bible Voice(18)": {
+        "Bible Voice(19)": {
             "bandwidth": 150000.0,
             "frequency": 15210000.0,
             "mode": 2
         },
-        "Bible Voice(19)": {
+        "Bible Voice(20)": {
             "bandwidth": 150000.0,
             "frequency": 15210000.0,
             "mode": 2
@@ -17170,7 +17295,7 @@
             "frequency": 15250000.0,
             "mode": 2
         },
-        "Radio Romania Int.(65)": {
+        "Radio Romania Int.(66)": {
             "bandwidth": 150000.0,
             "frequency": 15250000.0,
             "mode": 2
@@ -17200,7 +17325,7 @@
             "frequency": 15260000.0,
             "mode": 2
         },
-        "Radio Romania Int.(66)": {
+        "Radio Romania Int.(67)": {
             "bandwidth": 150000.0,
             "frequency": 15260000.0,
             "mode": 2
@@ -17260,7 +17385,7 @@
             "frequency": 15275000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(66)": {
+        "NHK World Radio Japan(67)": {
             "bandwidth": 150000.0,
             "frequency": 15280000.0,
             "mode": 2
@@ -17280,12 +17405,12 @@
             "frequency": 15280000.0,
             "mode": 2
         },
-        "Bible Voice(20)": {
+        "Bible Voice(21)": {
             "bandwidth": 150000.0,
             "frequency": 15285000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(67)": {
+        "NHK World Radio Japan(68)": {
             "bandwidth": 150000.0,
             "frequency": 15290000.0,
             "mode": 2
@@ -17295,12 +17420,17 @@
             "frequency": 15295000.0,
             "mode": 2
         },
-        "BBC(84)": {
+        "RTM Nasional FM": {
             "bandwidth": 150000.0,
             "frequency": 15295000.0,
             "mode": 2
         },
-        "Radio Romania Int.(67)": {
+        "BBC(88)": {
+            "bandwidth": 150000.0,
+            "frequency": 15295000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(68)": {
             "bandwidth": 150000.0,
             "frequency": 15300000.0,
             "mode": 2
@@ -17335,11 +17465,6 @@
             "frequency": 15300000.0,
             "mode": 2
         },
-        "Bible Voice(21)": {
-            "bandwidth": 150000.0,
-            "frequency": 15310000.0,
-            "mode": 2
-        },
         "Bible Voice(22)": {
             "bandwidth": 150000.0,
             "frequency": 15310000.0,
@@ -17365,22 +17490,7 @@
             "frequency": 15310000.0,
             "mode": 2
         },
-        "BBC(85)": {
-            "bandwidth": 150000.0,
-            "frequency": 15310000.0,
-            "mode": 2
-        },
-        "BBC(86)": {
-            "bandwidth": 150000.0,
-            "frequency": 15310000.0,
-            "mode": 2
-        },
-        "BBC(87)": {
-            "bandwidth": 150000.0,
-            "frequency": 15310000.0,
-            "mode": 2
-        },
-        "BBC(88)": {
+        "Bible Voice(27)": {
             "bandwidth": 150000.0,
             "frequency": 15310000.0,
             "mode": 2
@@ -17411,6 +17521,26 @@
             "mode": 2
         },
         "BBC(94)": {
+            "bandwidth": 150000.0,
+            "frequency": 15310000.0,
+            "mode": 2
+        },
+        "BBC(95)": {
+            "bandwidth": 150000.0,
+            "frequency": 15310000.0,
+            "mode": 2
+        },
+        "BBC(96)": {
+            "bandwidth": 150000.0,
+            "frequency": 15310000.0,
+            "mode": 2
+        },
+        "BBC(97)": {
+            "bandwidth": 150000.0,
+            "frequency": 15310000.0,
+            "mode": 2
+        },
+        "BBC(98)": {
             "bandwidth": 150000.0,
             "frequency": 15310000.0,
             "mode": 2
@@ -17475,6 +17605,61 @@
             "frequency": 15340000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(195)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(196)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(197)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(198)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(199)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(200)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(201)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(202)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(203)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(204)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(205)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
         "SOH Xi Wang Zhi Sheng(134)": {
             "bandwidth": 150000.0,
             "frequency": 15340000.0,
@@ -17525,22 +17710,22 @@
             "frequency": 15360000.0,
             "mode": 2
         },
-        "Radio Romania Int.(68)": {
+        "Radio Romania Int.(69)": {
             "bandwidth": 150000.0,
             "frequency": 15370000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(195)": {
+        "CNR 1 Voice of China(206)": {
             "bandwidth": 150000.0,
             "frequency": 15370000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(196)": {
+        "CNR 1 Voice of China(207)": {
             "bandwidth": 150000.0,
             "frequency": 15370000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(197)": {
+        "CNR 1 Voice of China(208)": {
             "bandwidth": 150000.0,
             "frequency": 15370000.0,
             "mode": 2
@@ -17565,22 +17750,22 @@
             "frequency": 15380000.0,
             "mode": 2
         },
-        "Radio Marti(12)": {
+        "Radio Marti(17)": {
             "bandwidth": 150000.0,
             "frequency": 15380000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(198)": {
+        "CNR 1 Voice of China(209)": {
             "bandwidth": 150000.0,
             "frequency": 15380000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(199)": {
+        "CNR 1 Voice of China(210)": {
             "bandwidth": 150000.0,
             "frequency": 15380000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(200)": {
+        "CNR 1 Voice of China(211)": {
             "bandwidth": 150000.0,
             "frequency": 15380000.0,
             "mode": 2
@@ -17635,7 +17820,7 @@
             "frequency": 15400000.0,
             "mode": 2
         },
-        "BBC(95)": {
+        "BBC(99)": {
             "bandwidth": 150000.0,
             "frequency": 15400000.0,
             "mode": 2
@@ -17700,22 +17885,22 @@
             "frequency": 15420000.0,
             "mode": 2
         },
-        "BBC(96)": {
+        "BBC(100)": {
             "bandwidth": 150000.0,
             "frequency": 15420000.0,
             "mode": 2
         },
-        "BBC(97)": {
+        "BBC(101)": {
             "bandwidth": 150000.0,
             "frequency": 15420000.0,
             "mode": 2
         },
-        "BBC(98)": {
+        "BBC(102)": {
             "bandwidth": 150000.0,
             "frequency": 15420000.0,
             "mode": 2
         },
-        "BBC(99)": {
+        "BBC(103)": {
             "bandwidth": 150000.0,
             "frequency": 15420000.0,
             "mode": 2
@@ -17790,17 +17975,92 @@
             "frequency": 15440000.0,
             "mode": 2
         },
-        "BBC(100)": {
+        "BBC(104)": {
             "bandwidth": 150000.0,
             "frequency": 15440000.0,
             "mode": 2
         },
-        "BBC(101)": {
+        "BBC(105)": {
             "bandwidth": 150000.0,
             "frequency": 15440000.0,
             "mode": 2
         },
-        "BBC(102)": {
+        "BBC(106)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(21)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(22)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(23)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(24)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(25)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(26)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(27)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(28)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(29)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(30)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(31)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(32)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(33)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(34)": {
+            "bandwidth": 150000.0,
+            "frequency": 15440000.0,
+            "mode": 2
+        },
+        "REACH BEYOND AUSTRALIA(35)": {
             "bandwidth": 150000.0,
             "frequency": 15440000.0,
             "mode": 2
@@ -17855,22 +18115,22 @@
             "frequency": 15460000.0,
             "mode": 2
         },
-        "REACH BEYOND AUSTRALIA(21)": {
+        "REACH BEYOND AUSTRALIA(36)": {
             "bandwidth": 150000.0,
             "frequency": 15460000.0,
             "mode": 2
         },
-        "REACH BEYOND AUSTRALIA(22)": {
-            "bandwidth": 150000.0,
-            "frequency": 15460000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(69)": {
+        "REACH BEYOND AUSTRALIA(37)": {
             "bandwidth": 150000.0,
             "frequency": 15460000.0,
             "mode": 2
         },
         "Radio Romania Int.(70)": {
+            "bandwidth": 150000.0,
+            "frequency": 15460000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(71)": {
             "bandwidth": 150000.0,
             "frequency": 15460000.0,
             "mode": 2
@@ -17910,17 +18170,17 @@
             "frequency": 15480000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(201)": {
+        "CNR 1 Voice of China(212)": {
             "bandwidth": 150000.0,
             "frequency": 15480000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(202)": {
+        "CNR 1 Voice of China(213)": {
             "bandwidth": 150000.0,
             "frequency": 15480000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(203)": {
+        "CNR 1 Voice of China(214)": {
             "bandwidth": 150000.0,
             "frequency": 15480000.0,
             "mode": 2
@@ -17945,17 +18205,17 @@
             "frequency": 15490000.0,
             "mode": 2
         },
-        "BBC(103)": {
+        "BBC(107)": {
             "bandwidth": 150000.0,
             "frequency": 15490000.0,
             "mode": 2
         },
-        "BBC(104)": {
+        "BBC(108)": {
             "bandwidth": 150000.0,
             "frequency": 15490000.0,
             "mode": 2
         },
-        "BBC(105)": {
+        "BBC(109)": {
             "bandwidth": 150000.0,
             "frequency": 15490000.0,
             "mode": 2
@@ -18063,81 +18323,6 @@
         "KSDA Adventist World Radio(36)": {
             "bandwidth": 150000.0,
             "frequency": 15530000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(23)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(24)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(25)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(26)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(27)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(28)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(29)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(30)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(31)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(32)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(33)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(34)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(35)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(36)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
-            "mode": 2
-        },
-        "REACH BEYOND AUSTRALIA(37)": {
-            "bandwidth": 150000.0,
-            "frequency": 15540000.0,
             "mode": 2
         },
         "FEBC Radio Liangyou(7)": {
@@ -18535,26 +18720,6 @@
             "frequency": 15680000.0,
             "mode": 2
         },
-        "BBC(106)": {
-            "bandwidth": 150000.0,
-            "frequency": 15685000.0,
-            "mode": 2
-        },
-        "BBC(107)": {
-            "bandwidth": 150000.0,
-            "frequency": 15685000.0,
-            "mode": 2
-        },
-        "BBC(108)": {
-            "bandwidth": 150000.0,
-            "frequency": 15685000.0,
-            "mode": 2
-        },
-        "BBC(109)": {
-            "bandwidth": 150000.0,
-            "frequency": 15685000.0,
-            "mode": 2
-        },
         "BBC(110)": {
             "bandwidth": 150000.0,
             "frequency": 15685000.0,
@@ -18566,6 +18731,26 @@
             "mode": 2
         },
         "BBC(112)": {
+            "bandwidth": 150000.0,
+            "frequency": 15685000.0,
+            "mode": 2
+        },
+        "BBC(113)": {
+            "bandwidth": 150000.0,
+            "frequency": 15685000.0,
+            "mode": 2
+        },
+        "BBC(114)": {
+            "bandwidth": 150000.0,
+            "frequency": 15685000.0,
+            "mode": 2
+        },
+        "BBC(115)": {
+            "bandwidth": 150000.0,
+            "frequency": 15685000.0,
+            "mode": 2
+        },
+        "BBC(116)": {
             "bandwidth": 150000.0,
             "frequency": 15685000.0,
             "mode": 2
@@ -18605,12 +18790,7 @@
             "frequency": 15720000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 15720000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(8)": {
+        "Radio New Zealand Int.(11)": {
             "bandwidth": 150000.0,
             "frequency": 15720000.0,
             "mode": 2
@@ -18665,62 +18845,12 @@
             "frequency": 15750000.0,
             "mode": 2
         },
+        "Iran International TV(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 15750000.0,
+            "mode": 2
+        },
         "SOH Xi Wang Zhi Sheng(141)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(204)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(205)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(206)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(207)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(208)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(209)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(210)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(211)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(212)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(213)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(214)": {
             "bandwidth": 150000.0,
             "frequency": 15760000.0,
             "mode": 2
@@ -18751,6 +18881,61 @@
             "mode": 2
         },
         "CNR 1 Voice of China(220)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(221)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(222)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(223)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(224)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(225)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(226)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(227)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(228)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(229)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(230)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(231)": {
             "bandwidth": 150000.0,
             "frequency": 15760000.0,
             "mode": 2
@@ -19305,6 +19490,11 @@
             "frequency": 17520000.0,
             "mode": 2
         },
+        "Assemblies of Yahweh (WML(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 17525000.0,
+            "mode": 2
+        },
         "Vatican Radio(65)": {
             "bandwidth": 150000.0,
             "frequency": 17525000.0,
@@ -19330,7 +19520,7 @@
             "frequency": 17530000.0,
             "mode": 2
         },
-        "BBC(113)": {
+        "BBC(117)": {
             "bandwidth": 150000.0,
             "frequency": 17535000.0,
             "mode": 2
@@ -19360,32 +19550,27 @@
             "frequency": 17540000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(221)": {
+        "CNR 1 Voice of China(232)": {
             "bandwidth": 150000.0,
             "frequency": 17550000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(222)": {
+        "CNR 1 Voice of China(233)": {
             "bandwidth": 150000.0,
             "frequency": 17550000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(223)": {
+        "CNR 1 Voice of China(234)": {
             "bandwidth": 150000.0,
             "frequency": 17550000.0,
             "mode": 2
         },
-        "Bible Voice(27)": {
+        "Bible Voice(28)": {
             "bandwidth": 150000.0,
             "frequency": 17550000.0,
             "mode": 2
         },
         "Voice of Islamic Rep.iran(41)": {
-            "bandwidth": 150000.0,
-            "frequency": 17560000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(71)": {
             "bandwidth": 150000.0,
             "frequency": 17560000.0,
             "mode": 2
@@ -19400,7 +19585,7 @@
             "frequency": 17560000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(68)": {
+        "Radio Romania Int.(74)": {
             "bandwidth": 150000.0,
             "frequency": 17560000.0,
             "mode": 2
@@ -19410,12 +19595,17 @@
             "frequency": 17560000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(224)": {
+        "NHK World Radio Japan(70)": {
+            "bandwidth": 150000.0,
+            "frequency": 17560000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(235)": {
             "bandwidth": 150000.0,
             "frequency": 17565000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(225)": {
+        "CNR 1 Voice of China(236)": {
             "bandwidth": 150000.0,
             "frequency": 17565000.0,
             "mode": 2
@@ -19440,37 +19630,22 @@
             "frequency": 17570000.0,
             "mode": 2
         },
-        "Radio France Int.(33)": {
+        "BBC(118)": {
             "bandwidth": 150000.0,
             "frequency": 17575000.0,
             "mode": 2
         },
-        "Radio France Int.(34)": {
-            "bandwidth": 150000.0,
-            "frequency": 17575000.0,
-            "mode": 2
-        },
-        "Radio France Int.(35)": {
-            "bandwidth": 150000.0,
-            "frequency": 17575000.0,
-            "mode": 2
-        },
-        "BBC(114)": {
-            "bandwidth": 150000.0,
-            "frequency": 17575000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(226)": {
+        "CNR 1 Voice of China(237)": {
             "bandwidth": 150000.0,
             "frequency": 17580000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(227)": {
+        "CNR 1 Voice of China(238)": {
             "bandwidth": 150000.0,
             "frequency": 17580000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(228)": {
+        "CNR 1 Voice of China(239)": {
             "bandwidth": 150000.0,
             "frequency": 17580000.0,
             "mode": 2
@@ -19485,17 +19660,17 @@
             "frequency": 17615000.0,
             "mode": 2
         },
-        "Radio France Int.(36)": {
+        "Radio France Int.(33)": {
             "bandwidth": 150000.0,
             "frequency": 17620000.0,
             "mode": 2
         },
-        "Radio France Int.(37)": {
+        "Radio France Int.(34)": {
             "bandwidth": 150000.0,
             "frequency": 17620000.0,
             "mode": 2
         },
-        "Radio France Int.(38)": {
+        "Radio France Int.(35)": {
             "bandwidth": 150000.0,
             "frequency": 17620000.0,
             "mode": 2
@@ -19525,11 +19700,6 @@
             "frequency": 17630000.0,
             "mode": 2
         },
-        "Radio Romania Int.(74)": {
-            "bandwidth": 150000.0,
-            "frequency": 17640000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(75)": {
             "bandwidth": 150000.0,
             "frequency": 17640000.0,
@@ -19545,12 +19715,17 @@
             "frequency": 17640000.0,
             "mode": 2
         },
+        "Radio Romania Int.(78)": {
+            "bandwidth": 150000.0,
+            "frequency": 17640000.0,
+            "mode": 2
+        },
         "China Radio International(559)": {
             "bandwidth": 150000.0,
             "frequency": 17640000.0,
             "mode": 2
         },
-        "BBC(115)": {
+        "BBC(119)": {
             "bandwidth": 150000.0,
             "frequency": 17640000.0,
             "mode": 2
@@ -19575,7 +19750,7 @@
             "frequency": 17650000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(229)": {
+        "CNR 1 Voice of China(240)": {
             "bandwidth": 150000.0,
             "frequency": 17650000.0,
             "mode": 2
@@ -19600,17 +19775,17 @@
             "frequency": 17650000.0,
             "mode": 2
         },
-        "Bible Voice(28)": {
+        "Bible Voice(29)": {
             "bandwidth": 150000.0,
             "frequency": 17650000.0,
             "mode": 2
         },
-        "Radio France Int.(39)": {
+        "Radio France Int.(36)": {
             "bandwidth": 150000.0,
             "frequency": 17660000.0,
             "mode": 2
         },
-        "Radio France Int.(40)": {
+        "Radio France Int.(37)": {
             "bandwidth": 150000.0,
             "frequency": 17660000.0,
             "mode": 2
@@ -19640,12 +19815,12 @@
             "frequency": 17670000.0,
             "mode": 2
         },
-        "BBC(116)": {
+        "BBC(120)": {
             "bandwidth": 150000.0,
             "frequency": 17670000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(9)": {
+        "Radio New Zealand Int.(12)": {
             "bandwidth": 150000.0,
             "frequency": 17675000.0,
             "mode": 2
@@ -19690,7 +19865,7 @@
             "frequency": 17690000.0,
             "mode": 2
         },
-        "BBC(117)": {
+        "BBC(121)": {
             "bandwidth": 150000.0,
             "frequency": 17690000.0,
             "mode": 2
@@ -19785,27 +19960,27 @@
             "frequency": 17700000.0,
             "mode": 2
         },
-        "Radio Romania Int.(78)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
-        "BBC(118)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
-        "BBC(119)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(79)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "BBC(122)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "BBC(123)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(80)": {
             "bandwidth": 150000.0,
             "frequency": 17710000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(230)": {
+        "CNR 1 Voice of China(241)": {
             "bandwidth": 150000.0,
             "frequency": 17710000.0,
             "mode": 2
@@ -19920,12 +20095,12 @@
             "frequency": 17740000.0,
             "mode": 2
         },
-        "Radio Romania Int.(80)": {
+        "Radio Romania Int.(81)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
         },
-        "Radio Romania Int.(81)": {
+        "Radio Romania Int.(82)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
@@ -19940,12 +20115,12 @@
             "frequency": 17750000.0,
             "mode": 2
         },
-        "BBC(120)": {
+        "BBC(124)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
         },
-        "BBC(121)": {
+        "BBC(125)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
@@ -20010,7 +20185,7 @@
             "frequency": 17770000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(231)": {
+        "CNR 1 Voice of China(242)": {
             "bandwidth": 150000.0,
             "frequency": 17770000.0,
             "mode": 2
@@ -20050,17 +20225,17 @@
             "frequency": 17780000.0,
             "mode": 2
         },
-        "BBC(122)": {
+        "BBC(126)": {
             "bandwidth": 150000.0,
             "frequency": 17780000.0,
             "mode": 2
         },
-        "BBC(123)": {
+        "BBC(127)": {
             "bandwidth": 150000.0,
             "frequency": 17780000.0,
             "mode": 2
         },
-        "BBC(124)": {
+        "BBC(128)": {
             "bandwidth": 150000.0,
             "frequency": 17780000.0,
             "mode": 2
@@ -20070,7 +20245,7 @@
             "frequency": 17780000.0,
             "mode": 2
         },
-        "Radio France Int.(41)": {
+        "Radio France Int.(38)": {
             "bandwidth": 150000.0,
             "frequency": 17785000.0,
             "mode": 2
@@ -20180,12 +20355,12 @@
             "frequency": 17790000.0,
             "mode": 2
         },
-        "Radio Romania Int.(82)": {
+        "Radio Romania Int.(83)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
         },
-        "Radio Romania Int.(83)": {
+        "Radio Romania Int.(84)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
@@ -20205,17 +20380,17 @@
             "frequency": 17800000.0,
             "mode": 2
         },
-        "Radio Romania Int.(84)": {
-            "bandwidth": 150000.0,
-            "frequency": 17800000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(85)": {
             "bandwidth": 150000.0,
             "frequency": 17800000.0,
             "mode": 2
         },
         "Radio Romania Int.(86)": {
+            "bandwidth": 150000.0,
+            "frequency": 17800000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(87)": {
             "bandwidth": 150000.0,
             "frequency": 17800000.0,
             "mode": 2
@@ -20250,32 +20425,12 @@
             "frequency": 17810000.0,
             "mode": 2
         },
-        "Radio Romania Int.(87)": {
+        "Radio Romania Int.(88)": {
             "bandwidth": 150000.0,
             "frequency": 17810000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(70)": {
-            "bandwidth": 150000.0,
-            "frequency": 17810000.0,
-            "mode": 2
-        },
-        "BBC(125)": {
-            "bandwidth": 150000.0,
-            "frequency": 17810000.0,
-            "mode": 2
-        },
-        "BBC(126)": {
-            "bandwidth": 150000.0,
-            "frequency": 17810000.0,
-            "mode": 2
-        },
-        "BBC(127)": {
-            "bandwidth": 150000.0,
-            "frequency": 17810000.0,
-            "mode": 2
-        },
-        "BBC(128)": {
+        "NHK World Radio Japan(71)": {
             "bandwidth": 150000.0,
             "frequency": 17810000.0,
             "mode": 2
@@ -20297,17 +20452,32 @@
         },
         "BBC(132)": {
             "bandwidth": 150000.0,
-            "frequency": 17815000.0,
+            "frequency": 17810000.0,
             "mode": 2
         },
         "BBC(133)": {
             "bandwidth": 150000.0,
-            "frequency": 17825000.0,
+            "frequency": 17810000.0,
             "mode": 2
         },
-        "Radio Romania Int.(88)": {
+        "BBC(134)": {
             "bandwidth": 150000.0,
-            "frequency": 17830000.0,
+            "frequency": 17810000.0,
+            "mode": 2
+        },
+        "BBC(135)": {
+            "bandwidth": 150000.0,
+            "frequency": 17810000.0,
+            "mode": 2
+        },
+        "BBC(136)": {
+            "bandwidth": 150000.0,
+            "frequency": 17815000.0,
+            "mode": 2
+        },
+        "BBC(137)": {
+            "bandwidth": 150000.0,
+            "frequency": 17825000.0,
             "mode": 2
         },
         "Radio Romania Int.(89)": {
@@ -20315,9 +20485,19 @@
             "frequency": 17830000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(232)": {
+        "Radio Romania Int.(90)": {
             "bandwidth": 150000.0,
             "frequency": 17830000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(243)": {
+            "bandwidth": 150000.0,
+            "frequency": 17830000.0,
+            "mode": 2
+        },
+        "Radio FARDA(12)": {
+            "bandwidth": 150000.0,
+            "frequency": 17840000.0,
             "mode": 2
         },
         "China Radio International(582)": {
@@ -20330,27 +20510,27 @@
             "frequency": 17840000.0,
             "mode": 2
         },
+        "Radio France Int.(39)": {
+            "bandwidth": 150000.0,
+            "frequency": 17850000.0,
+            "mode": 2
+        },
+        "Radio France Int.(40)": {
+            "bandwidth": 150000.0,
+            "frequency": 17850000.0,
+            "mode": 2
+        },
+        "Radio France Int.(41)": {
+            "bandwidth": 150000.0,
+            "frequency": 17850000.0,
+            "mode": 2
+        },
         "Radio France Int.(42)": {
             "bandwidth": 150000.0,
             "frequency": 17850000.0,
             "mode": 2
         },
         "Radio France Int.(43)": {
-            "bandwidth": 150000.0,
-            "frequency": 17850000.0,
-            "mode": 2
-        },
-        "Radio France Int.(44)": {
-            "bandwidth": 150000.0,
-            "frequency": 17850000.0,
-            "mode": 2
-        },
-        "Radio France Int.(45)": {
-            "bandwidth": 150000.0,
-            "frequency": 17850000.0,
-            "mode": 2
-        },
-        "Radio France Int.(46)": {
             "bandwidth": 150000.0,
             "frequency": 17850000.0,
             "mode": 2
@@ -20365,12 +20545,12 @@
             "frequency": 17865000.0,
             "mode": 2
         },
-        "NHK World Radio Japan(71)": {
+        "NHK World Radio Japan(72)": {
             "bandwidth": 150000.0,
             "frequency": 17870000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(233)": {
+        "CNR 1 Voice of China(244)": {
             "bandwidth": 150000.0,
             "frequency": 17870000.0,
             "mode": 2
@@ -20385,19 +20565,24 @@
             "frequency": 17880000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(234)": {
+        "CNR 1 Voice of China(245)": {
             "bandwidth": 150000.0,
             "frequency": 17890000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(235)": {
+        "CNR 1 Voice of China(246)": {
             "bandwidth": 150000.0,
             "frequency": 17890000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(236)": {
+        "CNR 1 Voice of China(247)": {
             "bandwidth": 150000.0,
             "frequency": 17890000.0,
+            "mode": 2
+        },
+        "Iran International TV(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 17900000.0,
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 1(4)": {
@@ -20500,11 +20685,6 @@
             "frequency": 21000000.0,
             "mode": 2
         },
-        "Radio Romania Int.(90)": {
-            "bandwidth": 150000.0,
-            "frequency": 21470000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(91)": {
             "bandwidth": 150000.0,
             "frequency": 21470000.0,
@@ -20515,64 +20695,14 @@
             "frequency": 21470000.0,
             "mode": 2
         },
-        "BBC(134)": {
+        "Radio Romania Int.(93)": {
             "bandwidth": 150000.0,
             "frequency": 21470000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(237)": {
+        "BBC(138)": {
             "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(238)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(239)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(240)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(241)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(242)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(243)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(244)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(245)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(246)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(247)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
+            "frequency": 21470000.0,
             "mode": 2
         },
         "CNR 1 Voice of China(248)": {
@@ -20600,6 +20730,61 @@
             "frequency": 21490000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(253)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(254)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(255)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(256)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(257)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(258)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(259)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(260)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(261)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(262)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(263)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
         "SOH Xi Wang Zhi Sheng(169)": {
             "bandwidth": 150000.0,
             "frequency": 21490000.0,
@@ -20610,7 +20795,7 @@
             "frequency": 21495000.0,
             "mode": 2
         },
-        "BBC(135)": {
+        "BBC(139)": {
             "bandwidth": 150000.0,
             "frequency": 21500000.0,
             "mode": 2
@@ -20625,9 +20810,24 @@
             "frequency": 21550000.0,
             "mode": 2
         },
-        "BBC(136)": {
+        "BBC(140)": {
             "bandwidth": 150000.0,
             "frequency": 21565000.0,
+            "mode": 2
+        },
+        "Radio France Int.(44)": {
+            "bandwidth": 150000.0,
+            "frequency": 21580000.0,
+            "mode": 2
+        },
+        "Radio France Int.(45)": {
+            "bandwidth": 150000.0,
+            "frequency": 21580000.0,
+            "mode": 2
+        },
+        "Radio France Int.(46)": {
+            "bandwidth": 150000.0,
+            "frequency": 21580000.0,
             "mode": 2
         },
         "Radio France Int.(47)": {
@@ -20650,22 +20850,7 @@
             "frequency": 21580000.0,
             "mode": 2
         },
-        "Radio France Int.(51)": {
-            "bandwidth": 150000.0,
-            "frequency": 21580000.0,
-            "mode": 2
-        },
-        "Radio France Int.(52)": {
-            "bandwidth": 150000.0,
-            "frequency": 21580000.0,
-            "mode": 2
-        },
-        "Radio France Int.(53)": {
-            "bandwidth": 150000.0,
-            "frequency": 21580000.0,
-            "mode": 2
-        },
-        "Radio Ergo": {
+        "Radio Ergo(1)": {
             "bandwidth": 150000.0,
             "frequency": 21595000.0,
             "mode": 2
@@ -20675,32 +20860,37 @@
             "frequency": 21595000.0,
             "mode": 2
         },
-        "Radio France Int.(54)": {
+        "Radio FARDA(13)": {
+            "bandwidth": 150000.0,
+            "frequency": 21600000.0,
+            "mode": 2
+        },
+        "Radio France Int.(51)": {
             "bandwidth": 150000.0,
             "frequency": 21615000.0,
             "mode": 2
         },
-        "BBC(137)": {
-            "bandwidth": 150000.0,
-            "frequency": 21630000.0,
-            "mode": 2
-        },
-        "BBC(138)": {
-            "bandwidth": 150000.0,
-            "frequency": 21630000.0,
-            "mode": 2
-        },
-        "BBC(139)": {
-            "bandwidth": 150000.0,
-            "frequency": 21630000.0,
-            "mode": 2
-        },
-        "BBC(140)": {
-            "bandwidth": 150000.0,
-            "frequency": 21630000.0,
-            "mode": 2
-        },
         "BBC(141)": {
+            "bandwidth": 150000.0,
+            "frequency": 21630000.0,
+            "mode": 2
+        },
+        "BBC(142)": {
+            "bandwidth": 150000.0,
+            "frequency": 21630000.0,
+            "mode": 2
+        },
+        "BBC(143)": {
+            "bandwidth": 150000.0,
+            "frequency": 21630000.0,
+            "mode": 2
+        },
+        "BBC(144)": {
+            "bandwidth": 150000.0,
+            "frequency": 21630000.0,
+            "mode": 2
+        },
+        "BBC(145)": {
             "bandwidth": 150000.0,
             "frequency": 21630000.0,
             "mode": 2
@@ -20715,22 +20905,37 @@
             "frequency": 21650000.0,
             "mode": 2
         },
-        "BBC(142)": {
+        "BBC(146)": {
             "bandwidth": 150000.0,
             "frequency": 21660000.0,
             "mode": 2
         },
-        "Follow the Bible Ministr": {
+        "Follow the Bible Ministr(1)": {
             "bandwidth": 150000.0,
             "frequency": 21660000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(9)": {
+        "Radio France Int.  1000(12)": {
             "bandwidth": 150000.0,
             "frequency": 21690000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(10)": {
+        "Radio France Int.  1000(13)": {
+            "bandwidth": 150000.0,
+            "frequency": 21690000.0,
+            "mode": 2
+        },
+        "Radio France Int.(52)": {
+            "bandwidth": 150000.0,
+            "frequency": 21690000.0,
+            "mode": 2
+        },
+        "Radio France Int.(53)": {
+            "bandwidth": 150000.0,
+            "frequency": 21690000.0,
+            "mode": 2
+        },
+        "Radio France Int.(54)": {
             "bandwidth": 150000.0,
             "frequency": 21690000.0,
             "mode": 2
@@ -20741,21 +20946,6 @@
             "mode": 2
         },
         "Radio France Int.(56)": {
-            "bandwidth": 150000.0,
-            "frequency": 21690000.0,
-            "mode": 2
-        },
-        "Radio France Int.(57)": {
-            "bandwidth": 150000.0,
-            "frequency": 21690000.0,
-            "mode": 2
-        },
-        "Radio France Int.(58)": {
-            "bandwidth": 150000.0,
-            "frequency": 21690000.0,
-            "mode": 2
-        },
-        "Radio France Int.(59)": {
             "bandwidth": 150000.0,
             "frequency": 21690000.0,
             "mode": 2
@@ -20780,57 +20970,57 @@
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(253)": {
+        "CNR 1 Voice of China(264)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(254)": {
+        "CNR 1 Voice of China(265)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(255)": {
+        "CNR 1 Voice of China(266)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(256)": {
+        "CNR 1 Voice of China(267)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(257)": {
+        "CNR 1 Voice of China(268)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(258)": {
+        "CNR 1 Voice of China(269)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(259)": {
+        "CNR 1 Voice of China(270)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(260)": {
+        "CNR 1 Voice of China(271)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(261)": {
+        "CNR 1 Voice of China(272)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(262)": {
+        "CNR 1 Voice of China(273)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(263)": {
+        "CNR 1 Voice of China(274)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
