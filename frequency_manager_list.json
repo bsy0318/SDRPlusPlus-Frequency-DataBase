@@ -4790,6 +4790,11 @@
             "frequency": 7200000.0,
             "mode": 2
         },
+        "RBS Radio": {
+            "bandwidth": 150000.0,
+            "frequency": 7200000.0,
+            "mode": 2
+        },
         "RRI Pro.3": {
             "bandwidth": 150000.0,
             "frequency": 7203000.0,
@@ -7170,12 +7175,17 @@
             "frequency": 7470000.0,
             "mode": 2
         },
+        "Radio FARDA(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 7470000.0,
+            "mode": 2
+        },
         "Trans World Radio Do You": {
             "bandwidth": 150000.0,
             "frequency": 7480000.0,
             "mode": 2
         },
-        "Radio FARDA(3)": {
+        "Radio FARDA(4)": {
             "bandwidth": 150000.0,
             "frequency": 7480000.0,
             "mode": 2
@@ -7305,7 +7315,7 @@
             "frequency": 7490000.0,
             "mode": 2
         },
-        "Radio FARDA(4)": {
+        "Radio FARDA(5)": {
             "bandwidth": 150000.0,
             "frequency": 7490000.0,
             "mode": 2
@@ -7325,7 +7335,7 @@
             "frequency": 7505000.0,
             "mode": 2
         },
-        "Radio FARDA(5)": {
+        "Radio FARDA(6)": {
             "bandwidth": 150000.0,
             "frequency": 7510000.0,
             "mode": 2
@@ -8260,7 +8270,7 @@
             "frequency": 9355000.0,
             "mode": 2
         },
-        "Radio FARDA(6)": {
+        "Radio FARDA(7)": {
             "bandwidth": 150000.0,
             "frequency": 9365000.0,
             "mode": 2
@@ -8285,7 +8295,7 @@
             "frequency": 9385000.0,
             "mode": 2
         },
-        "Radio FARDA(7)": {
+        "Radio FARDA(8)": {
             "bandwidth": 150000.0,
             "frequency": 9390000.0,
             "mode": 2
@@ -9225,7 +9235,7 @@
             "frequency": 9510000.0,
             "mode": 2
         },
-        "Radio FARDA(8)": {
+        "Radio FARDA(9)": {
             "bandwidth": 150000.0,
             "frequency": 9515000.0,
             "mode": 2
@@ -13125,7 +13135,7 @@
             "frequency": 11575000.0,
             "mode": 2
         },
-        "Radio FARDA(9)": {
+        "Radio FARDA(10)": {
             "bandwidth": 150000.0,
             "frequency": 11575000.0,
             "mode": 2
@@ -15165,7 +15175,7 @@
             "frequency": 11995000.0,
             "mode": 2
         },
-        "Radio FARDA(10)": {
+        "Radio FARDA(11)": {
             "bandwidth": 150000.0,
             "frequency": 12005000.0,
             "mode": 2
@@ -16430,7 +16440,7 @@
             "frequency": 13755000.0,
             "mode": 2
         },
-        "Radio FARDA(11)": {
+        "Radio FARDA(12)": {
             "bandwidth": 150000.0,
             "frequency": 13755000.0,
             "mode": 2
@@ -20520,7 +20530,7 @@
             "frequency": 17830000.0,
             "mode": 2
         },
-        "Radio FARDA(12)": {
+        "Radio FARDA(13)": {
             "bandwidth": 150000.0,
             "frequency": 17840000.0,
             "mode": 2
@@ -20885,7 +20895,7 @@
             "frequency": 21595000.0,
             "mode": 2
         },
-        "Radio FARDA(13)": {
+        "Radio FARDA(14)": {
             "bandwidth": 150000.0,
             "frequency": 21600000.0,
             "mode": 2
