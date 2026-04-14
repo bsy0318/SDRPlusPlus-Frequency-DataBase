@@ -11940,51 +11940,6 @@
             "frequency": 11655000.0,
             "mode": 2
         },
-        "FOLLOW THE BIBLE MINISTRIES(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "BBC(49)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "China Radio International(284)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "China Radio International(285)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "China Radio International(286)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "CNR 2 Business Radio(50)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "CNR 2 Business Radio(51)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "CNR 2 Business Radio(52)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
-        "BBC(50)": {
-            "bandwidth": 150000.0,
-            "frequency": 11660000.0,
-            "mode": 2
-        },
         "NHK World Radio Japan(12)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
@@ -12030,7 +11985,52 @@
             "frequency": 11660000.0,
             "mode": 2
         },
+        "China Radio International(284)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "China Radio International(285)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "CNR 2 Business Radio(50)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "CNR 2 Business Radio(51)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "CNR 2 Business Radio(52)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "China Radio International(286)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
         "Voice of Turkey(20)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "FOLLOW THE BIBLE MINISTRIES(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "BBC(49)": {
+            "bandwidth": 150000.0,
+            "frequency": 11660000.0,
+            "mode": 2
+        },
+        "BBC(50)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
             "mode": 2
@@ -17410,6 +17410,11 @@
             "frequency": 15460000.0,
             "mode": 2
         },
+        "TWR Friendship Radio Hou": {
+            "bandwidth": 150000.0,
+            "frequency": 15460000.0,
+            "mode": 2
+        },
         "REACH BEYOND AUSTRALIA(38)": {
             "bandwidth": 150000.0,
             "frequency": 15460000.0,
@@ -17421,11 +17426,6 @@
             "mode": 2
         },
         "REACH BEYOND AUSTRALIA(40)": {
-            "bandwidth": 150000.0,
-            "frequency": 15460000.0,
-            "mode": 2
-        },
-        "TWR Friendship Radio Hou": {
             "bandwidth": 150000.0,
             "frequency": 15460000.0,
             "mode": 2
@@ -17498,6 +17498,11 @@
         "Vatican Radio(38)": {
             "bandwidth": 150000.0,
             "frequency": 15490000.0,
+            "mode": 2
+        },
+        "Radio France Int.  1000(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 15495000.0,
             "mode": 2
         },
         "KSDA Adventist World Radio(22)": {
@@ -17585,6 +17590,16 @@
             "frequency": 15505000.0,
             "mode": 2
         },
+        "KSDA Adventist World Radio(28)": {
+            "bandwidth": 150000.0,
+            "frequency": 15505000.0,
+            "mode": 2
+        },
+        "KSDA Adventist World Radio(29)": {
+            "bandwidth": 150000.0,
+            "frequency": 15505000.0,
+            "mode": 2
+        },
         "Voice of Martyrs(3)": {
             "bandwidth": 150000.0,
             "frequency": 15510000.0,
@@ -17645,16 +17660,6 @@
             "frequency": 15525000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(28)": {
-            "bandwidth": 150000.0,
-            "frequency": 15530000.0,
-            "mode": 2
-        },
-        "KSDA Adventist World Radio(29)": {
-            "bandwidth": 150000.0,
-            "frequency": 15530000.0,
-            "mode": 2
-        },
         "KSDA Adventist World Radio(30)": {
             "bandwidth": 150000.0,
             "frequency": 15530000.0,
@@ -17686,6 +17691,16 @@
             "mode": 2
         },
         "KSDA Adventist World Radio(36)": {
+            "bandwidth": 150000.0,
+            "frequency": 15530000.0,
+            "mode": 2
+        },
+        "KSDA Adventist World Radio(37)": {
+            "bandwidth": 150000.0,
+            "frequency": 15530000.0,
+            "mode": 2
+        },
+        "KSDA Adventist World Radio(38)": {
             "bandwidth": 150000.0,
             "frequency": 15530000.0,
             "mode": 2
@@ -17745,7 +17760,7 @@
             "frequency": 15550000.0,
             "mode": 2
         },
-        "KSDA Adventist World Radio(37)": {
+        "KSDA Adventist World Radio(39)": {
             "bandwidth": 150000.0,
             "frequency": 15550000.0,
             "mode": 2
@@ -17768,16 +17783,6 @@
         "FEBC Radio(48)": {
             "bandwidth": 150000.0,
             "frequency": 15560000.0,
-            "mode": 2
-        },
-        "KSDA Adventist World Radio(38)": {
-            "bandwidth": 150000.0,
-            "frequency": 15565000.0,
-            "mode": 2
-        },
-        "KSDA Adventist World Radio(39)": {
-            "bandwidth": 150000.0,
-            "frequency": 15565000.0,
             "mode": 2
         },
         "Vatican Radio(39)": {
@@ -19005,6 +19010,16 @@
             "frequency": 17525000.0,
             "mode": 2
         },
+        "Vatican Radio(61)": {
+            "bandwidth": 150000.0,
+            "frequency": 17525000.0,
+            "mode": 2
+        },
+        "Vatican Radio(62)": {
+            "bandwidth": 150000.0,
+            "frequency": 17525000.0,
+            "mode": 2
+        },
         "China Radio International(509)": {
             "bandwidth": 150000.0,
             "frequency": 17530000.0,
@@ -19060,7 +19075,7 @@
             "frequency": 17540000.0,
             "mode": 2
         },
-        "Vatican Radio(61)": {
+        "Vatican Radio(63)": {
             "bandwidth": 150000.0,
             "frequency": 17540000.0,
             "mode": 2
@@ -19078,11 +19093,6 @@
         "CNR 1 Voice of China(237)": {
             "bandwidth": 150000.0,
             "frequency": 17550000.0,
-            "mode": 2
-        },
-        "Vatican Radio(62)": {
-            "bandwidth": 150000.0,
-            "frequency": 17555000.0,
             "mode": 2
         },
         "China Radio International(517)": {
@@ -19540,7 +19550,7 @@
             "frequency": 17680000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(2)": {
+        "Radio France Int.  1000(3)": {
             "bandwidth": 150000.0,
             "frequency": 17685000.0,
             "mode": 2
@@ -19715,7 +19725,7 @@
             "frequency": 17715000.0,
             "mode": 2
         },
-        "Vatican Radio(63)": {
+        "Vatican Radio(64)": {
             "bandwidth": 150000.0,
             "frequency": 17715000.0,
             "mode": 2
@@ -20005,11 +20015,6 @@
             "frequency": 17790000.0,
             "mode": 2
         },
-        "Vatican Radio(64)": {
-            "bandwidth": 150000.0,
-            "frequency": 17790000.0,
-            "mode": 2
-        },
         "Vatican Radio(65)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
@@ -20046,6 +20051,11 @@
             "mode": 2
         },
         "Vatican Radio(72)": {
+            "bandwidth": 150000.0,
+            "frequency": 17790000.0,
+            "mode": 2
+        },
+        "Vatican Radio(73)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
@@ -20125,7 +20135,7 @@
             "frequency": 17810000.0,
             "mode": 2
         },
-        "Vatican Radio(73)": {
+        "Vatican Radio(74)": {
             "bandwidth": 150000.0,
             "frequency": 17810000.0,
             "mode": 2
@@ -20225,7 +20235,7 @@
             "frequency": 17850000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(3)": {
+        "Radio France Int.  1000(4)": {
             "bandwidth": 150000.0,
             "frequency": 17850000.0,
             "mode": 2
@@ -20645,7 +20655,7 @@
             "frequency": 21680000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(4)": {
+        "Radio France Int.  1000(5)": {
             "bandwidth": 150000.0,
             "frequency": 21680000.0,
             "mode": 2
@@ -20655,19 +20665,14 @@
             "frequency": 21720000.0,
             "mode": 2
         },
-        "Vatican Radio(74)": {
+        "Vatican Radio(75)": {
             "bandwidth": 150000.0,
             "frequency": 21730000.0,
             "mode": 2
         },
-        "Vatican Radio(75)": {
-            "bandwidth": 150000.0,
-            "frequency": 21745000.0,
-            "mode": 2
-        },
         "Vatican Radio(76)": {
             "bandwidth": 150000.0,
-            "frequency": 21760000.0,
+            "frequency": 21745000.0,
             "mode": 2
         },
         "Vatican Radio(77)": {
@@ -20676,6 +20681,11 @@
             "mode": 2
         },
         "Vatican Radio(78)": {
+            "bandwidth": 150000.0,
+            "frequency": 21760000.0,
+            "mode": 2
+        },
+        "Vatican Radio(79)": {
             "bandwidth": 150000.0,
             "frequency": 21775000.0,
             "mode": 2
