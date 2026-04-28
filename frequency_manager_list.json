@@ -785,6 +785,11 @@
             "frequency": 4885000.0,
             "mode": 2
         },
+        "Mystery21": {
+            "bandwidth": 150000.0,
+            "frequency": 4890000.0,
+            "mode": 2
+        },
         "Haixia zhi Sheng (VO Stra": {
             "bandwidth": 150000.0,
             "frequency": 4900000.0,
@@ -1750,31 +1755,6 @@
             "frequency": 5920000.0,
             "mode": 2
         },
-        "Shiokaze": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
-        "Shiokaze(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
-        "Shiokaze(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
-        "Shiokaze(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
-        "Shiokaze(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
         "New Korean Hope Radio": {
             "bandwidth": 150000.0,
             "frequency": 5920000.0,
@@ -1876,6 +1856,31 @@
             "mode": 2
         },
         "WWCR The Overcomer Minis": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(4)": {
             "bandwidth": 150000.0,
             "frequency": 5935000.0,
             "mode": 2
@@ -2196,6 +2201,11 @@
             "mode": 2
         },
         "Scandinav.Weekend R.": {
+            "bandwidth": 150000.0,
+            "frequency": 5980000.0,
+            "mode": 2
+        },
+        "Shiokaze(5)": {
             "bandwidth": 150000.0,
             "frequency": 5980000.0,
             "mode": 2
@@ -3060,11 +3070,6 @@
             "frequency": 6070000.0,
             "mode": 2
         },
-        "Shiokaze(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 6070000.0,
-            "mode": 2
-        },
         "China Radio International(24)": {
             "bandwidth": 150000.0,
             "frequency": 6075000.0,
@@ -3325,47 +3330,7 @@
             "frequency": 6105000.0,
             "mode": 2
         },
-        "Nippon no Kaze'il bon ue": {
-            "bandwidth": 150000.0,
-            "frequency": 6110000.0,
-            "mode": 2
-        },
-        "China Radio International(33)": {
-            "bandwidth": 150000.0,
-            "frequency": 6110000.0,
-            "mode": 2
-        },
-        "PBS Xizang(24)": {
-            "bandwidth": 150000.0,
-            "frequency": 6110000.0,
-            "mode": 2
-        },
-        "PBS Xizang(25)": {
-            "bandwidth": 150000.0,
-            "frequency": 6110000.0,
-            "mode": 2
-        },
-        "PBS Xizang(26)": {
-            "bandwidth": 150000.0,
-            "frequency": 6110000.0,
-            "mode": 2
-        },
-        "PBS Xizang(27)": {
-            "bandwidth": 150000.0,
-            "frequency": 6110000.0,
-            "mode": 2
-        },
-        "PBS Xizang(28)": {
-            "bandwidth": 150000.0,
-            "frequency": 6110000.0,
-            "mode": 2
-        },
-        "PBS Xizang(29)": {
-            "bandwidth": 150000.0,
-            "frequency": 6110000.0,
-            "mode": 2
-        },
-        "CNR 11 Tibetan Radio(12)": {
+        "Voice of Islamic Rep.iran(4)": {
             "bandwidth": 150000.0,
             "frequency": 6110000.0,
             "mode": 2
@@ -3425,7 +3390,47 @@
             "frequency": 6110000.0,
             "mode": 2
         },
-        "Voice of Islamic Rep.iran(4)": {
+        "China Radio International(33)": {
+            "bandwidth": 150000.0,
+            "frequency": 6110000.0,
+            "mode": 2
+        },
+        "PBS Xizang(24)": {
+            "bandwidth": 150000.0,
+            "frequency": 6110000.0,
+            "mode": 2
+        },
+        "PBS Xizang(25)": {
+            "bandwidth": 150000.0,
+            "frequency": 6110000.0,
+            "mode": 2
+        },
+        "PBS Xizang(26)": {
+            "bandwidth": 150000.0,
+            "frequency": 6110000.0,
+            "mode": 2
+        },
+        "PBS Xizang(27)": {
+            "bandwidth": 150000.0,
+            "frequency": 6110000.0,
+            "mode": 2
+        },
+        "PBS Xizang(28)": {
+            "bandwidth": 150000.0,
+            "frequency": 6110000.0,
+            "mode": 2
+        },
+        "PBS Xizang(29)": {
+            "bandwidth": 150000.0,
+            "frequency": 6110000.0,
+            "mode": 2
+        },
+        "CNR 11 Tibetan Radio(12)": {
+            "bandwidth": 150000.0,
+            "frequency": 6110000.0,
+            "mode": 2
+        },
+        "Nippon no Kaze'il bon ue": {
             "bandwidth": 150000.0,
             "frequency": 6110000.0,
             "mode": 2
@@ -3585,17 +3590,17 @@
             "frequency": 6140000.0,
             "mode": 2
         },
-        "Radio Augusta Internatio": {
-            "bandwidth": 150000.0,
-            "frequency": 6140000.0,
-            "mode": 2
-        },
         "Radio Gloria": {
             "bandwidth": 150000.0,
             "frequency": 6140000.0,
             "mode": 2
         },
         "Radio Onda": {
+            "bandwidth": 150000.0,
+            "frequency": 6140000.0,
+            "mode": 2
+        },
+        "Radio Augusta Internatio": {
             "bandwidth": 150000.0,
             "frequency": 6140000.0,
             "mode": 2
@@ -3775,6 +3780,31 @@
             "frequency": 6160000.0,
             "mode": 2
         },
+        "Shiokaze(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
         "China Radio International(40)": {
             "bandwidth": 150000.0,
             "frequency": 6165000.0,
@@ -3856,31 +3886,6 @@
             "mode": 2
         },
         "Voice of Vietnam 4(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(10)": {
             "bandwidth": 150000.0,
             "frequency": 6165000.0,
             "mode": 2
@@ -5055,11 +5060,6 @@
             "frequency": 7290000.0,
             "mode": 2
         },
-        "Shiokaze(11)": {
-            "bandwidth": 150000.0,
-            "frequency": 7295000.0,
-            "mode": 2
-        },
         "China Radio International(76)": {
             "bandwidth": 150000.0,
             "frequency": 7295000.0,
@@ -5228,6 +5228,11 @@
         "FEBA Radio(4)": {
             "bandwidth": 150000.0,
             "frequency": 7320000.0,
+            "mode": 2
+        },
+        "Shiokaze(11)": {
+            "bandwidth": 150000.0,
+            "frequency": 7325000.0,
             "mode": 2
         },
         "Voice of Islamic Rep.iran(10)": {
@@ -5435,17 +5440,22 @@
             "frequency": 7350000.0,
             "mode": 2
         },
-        "Shiokaze(12)": {
-            "bandwidth": 150000.0,
-            "frequency": 7355000.0,
-            "mode": 2
-        },
         "Voice of Islamic Rep.iran(11)": {
             "bandwidth": 150000.0,
             "frequency": 7355000.0,
             "mode": 2
         },
         "KNLS World Christian Broadcasting": {
+            "bandwidth": 150000.0,
+            "frequency": 7355000.0,
+            "mode": 2
+        },
+        "BBC(17)": {
+            "bandwidth": 150000.0,
+            "frequency": 7355000.0,
+            "mode": 2
+        },
+        "BBC(18)": {
             "bandwidth": 150000.0,
             "frequency": 7355000.0,
             "mode": 2
@@ -5700,6 +5710,11 @@
             "frequency": 7415000.0,
             "mode": 2
         },
+        "Shiokaze(12)": {
+            "bandwidth": 150000.0,
+            "frequency": 7420000.0,
+            "mode": 2
+        },
         "China Radio International(113)": {
             "bandwidth": 150000.0,
             "frequency": 7420000.0,
@@ -5838,16 +5853,6 @@
         "China Radio International(123)": {
             "bandwidth": 150000.0,
             "frequency": 7440000.0,
-            "mode": 2
-        },
-        "BBC(17)": {
-            "bandwidth": 150000.0,
-            "frequency": 7445000.0,
-            "mode": 2
-        },
-        "BBC(18)": {
-            "bandwidth": 150000.0,
-            "frequency": 7445000.0,
             "mode": 2
         },
         "BBC(19)": {
@@ -6730,6 +6735,16 @@
             "frequency": 9310000.0,
             "mode": 2
         },
+        "Voice of America(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9310000.0,
+            "mode": 2
+        },
+        "Voice of America(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 9310000.0,
+            "mode": 2
+        },
         "Trans World Radio(8)": {
             "bandwidth": 150000.0,
             "frequency": 9320000.0,
@@ -6761,11 +6776,6 @@
             "mode": 2
         },
         "WBCQ World's Last Chance(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 9330000.0,
-            "mode": 2
-        },
-        "Radio for Peace Internat": {
             "bandwidth": 150000.0,
             "frequency": 9330000.0,
             "mode": 2
@@ -7855,6 +7865,11 @@
             "frequency": 9525000.0,
             "mode": 2
         },
+        "Radio Nova International": {
+            "bandwidth": 150000.0,
+            "frequency": 9530000.0,
+            "mode": 2
+        },
         "SOH Xi Wang Zhi Sheng(38)": {
             "bandwidth": 150000.0,
             "frequency": 9530000.0,
@@ -8320,6 +8335,21 @@
             "frequency": 9590000.0,
             "mode": 2
         },
+        "BBC(38)": {
+            "bandwidth": 150000.0,
+            "frequency": 9590000.0,
+            "mode": 2
+        },
+        "BBC(39)": {
+            "bandwidth": 150000.0,
+            "frequency": 9590000.0,
+            "mode": 2
+        },
+        "BBC(40)": {
+            "bandwidth": 150000.0,
+            "frequency": 9590000.0,
+            "mode": 2
+        },
         "Radio Taiwan Int.(29)": {
             "bandwidth": 150000.0,
             "frequency": 9595000.0,
@@ -8445,6 +8475,11 @@
             "frequency": 9610000.0,
             "mode": 2
         },
+        "Radio France Int.  1000": {
+            "bandwidth": 150000.0,
+            "frequency": 9610000.0,
+            "mode": 2
+        },
         "KNLS World Christian Broadcasting(9)": {
             "bandwidth": 150000.0,
             "frequency": 9615000.0,
@@ -8485,7 +8520,7 @@
             "frequency": 9620000.0,
             "mode": 2
         },
-        "Voice of America(1)": {
+        "Voice of America(3)": {
             "bandwidth": 150000.0,
             "frequency": 9625000.0,
             "mode": 2
@@ -9095,7 +9130,22 @@
             "frequency": 9700000.0,
             "mode": 2
         },
-        "Furusato no kaze(4)": {
+        "Vatican Radio(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 9705000.0,
+            "mode": 2
+        },
+        "Vatican Radio(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 9705000.0,
+            "mode": 2
+        },
+        "Radio Mellat-e Iran": {
+            "bandwidth": 150000.0,
+            "frequency": 9705000.0,
+            "mode": 2
+        },
+        "Radio Zaman e Bidari": {
             "bandwidth": 150000.0,
             "frequency": 9705000.0,
             "mode": 2
@@ -9110,22 +9160,12 @@
             "frequency": 9705000.0,
             "mode": 2
         },
-        "Radio Zaman e Bidari": {
-            "bandwidth": 150000.0,
-            "frequency": 9705000.0,
-            "mode": 2
-        },
         "VORW Radio International(2)": {
             "bandwidth": 150000.0,
             "frequency": 9705000.0,
             "mode": 2
         },
-        "Vatican Radio(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 9705000.0,
-            "mode": 2
-        },
-        "Vatican Radio(7)": {
+        "Furusato no kaze(4)": {
             "bandwidth": 150000.0,
             "frequency": 9705000.0,
             "mode": 2
@@ -9215,12 +9255,12 @@
             "frequency": 9720000.0,
             "mode": 2
         },
-        "Nippon no Kaze'il bon ue(5)": {
+        "Nippon no Kaze'il bon": {
             "bandwidth": 150000.0,
             "frequency": 9720000.0,
             "mode": 2
         },
-        "BBC(38)": {
+        "BBC(41)": {
             "bandwidth": 150000.0,
             "frequency": 9720000.0,
             "mode": 2
@@ -9400,6 +9440,11 @@
             "frequency": 9730000.0,
             "mode": 2
         },
+        "Voice of America(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 9730000.0,
+            "mode": 2
+        },
         "SOH Xi Wang Zhi Sheng(41)": {
             "bandwidth": 150000.0,
             "frequency": 9730000.0,
@@ -9475,11 +9520,6 @@
             "frequency": 9745000.0,
             "mode": 2
         },
-        "BBC(39)": {
-            "bandwidth": 150000.0,
-            "frequency": 9750000.0,
-            "mode": 2
-        },
         "IBRA MediaRadio Ibrahim(4)": {
             "bandwidth": 150000.0,
             "frequency": 9750000.0,
@@ -9500,6 +9540,11 @@
             "frequency": 9750000.0,
             "mode": 2
         },
+        "CNR 8 Etnhic Minority Radio(16)": {
+            "bandwidth": 150000.0,
+            "frequency": 9750000.0,
+            "mode": 2
+        },
         "PBS Nei Menggu(11)": {
             "bandwidth": 150000.0,
             "frequency": 9750000.0,
@@ -9516,11 +9561,6 @@
             "mode": 2
         },
         "PBS Nei Menggu(14)": {
-            "bandwidth": 150000.0,
-            "frequency": 9750000.0,
-            "mode": 2
-        },
-        "CNR 8 Etnhic Minority Radio(16)": {
             "bandwidth": 150000.0,
             "frequency": 9750000.0,
             "mode": 2
@@ -9550,7 +9590,7 @@
             "frequency": 9755000.0,
             "mode": 2
         },
-        "BBC(40)": {
+        "BBC(42)": {
             "bandwidth": 150000.0,
             "frequency": 9760000.0,
             "mode": 2
@@ -9610,6 +9650,16 @@
             "frequency": 9765000.0,
             "mode": 2
         },
+        "Radio for Peace Internat": {
+            "bandwidth": 150000.0,
+            "frequency": 9770000.0,
+            "mode": 2
+        },
+        "Radio for Peace Internat(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 9770000.0,
+            "mode": 2
+        },
         "China Radio International(232)": {
             "bandwidth": 150000.0,
             "frequency": 9770000.0,
@@ -9655,16 +9705,6 @@
             "frequency": 9775000.0,
             "mode": 2
         },
-        "BBC(41)": {
-            "bandwidth": 150000.0,
-            "frequency": 9780000.0,
-            "mode": 2
-        },
-        "BBC(42)": {
-            "bandwidth": 150000.0,
-            "frequency": 9780000.0,
-            "mode": 2
-        },
         "BBC(43)": {
             "bandwidth": 150000.0,
             "frequency": 9780000.0,
@@ -9681,6 +9721,16 @@
             "mode": 2
         },
         "BBC(46)": {
+            "bandwidth": 150000.0,
+            "frequency": 9780000.0,
+            "mode": 2
+        },
+        "BBC(47)": {
+            "bandwidth": 150000.0,
+            "frequency": 9780000.0,
+            "mode": 2
+        },
+        "BBC(48)": {
             "bandwidth": 150000.0,
             "frequency": 9780000.0,
             "mode": 2
@@ -10195,7 +10245,7 @@
             "frequency": 9874000.0,
             "mode": 2
         },
-        "BBC(47)": {
+        "BBC(49)": {
             "bandwidth": 150000.0,
             "frequency": 9875000.0,
             "mode": 2
@@ -10405,27 +10455,7 @@
             "frequency": 9895000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(160)": {
-            "bandwidth": 150000.0,
-            "frequency": 9900000.0,
-            "mode": 2
-        },
-        "Living Water Ministry": {
-            "bandwidth": 150000.0,
-            "frequency": 9900000.0,
-            "mode": 2
-        },
         "Radio Cairo(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 9900000.0,
-            "mode": 2
-        },
-        "Radio Cairo(9)": {
-            "bandwidth": 150000.0,
-            "frequency": 9900000.0,
-            "mode": 2
-        },
-        "Radio Taiwan Int.(38)": {
             "bandwidth": 150000.0,
             "frequency": 9900000.0,
             "mode": 2
@@ -10435,7 +10465,37 @@
             "frequency": 9900000.0,
             "mode": 2
         },
-        "BBC(48)": {
+        "Radio FREE ASIA(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 9900000.0,
+            "mode": 2
+        },
+        "Radio FREE ASIA(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 9900000.0,
+            "mode": 2
+        },
+        "Living Water Ministry": {
+            "bandwidth": 150000.0,
+            "frequency": 9900000.0,
+            "mode": 2
+        },
+        "Radio Cairo(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 9900000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(160)": {
+            "bandwidth": 150000.0,
+            "frequency": 9900000.0,
+            "mode": 2
+        },
+        "Radio Taiwan Int.(38)": {
+            "bandwidth": 150000.0,
+            "frequency": 9900000.0,
+            "mode": 2
+        },
+        "BBC(50)": {
             "bandwidth": 150000.0,
             "frequency": 9915000.0,
             "mode": 2
@@ -10680,7 +10740,7 @@
             "frequency": 9930000.0,
             "mode": 2
         },
-        "Nippon no Kaze'il bon ue(6)": {
+        "Nippon no Kaze'il bon ue(5)": {
             "bandwidth": 150000.0,
             "frequency": 9940000.0,
             "mode": 2
@@ -10835,11 +10895,6 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 9955000.0,
-            "mode": 2
-        },
         "WRMI Frecuencia al Dia(5)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
@@ -10850,7 +10905,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(3)": {
+        "WRMI Classic Redneck Rad(2)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -10945,7 +11000,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI CQ Calling(5)": {
+        "WRMI Antena DX(3)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -10985,12 +11040,32 @@
             "frequency": 9955000.0,
             "mode": 2
         },
+        "WRMI Frecuencia al Dia(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 9955000.0,
+            "mode": 2
+        },
         "WRMI World of Radio(7)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(4)": {
+        "WRMI SW Radiogram": {
+            "bandwidth": 150000.0,
+            "frequency": 9955000.0,
+            "mode": 2
+        },
+        "WRMI School of the Spiri": {
+            "bandwidth": 150000.0,
+            "frequency": 9955000.0,
+            "mode": 2
+        },
+        "WRMI Wave Scan(17)": {
+            "bandwidth": 150000.0,
+            "frequency": 9955000.0,
+            "mode": 2
+        },
+        "WRMI World Radio Network": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11035,7 +11110,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(17)": {
+        "WRMI Wave Scan(18)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11045,7 +11120,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(18)": {
+        "WRMI Wave Scan(19)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11085,7 +11160,7 @@
             "frequency": 9955000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(19)": {
+        "WRMI Wave Scan(20)": {
             "bandwidth": 150000.0,
             "frequency": 9955000.0,
             "mode": 2
@@ -11545,7 +11620,12 @@
             "frequency": 11580000.0,
             "mode": 2
         },
-        "Voice of America(2)": {
+        "Voice of America(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 11590000.0,
+            "mode": 2
+        },
+        "Voice of America(6)": {
             "bandwidth": 150000.0,
             "frequency": 11590000.0,
             "mode": 2
@@ -12025,12 +12105,12 @@
             "frequency": 11660000.0,
             "mode": 2
         },
-        "BBC(49)": {
+        "BBC(51)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
             "mode": 2
         },
-        "BBC(50)": {
+        "BBC(52)": {
             "bandwidth": 150000.0,
             "frequency": 11660000.0,
             "mode": 2
@@ -12815,6 +12895,11 @@
             "frequency": 11805000.0,
             "mode": 2
         },
+        "Nippon no Kaze'il bon ue(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 11805000.0,
+            "mode": 2
+        },
         "CNR 8 Etnhic Minority Radio(23)": {
             "bandwidth": 150000.0,
             "frequency": 11810000.0,
@@ -12965,12 +13050,12 @@
             "frequency": 11825000.0,
             "mode": 2
         },
-        "BBC(51)": {
+        "BBC(53)": {
             "bandwidth": 150000.0,
             "frequency": 11830000.0,
             "mode": 2
         },
-        "BBC(52)": {
+        "BBC(54)": {
             "bandwidth": 150000.0,
             "frequency": 11830000.0,
             "mode": 2
@@ -13200,7 +13285,7 @@
             "frequency": 11870000.0,
             "mode": 2
         },
-        "BBC(53)": {
+        "BBC(55)": {
             "bandwidth": 150000.0,
             "frequency": 11875000.0,
             "mode": 2
@@ -13730,9 +13815,9 @@
             "frequency": 11940000.0,
             "mode": 2
         },
-        "Radio NUG": {
+        "Radio Barandazi": {
             "bandwidth": 150000.0,
-            "frequency": 11940000.0,
+            "frequency": 11945000.0,
             "mode": 2
         },
         "Voice of Islamic Rep.iran(31)": {
@@ -13775,7 +13860,7 @@
             "frequency": 11950000.0,
             "mode": 2
         },
-        "BBC(54)": {
+        "BBC(56)": {
             "bandwidth": 150000.0,
             "frequency": 11955000.0,
             "mode": 2
@@ -13815,7 +13900,7 @@
             "frequency": 11960000.0,
             "mode": 2
         },
-        "BBC(55)": {
+        "BBC(57)": {
             "bandwidth": 150000.0,
             "frequency": 11965000.0,
             "mode": 2
@@ -13970,12 +14055,12 @@
             "frequency": 11990000.0,
             "mode": 2
         },
-        "BBC(56)": {
+        "BBC(58)": {
             "bandwidth": 150000.0,
             "frequency": 11995000.0,
             "mode": 2
         },
-        "BBC(57)": {
+        "BBC(59)": {
             "bandwidth": 150000.0,
             "frequency": 11995000.0,
             "mode": 2
@@ -14000,12 +14085,12 @@
             "frequency": 12000000.0,
             "mode": 2
         },
-        "BBC(58)": {
+        "BBC(60)": {
             "bandwidth": 150000.0,
             "frequency": 12005000.0,
             "mode": 2
         },
-        "BBC(59)": {
+        "BBC(61)": {
             "bandwidth": 150000.0,
             "frequency": 12005000.0,
             "mode": 2
@@ -14280,11 +14365,6 @@
             "frequency": 12065000.0,
             "mode": 2
         },
-        "Radio FARDA(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 12070000.0,
-            "mode": 2
-        },
         "China Radio International(377)": {
             "bandwidth": 150000.0,
             "frequency": 12070000.0,
@@ -14295,7 +14375,17 @@
             "frequency": 12070000.0,
             "mode": 2
         },
+        "Radio FARDA(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 12070000.0,
+            "mode": 2
+        },
         "Radio FARDA(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 12070000.0,
+            "mode": 2
+        },
+        "Radio FARDA(6)": {
             "bandwidth": 150000.0,
             "frequency": 12070000.0,
             "mode": 2
@@ -14350,16 +14440,6 @@
             "frequency": 12085000.0,
             "mode": 2
         },
-        "BBC(60)": {
-            "bandwidth": 150000.0,
-            "frequency": 12095000.0,
-            "mode": 2
-        },
-        "BBC(61)": {
-            "bandwidth": 150000.0,
-            "frequency": 12095000.0,
-            "mode": 2
-        },
         "BBC(62)": {
             "bandwidth": 150000.0,
             "frequency": 12095000.0,
@@ -14406,6 +14486,16 @@
             "mode": 2
         },
         "BBC(71)": {
+            "bandwidth": 150000.0,
+            "frequency": 12095000.0,
+            "mode": 2
+        },
+        "BBC(72)": {
+            "bandwidth": 150000.0,
+            "frequency": 12095000.0,
+            "mode": 2
+        },
+        "BBC(73)": {
             "bandwidth": 150000.0,
             "frequency": 12095000.0,
             "mode": 2
@@ -14840,11 +14930,6 @@
             "frequency": 13610000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(103)": {
-            "bandwidth": 150000.0,
-            "frequency": 13630000.0,
-            "mode": 2
-        },
         "China Radio International(390)": {
             "bandwidth": 150000.0,
             "frequency": 13630000.0,
@@ -14876,6 +14961,11 @@
             "mode": 2
         },
         "CNR 2 Business Radio(78)": {
+            "bandwidth": 150000.0,
+            "frequency": 13630000.0,
+            "mode": 2
+        },
+        "SOH Xi Wang Zhi Sheng(103)": {
             "bandwidth": 150000.0,
             "frequency": 13630000.0,
             "mode": 2
@@ -15132,11 +15222,6 @@
         },
         "SOH Xi Wang Zhi Sheng(105)": {
             "bandwidth": 150000.0,
-            "frequency": 13670000.0,
-            "mode": 2
-        },
-        "SOH Xi Wang Zhi Sheng(106)": {
-            "bandwidth": 150000.0,
             "frequency": 13680000.0,
             "mode": 2
         },
@@ -15315,17 +15400,17 @@
             "frequency": 13730000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(107)": {
+        "SOH Xi Wang Zhi Sheng(106)": {
             "bandwidth": 150000.0,
             "frequency": 13730000.0,
             "mode": 2
         },
-        "BBC(72)": {
+        "BBC(74)": {
             "bandwidth": 150000.0,
             "frequency": 13740000.0,
             "mode": 2
         },
-        "BBC(73)": {
+        "BBC(75)": {
             "bandwidth": 150000.0,
             "frequency": 13740000.0,
             "mode": 2
@@ -15345,7 +15430,7 @@
             "frequency": 13740000.0,
             "mode": 2
         },
-        "Radio France Int.  1000": {
+        "Radio France Int.  1000(1)": {
             "bandwidth": 150000.0,
             "frequency": 13740000.0,
             "mode": 2
@@ -15520,7 +15605,7 @@
             "frequency": 13770000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(108)": {
+        "SOH Xi Wang Zhi Sheng(107)": {
             "bandwidth": 150000.0,
             "frequency": 13775000.0,
             "mode": 2
@@ -15530,17 +15615,17 @@
             "frequency": 13780000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(109)": {
+        "SOH Xi Wang Zhi Sheng(108)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
         },
-        "BBC(74)": {
+        "BBC(76)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
         },
-        "BBC(75)": {
+        "BBC(77)": {
             "bandwidth": 150000.0,
             "frequency": 13790000.0,
             "mode": 2
@@ -15590,12 +15675,12 @@
             "frequency": 13800000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(110)": {
+        "SOH Xi Wang Zhi Sheng(109)": {
             "bandwidth": 150000.0,
             "frequency": 13805000.0,
             "mode": 2
         },
-        "BBC(76)": {
+        "BBC(78)": {
             "bandwidth": 150000.0,
             "frequency": 13810000.0,
             "mode": 2
@@ -15620,7 +15705,7 @@
             "frequency": 13820000.0,
             "mode": 2
         },
-        "BBC(77)": {
+        "BBC(79)": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
@@ -15700,7 +15785,7 @@
             "frequency": 13840000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(111)": {
+        "SOH Xi Wang Zhi Sheng(110)": {
             "bandwidth": 150000.0,
             "frequency": 13840000.0,
             "mode": 2
@@ -15715,7 +15800,7 @@
             "frequency": 13845000.0,
             "mode": 2
         },
-        "BBC(78)": {
+        "BBC(80)": {
             "bandwidth": 150000.0,
             "frequency": 13850000.0,
             "mode": 2
@@ -15750,7 +15835,7 @@
             "frequency": 13860000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(112)": {
+        "SOH Xi Wang Zhi Sheng(111)": {
             "bandwidth": 150000.0,
             "frequency": 13870000.0,
             "mode": 2
@@ -15785,17 +15870,17 @@
             "frequency": 13870000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(113)": {
+        "SOH Xi Wang Zhi Sheng(112)": {
             "bandwidth": 150000.0,
             "frequency": 13890000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(114)": {
+        "SOH Xi Wang Zhi Sheng(113)": {
             "bandwidth": 150000.0,
             "frequency": 13920000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(115)": {
+        "SOH Xi Wang Zhi Sheng(114)": {
             "bandwidth": 150000.0,
             "frequency": 13960000.0,
             "mode": 2
@@ -15820,7 +15905,7 @@
             "frequency": 13974000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(116)": {
+        "SOH Xi Wang Zhi Sheng(115)": {
             "bandwidth": 150000.0,
             "frequency": 13980000.0,
             "mode": 2
@@ -15830,7 +15915,7 @@
             "frequency": 13989000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(117)": {
+        "SOH Xi Wang Zhi Sheng(116)": {
             "bandwidth": 150000.0,
             "frequency": 14370000.0,
             "mode": 2
@@ -15845,54 +15930,59 @@
             "frequency": 14375000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(118)": {
+        "SOH Xi Wang Zhi Sheng(117)": {
             "bandwidth": 150000.0,
             "frequency": 14430000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(119)": {
+        "SOH Xi Wang Zhi Sheng(118)": {
             "bandwidth": 150000.0,
             "frequency": 14560000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(120)": {
+        "SOH Xi Wang Zhi Sheng(119)": {
             "bandwidth": 150000.0,
             "frequency": 14580000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(121)": {
+        "SOH Xi Wang Zhi Sheng(120)": {
             "bandwidth": 150000.0,
             "frequency": 14635000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(122)": {
+        "SOH Xi Wang Zhi Sheng(121)": {
             "bandwidth": 150000.0,
             "frequency": 14690000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(123)": {
+        "SOH Xi Wang Zhi Sheng(122)": {
             "bandwidth": 150000.0,
             "frequency": 14725000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(124)": {
+        "SOH Xi Wang Zhi Sheng(123)": {
             "bandwidth": 150000.0,
             "frequency": 14800000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(125)": {
+        "SOH Xi Wang Zhi Sheng(124)": {
             "bandwidth": 150000.0,
             "frequency": 14820000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(126)": {
+        "SOH Xi Wang Zhi Sheng(125)": {
             "bandwidth": 150000.0,
             "frequency": 14850000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(127)": {
+        "SOH Xi Wang Zhi Sheng(126)": {
             "bandwidth": 150000.0,
             "frequency": 14870000.0,
+            "mode": 2
+        },
+        "SOH Xi Wang Zhi Sheng(127)": {
+            "bandwidth": 150000.0,
+            "frequency": 14900000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(128)": {
@@ -15902,15 +15992,10 @@
         },
         "SOH Xi Wang Zhi Sheng(129)": {
             "bandwidth": 150000.0,
-            "frequency": 14900000.0,
-            "mode": 2
-        },
-        "SOH Xi Wang Zhi Sheng(130)": {
-            "bandwidth": 150000.0,
             "frequency": 14920000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(131)": {
+        "SOH Xi Wang Zhi Sheng(130)": {
             "bandwidth": 150000.0,
             "frequency": 14940000.0,
             "mode": 2
@@ -15930,7 +16015,7 @@
             "frequency": 14944000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(132)": {
+        "SOH Xi Wang Zhi Sheng(131)": {
             "bandwidth": 150000.0,
             "frequency": 14980000.0,
             "mode": 2
@@ -16445,7 +16530,7 @@
             "frequency": 15245000.0,
             "mode": 2
         },
-        "Radio FREE ASIA(4)": {
+        "Radio FREE ASIA(6)": {
             "bandwidth": 150000.0,
             "frequency": 15245000.0,
             "mode": 2
@@ -16600,7 +16685,7 @@
             "frequency": 15280000.0,
             "mode": 2
         },
-        "BBC(79)": {
+        "BBC(81)": {
             "bandwidth": 150000.0,
             "frequency": 15280000.0,
             "mode": 2
@@ -16610,12 +16695,7 @@
             "frequency": 15280000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(133)": {
-            "bandwidth": 150000.0,
-            "frequency": 15295000.0,
-            "mode": 2
-        },
-        "BBC(80)": {
+        "BBC(82)": {
             "bandwidth": 150000.0,
             "frequency": 15295000.0,
             "mode": 2
@@ -16670,16 +16750,6 @@
             "frequency": 15300000.0,
             "mode": 2
         },
-        "BBC(81)": {
-            "bandwidth": 150000.0,
-            "frequency": 15310000.0,
-            "mode": 2
-        },
-        "BBC(82)": {
-            "bandwidth": 150000.0,
-            "frequency": 15310000.0,
-            "mode": 2
-        },
         "BBC(83)": {
             "bandwidth": 150000.0,
             "frequency": 15310000.0,
@@ -16701,6 +16771,16 @@
             "mode": 2
         },
         "BBC(87)": {
+            "bandwidth": 150000.0,
+            "frequency": 15310000.0,
+            "mode": 2
+        },
+        "BBC(88)": {
+            "bandwidth": 150000.0,
+            "frequency": 15310000.0,
+            "mode": 2
+        },
+        "BBC(89)": {
             "bandwidth": 150000.0,
             "frequency": 15310000.0,
             "mode": 2
@@ -16885,7 +16965,7 @@
             "frequency": 15340000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(134)": {
+        "SOH Xi Wang Zhi Sheng(132)": {
             "bandwidth": 150000.0,
             "frequency": 15340000.0,
             "mode": 2
@@ -16910,7 +16990,7 @@
             "frequency": 15350000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(135)": {
+        "SOH Xi Wang Zhi Sheng(133)": {
             "bandwidth": 150000.0,
             "frequency": 15360000.0,
             "mode": 2
@@ -17035,16 +17115,6 @@
             "frequency": 15390000.0,
             "mode": 2
         },
-        "BBC(88)": {
-            "bandwidth": 150000.0,
-            "frequency": 15400000.0,
-            "mode": 2
-        },
-        "BBC(89)": {
-            "bandwidth": 150000.0,
-            "frequency": 15400000.0,
-            "mode": 2
-        },
         "BBC(90)": {
             "bandwidth": 150000.0,
             "frequency": 15400000.0,
@@ -17056,6 +17126,16 @@
             "mode": 2
         },
         "BBC(92)": {
+            "bandwidth": 150000.0,
+            "frequency": 15400000.0,
+            "mode": 2
+        },
+        "BBC(93)": {
+            "bandwidth": 150000.0,
+            "frequency": 15400000.0,
+            "mode": 2
+        },
+        "BBC(94)": {
             "bandwidth": 150000.0,
             "frequency": 15400000.0,
             "mode": 2
@@ -17210,7 +17290,7 @@
             "frequency": 15410000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(136)": {
+        "SOH Xi Wang Zhi Sheng(134)": {
             "bandwidth": 150000.0,
             "frequency": 15410000.0,
             "mode": 2
@@ -17220,7 +17300,7 @@
             "frequency": 15420000.0,
             "mode": 2
         },
-        "BBC(93)": {
+        "BBC(95)": {
             "bandwidth": 150000.0,
             "frequency": 15420000.0,
             "mode": 2
@@ -17335,7 +17415,7 @@
             "frequency": 15440000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(1)": {
+        "Radio France Int.  1000(2)": {
             "bandwidth": 150000.0,
             "frequency": 15440000.0,
             "mode": 2
@@ -17465,22 +17545,22 @@
             "frequency": 15480000.0,
             "mode": 2
         },
-        "BBC(94)": {
-            "bandwidth": 150000.0,
-            "frequency": 15490000.0,
-            "mode": 2
-        },
-        "BBC(95)": {
-            "bandwidth": 150000.0,
-            "frequency": 15490000.0,
-            "mode": 2
-        },
         "BBC(96)": {
             "bandwidth": 150000.0,
             "frequency": 15490000.0,
             "mode": 2
         },
         "BBC(97)": {
+            "bandwidth": 150000.0,
+            "frequency": 15490000.0,
+            "mode": 2
+        },
+        "BBC(98)": {
+            "bandwidth": 150000.0,
+            "frequency": 15490000.0,
+            "mode": 2
+        },
+        "BBC(99)": {
             "bandwidth": 150000.0,
             "frequency": 15490000.0,
             "mode": 2
@@ -17500,7 +17580,7 @@
             "frequency": 15490000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(2)": {
+        "Radio France Int.  1000(3)": {
             "bandwidth": 150000.0,
             "frequency": 15495000.0,
             "mode": 2
@@ -17568,6 +17648,11 @@
         "Radio Exterior De Espana(18)": {
             "bandwidth": 150000.0,
             "frequency": 15500000.0,
+            "mode": 2
+        },
+        "Radio France Int.  1000(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 15505000.0,
             "mode": 2
         },
         "Radio Ndarason Internati(2)": {
@@ -17900,7 +17985,7 @@
             "frequency": 15580000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(137)": {
+        "SOH Xi Wang Zhi Sheng(135)": {
             "bandwidth": 150000.0,
             "frequency": 15580000.0,
             "mode": 2
@@ -18005,7 +18090,7 @@
             "frequency": 15610000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(138)": {
+        "SOH Xi Wang Zhi Sheng(136)": {
             "bandwidth": 150000.0,
             "frequency": 15610000.0,
             "mode": 2
@@ -18255,7 +18340,7 @@
             "frequency": 15720000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(139)": {
+        "SOH Xi Wang Zhi Sheng(137)": {
             "bandwidth": 150000.0,
             "frequency": 15730000.0,
             "mode": 2
@@ -18265,7 +18350,7 @@
             "frequency": 15735000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(140)": {
+        "SOH Xi Wang Zhi Sheng(138)": {
             "bandwidth": 150000.0,
             "frequency": 15740000.0,
             "mode": 2
@@ -18285,7 +18370,7 @@
             "frequency": 15750000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(141)": {
+        "SOH Xi Wang Zhi Sheng(139)": {
             "bandwidth": 150000.0,
             "frequency": 15760000.0,
             "mode": 2
@@ -18395,7 +18480,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(20)": {
+        "WRMI Wave Scan(21)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18510,7 +18595,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(21)": {
+        "WRMI Wave Scan(22)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18565,7 +18650,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(22)": {
+        "WRMI Wave Scan(23)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18620,7 +18705,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(23)": {
+        "WRMI Wave Scan(24)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18670,7 +18755,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI CQ Calling(6)": {
+        "WRMI CQ Calling(5)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18685,7 +18770,7 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Wave Scan(24)": {
+        "WRMI Wave Scan(25)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
@@ -18730,12 +18815,12 @@
             "frequency": 15770000.0,
             "mode": 2
         },
-        "WRMI Classic Redneck Rad(5)": {
+        "WRMI Classic Redneck Rad(3)": {
             "bandwidth": 150000.0,
             "frequency": 15770000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(142)": {
+        "SOH Xi Wang Zhi Sheng(140)": {
             "bandwidth": 150000.0,
             "frequency": 15775000.0,
             "mode": 2
@@ -18760,29 +18845,24 @@
             "frequency": 15795000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(143)": {
+        "SOH Xi Wang Zhi Sheng(141)": {
             "bandwidth": 150000.0,
             "frequency": 15800000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(144)": {
+        "SOH Xi Wang Zhi Sheng(142)": {
             "bandwidth": 150000.0,
             "frequency": 15820000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(145)": {
+        "SOH Xi Wang Zhi Sheng(143)": {
             "bandwidth": 150000.0,
             "frequency": 15840000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(146)": {
+        "SOH Xi Wang Zhi Sheng(144)": {
             "bandwidth": 150000.0,
             "frequency": 15870000.0,
-            "mode": 2
-        },
-        "SOH Xi Wang Zhi Sheng(147)": {
-            "bandwidth": 150000.0,
-            "frequency": 15890000.0,
             "mode": 2
         },
         "XINGXING GUANGBO DIANTAI 2(6)": {
@@ -18790,17 +18870,22 @@
             "frequency": 15890000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(148)": {
+        "SOH Xi Wang Zhi Sheng(145)": {
+            "bandwidth": 150000.0,
+            "frequency": 15890000.0,
+            "mode": 2
+        },
+        "SOH Xi Wang Zhi Sheng(146)": {
             "bandwidth": 150000.0,
             "frequency": 15920000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(149)": {
+        "SOH Xi Wang Zhi Sheng(147)": {
             "bandwidth": 150000.0,
             "frequency": 15940000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(150)": {
+        "SOH Xi Wang Zhi Sheng(148)": {
             "bandwidth": 150000.0,
             "frequency": 15970000.0,
             "mode": 2
@@ -18860,12 +18945,12 @@
             "frequency": 16050000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(151)": {
+        "SOH Xi Wang Zhi Sheng(149)": {
             "bandwidth": 150000.0,
             "frequency": 16100000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(152)": {
+        "SOH Xi Wang Zhi Sheng(150)": {
             "bandwidth": 150000.0,
             "frequency": 16160000.0,
             "mode": 2
@@ -18875,27 +18960,27 @@
             "frequency": 16180000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(153)": {
+        "SOH Xi Wang Zhi Sheng(151)": {
             "bandwidth": 150000.0,
             "frequency": 16250000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(154)": {
+        "SOH Xi Wang Zhi Sheng(152)": {
             "bandwidth": 150000.0,
             "frequency": 16300000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(155)": {
+        "SOH Xi Wang Zhi Sheng(153)": {
             "bandwidth": 150000.0,
             "frequency": 16600000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(156)": {
+        "SOH Xi Wang Zhi Sheng(154)": {
             "bandwidth": 150000.0,
             "frequency": 16680000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(157)": {
+        "SOH Xi Wang Zhi Sheng(155)": {
             "bandwidth": 150000.0,
             "frequency": 16790000.0,
             "mode": 2
@@ -18905,22 +18990,22 @@
             "frequency": 17000000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(158)": {
+        "SOH Xi Wang Zhi Sheng(156)": {
             "bandwidth": 150000.0,
             "frequency": 17150000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(159)": {
+        "SOH Xi Wang Zhi Sheng(157)": {
             "bandwidth": 150000.0,
             "frequency": 17170000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(160)": {
+        "SOH Xi Wang Zhi Sheng(158)": {
             "bandwidth": 150000.0,
             "frequency": 17400000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(161)": {
+        "SOH Xi Wang Zhi Sheng(159)": {
             "bandwidth": 150000.0,
             "frequency": 17440000.0,
             "mode": 2
@@ -18955,7 +19040,7 @@
             "frequency": 17490000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(162)": {
+        "SOH Xi Wang Zhi Sheng(160)": {
             "bandwidth": 150000.0,
             "frequency": 17490000.0,
             "mode": 2
@@ -18975,7 +19060,7 @@
             "frequency": 17510000.0,
             "mode": 2
         },
-        "BBC(98)": {
+        "BBC(100)": {
             "bandwidth": 150000.0,
             "frequency": 17515000.0,
             "mode": 2
@@ -19145,7 +19230,7 @@
             "frequency": 17570000.0,
             "mode": 2
         },
-        "BBC(99)": {
+        "BBC(101)": {
             "bandwidth": 150000.0,
             "frequency": 17575000.0,
             "mode": 2
@@ -19235,7 +19320,7 @@
             "frequency": 17600000.0,
             "mode": 2
         },
-        "BBC(100)": {
+        "BBC(102)": {
             "bandwidth": 150000.0,
             "frequency": 17605000.0,
             "mode": 2
@@ -19355,16 +19440,6 @@
             "frequency": 17630000.0,
             "mode": 2
         },
-        "BBC(101)": {
-            "bandwidth": 150000.0,
-            "frequency": 17640000.0,
-            "mode": 2
-        },
-        "BBC(102)": {
-            "bandwidth": 150000.0,
-            "frequency": 17640000.0,
-            "mode": 2
-        },
         "BBC(103)": {
             "bandwidth": 150000.0,
             "frequency": 17640000.0,
@@ -19396,6 +19471,16 @@
             "mode": 2
         },
         "BBC(109)": {
+            "bandwidth": 150000.0,
+            "frequency": 17640000.0,
+            "mode": 2
+        },
+        "BBC(110)": {
+            "bandwidth": 150000.0,
+            "frequency": 17640000.0,
+            "mode": 2
+        },
+        "BBC(111)": {
             "bandwidth": 150000.0,
             "frequency": 17640000.0,
             "mode": 2
@@ -19505,6 +19590,11 @@
             "frequency": 17665000.0,
             "mode": 2
         },
+        "SOH Xi Wang Zhi Sheng(161)": {
+            "bandwidth": 150000.0,
+            "frequency": 17670000.0,
+            "mode": 2
+        },
         "IBRA Media-Radio Sama": {
             "bandwidth": 150000.0,
             "frequency": 17670000.0,
@@ -19550,7 +19640,7 @@
             "frequency": 17680000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(3)": {
+        "Radio France Int.  1000(5)": {
             "bandwidth": 150000.0,
             "frequency": 17685000.0,
             "mode": 2
@@ -19570,7 +19660,7 @@
             "frequency": 17690000.0,
             "mode": 2
         },
-        "BBC(110)": {
+        "BBC(112)": {
             "bandwidth": 150000.0,
             "frequency": 17700000.0,
             "mode": 2
@@ -19805,16 +19895,6 @@
             "frequency": 17740000.0,
             "mode": 2
         },
-        "BBC(111)": {
-            "bandwidth": 150000.0,
-            "frequency": 17745000.0,
-            "mode": 2
-        },
-        "BBC(112)": {
-            "bandwidth": 150000.0,
-            "frequency": 17745000.0,
-            "mode": 2
-        },
         "BBC(113)": {
             "bandwidth": 150000.0,
             "frequency": 17745000.0,
@@ -19835,17 +19915,27 @@
             "frequency": 17745000.0,
             "mode": 2
         },
+        "BBC(117)": {
+            "bandwidth": 150000.0,
+            "frequency": 17745000.0,
+            "mode": 2
+        },
+        "BBC(118)": {
+            "bandwidth": 150000.0,
+            "frequency": 17745000.0,
+            "mode": 2
+        },
         "Radio Pilipinas(4)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
         },
-        "BBC(117)": {
+        "BBC(119)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
         },
-        "BBC(118)": {
+        "BBC(120)": {
             "bandwidth": 150000.0,
             "frequency": 17750000.0,
             "mode": 2
@@ -19875,7 +19965,7 @@
             "frequency": 17760000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(163)": {
+        "SOH Xi Wang Zhi Sheng(162)": {
             "bandwidth": 150000.0,
             "frequency": 17760000.0,
             "mode": 2
@@ -19915,7 +20005,7 @@
             "frequency": 17780000.0,
             "mode": 2
         },
-        "BBC(119)": {
+        "BBC(121)": {
             "bandwidth": 150000.0,
             "frequency": 17780000.0,
             "mode": 2
@@ -19930,7 +20020,7 @@
             "frequency": 17780000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(164)": {
+        "SOH Xi Wang Zhi Sheng(163)": {
             "bandwidth": 150000.0,
             "frequency": 17780000.0,
             "mode": 2
@@ -19956,11 +20046,6 @@
             "mode": 2
         },
         "Radio Taiwan Int.(53)": {
-            "bandwidth": 150000.0,
-            "frequency": 17790000.0,
-            "mode": 2
-        },
-        "Radio NUG(1)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
@@ -20090,16 +20175,6 @@
             "frequency": 17800000.0,
             "mode": 2
         },
-        "BBC(120)": {
-            "bandwidth": 150000.0,
-            "frequency": 17810000.0,
-            "mode": 2
-        },
-        "BBC(121)": {
-            "bandwidth": 150000.0,
-            "frequency": 17810000.0,
-            "mode": 2
-        },
         "BBC(122)": {
             "bandwidth": 150000.0,
             "frequency": 17810000.0,
@@ -20125,6 +20200,16 @@
             "frequency": 17810000.0,
             "mode": 2
         },
+        "BBC(127)": {
+            "bandwidth": 150000.0,
+            "frequency": 17810000.0,
+            "mode": 2
+        },
+        "BBC(128)": {
+            "bandwidth": 150000.0,
+            "frequency": 17810000.0,
+            "mode": 2
+        },
         "NHK World Radio Japan(65)": {
             "bandwidth": 150000.0,
             "frequency": 17810000.0,
@@ -20145,7 +20230,7 @@
             "frequency": 17815000.0,
             "mode": 2
         },
-        "BBC(127)": {
+        "BBC(129)": {
             "bandwidth": 150000.0,
             "frequency": 17815000.0,
             "mode": 2
@@ -20155,12 +20240,12 @@
             "frequency": 17815000.0,
             "mode": 2
         },
-        "BBC(128)": {
+        "BBC(130)": {
             "bandwidth": 150000.0,
             "frequency": 17825000.0,
             "mode": 2
         },
-        "BBC(129)": {
+        "BBC(131)": {
             "bandwidth": 150000.0,
             "frequency": 17825000.0,
             "mode": 2
@@ -20170,12 +20255,12 @@
             "frequency": 17830000.0,
             "mode": 2
         },
-        "BBC(130)": {
+        "BBC(132)": {
             "bandwidth": 150000.0,
             "frequency": 17830000.0,
             "mode": 2
         },
-        "BBC(131)": {
+        "BBC(133)": {
             "bandwidth": 150000.0,
             "frequency": 17830000.0,
             "mode": 2
@@ -20235,7 +20320,7 @@
             "frequency": 17850000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(4)": {
+        "Radio France Int.  1000(6)": {
             "bandwidth": 150000.0,
             "frequency": 17850000.0,
             "mode": 2
@@ -20325,22 +20410,22 @@
             "frequency": 18040000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(165)": {
+        "SOH Xi Wang Zhi Sheng(164)": {
             "bandwidth": 150000.0,
             "frequency": 18180000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(166)": {
+        "SOH Xi Wang Zhi Sheng(165)": {
             "bandwidth": 150000.0,
             "frequency": 18200000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(167)": {
+        "SOH Xi Wang Zhi Sheng(166)": {
             "bandwidth": 150000.0,
             "frequency": 18900000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(168)": {
+        "SOH Xi Wang Zhi Sheng(167)": {
             "bandwidth": 150000.0,
             "frequency": 18970000.0,
             "mode": 2
@@ -20395,22 +20480,27 @@
             "frequency": 21000000.0,
             "mode": 2
         },
-        "BBC(132)": {
-            "bandwidth": 150000.0,
-            "frequency": 21470000.0,
-            "mode": 2
-        },
-        "BBC(133)": {
-            "bandwidth": 150000.0,
-            "frequency": 21470000.0,
-            "mode": 2
-        },
         "BBC(134)": {
             "bandwidth": 150000.0,
             "frequency": 21470000.0,
             "mode": 2
         },
+        "BBC(135)": {
+            "bandwidth": 150000.0,
+            "frequency": 21470000.0,
+            "mode": 2
+        },
+        "BBC(136)": {
+            "bandwidth": 150000.0,
+            "frequency": 21470000.0,
+            "mode": 2
+        },
         "Radio Romania Int.(99)": {
+            "bandwidth": 150000.0,
+            "frequency": 21470000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(100)": {
             "bandwidth": 150000.0,
             "frequency": 21470000.0,
             "mode": 2
@@ -20495,14 +20585,9 @@
             "frequency": 21490000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(169)": {
+        "SOH Xi Wang Zhi Sheng(168)": {
             "bandwidth": 150000.0,
             "frequency": 21490000.0,
-            "mode": 2
-        },
-        "SOH Xi Wang Zhi Sheng(170)": {
-            "bandwidth": 150000.0,
-            "frequency": 21495000.0,
             "mode": 2
         },
         "NHK World Radio Japan(67)": {
@@ -20520,17 +20605,17 @@
             "frequency": 21500000.0,
             "mode": 2
         },
-        "Radio Romania Int.(100)": {
+        "Radio Romania Int.(101)": {
             "bandwidth": 150000.0,
             "frequency": 21510000.0,
             "mode": 2
         },
-        "BBC(135)": {
+        "BBC(137)": {
             "bandwidth": 150000.0,
             "frequency": 21520000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(171)": {
+        "SOH Xi Wang Zhi Sheng(169)": {
             "bandwidth": 150000.0,
             "frequency": 21530000.0,
             "mode": 2
@@ -20540,17 +20625,12 @@
             "frequency": 21550000.0,
             "mode": 2
         },
-        "Radio Romania Int.(101)": {
+        "SOH Xi Wang Zhi Sheng(170)": {
             "bandwidth": 150000.0,
             "frequency": 21550000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(172)": {
-            "bandwidth": 150000.0,
-            "frequency": 21550000.0,
-            "mode": 2
-        },
-        "BBC(136)": {
+        "BBC(138)": {
             "bandwidth": 150000.0,
             "frequency": 21565000.0,
             "mode": 2
@@ -20585,21 +20665,6 @@
             "frequency": 21595000.0,
             "mode": 2
         },
-        "": {
-            "bandwidth": 150000.0,
-            "frequency": 21595000.0,
-            "mode": 2
-        },
-        "BBC(137)": {
-            "bandwidth": 150000.0,
-            "frequency": 21630000.0,
-            "mode": 2
-        },
-        "BBC(138)": {
-            "bandwidth": 150000.0,
-            "frequency": 21630000.0,
-            "mode": 2
-        },
         "BBC(139)": {
             "bandwidth": 150000.0,
             "frequency": 21630000.0,
@@ -20612,15 +20677,25 @@
         },
         "BBC(141)": {
             "bandwidth": 150000.0,
-            "frequency": 21645000.0,
+            "frequency": 21630000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(173)": {
+        "BBC(142)": {
+            "bandwidth": 150000.0,
+            "frequency": 21630000.0,
+            "mode": 2
+        },
+        "BBC(143)": {
             "bandwidth": 150000.0,
             "frequency": 21645000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(174)": {
+        "SOH Xi Wang Zhi Sheng(171)": {
+            "bandwidth": 150000.0,
+            "frequency": 21645000.0,
+            "mode": 2
+        },
+        "SOH Xi Wang Zhi Sheng(172)": {
             "bandwidth": 150000.0,
             "frequency": 21650000.0,
             "mode": 2
@@ -20655,7 +20730,7 @@
             "frequency": 21680000.0,
             "mode": 2
         },
-        "Radio France Int.  1000(5)": {
+        "Radio France Int.  1000(7)": {
             "bandwidth": 150000.0,
             "frequency": 21680000.0,
             "mode": 2
@@ -20745,7 +20820,7 @@
             "frequency": 21800000.0,
             "mode": 2
         },
-        "SOH Xi Wang Zhi Sheng(175)": {
+        "SOH Xi Wang Zhi Sheng(173)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
