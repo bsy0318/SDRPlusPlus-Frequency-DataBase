@@ -3605,6 +3605,16 @@
             "frequency": 6140000.0,
             "mode": 2
         },
+        "Radio Juan Xxiii": {
+            "bandwidth": 150000.0,
+            "frequency": 6145000.0,
+            "mode": 2
+        },
+        "Radio Juan Xxiii(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 6145000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(73)": {
             "bandwidth": 150000.0,
             "frequency": 6145000.0,
@@ -9440,11 +9450,6 @@
             "frequency": 9730000.0,
             "mode": 2
         },
-        "Voice of America(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 9730000.0,
-            "mode": 2
-        },
         "SOH Xi Wang Zhi Sheng(41)": {
             "bandwidth": 150000.0,
             "frequency": 9730000.0,
@@ -10201,11 +10206,6 @@
             "mode": 2
         },
         "China Radio International(248)": {
-            "bandwidth": 150000.0,
-            "frequency": 9870000.0,
-            "mode": 2
-        },
-        "KBS World Radio(26)": {
             "bandwidth": 150000.0,
             "frequency": 9870000.0,
             "mode": 2
@@ -11395,16 +11395,6 @@
             "frequency": 9975000.0,
             "mode": 2
         },
-        "Trans World Radio(23)": {
-            "bandwidth": 150000.0,
-            "frequency": 9975000.0,
-            "mode": 2
-        },
-        "Trans World Radio(24)": {
-            "bandwidth": 150000.0,
-            "frequency": 9975000.0,
-            "mode": 2
-        },
         "WWCR Nashville(6)": {
             "bandwidth": 150000.0,
             "frequency": 9980000.0,
@@ -11585,7 +11575,7 @@
             "frequency": 11550000.0,
             "mode": 2
         },
-        "Trans World Radio(25)": {
+        "Trans World Radio(23)": {
             "bandwidth": 150000.0,
             "frequency": 11550000.0,
             "mode": 2
@@ -11595,12 +11585,12 @@
             "frequency": 11560000.0,
             "mode": 2
         },
-        "Trans World Radio(26)": {
+        "Trans World Radio(24)": {
             "bandwidth": 150000.0,
             "frequency": 11560000.0,
             "mode": 2
         },
-        "Trans World Radio(27)": {
+        "Trans World Radio(25)": {
             "bandwidth": 150000.0,
             "frequency": 11560000.0,
             "mode": 2
@@ -11620,12 +11610,12 @@
             "frequency": 11580000.0,
             "mode": 2
         },
-        "Voice of America(5)": {
+        "Voice of America(4)": {
             "bandwidth": 150000.0,
             "frequency": 11590000.0,
             "mode": 2
         },
-        "Voice of America(6)": {
+        "Voice of America(5)": {
             "bandwidth": 150000.0,
             "frequency": 11590000.0,
             "mode": 2
@@ -11786,6 +11776,11 @@
             "mode": 2
         },
         "CNR 17 Kazakh Radio(23)": {
+            "bandwidth": 150000.0,
+            "frequency": 11630000.0,
+            "mode": 2
+        },
+        "CNR 17 Kazakh Radio(24)": {
             "bandwidth": 150000.0,
             "frequency": 11630000.0,
             "mode": 2
@@ -12830,17 +12825,17 @@
             "frequency": 11795000.0,
             "mode": 2
         },
+        "KBS World Radio(26)": {
+            "bandwidth": 150000.0,
+            "frequency": 11795000.0,
+            "mode": 2
+        },
         "KBS World Radio(27)": {
             "bandwidth": 150000.0,
             "frequency": 11795000.0,
             "mode": 2
         },
         "KBS World Radio(28)": {
-            "bandwidth": 150000.0,
-            "frequency": 11795000.0,
-            "mode": 2
-        },
-        "KBS World Radio(29)": {
             "bandwidth": 150000.0,
             "frequency": 11795000.0,
             "mode": 2
@@ -12925,6 +12920,11 @@
             "frequency": 11810000.0,
             "mode": 2
         },
+        "KBS World Radio(29)": {
+            "bandwidth": 150000.0,
+            "frequency": 11810000.0,
+            "mode": 2
+        },
         "KBS World Radio(30)": {
             "bandwidth": 150000.0,
             "frequency": 11810000.0,
@@ -12936,11 +12936,6 @@
             "mode": 2
         },
         "KBS World Radio(32)": {
-            "bandwidth": 150000.0,
-            "frequency": 11810000.0,
-            "mode": 2
-        },
-        "KBS World Radio(33)": {
             "bandwidth": 150000.0,
             "frequency": 11810000.0,
             "mode": 2
@@ -13345,17 +13340,17 @@
             "frequency": 11880000.0,
             "mode": 2
         },
+        "Trans World Radio(26)": {
+            "bandwidth": 150000.0,
+            "frequency": 11880000.0,
+            "mode": 2
+        },
+        "Trans World Radio(27)": {
+            "bandwidth": 150000.0,
+            "frequency": 11880000.0,
+            "mode": 2
+        },
         "Trans World Radio(28)": {
-            "bandwidth": 150000.0,
-            "frequency": 11880000.0,
-            "mode": 2
-        },
-        "Trans World Radio(29)": {
-            "bandwidth": 150000.0,
-            "frequency": 11880000.0,
-            "mode": 2
-        },
-        "Trans World Radio(30)": {
             "bandwidth": 150000.0,
             "frequency": 11880000.0,
             "mode": 2
@@ -14285,11 +14280,6 @@
             "frequency": 12055000.0,
             "mode": 2
         },
-        "CNR 17 Kazakh Radio(24)": {
-            "bandwidth": 150000.0,
-            "frequency": 12055000.0,
-            "mode": 2
-        },
         "CNR 17 Kazakh Radio(25)": {
             "bandwidth": 150000.0,
             "frequency": 12055000.0,
@@ -14301,6 +14291,16 @@
             "mode": 2
         },
         "CNR 17 Kazakh Radio(27)": {
+            "bandwidth": 150000.0,
+            "frequency": 12055000.0,
+            "mode": 2
+        },
+        "CNR 17 Kazakh Radio(28)": {
+            "bandwidth": 150000.0,
+            "frequency": 12055000.0,
+            "mode": 2
+        },
+        "CNR 17 Kazakh Radio(29)": {
             "bandwidth": 150000.0,
             "frequency": 12055000.0,
             "mode": 2
@@ -14381,11 +14381,6 @@
             "mode": 2
         },
         "Radio FARDA(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 12070000.0,
-            "mode": 2
-        },
-        "Radio FARDA(6)": {
             "bandwidth": 150000.0,
             "frequency": 12070000.0,
             "mode": 2
@@ -14555,16 +14550,6 @@
             "frequency": 12095000.0,
             "mode": 2
         },
-        "Trans World Radio(31)": {
-            "bandwidth": 150000.0,
-            "frequency": 12105000.0,
-            "mode": 2
-        },
-        "Trans World Radio W": {
-            "bandwidth": 150000.0,
-            "frequency": 12105000.0,
-            "mode": 2
-        },
         "WTWW(4)": {
             "bandwidth": 150000.0,
             "frequency": 12105000.0,
@@ -14605,7 +14590,7 @@
             "frequency": 12120000.0,
             "mode": 2
         },
-        "Trans World Radio(32)": {
+        "Trans World Radio(29)": {
             "bandwidth": 150000.0,
             "frequency": 12120000.0,
             "mode": 2
@@ -14815,12 +14800,12 @@
             "frequency": 13580000.0,
             "mode": 2
         },
-        "Trans World Radio(33)": {
+        "Trans World Radio(30)": {
             "bandwidth": 150000.0,
             "frequency": 13580000.0,
             "mode": 2
         },
-        "Trans World Radio(34)": {
+        "Trans World Radio(31)": {
             "bandwidth": 150000.0,
             "frequency": 13580000.0,
             "mode": 2
@@ -14903,6 +14888,11 @@
         "Radio Romania Int. 1001(1)": {
             "bandwidth": 150000.0,
             "frequency": 13600000.0,
+            "mode": 2
+        },
+        "KBS World Radio(33)": {
+            "bandwidth": 150000.0,
+            "frequency": 13610000.0,
             "mode": 2
         },
         "China Radio International(389)": {
@@ -15650,27 +15640,27 @@
             "frequency": 13800000.0,
             "mode": 2
         },
+        "Trans World Radio(32)": {
+            "bandwidth": 150000.0,
+            "frequency": 13800000.0,
+            "mode": 2
+        },
+        "Trans World Radio(33)": {
+            "bandwidth": 150000.0,
+            "frequency": 13800000.0,
+            "mode": 2
+        },
+        "Trans World Radio(34)": {
+            "bandwidth": 150000.0,
+            "frequency": 13800000.0,
+            "mode": 2
+        },
         "Trans World Radio(35)": {
             "bandwidth": 150000.0,
             "frequency": 13800000.0,
             "mode": 2
         },
         "Trans World Radio(36)": {
-            "bandwidth": 150000.0,
-            "frequency": 13800000.0,
-            "mode": 2
-        },
-        "Trans World Radio(37)": {
-            "bandwidth": 150000.0,
-            "frequency": 13800000.0,
-            "mode": 2
-        },
-        "Trans World Radio(38)": {
-            "bandwidth": 150000.0,
-            "frequency": 13800000.0,
-            "mode": 2
-        },
-        "Trans World Radio(39)": {
             "bandwidth": 150000.0,
             "frequency": 13800000.0,
             "mode": 2
@@ -15710,12 +15700,12 @@
             "frequency": 13825000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(191)": {
+        "Audio  1 xHE AAC": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(192)": {
+        "CNR 1 Voice of China(191)": {
             "bandwidth": 150000.0,
             "frequency": 13825000.0,
             "mode": 2
@@ -15775,7 +15765,7 @@
             "frequency": 13830000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(193)": {
+        "Audio  1 xHE AAC(1)": {
             "bandwidth": 150000.0,
             "frequency": 13835000.0,
             "mode": 2
@@ -16035,22 +16025,22 @@
             "frequency": 15100000.0,
             "mode": 2
         },
+        "Trans World Radio(37)": {
+            "bandwidth": 150000.0,
+            "frequency": 15105000.0,
+            "mode": 2
+        },
+        "Trans World Radio(38)": {
+            "bandwidth": 150000.0,
+            "frequency": 15105000.0,
+            "mode": 2
+        },
+        "Trans World Radio(39)": {
+            "bandwidth": 150000.0,
+            "frequency": 15105000.0,
+            "mode": 2
+        },
         "Trans World Radio(40)": {
-            "bandwidth": 150000.0,
-            "frequency": 15105000.0,
-            "mode": 2
-        },
-        "Trans World Radio(41)": {
-            "bandwidth": 150000.0,
-            "frequency": 15105000.0,
-            "mode": 2
-        },
-        "Trans World Radio(42)": {
-            "bandwidth": 150000.0,
-            "frequency": 15105000.0,
-            "mode": 2
-        },
-        "Trans World Radio(43)": {
             "bandwidth": 150000.0,
             "frequency": 15105000.0,
             "mode": 2
@@ -16360,7 +16350,7 @@
             "frequency": 15180000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(194)": {
+        "CNR 1 Voice of China(192)": {
             "bandwidth": 150000.0,
             "frequency": 15180000.0,
             "mode": 2
@@ -16815,7 +16805,7 @@
             "frequency": 15310000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(195)": {
+        "CNR 1 Voice of China(193)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
@@ -16895,6 +16885,16 @@
             "frequency": 15340000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(194)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(195)": {
+            "bandwidth": 150000.0,
+            "frequency": 15340000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(196)": {
             "bandwidth": 150000.0,
             "frequency": 15340000.0,
@@ -16950,16 +16950,6 @@
             "frequency": 15340000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(207)": {
-            "bandwidth": 150000.0,
-            "frequency": 15340000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(208)": {
-            "bandwidth": 150000.0,
-            "frequency": 15340000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(78)": {
             "bandwidth": 150000.0,
             "frequency": 15340000.0,
@@ -17010,17 +17000,17 @@
             "frequency": 15360000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(207)": {
+            "bandwidth": 150000.0,
+            "frequency": 15370000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(208)": {
+            "bandwidth": 150000.0,
+            "frequency": 15370000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(209)": {
-            "bandwidth": 150000.0,
-            "frequency": 15370000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(210)": {
-            "bandwidth": 150000.0,
-            "frequency": 15370000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(211)": {
             "bandwidth": 150000.0,
             "frequency": 15370000.0,
             "mode": 2
@@ -17030,17 +17020,17 @@
             "frequency": 15375000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(210)": {
+            "bandwidth": 150000.0,
+            "frequency": 15380000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(211)": {
+            "bandwidth": 150000.0,
+            "frequency": 15380000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(212)": {
-            "bandwidth": 150000.0,
-            "frequency": 15380000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(213)": {
-            "bandwidth": 150000.0,
-            "frequency": 15380000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(214)": {
             "bandwidth": 150000.0,
             "frequency": 15380000.0,
             "mode": 2
@@ -17480,7 +17470,7 @@
             "frequency": 15450000.0,
             "mode": 2
         },
-        "Trans World Radio(44)": {
+        "Trans World Radio(41)": {
             "bandwidth": 150000.0,
             "frequency": 15450000.0,
             "mode": 2
@@ -17530,17 +17520,17 @@
             "frequency": 15476000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(213)": {
+            "bandwidth": 150000.0,
+            "frequency": 15480000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(214)": {
+            "bandwidth": 150000.0,
+            "frequency": 15480000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(215)": {
-            "bandwidth": 150000.0,
-            "frequency": 15480000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(216)": {
-            "bandwidth": 150000.0,
-            "frequency": 15480000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(217)": {
             "bandwidth": 150000.0,
             "frequency": 15480000.0,
             "mode": 2
@@ -18160,12 +18150,12 @@
             "frequency": 15630000.0,
             "mode": 2
         },
-        "Trans World Radio(45)": {
+        "Trans World Radio(42)": {
             "bandwidth": 150000.0,
             "frequency": 15630000.0,
             "mode": 2
         },
-        "Trans World Radio(46)": {
+        "Trans World Radio(43)": {
             "bandwidth": 150000.0,
             "frequency": 15630000.0,
             "mode": 2
@@ -18375,6 +18365,16 @@
             "frequency": 15760000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(216)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(217)": {
+            "bandwidth": 150000.0,
+            "frequency": 15760000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(218)": {
             "bandwidth": 150000.0,
             "frequency": 15760000.0,
@@ -18446,16 +18446,6 @@
             "mode": 2
         },
         "CNR 1 Voice of China(232)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(233)": {
-            "bandwidth": 150000.0,
-            "frequency": 15760000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(234)": {
             "bandwidth": 150000.0,
             "frequency": 15760000.0,
             "mode": 2
@@ -19165,17 +19155,17 @@
             "frequency": 17540000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(233)": {
+            "bandwidth": 150000.0,
+            "frequency": 17550000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(234)": {
+            "bandwidth": 150000.0,
+            "frequency": 17550000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(235)": {
-            "bandwidth": 150000.0,
-            "frequency": 17550000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(236)": {
-            "bandwidth": 150000.0,
-            "frequency": 17550000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(237)": {
             "bandwidth": 150000.0,
             "frequency": 17550000.0,
             "mode": 2
@@ -19200,12 +19190,12 @@
             "frequency": 17560000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(238)": {
+        "CNR 1 Voice of China(236)": {
             "bandwidth": 150000.0,
             "frequency": 17565000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(239)": {
+        "CNR 1 Voice of China(237)": {
             "bandwidth": 150000.0,
             "frequency": 17565000.0,
             "mode": 2
@@ -19235,17 +19225,17 @@
             "frequency": 17575000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(238)": {
+            "bandwidth": 150000.0,
+            "frequency": 17580000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(239)": {
+            "bandwidth": 150000.0,
+            "frequency": 17580000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(240)": {
-            "bandwidth": 150000.0,
-            "frequency": 17580000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(241)": {
-            "bandwidth": 150000.0,
-            "frequency": 17580000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(242)": {
             "bandwidth": 150000.0,
             "frequency": 17580000.0,
             "mode": 2
@@ -19260,22 +19250,22 @@
             "frequency": 17580000.0,
             "mode": 2
         },
+        "Trans World Radio(44)": {
+            "bandwidth": 150000.0,
+            "frequency": 17590000.0,
+            "mode": 2
+        },
+        "Trans World Radio(45)": {
+            "bandwidth": 150000.0,
+            "frequency": 17590000.0,
+            "mode": 2
+        },
+        "Trans World Radio(46)": {
+            "bandwidth": 150000.0,
+            "frequency": 17590000.0,
+            "mode": 2
+        },
         "Trans World Radio(47)": {
-            "bandwidth": 150000.0,
-            "frequency": 17590000.0,
-            "mode": 2
-        },
-        "Trans World Radio(48)": {
-            "bandwidth": 150000.0,
-            "frequency": 17590000.0,
-            "mode": 2
-        },
-        "Trans World Radio(49)": {
-            "bandwidth": 150000.0,
-            "frequency": 17590000.0,
-            "mode": 2
-        },
-        "Trans World Radio(50)": {
             "bandwidth": 150000.0,
             "frequency": 17590000.0,
             "mode": 2
@@ -19300,17 +19290,17 @@
             "frequency": 17590000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(241)": {
+            "bandwidth": 150000.0,
+            "frequency": 17595000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(242)": {
+            "bandwidth": 150000.0,
+            "frequency": 17595000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(243)": {
-            "bandwidth": 150000.0,
-            "frequency": 17595000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(244)": {
-            "bandwidth": 150000.0,
-            "frequency": 17595000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(245)": {
             "bandwidth": 150000.0,
             "frequency": 17595000.0,
             "mode": 2
@@ -19660,7 +19650,27 @@
             "frequency": 17690000.0,
             "mode": 2
         },
+        "Audio  1 xHE AAC(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
         "BBC(112)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "Trans World Radio(48)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "Trans World Radio(49)": {
+            "bandwidth": 150000.0,
+            "frequency": 17700000.0,
+            "mode": 2
+        },
+        "Trans World Radio(50)": {
             "bandwidth": 150000.0,
             "frequency": 17700000.0,
             "mode": 2
@@ -19736,21 +19746,6 @@
             "mode": 2
         },
         "Trans World Radio(65)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
-        "Trans World Radio(66)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
-        "Trans World Radio(67)": {
-            "bandwidth": 150000.0,
-            "frequency": 17700000.0,
-            "mode": 2
-        },
-        "Trans World Radio(68)": {
             "bandwidth": 150000.0,
             "frequency": 17700000.0,
             "mode": 2
@@ -19975,7 +19970,7 @@
             "frequency": 17765000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(246)": {
+        "CNR 1 Voice of China(244)": {
             "bandwidth": 150000.0,
             "frequency": 17770000.0,
             "mode": 2
@@ -20265,7 +20260,7 @@
             "frequency": 17830000.0,
             "mode": 2
         },
-        "CNR 1 Voice of China(247)": {
+        "CNR 1 Voice of China(245)": {
             "bandwidth": 150000.0,
             "frequency": 17830000.0,
             "mode": 2
@@ -20370,17 +20365,17 @@
             "frequency": 17880000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(246)": {
+            "bandwidth": 150000.0,
+            "frequency": 17890000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(247)": {
+            "bandwidth": 150000.0,
+            "frequency": 17890000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(248)": {
-            "bandwidth": 150000.0,
-            "frequency": 17890000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(249)": {
-            "bandwidth": 150000.0,
-            "frequency": 17890000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(250)": {
             "bandwidth": 150000.0,
             "frequency": 17890000.0,
             "mode": 2
@@ -20505,6 +20500,16 @@
             "frequency": 21470000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(249)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(250)": {
+            "bandwidth": 150000.0,
+            "frequency": 21490000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(251)": {
             "bandwidth": 150000.0,
             "frequency": 21490000.0,
@@ -20571,16 +20576,6 @@
             "mode": 2
         },
         "CNR 1 Voice of China(264)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(265)": {
-            "bandwidth": 150000.0,
-            "frequency": 21490000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(266)": {
             "bandwidth": 150000.0,
             "frequency": 21490000.0,
             "mode": 2
@@ -20765,6 +20760,16 @@
             "frequency": 21775000.0,
             "mode": 2
         },
+        "CNR 1 Voice of China(265)": {
+            "bandwidth": 150000.0,
+            "frequency": 21800000.0,
+            "mode": 2
+        },
+        "CNR 1 Voice of China(266)": {
+            "bandwidth": 150000.0,
+            "frequency": 21800000.0,
+            "mode": 2
+        },
         "CNR 1 Voice of China(267)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
@@ -20806,16 +20811,6 @@
             "mode": 2
         },
         "CNR 1 Voice of China(275)": {
-            "bandwidth": 150000.0,
-            "frequency": 21800000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(276)": {
-            "bandwidth": 150000.0,
-            "frequency": 21800000.0,
-            "mode": 2
-        },
-        "CNR 1 Voice of China(277)": {
             "bandwidth": 150000.0,
             "frequency": 21800000.0,
             "mode": 2
