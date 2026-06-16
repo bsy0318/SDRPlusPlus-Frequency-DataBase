@@ -3415,6 +3415,11 @@
             "frequency": 6135000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.": {
+            "bandwidth": 150000.0,
+            "frequency": 6135000.0,
+            "mode": 2
+        },
         "China Radio International(34)": {
             "bandwidth": 150000.0,
             "frequency": 6140000.0,
@@ -4521,6 +4526,16 @@
             "mode": 2
         },
         "Voice of Tajik(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 7245000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 7245000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(2)": {
             "bandwidth": 150000.0,
             "frequency": 7245000.0,
             "mode": 2
@@ -5660,6 +5675,11 @@
             "frequency": 7425000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 7425000.0,
+            "mode": 2
+        },
         "China Radio International(114)": {
             "bandwidth": 150000.0,
             "frequency": 7430000.0,
@@ -5730,7 +5750,7 @@
             "frequency": 7435000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.": {
+        "Radio New Zealand Int.(4)": {
             "bandwidth": 150000.0,
             "frequency": 7440000.0,
             "mode": 2
@@ -5970,19 +5990,19 @@
             "frequency": 7510000.0,
             "mode": 2
         },
-        "WWCR Nashville(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 7520000.0,
-            "mode": 2
-        },
         "Voice of Martyrs": {
             "bandwidth": 150000.0,
-            "frequency": 7530000.0,
+            "frequency": 7515000.0,
             "mode": 2
         },
         "Voice of Martyrs(1)": {
             "bandwidth": 150000.0,
-            "frequency": 7530000.0,
+            "frequency": 7515000.0,
+            "mode": 2
+        },
+        "WWCR Nashville(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 7520000.0,
             "mode": 2
         },
         "Voice of Martyrs(2)": {
@@ -9000,7 +9020,7 @@
             "frequency": 9700000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(1)": {
+        "Radio New Zealand Int.(5)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
@@ -9015,17 +9035,7 @@
             "frequency": 9700000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 9700000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 9700000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(4)": {
+        "Radio New Zealand Int.(6)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
@@ -9655,7 +9665,7 @@
             "frequency": 9780000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(5)": {
+        "Radio New Zealand Int.(7)": {
             "bandwidth": 150000.0,
             "frequency": 9780000.0,
             "mode": 2
@@ -10371,21 +10381,6 @@
             "mode": 2
         },
         "Living Water Ministry": {
-            "bandwidth": 150000.0,
-            "frequency": 9900000.0,
-            "mode": 2
-        },
-        "Radio FREE ASIA(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 9900000.0,
-            "mode": 2
-        },
-        "Radio FREE ASIA(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 9900000.0,
-            "mode": 2
-        },
-        "Radio FREE ASIA(6)": {
             "bandwidth": 150000.0,
             "frequency": 9900000.0,
             "mode": 2
@@ -12145,7 +12140,7 @@
             "frequency": 11690000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(6)": {
+        "Radio New Zealand Int.(8)": {
             "bandwidth": 150000.0,
             "frequency": 11690000.0,
             "mode": 2
@@ -12340,7 +12335,7 @@
             "frequency": 11725000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(7)": {
+        "Radio New Zealand Int.(9)": {
             "bandwidth": 150000.0,
             "frequency": 11725000.0,
             "mode": 2
@@ -13480,7 +13475,7 @@
             "frequency": 11885000.0,
             "mode": 2
         },
-        "Radio FREE ASIA(7)": {
+        "Radio FREE ASIA(4)": {
             "bandwidth": 150000.0,
             "frequency": 11885000.0,
             "mode": 2
@@ -15240,7 +15235,7 @@
             "frequency": 13685000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(8)": {
+        "Radio New Zealand Int.(10)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
@@ -15260,12 +15255,12 @@
             "frequency": 13690000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(9)": {
+        "Radio New Zealand Int.(11)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(10)": {
+        "Radio New Zealand Int.(12)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
@@ -15775,7 +15770,7 @@
             "frequency": 13835000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(11)": {
+        "Radio New Zealand Int.(13)": {
             "bandwidth": 150000.0,
             "frequency": 13840000.0,
             "mode": 2
@@ -15813,6 +15808,11 @@
         "Ifrikya FM(6)": {
             "bandwidth": 150000.0,
             "frequency": 13855000.0,
+            "mode": 2
+        },
+        "Audio  1 xHE AAC(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 13860000.0,
             "mode": 2
         },
         "China Radio International(446)": {
@@ -16415,7 +16415,7 @@
             "frequency": 15205000.0,
             "mode": 2
         },
-        "Radio FREE ASIA(8)": {
+        "Radio FREE ASIA(5)": {
             "bandwidth": 150000.0,
             "frequency": 15210000.0,
             "mode": 2
@@ -16555,7 +16555,7 @@
             "frequency": 15245000.0,
             "mode": 2
         },
-        "Radio FREE ASIA(9)": {
+        "Radio FREE ASIA(6)": {
             "bandwidth": 150000.0,
             "frequency": 15245000.0,
             "mode": 2
@@ -18395,12 +18395,7 @@
             "frequency": 15720000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(12)": {
-            "bandwidth": 150000.0,
-            "frequency": 15720000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(13)": {
+        "Radio New Zealand Int.(14)": {
             "bandwidth": 150000.0,
             "frequency": 15720000.0,
             "mode": 2
@@ -19730,7 +19725,7 @@
             "frequency": 17670000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(14)": {
+        "Radio New Zealand Int.(15)": {
             "bandwidth": 150000.0,
             "frequency": 17675000.0,
             "mode": 2
@@ -19770,7 +19765,7 @@
             "frequency": 17690000.0,
             "mode": 2
         },
-        "Audio  1 xHE AAC(2)": {
+        "Audio  1 xHE AAC(3)": {
             "bandwidth": 150000.0,
             "frequency": 17700000.0,
             "mode": 2
