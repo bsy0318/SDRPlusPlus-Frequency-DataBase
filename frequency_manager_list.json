@@ -5975,17 +5975,12 @@
             "frequency": 7490000.0,
             "mode": 2
         },
-        "Radio RANGINKAMAN": {
-            "bandwidth": 150000.0,
-            "frequency": 7490000.0,
-            "mode": 2
-        },
         "WRNO": {
             "bandwidth": 150000.0,
             "frequency": 7505000.0,
             "mode": 2
         },
-        "Voice of Spring": {
+        "Radio RANGINKAMAN": {
             "bandwidth": 150000.0,
             "frequency": 7510000.0,
             "mode": 2
@@ -6007,7 +6002,7 @@
         },
         "Voice of Martyrs(2)": {
             "bandwidth": 150000.0,
-            "frequency": 7530000.0,
+            "frequency": 7540000.0,
             "mode": 2
         },
         "Numbers Station 2(1)": {
@@ -14965,6 +14960,11 @@
             "frequency": 13635000.0,
             "mode": 2
         },
+        "Voice of Turkey(27)": {
+            "bandwidth": 150000.0,
+            "frequency": 13635000.0,
+            "mode": 2
+        },
         "China Radio International(394)": {
             "bandwidth": 150000.0,
             "frequency": 13640000.0,
@@ -15105,7 +15105,7 @@
             "frequency": 13655000.0,
             "mode": 2
         },
-        "Voice of Turkey(27)": {
+        "Voice of Turkey(28)": {
             "bandwidth": 150000.0,
             "frequency": 13655000.0,
             "mode": 2
@@ -15230,7 +15230,7 @@
             "frequency": 13685000.0,
             "mode": 2
         },
-        "Voice of Turkey(28)": {
+        "Voice of Turkey(29)": {
             "bandwidth": 150000.0,
             "frequency": 13685000.0,
             "mode": 2
@@ -15360,7 +15360,7 @@
             "frequency": 13720000.0,
             "mode": 2
         },
-        "Voice of Turkey(29)": {
+        "Voice of Turkey(30)": {
             "bandwidth": 150000.0,
             "frequency": 13725000.0,
             "mode": 2
@@ -16305,6 +16305,11 @@
             "frequency": 15170000.0,
             "mode": 2
         },
+        "Radio Romania Int.(68)": {
+            "bandwidth": 150000.0,
+            "frequency": 15170000.0,
+            "mode": 2
+        },
         "China Radio International(467)": {
             "bandwidth": 150000.0,
             "frequency": 15180000.0,
@@ -16315,7 +16320,7 @@
             "frequency": 15180000.0,
             "mode": 2
         },
-        "Radio Romania Int.(68)": {
+        "Radio Romania Int.(69)": {
             "bandwidth": 150000.0,
             "frequency": 15180000.0,
             "mode": 2
@@ -16395,17 +16400,17 @@
             "frequency": 15195000.0,
             "mode": 2
         },
-        "Radio Romania Int.(69)": {
-            "bandwidth": 150000.0,
-            "frequency": 15200000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(70)": {
             "bandwidth": 150000.0,
             "frequency": 15200000.0,
             "mode": 2
         },
         "Radio Romania Int.(71)": {
+            "bandwidth": 150000.0,
+            "frequency": 15200000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(72)": {
             "bandwidth": 150000.0,
             "frequency": 15200000.0,
             "mode": 2
@@ -16640,12 +16645,12 @@
             "frequency": 15250000.0,
             "mode": 2
         },
-        "Radio Romania Int.(72)": {
+        "Radio Romania Int.(73)": {
             "bandwidth": 150000.0,
             "frequency": 15250000.0,
             "mode": 2
         },
-        "Radio Romania Int.(73)": {
+        "Radio Romania Int.(74)": {
             "bandwidth": 150000.0,
             "frequency": 15250000.0,
             "mode": 2
@@ -16690,12 +16695,12 @@
             "frequency": 15270000.0,
             "mode": 2
         },
-        "Voice of Turkey(30)": {
+        "Voice of Turkey(31)": {
             "bandwidth": 150000.0,
             "frequency": 15270000.0,
             "mode": 2
         },
-        "Radio Romania Int.(74)": {
+        "Radio Romania Int.(75)": {
             "bandwidth": 150000.0,
             "frequency": 15280000.0,
             "mode": 2
@@ -16905,12 +16910,12 @@
             "frequency": 15320000.0,
             "mode": 2
         },
-        "Radio Romania Int.(75)": {
+        "Radio Romania Int.(76)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
         },
-        "Radio Romania Int.(76)": {
+        "Radio Romania Int.(77)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
@@ -16925,17 +16930,17 @@
             "frequency": 15320000.0,
             "mode": 2
         },
-        "Voice of Turkey(31)": {
-            "bandwidth": 150000.0,
-            "frequency": 15320000.0,
-            "mode": 2
-        },
         "Voice of Turkey(32)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
         },
         "Voice of Turkey(33)": {
+            "bandwidth": 150000.0,
+            "frequency": 15320000.0,
+            "mode": 2
+        },
+        "Voice of Turkey(34)": {
             "bandwidth": 150000.0,
             "frequency": 15320000.0,
             "mode": 2
@@ -16960,7 +16965,7 @@
             "frequency": 15330000.0,
             "mode": 2
         },
-        "Radio Romania Int.(77)": {
+        "Radio Romania Int.(78)": {
             "bandwidth": 150000.0,
             "frequency": 15330000.0,
             "mode": 2
@@ -17045,7 +17050,7 @@
             "frequency": 15340000.0,
             "mode": 2
         },
-        "Radio Romania Int.(78)": {
+        "Radio Romania Int.(79)": {
             "bandwidth": 150000.0,
             "frequency": 15340000.0,
             "mode": 2
@@ -17070,7 +17075,7 @@
             "frequency": 15350000.0,
             "mode": 2
         },
-        "Voice of Turkey(34)": {
+        "Voice of Turkey(35)": {
             "bandwidth": 150000.0,
             "frequency": 15350000.0,
             "mode": 2
@@ -17090,7 +17095,7 @@
             "frequency": 15360000.0,
             "mode": 2
         },
-        "Radio Romania Int.(79)": {
+        "Radio Romania Int.(80)": {
             "bandwidth": 150000.0,
             "frequency": 15360000.0,
             "mode": 2
@@ -17310,7 +17315,7 @@
             "frequency": 15400000.0,
             "mode": 2
         },
-        "Radio Romania Int.(80)": {
+        "Radio Romania Int.(81)": {
             "bandwidth": 150000.0,
             "frequency": 15410000.0,
             "mode": 2
@@ -17400,7 +17405,7 @@
             "frequency": 15420000.0,
             "mode": 2
         },
-        "Radio Romania Int.(81)": {
+        "Radio Romania Int.(82)": {
             "bandwidth": 150000.0,
             "frequency": 15420000.0,
             "mode": 2
@@ -17811,6 +17816,11 @@
             "mode": 2
         },
         "Radio Exterior De Espana(27)": {
+            "bandwidth": 150000.0,
+            "frequency": 15520000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(83)": {
             "bandwidth": 150000.0,
             "frequency": 15520000.0,
             "mode": 2
@@ -18350,7 +18360,7 @@
             "frequency": 15680000.0,
             "mode": 2
         },
-        "Radio Romania Int.(82)": {
+        "Radio Romania Int.(84)": {
             "bandwidth": 150000.0,
             "frequency": 15680000.0,
             "mode": 2
@@ -18405,12 +18415,17 @@
             "frequency": 15720000.0,
             "mode": 2
         },
-        "Voice of Turkey(35)": {
+        "Voice of Turkey(36)": {
             "bandwidth": 150000.0,
             "frequency": 15720000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(139)": {
+            "bandwidth": 150000.0,
+            "frequency": 15730000.0,
+            "mode": 2
+        },
+        "Iran International TV(2)": {
             "bandwidth": 150000.0,
             "frequency": 15730000.0,
             "mode": 2
@@ -18433,11 +18448,6 @@
         "WINB(9)": {
             "bandwidth": 150000.0,
             "frequency": 15750000.0,
-            "mode": 2
-        },
-        "Iran International TV(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 15755000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(141)": {
@@ -19190,17 +19200,17 @@
             "frequency": 17520000.0,
             "mode": 2
         },
-        "Radio Romania Int.(83)": {
-            "bandwidth": 150000.0,
-            "frequency": 17520000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(84)": {
-            "bandwidth": 150000.0,
-            "frequency": 17520000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(85)": {
+            "bandwidth": 150000.0,
+            "frequency": 17520000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(86)": {
+            "bandwidth": 150000.0,
+            "frequency": 17520000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(87)": {
             "bandwidth": 150000.0,
             "frequency": 17520000.0,
             "mode": 2
@@ -19370,7 +19380,7 @@
             "frequency": 17580000.0,
             "mode": 2
         },
-        "Voice of Turkey(36)": {
+        "Voice of Turkey(37)": {
             "bandwidth": 150000.0,
             "frequency": 17580000.0,
             "mode": 2
@@ -19450,7 +19460,7 @@
             "frequency": 17615000.0,
             "mode": 2
         },
-        "Voice of Turkey(37)": {
+        "Voice of Turkey(38)": {
             "bandwidth": 150000.0,
             "frequency": 17615000.0,
             "mode": 2
@@ -19505,12 +19515,12 @@
             "frequency": 17620000.0,
             "mode": 2
         },
-        "Voice of Turkey(38)": {
+        "Voice of Turkey(39)": {
             "bandwidth": 150000.0,
             "frequency": 17620000.0,
             "mode": 2
         },
-        "Voice of Turkey(39)": {
+        "Voice of Turkey(40)": {
             "bandwidth": 150000.0,
             "frequency": 17620000.0,
             "mode": 2
@@ -19530,22 +19540,22 @@
             "frequency": 17630000.0,
             "mode": 2
         },
-        "Radio Romania Int.(86)": {
-            "bandwidth": 150000.0,
-            "frequency": 17630000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(87)": {
-            "bandwidth": 150000.0,
-            "frequency": 17630000.0,
-            "mode": 2
-        },
         "Radio Romania Int.(88)": {
             "bandwidth": 150000.0,
             "frequency": 17630000.0,
             "mode": 2
         },
         "Radio Romania Int.(89)": {
+            "bandwidth": 150000.0,
+            "frequency": 17630000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(90)": {
+            "bandwidth": 150000.0,
+            "frequency": 17630000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(91)": {
             "bandwidth": 150000.0,
             "frequency": 17630000.0,
             "mode": 2
@@ -19755,12 +19765,7 @@
             "frequency": 17690000.0,
             "mode": 2
         },
-        "Radio Romania Int.(90)": {
-            "bandwidth": 150000.0,
-            "frequency": 17690000.0,
-            "mode": 2
-        },
-        "Voice of Turkey(40)": {
+        "Radio Romania Int.(92)": {
             "bandwidth": 150000.0,
             "frequency": 17690000.0,
             "mode": 2
@@ -19935,7 +19940,7 @@
             "frequency": 17720000.0,
             "mode": 2
         },
-        "Radio Romania Int.(91)": {
+        "Radio Romania Int.(93)": {
             "bandwidth": 150000.0,
             "frequency": 17720000.0,
             "mode": 2
@@ -20060,12 +20065,12 @@
             "frequency": 17750000.0,
             "mode": 2
         },
-        "Radio Romania Int.(92)": {
+        "Radio Romania Int.(94)": {
             "bandwidth": 150000.0,
             "frequency": 17760000.0,
             "mode": 2
         },
-        "Radio Romania Int.(93)": {
+        "Radio Romania Int.(95)": {
             "bandwidth": 150000.0,
             "frequency": 17760000.0,
             "mode": 2
@@ -20110,7 +20115,7 @@
             "frequency": 17775000.0,
             "mode": 2
         },
-        "Radio Romania Int.(94)": {
+        "Radio Romania Int.(96)": {
             "bandwidth": 150000.0,
             "frequency": 17780000.0,
             "mode": 2
@@ -20120,12 +20125,7 @@
             "frequency": 17780000.0,
             "mode": 2
         },
-        "Radio Romania Int.(95)": {
-            "bandwidth": 150000.0,
-            "frequency": 17780000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(96)": {
+        "Radio Romania Int.(97)": {
             "bandwidth": 150000.0,
             "frequency": 17780000.0,
             "mode": 2
@@ -20140,7 +20140,7 @@
             "frequency": 17790000.0,
             "mode": 2
         },
-        "Radio Romania Int.(97)": {
+        "Radio Romania Int.(98)": {
             "bandwidth": 150000.0,
             "frequency": 17790000.0,
             "mode": 2
@@ -20485,7 +20485,7 @@
             "frequency": 17855000.0,
             "mode": 2
         },
-        "Radio Romania Int.(98)": {
+        "Radio Romania Int.(99)": {
             "bandwidth": 150000.0,
             "frequency": 17860000.0,
             "mode": 2
@@ -20650,12 +20650,12 @@
             "frequency": 21470000.0,
             "mode": 2
         },
-        "Radio Romania Int.(99)": {
+        "Radio Romania Int.(100)": {
             "bandwidth": 150000.0,
             "frequency": 21470000.0,
             "mode": 2
         },
-        "Radio Romania Int.(100)": {
+        "Radio Romania Int.(101)": {
             "bandwidth": 150000.0,
             "frequency": 21470000.0,
             "mode": 2
@@ -20760,7 +20760,7 @@
             "frequency": 21500000.0,
             "mode": 2
         },
-        "Radio Romania Int.(101)": {
+        "Radio Romania Int.(102)": {
             "bandwidth": 150000.0,
             "frequency": 21510000.0,
             "mode": 2
