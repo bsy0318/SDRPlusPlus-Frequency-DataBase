@@ -365,31 +365,6 @@
             "frequency": 4026000.0,
             "mode": 2
         },
-        "Radio Verdad": {
-            "bandwidth": 150000.0,
-            "frequency": 4055000.0,
-            "mode": 2
-        },
-        "Radio Verdad(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 4055000.0,
-            "mode": 2
-        },
-        "Radio Verdad(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 4055000.0,
-            "mode": 2
-        },
-        "Radio Verdad(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 4055000.0,
-            "mode": 2
-        },
-        "Radio Verdad(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 4055000.0,
-            "mode": 2
-        },
         "Slot Machine": {
             "bandwidth": 150000.0,
             "frequency": 4154000.0,
@@ -6015,6 +5990,11 @@
             "frequency": 7530000.0,
             "mode": 2
         },
+        "Radio FREE ASIA": {
+            "bandwidth": 150000.0,
+            "frequency": 7530000.0,
+            "mode": 2
+        },
         "Voice of Martyrs(2)": {
             "bandwidth": 150000.0,
             "frequency": 7540000.0,
@@ -6080,7 +6060,7 @@
             "frequency": 7570000.0,
             "mode": 2
         },
-        "Radio FREE ASIA": {
+        "Radio FREE ASIA(1)": {
             "bandwidth": 150000.0,
             "frequency": 7580000.0,
             "mode": 2
@@ -6091,11 +6071,6 @@
             "mode": 2
         },
         "Radio Free North Korea": {
-            "bandwidth": 150000.0,
-            "frequency": 7620000.0,
-            "mode": 2
-        },
-        "Radio FREE ASIA(1)": {
             "bandwidth": 150000.0,
             "frequency": 7620000.0,
             "mode": 2
@@ -10650,14 +10625,14 @@
             "frequency": 9930000.0,
             "mode": 2
         },
-        "Voice of America(1)": {
+        "Nippon no Kaze'il bon ue(5)": {
             "bandwidth": 150000.0,
             "frequency": 9940000.0,
             "mode": 2
         },
-        "Nippon no Kaze'il bon ue(5)": {
+        "Voice of America(1)": {
             "bandwidth": 150000.0,
-            "frequency": 9940000.0,
+            "frequency": 9950000.0,
             "mode": 2
         },
         "Trans World Radio Do You": {
@@ -14597,7 +14572,12 @@
         },
         "Voice of America(5)": {
             "bandwidth": 150000.0,
-            "frequency": 12130000.0,
+            "frequency": 12140000.0,
+            "mode": 2
+        },
+        "Voice of America(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 12140000.0,
             "mode": 2
         },
         "SOH Xi Wang Zhi Sheng(75)": {
@@ -16088,6 +16068,11 @@
         "China Radio International(452)": {
             "bandwidth": 150000.0,
             "frequency": 15110000.0,
+            "mode": 2
+        },
+        "Voice of America(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 15120000.0,
             "mode": 2
         },
         "Radio Romania Int.(54)": {
