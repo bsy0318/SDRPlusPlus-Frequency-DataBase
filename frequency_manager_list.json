@@ -1615,37 +1615,12 @@
             "frequency": 5920000.0,
             "mode": 2
         },
-        "New Korean Hope Radio": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
         "WTWW(1)": {
             "bandwidth": 150000.0,
             "frequency": 5920000.0,
             "mode": 2
         },
         "Shiokaze": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
-        "Shiokaze(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
-        "Shiokaze(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
-        "Shiokaze(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 5920000.0,
-            "mode": 2
-        },
-        "Shiokaze(4)": {
             "bandwidth": 150000.0,
             "frequency": 5920000.0,
             "mode": 2
@@ -1678,6 +1653,31 @@
         "World Music Radio(1)": {
             "bandwidth": 150000.0,
             "frequency": 5930000.0,
+            "mode": 2
+        },
+        "Shiokaze(1)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
+            "mode": 2
+        },
+        "Shiokaze(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 5935000.0,
             "mode": 2
         },
         "CNR 1 Voice of China(16)": {
@@ -1741,31 +1741,6 @@
             "mode": 2
         },
         "WWCR The Overcomer Minis": {
-            "bandwidth": 150000.0,
-            "frequency": 5935000.0,
-            "mode": 2
-        },
-        "Shiokaze(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 5935000.0,
-            "mode": 2
-        },
-        "Shiokaze(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 5935000.0,
-            "mode": 2
-        },
-        "Shiokaze(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 5935000.0,
-            "mode": 2
-        },
-        "Shiokaze(8)": {
-            "bandwidth": 150000.0,
-            "frequency": 5935000.0,
-            "mode": 2
-        },
-        "Shiokaze(9)": {
             "bandwidth": 150000.0,
             "frequency": 5935000.0,
             "mode": 2
@@ -1901,11 +1876,6 @@
             "mode": 2
         },
         "SuperClan Radio": {
-            "bandwidth": 150000.0,
-            "frequency": 5955000.0,
-            "mode": 2
-        },
-        "Shiokaze(10)": {
             "bandwidth": 150000.0,
             "frequency": 5955000.0,
             "mode": 2
@@ -2066,11 +2036,6 @@
             "mode": 2
         },
         "Scandinav.Weekend R.": {
-            "bandwidth": 150000.0,
-            "frequency": 5980000.0,
-            "mode": 2
-        },
-        "Shiokaze(11)": {
             "bandwidth": 150000.0,
             "frequency": 5980000.0,
             "mode": 2
@@ -2555,6 +2520,11 @@
             "frequency": 6040000.0,
             "mode": 2
         },
+        "Shiokaze(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 6040000.0,
+            "mode": 2
+        },
         "Radio 60!": {
             "bandwidth": 150000.0,
             "frequency": 6045000.0,
@@ -2865,11 +2835,6 @@
             "frequency": 6065000.0,
             "mode": 2
         },
-        "Shiokaze(12)": {
-            "bandwidth": 150000.0,
-            "frequency": 6065000.0,
-            "mode": 2
-        },
         "Alt Universe Top 40": {
             "bandwidth": 150000.0,
             "frequency": 6070000.0,
@@ -2916,31 +2881,6 @@
             "mode": 2
         },
         "VORW Radio International(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 6070000.0,
-            "mode": 2
-        },
-        "Shiokaze(13)": {
-            "bandwidth": 150000.0,
-            "frequency": 6070000.0,
-            "mode": 2
-        },
-        "Shiokaze(14)": {
-            "bandwidth": 150000.0,
-            "frequency": 6070000.0,
-            "mode": 2
-        },
-        "Shiokaze(15)": {
-            "bandwidth": 150000.0,
-            "frequency": 6070000.0,
-            "mode": 2
-        },
-        "Shiokaze(16)": {
-            "bandwidth": 150000.0,
-            "frequency": 6070000.0,
-            "mode": 2
-        },
-        "Shiokaze(17)": {
             "bandwidth": 150000.0,
             "frequency": 6070000.0,
             "mode": 2
@@ -3051,6 +2991,11 @@
             "mode": 2
         },
         "Radio Amhara": {
+            "bandwidth": 150000.0,
+            "frequency": 6090000.0,
+            "mode": 2
+        },
+        "Shiokaze(7)": {
             "bandwidth": 150000.0,
             "frequency": 6090000.0,
             "mode": 2
@@ -3650,6 +3595,31 @@
             "frequency": 6160000.0,
             "mode": 2
         },
+        "Shiokaze(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(11)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
+        "Shiokaze(12)": {
+            "bandwidth": 150000.0,
+            "frequency": 6165000.0,
+            "mode": 2
+        },
         "China Radio International(40)": {
             "bandwidth": 150000.0,
             "frequency": 6165000.0,
@@ -3740,31 +3710,6 @@
             "frequency": 6165000.0,
             "mode": 2
         },
-        "Shiokaze(18)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(19)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(20)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(21)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
-        "Shiokaze(22)": {
-            "bandwidth": 150000.0,
-            "frequency": 6165000.0,
-            "mode": 2
-        },
         "Scandinav.Weekend R.(1)": {
             "bandwidth": 150000.0,
             "frequency": 6170000.0,
@@ -3791,6 +3736,11 @@
             "mode": 2
         },
         "Trans World Radio(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 6175000.0,
+            "mode": 2
+        },
+        "Shiokaze(13)": {
             "bandwidth": 150000.0,
             "frequency": 6175000.0,
             "mode": 2
@@ -4183,6 +4133,31 @@
         "Voice of Turkey(3)": {
             "bandwidth": 150000.0,
             "frequency": 7210000.0,
+            "mode": 2
+        },
+        "Shiokaze(14)": {
+            "bandwidth": 150000.0,
+            "frequency": 7215000.0,
+            "mode": 2
+        },
+        "Shiokaze(15)": {
+            "bandwidth": 150000.0,
+            "frequency": 7215000.0,
+            "mode": 2
+        },
+        "Shiokaze(16)": {
+            "bandwidth": 150000.0,
+            "frequency": 7215000.0,
+            "mode": 2
+        },
+        "Shiokaze(17)": {
+            "bandwidth": 150000.0,
+            "frequency": 7215000.0,
+            "mode": 2
+        },
+        "Shiokaze(18)": {
+            "bandwidth": 150000.0,
+            "frequency": 7215000.0,
             "mode": 2
         },
         "China Radio International(49)": {
@@ -4995,6 +4970,31 @@
             "frequency": 7290000.0,
             "mode": 2
         },
+        "Shiokaze(19)": {
+            "bandwidth": 150000.0,
+            "frequency": 7295000.0,
+            "mode": 2
+        },
+        "Shiokaze(20)": {
+            "bandwidth": 150000.0,
+            "frequency": 7295000.0,
+            "mode": 2
+        },
+        "Shiokaze(21)": {
+            "bandwidth": 150000.0,
+            "frequency": 7295000.0,
+            "mode": 2
+        },
+        "Shiokaze(22)": {
+            "bandwidth": 150000.0,
+            "frequency": 7295000.0,
+            "mode": 2
+        },
+        "Shiokaze(23)": {
+            "bandwidth": 150000.0,
+            "frequency": 7295000.0,
+            "mode": 2
+        },
         "China Radio International(76)": {
             "bandwidth": 150000.0,
             "frequency": 7295000.0,
@@ -5100,6 +5100,11 @@
             "frequency": 7315000.0,
             "mode": 2
         },
+        "Shiokaze(24)": {
+            "bandwidth": 150000.0,
+            "frequency": 7320000.0,
+            "mode": 2
+        },
         "FEBA Radio": {
             "bandwidth": 150000.0,
             "frequency": 7320000.0,
@@ -5123,11 +5128,6 @@
         "FEBA Radio(4)": {
             "bandwidth": 150000.0,
             "frequency": 7320000.0,
-            "mode": 2
-        },
-        "Shiokaze(23)": {
-            "bandwidth": 150000.0,
-            "frequency": 7325000.0,
             "mode": 2
         },
         "Voice of Islamic Rep.iran(10)": {
@@ -5620,11 +5620,6 @@
             "frequency": 7415000.0,
             "mode": 2
         },
-        "Shiokaze(24)": {
-            "bandwidth": 150000.0,
-            "frequency": 7420000.0,
-            "mode": 2
-        },
         "China Radio International(113)": {
             "bandwidth": 150000.0,
             "frequency": 7420000.0,
@@ -5986,6 +5981,11 @@
             "mode": 2
         },
         "Voice of America": {
+            "bandwidth": 150000.0,
+            "frequency": 7500000.0,
+            "mode": 2
+        },
+        "Voice of America(1)": {
             "bandwidth": 150000.0,
             "frequency": 7500000.0,
             "mode": 2
@@ -7270,6 +7270,11 @@
             "frequency": 9445000.0,
             "mode": 2
         },
+        "New Korean Hope Radio": {
+            "bandwidth": 150000.0,
+            "frequency": 9445000.0,
+            "mode": 2
+        },
         "China Radio International(135)": {
             "bandwidth": 150000.0,
             "frequency": 9450000.0,
@@ -7426,11 +7431,6 @@
             "mode": 2
         },
         "RBS Radio": {
-            "bandwidth": 150000.0,
-            "frequency": 9470000.0,
-            "mode": 2
-        },
-        "New Korean Hope Radio(1)": {
             "bandwidth": 150000.0,
             "frequency": 9470000.0,
             "mode": 2
@@ -7830,7 +7830,7 @@
             "frequency": 9535000.0,
             "mode": 2
         },
-        "Voice of America(1)": {
+        "Voice of America(2)": {
             "bandwidth": 150000.0,
             "frequency": 9535000.0,
             "mode": 2
@@ -10650,7 +10650,17 @@
             "frequency": 9940000.0,
             "mode": 2
         },
-        "Voice of America(2)": {
+        "Voice of America(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 9950000.0,
+            "mode": 2
+        },
+        "Voice of America(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 9950000.0,
+            "mode": 2
+        },
+        "Voice of America(5)": {
             "bandwidth": 150000.0,
             "frequency": 9950000.0,
             "mode": 2
@@ -11530,17 +11540,17 @@
             "frequency": 11580000.0,
             "mode": 2
         },
-        "Voice of America(3)": {
+        "Voice of America(6)": {
             "bandwidth": 150000.0,
             "frequency": 11590000.0,
             "mode": 2
         },
-        "Voice of America(4)": {
+        "Voice of America(7)": {
             "bandwidth": 150000.0,
             "frequency": 11590000.0,
             "mode": 2
         },
-        "Voice of America(5)": {
+        "Voice of America(8)": {
             "bandwidth": 150000.0,
             "frequency": 11590000.0,
             "mode": 2
@@ -11631,6 +11641,16 @@
             "mode": 2
         },
         "Music 4 Joy": {
+            "bandwidth": 150000.0,
+            "frequency": 11615000.0,
+            "mode": 2
+        },
+        "JRC Radio Tamazui": {
+            "bandwidth": 150000.0,
+            "frequency": 11615000.0,
+            "mode": 2
+        },
+        "JRC Radio Tamazui(1)": {
             "bandwidth": 150000.0,
             "frequency": 11615000.0,
             "mode": 2
@@ -11760,7 +11780,7 @@
             "frequency": 11635000.0,
             "mode": 2
         },
-        "JRC Radio Tamazui": {
+        "JRC Radio Tamazui(2)": {
             "bandwidth": 150000.0,
             "frequency": 11640000.0,
             "mode": 2
@@ -11830,7 +11850,7 @@
             "frequency": 11640000.0,
             "mode": 2
         },
-        "JRC Radio Tamazui(1)": {
+        "JRC Radio Tamazui(3)": {
             "bandwidth": 150000.0,
             "frequency": 11640000.0,
             "mode": 2
@@ -14600,7 +14620,7 @@
             "frequency": 12120000.0,
             "mode": 2
         },
-        "Voice of America(6)": {
+        "Voice of America(9)": {
             "bandwidth": 150000.0,
             "frequency": 12140000.0,
             "mode": 2
@@ -15310,12 +15330,12 @@
             "frequency": 13700000.0,
             "mode": 2
         },
-        "Voice of America(7)": {
+        "Voice of America(10)": {
             "bandwidth": 150000.0,
             "frequency": 13710000.0,
             "mode": 2
         },
-        "Voice of America(8)": {
+        "Voice of America(11)": {
             "bandwidth": 150000.0,
             "frequency": 13710000.0,
             "mode": 2
@@ -15825,11 +15845,6 @@
             "frequency": 13855000.0,
             "mode": 2
         },
-        "Audio  1 xHE AAC(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 13860000.0,
-            "mode": 2
-        },
         "China Radio International(446)": {
             "bandwidth": 150000.0,
             "frequency": 13860000.0,
@@ -16185,12 +16200,12 @@
             "frequency": 15135000.0,
             "mode": 2
         },
-        "Voice of America(9)": {
+        "Voice of America(12)": {
             "bandwidth": 150000.0,
             "frequency": 15140000.0,
             "mode": 2
         },
-        "Voice of America(10)": {
+        "Voice of America(13)": {
             "bandwidth": 150000.0,
             "frequency": 15140000.0,
             "mode": 2
@@ -18065,6 +18080,11 @@
             "frequency": 15550000.0,
             "mode": 2
         },
+        "JRC Radio Dabanga(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 15550000.0,
+            "mode": 2
+        },
         "KSDA Adventist World Radio(39)": {
             "bandwidth": 150000.0,
             "frequency": 15550000.0,
@@ -18400,7 +18420,7 @@
             "frequency": 15630000.0,
             "mode": 2
         },
-        "Voice of America(11)": {
+        "Voice of America(14)": {
             "bandwidth": 150000.0,
             "frequency": 15640000.0,
             "mode": 2
@@ -18578,6 +18598,11 @@
         "SOH Xi Wang Zhi Sheng(140)": {
             "bandwidth": 150000.0,
             "frequency": 15740000.0,
+            "mode": 2
+        },
+        "CNR 2 Business Radio(85)": {
+            "bandwidth": 150000.0,
+            "frequency": 15745000.0,
             "mode": 2
         },
         "WINB(8)": {
@@ -19555,12 +19580,12 @@
             "frequency": 17620000.0,
             "mode": 2
         },
-        "CNR 2 Business Radio(85)": {
+        "CNR 2 Business Radio(86)": {
             "bandwidth": 150000.0,
             "frequency": 17625000.0,
             "mode": 2
         },
-        "CNR 2 Business Radio(86)": {
+        "CNR 2 Business Radio(87)": {
             "bandwidth": 150000.0,
             "frequency": 17625000.0,
             "mode": 2
@@ -19715,6 +19740,11 @@
             "frequency": 17660000.0,
             "mode": 2
         },
+        "Voice of Independent Mya": {
+            "bandwidth": 150000.0,
+            "frequency": 17665000.0,
+            "mode": 2
+        },
         "CNR 8 Etnhic Minority Radio(28)": {
             "bandwidth": 150000.0,
             "frequency": 17665000.0,
@@ -19798,6 +19828,11 @@
         "Radio Romania Int.(92)": {
             "bandwidth": 150000.0,
             "frequency": 17690000.0,
+            "mode": 2
+        },
+        "Audio  1 xHE AAC(2)": {
+            "bandwidth": 150000.0,
+            "frequency": 17695000.0,
             "mode": 2
         },
         "Audio  1 xHE AAC(3)": {
@@ -19963,6 +19998,11 @@
         "Vatican Radio(64)": {
             "bandwidth": 150000.0,
             "frequency": 17715000.0,
+            "mode": 2
+        },
+        "Audio  1 xHE AAC(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 17720000.0,
             "mode": 2
         },
         "China Radio International(544)": {
@@ -20513,6 +20553,11 @@
         "Radio Romania Int.(99)": {
             "bandwidth": 150000.0,
             "frequency": 17860000.0,
+            "mode": 2
+        },
+        "Voice of America(15)": {
+            "bandwidth": 150000.0,
+            "frequency": 17865000.0,
             "mode": 2
         },
         "China Radio International(560)": {
