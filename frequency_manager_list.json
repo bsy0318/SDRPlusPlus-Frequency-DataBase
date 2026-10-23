@@ -2230,6 +2230,11 @@
             "frequency": 6005000.0,
             "mode": 2
         },
+        "Radio Europe 2": {
+            "bandwidth": 150000.0,
+            "frequency": 6005000.0,
+            "mode": 2
+        },
         "CNR 11 Tibetan Radio(4)": {
             "bandwidth": 150000.0,
             "frequency": 6010000.0,
@@ -4540,11 +4545,6 @@
             "frequency": 7245000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 7245000.0,
-            "mode": 2
-        },
         "China Radio International(59)": {
             "bandwidth": 150000.0,
             "frequency": 7250000.0,
@@ -4698,11 +4698,6 @@
         "CNR 1 Voice of China(80)": {
             "bandwidth": 150000.0,
             "frequency": 7260000.0,
-            "mode": 2
-        },
-        "Radio Europe 2": {
-            "bandwidth": 150000.0,
-            "frequency": 7265000.0,
             "mode": 2
         },
         "China Radio International(63)": {
@@ -5460,11 +5455,6 @@
             "frequency": 7375000.0,
             "mode": 2
         },
-        "Radio FARDA(1)": {
-            "bandwidth": 150000.0,
-            "frequency": 7375000.0,
-            "mode": 2
-        },
         "Follow The Bible Ministr": {
             "bandwidth": 150000.0,
             "frequency": 7380000.0,
@@ -5680,7 +5670,7 @@
             "frequency": 7425000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(3)": {
+        "Radio New Zealand Int.(2)": {
             "bandwidth": 150000.0,
             "frequency": 7425000.0,
             "mode": 2
@@ -5755,12 +5745,12 @@
             "frequency": 7435000.0,
             "mode": 2
         },
-        "Radio FARDA(2)": {
+        "Radio FARDA(1)": {
             "bandwidth": 150000.0,
             "frequency": 7435000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(4)": {
+        "Radio New Zealand Int.(3)": {
             "bandwidth": 150000.0,
             "frequency": 7440000.0,
             "mode": 2
@@ -5845,7 +5835,7 @@
             "frequency": 7455000.0,
             "mode": 2
         },
-        "Radio FARDA(3)": {
+        "Radio FARDA(2)": {
             "bandwidth": 150000.0,
             "frequency": 7460000.0,
             "mode": 2
@@ -5853,6 +5843,11 @@
         "SOH Xi Wang Zhi Sheng(18)": {
             "bandwidth": 150000.0,
             "frequency": 7460000.0,
+            "mode": 2
+        },
+        "Voice of America": {
+            "bandwidth": 150000.0,
+            "frequency": 7470000.0,
             "mode": 2
         },
         "WBCQ Alan Sane": {
@@ -5980,12 +5975,12 @@
             "frequency": 7490000.0,
             "mode": 2
         },
-        "Voice of America": {
+        "Voice of America(1)": {
             "bandwidth": 150000.0,
             "frequency": 7500000.0,
             "mode": 2
         },
-        "Voice of America(1)": {
+        "Voice of America(2)": {
             "bandwidth": 150000.0,
             "frequency": 7500000.0,
             "mode": 2
@@ -6735,14 +6730,19 @@
             "frequency": 9350000.0,
             "mode": 2
         },
+        "Radio FARDA(3)": {
+            "bandwidth": 150000.0,
+            "frequency": 9360000.0,
+            "mode": 2
+        },
         "Radio FARDA(4)": {
             "bandwidth": 150000.0,
             "frequency": 9360000.0,
             "mode": 2
         },
-        "Radio FARDA(5)": {
+        "Voice of America(3)": {
             "bandwidth": 150000.0,
-            "frequency": 9360000.0,
+            "frequency": 9375000.0,
             "mode": 2
         },
         "VOA Ashna Radio": {
@@ -6758,6 +6758,11 @@
         "Trans World Radio(9)": {
             "bandwidth": 150000.0,
             "frequency": 9380000.0,
+            "mode": 2
+        },
+        "Radio FARDA(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 9390000.0,
             "mode": 2
         },
         "BBC(19)": {
@@ -7830,7 +7835,7 @@
             "frequency": 9535000.0,
             "mode": 2
         },
-        "Voice of America(2)": {
+        "Voice of America(4)": {
             "bandwidth": 150000.0,
             "frequency": 9535000.0,
             "mode": 2
@@ -9015,22 +9020,7 @@
             "frequency": 9695000.0,
             "mode": 2
         },
-        "China Radio International(213)": {
-            "bandwidth": 150000.0,
-            "frequency": 9700000.0,
-            "mode": 2
-        },
         "Ifrikya FM(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 9700000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(5)": {
-            "bandwidth": 150000.0,
-            "frequency": 9700000.0,
-            "mode": 2
-        },
-        "Radio Romania Int.(18)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
@@ -9040,7 +9030,32 @@
             "frequency": 9700000.0,
             "mode": 2
         },
+        "Radio New Zealand Int.(4)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
         "Radio New Zealand Int.(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(7)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
+        "Radio Romania Int.(18)": {
+            "bandwidth": 150000.0,
+            "frequency": 9700000.0,
+            "mode": 2
+        },
+        "China Radio International(213)": {
             "bandwidth": 150000.0,
             "frequency": 9700000.0,
             "mode": 2
@@ -9665,7 +9680,7 @@
             "frequency": 9780000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(7)": {
+        "Radio New Zealand Int.(8)": {
             "bandwidth": 150000.0,
             "frequency": 9780000.0,
             "mode": 2
@@ -10650,17 +10665,17 @@
             "frequency": 9940000.0,
             "mode": 2
         },
-        "Voice of America(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 9950000.0,
-            "mode": 2
-        },
-        "Voice of America(4)": {
-            "bandwidth": 150000.0,
-            "frequency": 9950000.0,
-            "mode": 2
-        },
         "Voice of America(5)": {
+            "bandwidth": 150000.0,
+            "frequency": 9950000.0,
+            "mode": 2
+        },
+        "Voice of America(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 9950000.0,
+            "mode": 2
+        },
+        "Voice of America(7)": {
             "bandwidth": 150000.0,
             "frequency": 9950000.0,
             "mode": 2
@@ -11540,17 +11555,17 @@
             "frequency": 11580000.0,
             "mode": 2
         },
-        "Voice of America(6)": {
-            "bandwidth": 150000.0,
-            "frequency": 11590000.0,
-            "mode": 2
-        },
-        "Voice of America(7)": {
-            "bandwidth": 150000.0,
-            "frequency": 11590000.0,
-            "mode": 2
-        },
         "Voice of America(8)": {
+            "bandwidth": 150000.0,
+            "frequency": 11590000.0,
+            "mode": 2
+        },
+        "Voice of America(9)": {
+            "bandwidth": 150000.0,
+            "frequency": 11590000.0,
+            "mode": 2
+        },
+        "Voice of America(10)": {
             "bandwidth": 150000.0,
             "frequency": 11590000.0,
             "mode": 2
@@ -12175,7 +12190,7 @@
             "frequency": 11690000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(8)": {
+        "Radio New Zealand Int.(9)": {
             "bandwidth": 150000.0,
             "frequency": 11690000.0,
             "mode": 2
@@ -12370,7 +12385,12 @@
             "frequency": 11725000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(9)": {
+        "Radio New Zealand Int.(10)": {
+            "bandwidth": 150000.0,
+            "frequency": 11725000.0,
+            "mode": 2
+        },
+        "Radio New Zealand Int.(11)": {
             "bandwidth": 150000.0,
             "frequency": 11725000.0,
             "mode": 2
@@ -14620,7 +14640,12 @@
             "frequency": 12120000.0,
             "mode": 2
         },
-        "Voice of America(9)": {
+        "Voice of America(11)": {
+            "bandwidth": 150000.0,
+            "frequency": 12140000.0,
+            "mode": 2
+        },
+        "Voice of America(12)": {
             "bandwidth": 150000.0,
             "frequency": 12140000.0,
             "mode": 2
@@ -15260,7 +15285,7 @@
             "frequency": 13685000.0,
             "mode": 2
         },
-        "Radio New Zealand Int.(10)": {
+        "Radio New Zealand Int.(12)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
@@ -15276,16 +15301,6 @@
             "mode": 2
         },
         "Radio Romania Int.  Xhe E(2)": {
-            "bandwidth": 150000.0,
-            "frequency": 13690000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(11)": {
-            "bandwidth": 150000.0,
-            "frequency": 13690000.0,
-            "mode": 2
-        },
-        "Radio New Zealand Int.(12)": {
             "bandwidth": 150000.0,
             "frequency": 13690000.0,
             "mode": 2
@@ -15328,16 +15343,6 @@
         "CNR 13 Uighur Radio(31)": {
             "bandwidth": 150000.0,
             "frequency": 13700000.0,
-            "mode": 2
-        },
-        "Voice of America(10)": {
-            "bandwidth": 150000.0,
-            "frequency": 13710000.0,
-            "mode": 2
-        },
-        "Voice of America(11)": {
-            "bandwidth": 150000.0,
-            "frequency": 13710000.0,
             "mode": 2
         },
         "China Radio International(419)": {
@@ -16200,12 +16205,22 @@
             "frequency": 15135000.0,
             "mode": 2
         },
-        "Voice of America(12)": {
+        "Voice of America(13)": {
             "bandwidth": 150000.0,
             "frequency": 15140000.0,
             "mode": 2
         },
-        "Voice of America(13)": {
+        "Voice of America(14)": {
+            "bandwidth": 150000.0,
+            "frequency": 15140000.0,
+            "mode": 2
+        },
+        "Voice of America(15)": {
+            "bandwidth": 150000.0,
+            "frequency": 15140000.0,
+            "mode": 2
+        },
+        "Voice of America(16)": {
             "bandwidth": 150000.0,
             "frequency": 15140000.0,
             "mode": 2
@@ -16461,6 +16476,11 @@
             "mode": 2
         },
         "Radio FREE ASIA(6)": {
+            "bandwidth": 150000.0,
+            "frequency": 15210000.0,
+            "mode": 2
+        },
+        "Radio Romania Int. 1001(3)": {
             "bandwidth": 150000.0,
             "frequency": 15210000.0,
             "mode": 2
@@ -18025,11 +18045,6 @@
             "frequency": 15530000.0,
             "mode": 2
         },
-        "Radio Romania Int. 1001(3)": {
-            "bandwidth": 150000.0,
-            "frequency": 15530000.0,
-            "mode": 2
-        },
         "CNR 2 Business Radio(82)": {
             "bandwidth": 150000.0,
             "frequency": 15540000.0,
@@ -18420,7 +18435,12 @@
             "frequency": 15630000.0,
             "mode": 2
         },
-        "Voice of America(14)": {
+        "Voice of America(17)": {
+            "bandwidth": 150000.0,
+            "frequency": 15640000.0,
+            "mode": 2
+        },
+        "Voice of America(18)": {
             "bandwidth": 150000.0,
             "frequency": 15640000.0,
             "mode": 2
@@ -20555,7 +20575,12 @@
             "frequency": 17860000.0,
             "mode": 2
         },
-        "Voice of America(15)": {
+        "Voice of America(19)": {
+            "bandwidth": 150000.0,
+            "frequency": 17865000.0,
+            "mode": 2
+        },
+        "Voice of America(20)": {
             "bandwidth": 150000.0,
             "frequency": 17865000.0,
             "mode": 2
